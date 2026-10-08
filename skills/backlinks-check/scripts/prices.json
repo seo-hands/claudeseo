@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-08",
+  "source": "поля cost у відповідях DataForSEO, запуски poehalisnami.ua і poehalisnami.kz; звірено з різницею балансу",
+  "reserve": 0.15,
+  "endpoints": {
+    "backlinks_bulk_spam_score": {"base": 0.024, "per_row": 0.000036, "rows": 10, "observed": "0,024144 (4 домени), 0,024216 (6 доменів)"},
+    "backlinks_summary": {"base": 0.024, "per_row": 0.000036, "rows": 1, "observed": "0,024036"},
+    "backlinks_referring_domains": {"base": 0.024, "per_row": 0.000036, "rows": 100, "observed": "0,0276 (100 рядків), 0,0492 (700), 0,06 (1000)"},
+    "backlinks_timeseries_summary": {"base": 0.024, "per_row": 0.000036, "rows": 13, "observed": "0,024468 (13 місяців)"},
+    "backlinks_backlinks": {"base": 0.024, "per_row": 0.000036, "rows": 1, "observed": "0,024036 (1 рядок)"},
+    "labs_domain_rank_overview": {"base": 0.012, "per_row": 0.00012, "rows": 1, "observed": "0,01212"},
+    "labs_domain_rank_overview_all": {"base": 0.012, "per_row": 0.00012, "rows": 50, "observed": "0,0136–0,0233 (13–94 ринки)"},
+    "labs_historical_rank_overview": {"base": 0.12, "per_row": 0.0012, "rows": 13, "observed": "0,1356 (13 місяців)"},
+    "labs_ranked_keywords": {"base": 0.012, "per_row": 0.00012, "rows": 100, "observed": "0,024 (100 рядків)"},
+    "serp_task": {"base": 0.003, "per_row": 0, "rows": 1, "observed": "0,003 (черга, depth 10, оператор site: множить ціну на 5); 0,006 при depth 20"}
+  }
+}

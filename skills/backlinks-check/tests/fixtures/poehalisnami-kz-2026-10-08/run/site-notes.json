@@ -1,0 +1,237 @@
+{
+ "iapn.kz": {
+  "status": 200,
+  "topic": "Православне агентство новин (ELEOS Благовест), Алмати. «Путешествия» — паломництва й монастирі (Чорногорія, Сербія), не масовий туризм; аудиторія підходить для паломницьких і культурних турів, слабше — для пляжних.",
+  "travel_rubric": true,
+  "travel_url": "http://iapn.kz/articles/travel/",
+  "ad_section_url": "",
+  "ad_listing_pattern": "",
+  "language": "ru",
+  "region": "Алмати",
+  "audience": "Казахстан, Алмати (ru)",
+  "aggregator": false,
+  "articles": [
+   "https://iapn.kz/articles/travel/khram_sreteniya_gospodnya_simvol_vstrechi_i_razluki_v_nedavney_istorii_serbii_i_chernogorii_/",
+   "https://iapn.kz/articles/travel/tsetinskiy_monastyr_rozhdestva_presvyatoy_bogoroditsy_simvol_stoykosti_v_stremlenii_k_vechnosti/",
+   "https://iapn.kz/articles/travel/mesta_khranyashchie_istoricheskuyu_pamyat_chernogorii_muzei_tsetinya_i_gora_lovchen/"
+  ],
+  "inner_pages": [],
+  "placed": "ні (за звіркою з вивантаженням біржі)",
+  "manual_check": [
+   {
+    "open": "приклад розміщеної статті від біржі",
+    "look": "чи є в статті dofollow-посилання, у який розділ вона потрапляє, чи є позначка реклами",
+    "why": "на сайті немає рекламного розділу, у трьох статтях рубрики «Путешествия» зовнішніх посилань немає"
+   }
+  ]
+ },
+ "ng.kz": {
+  "status": 200,
+  "topic": "«Наша Газета», новини Костаная та області. Є рубрика «Отдыхаем» (афіша, культура, подорожі).",
+  "travel_rubric": true,
+  "travel_url": "https://ng.kz/content/otdykhaem",
+  "ad_section_url": "",
+  "ad_listing_pattern": "",
+  "language": "ru",
+  "region": "Костанай",
+  "audience": "Казахстан, Костанай (ru)",
+  "aggregator": false,
+  "articles": [
+   "https://ng.kz/news/article-56735",
+   "https://ng.kz/news/article-57637",
+   "https://ng.kz/news/article-58168",
+   "https://ng.kz/articles/article-25037"
+  ],
+  "inner_pages": [],
+  "placed": "ні (за звіркою з вивантаженням біржі)",
+  "manual_check": [
+   {
+    "open": "https://ng.kz/articles/article-25037",
+    "look": "хто розміщував посилання на /tour/shri-lanka і чи не дублюватиме нове розміщення",
+    "why": "у вивантаженні біржі цього розміщення немає"
+   }
+  ]
+ },
+ "anydaylife.com": {
+  "status": 200,
+  "topic": "Календар свят, поради, факти, фестивалі; російською та українською. Рубрики туризму немає.",
+  "travel_rubric": false,
+  "travel_url": "",
+  "ad_section_url": "https://anydaylife.com/post/",
+  "ad_listing_pattern": "anydaylife\\.com/post/\\d+",
+  "language": "ru, uk",
+  "region": "",
+  "audience": "Україна (ru, uk)",
+  "aggregator": false,
+  "articles": [
+   "https://anydaylife.com/post/7883",
+   "https://anydaylife.com/post/7875",
+   "https://anydaylife.com/post/7874"
+  ],
+  "inner_pages": [],
+  "placed": "ні (за звіркою з вивантаженням біржі)",
+  "manual_check": [
+   {
+    "open": "нові донори за серпень–жовтень 2026",
+    "look": "звідки взялися ≈690 нових dofollow-донорів",
+    "why": "на етапі 2 береться лише топ-100 донорів за рангом"
+   }
+  ]
+ },
+ "tourlib.net": {
+  "status": 200,
+  "topic": "Бібліотека про туризм (статті, методички, закони), російською та українською, аудиторія — Україна.",
+  "travel_rubric": true,
+  "travel_url": "https://tourlib.net/statti.htm",
+  "ad_section_url": "",
+  "ad_listing_pattern": "",
+  "language": "ru, uk",
+  "region": "",
+  "audience": "Україна (uk, ru)",
+  "aggregator": false,
+  "articles": [
+   "https://tourlib.net/statti_others/kredity-dlya-biznesa-v-kazahstane.htm",
+   "https://tourlib.net/statti_otdyh/tury-v-kredit.htm",
+   "https://tourlib.net/statti22/zajm.htm"
+  ],
+  "inner_pages": [
+   "https://tourlib.net/statti.htm",
+   "https://tourlib.net/lib.htm",
+   "https://tourlib.net/recreation.htm",
+   "https://tourlib.net/statti_otdyh/tury-v-kredit.htm"
+  ],
+  "placed": "ні (за звіркою з вивантаженням біржі)",
+  "manual_check": []
+ },
+ "7152.kz": {
+  "status": 200,
+  "topic": "Міський портал Петропавловська (Північно-Казахстанська область): новини, афіша, довідник. Рубрики туризму немає, туристичні статті виходять у «Новостях компаний».",
+  "travel_rubric": false,
+  "travel_url": "",
+  "ad_section_url": "https://www.7152.kz/list",
+  "ad_listing_pattern": "7152\\.kz/list/\\d+",
+  "language": "ru",
+  "region": "Петропавловськ",
+  "audience": "Казахстан, Петропавловськ (ru)",
+  "aggregator": false,
+  "articles": [
+   "https://www.7152.kz/list/538529",
+   "https://www.7152.kz/list/429125",
+   "https://www.7152.kz/list/573365",
+   "https://www.7152.kz/list/573311"
+  ],
+  "inner_pages": [],
+  "placed": "ні (за звіркою з вивантаженням біржі)",
+  "manual_check": [
+   {
+    "open": "https://www.7152.kz/list/446196",
+    "look": "чи досі на сторінці є посилання на Pin Up і куди воно веде",
+    "why": "сторінку знайдено за ключами, вміст не розбирався"
+   },
+   {
+    "open": "умови біржі",
+    "look": "у який розділ потрапляє стаття за 620 грн і чи індексується",
+    "why": "на сайті рекламна стаття коштує 50 000–60 000 KZT"
+   }
+  ]
+ },
+ "lifepvl.kz": {
+  "status": 200,
+  "topic": "«Наша жизнь», новини Павлодара та області. Рубрики туризму немає.",
+  "travel_rubric": false,
+  "travel_url": "",
+  "ad_section_url": "",
+  "ad_listing_pattern": "",
+  "language": "ru",
+  "region": "Павлодар",
+  "audience": "Казахстан, Павлодар (ru)",
+  "aggregator": false,
+  "articles": [
+   "https://lifepvl.kz/2025/03/03/optimalnyj-podhod-k-stavkam-na-favoritov-i-autsajderov/",
+   "https://lifepvl.kz/2025/06/24/refinansirovanie-kreditov-dlya-biznesa-osobennosti-i-preimushhestva-uslugi/",
+   "https://lifepvl.kz/2025/09/25/fridom-finans-delaet-stavku-na-ustojchivoe-razvitie-esg-inicziativy-i-zelyonye-investiczii/"
+  ],
+  "inner_pages": [],
+  "placed": "ні (за звіркою з вивантаженням біржі)",
+  "manual_check": [
+   {
+    "open": "site:lifepvl.kz \"на правах рекламы\" у Google",
+    "look": "як позначаються рекламні матеріали і скільки їх",
+    "why": "SERP-завдання на етапі 1 не повернуло результат"
+   }
+  ]
+ },
+ "novosti-n.org": {
+  "status": 200,
+  "topic": "Миколаївські новини, українською та російською. Рубрики туризму немає.",
+  "travel_rubric": false,
+  "travel_url": "",
+  "ad_section_url": "",
+  "ad_listing_pattern": "",
+  "language": "uk, ru",
+  "region": "Миколаїв",
+  "audience": "Україна, Миколаїв (uk, ru)",
+  "aggregator": false,
+  "articles": [],
+  "inner_pages": [],
+  "placed": "так — 16.05.2023, 3 250 грн, розділ /ukraine/ (ймовірно, для .ua)",
+  "manual_check": []
+ },
+ "vgoru.org": {
+  "status": 200,
+  "topic": "Регіональні новини Херсона, українською. Рубрики туризму немає; є розділ «Промо».",
+  "travel_rubric": false,
+  "travel_url": "",
+  "ad_section_url": "",
+  "ad_listing_pattern": "",
+  "language": "uk",
+  "region": "Херсон",
+  "audience": "Україна, Херсон (uk)",
+  "aggregator": false,
+  "articles": [],
+  "inner_pages": [],
+  "placed": "ні (за звіркою з вивантаженням біржі)",
+  "manual_check": []
+ },
+ "socportal.info": {
+  "status": 200,
+  "topic": "Український соціальний новинний портал (Київ), 5 мов. Є рубрика «Подорожі».",
+  "travel_rubric": true,
+  "travel_url": "https://socportal.info/ua/category/lifestyle/travel/",
+  "ad_section_url": "",
+  "ad_listing_pattern": "",
+  "language": "uk, ru, en, de, pl",
+  "region": "Київ",
+  "audience": "Україна, Київ (ru, uk)",
+  "aggregator": false,
+  "articles": [
+   "https://socportal.info/ru/news/kollektciya-igrovykh-avtomatov-v-onlain-kazino-pin-ap/",
+   "https://socportal.info/ru/news/braziliya-serbiya-prognoz-na-match-obzor-stavok-i-koeffitcientov/"
+  ],
+  "inner_pages": [],
+  "placed": "ні (за звіркою з вивантаженням біржі)",
+  "manual_check": [
+   {
+    "open": "останні 10–15 комерційних статей у /ru/news/",
+    "look": "частка казино, ставок і кредитів серед платних матеріалів",
+    "why": "окремого рекламного розділу немає; pr.socportal.info — сайт PR-агенції, WebFetch віддає 403"
+   }
+  ]
+ },
+ "poznavayka.org": {
+  "status": 200,
+  "topic": "Науково-популярний журнал, російською та українською, аудиторія — Україна. Рубрики туризму немає.",
+  "travel_rubric": false,
+  "travel_url": "",
+  "ad_section_url": "",
+  "ad_listing_pattern": "",
+  "language": "ru, uk, en",
+  "region": "",
+  "audience": "Україна (uk, ru)",
+  "aggregator": false,
+  "articles": [],
+  "inner_pages": [],
+  "placed": "ні (за звіркою з вивантаженням біржі)",
+  "manual_check": []
+ }
+}

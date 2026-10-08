@@ -21,3 +21,6 @@ google-api.json
 
 # Кеш перевірок донорів (сирі відповіді API) — не комітимо
 backlinks/cache/
+
+# Робочі файли запусків backlinks-check (JSON етапів, лог cost і балансу) — відновлюються з кешу
+backlinks/runs/

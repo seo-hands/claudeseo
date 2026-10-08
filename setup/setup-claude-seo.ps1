@@ -9,7 +9,7 @@ param(
 $ErrorActionPreference = 'Stop'
 $ClaudeDir  = Join-Path $env:USERPROFILE '.claude'
 $SecretsDir = Join-Path $env:USERPROFILE '.config\claude-seo'
-$Skills     = @('semantics-travel', 'tz-travel')
+$Skills     = @('semantics-travel', 'tz-travel', 'backlinks-check')
 $Marketplace = 'AgriciDaniel/claude-seo'                       # джерело плагіна на GitHub
 $Plugins     = @('claude-seo@agricidaniel-claude-seo', 'seo-cockpit@agricidaniel-claude-seo')
 $McpPackage  = 'dataforseo-mcp-server@2.8.10'

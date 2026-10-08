@@ -1,0 +1,48 @@
+{
+  "markets": {
+    "ua": {
+      "names": ["україна", "ukraine", "украина", "ua"],
+      "location_code": 2804,
+      "se_domain": "google.com.ua",
+      "languages": ["uk", "ru"],
+      "serp_language": "uk",
+      "tlds": [".ua"],
+      "min_traffic": 10000,
+      "price_per_1k": {"cheap": null, "expensive": null},
+      "queries": {
+        "casino": "казино OR ставки",
+        "credit": "кредит OR позика",
+        "adv": "\"на правах реклами\" OR \"партнерський матеріал\""
+      }
+    },
+    "kz": {
+      "names": ["казахстан", "kazakhstan", "қазақстан", "kz"],
+      "location_code": 2398,
+      "se_domain": "google.kz",
+      "languages": ["ru", "kk"],
+      "serp_language": "ru",
+      "tlds": [".kz"],
+      "min_traffic": 3000,
+      "price_per_1k": {"cheap": 200, "expensive": 2500},
+      "queries": {
+        "casino": "казино OR ставки",
+        "credit": "кредит OR займ",
+        "adv": "\"на правах рекламы\" OR \"партнерский материал\""
+      }
+    }
+  },
+  "themes": {
+    "туризм": "тур(ы|и|ов|ів|изм|ист|\\b)|отдых|відпочин|путешеств|подорож|путевк|путівк|море|пляж|отел|готел|гостиниц|курорт|авиабилет|авіаквит|виз[аыу]\\b|віз[аиу]\\b|экскурс|екскурс|турци|туреч|египет|єгипет|оаэ|оае|дубай|таиланд|тайланд|таїланд|мальдив|вьетнам|в'єтнам|шри.ланк|шрі.ланк|грузи|анталь|шарм|пхукет|бали|балі|карпат|буковел|бурабай|боровое|алаколь|иссык|санатор|круиз|круїз"
+  },
+  "risk": [
+    ["казино/ставки", "казин|casino|kazin|kazyn|kasino|букмекер|bookmaker|слот|slot|фриспин|фріспін|джекпот|азартн|покер|poker|пин.?ап|пін.?ап|pin.?up|париматч|паріматч|parimatch|1xbet|1win|vulkan|vulcan|вулкан|ставк[иа] на|беттинг|betting|mostbet|melbet|ggbet|champion|авиатор|aviator"],
+    ["кредити/фінанси", "кредит|kredit|kredyt|займ|zajm|zaim|позик|pozyk|мфо|микрозайм|микрокредит|мікрокредит|ломбард|lombard|loan|credit|рефинанс|рефінанс|банкротств|банкрутств|списание долг|списання борг"],
+    ["фарма", "аптек|apteka|pharm|виагр|віагр|сиалис|таблетк"],
+    ["адалт", "porn|секс|sex|эскорт|ескорт|escort|интим|інтим"]
+  ],
+  "toxic_niches": ["казино/ставки", "адалт"],
+  "casino_brand": "пин.?ап|пін.?ап|pin.?up|1xbet|1win|париматч|parimatch|вулкан|vulkan|vulcan|mostbet|melbet|ggbet|казино|casino|слоты|слоти|букмекер",
+  "news_words": "мошенни|шахра|афер|задерж|затрим|суд|полиц|поліц|прокур|запрет|заборон|заблокир|заблокув|ужесточ|убивают|согласие супруга|отсрочк|предельные|облегчат|налогов|пенсионерк|оформили на|заставили|уберег|самозапрет|зерном|сельчанам|должник|организовал|психолог|годами оплачивали|нацбанк|defi|ндс|сын потратил|ограничат|обмеж|приложени|убийств|сбу|правительств|кабмин|кабмін|викрил|штраф|дбр|указ|водоканал|мільйон|миллион|млн|/tag/|/tags/|forum|viewtopic|catalog|printit|/books/|photo_video|спорт в кредит|инвестици|доверия|отказаться|повышении зарплаты|геокэшинг|браслет|идеальный город|шкільний твір|аптека-музей|сын мэра|військов|военным",
+  "free_hosting_zones": ["web.app", "blogspot.com", "github.io", "pages.dev", "netlify.app", "vercel.app", "wixsite.com", "weebly.com", "firebaseapp.com"],
+  "social_domains": ["facebook.com", "t.me", "instagram.com", "instagr.am", "youtube.com", "youtu.be", "twitter.com", "x.com", "telegram.org", "telegram.me", "viber.com", "tiktok.com", "google.com", "threads.net", "threads.com", "whatsapp.com", "wa.me", "linkedin.com", "apple.com", "pinterest.com", "vk.com", "ok.ru", "yandex.ru", "yandex.kz", "mail.ru", "liveinternet.ru", "i.ua", "unsplash.com", "patreon.com"]
+}

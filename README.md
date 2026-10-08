@@ -8,6 +8,7 @@
 |---|---|
 | `skills\semantics-travel\` | Скіл етапу 1: збір ключів, кластери, розподіл по сторінках (DataForSEO) |
 | `skills\tz-travel\` | Скіл етапу 2: мета-теги й ТЗ для копірайтера (без DataForSEO) |
+| `skills\backlinks-check\` | Скіл оцінки сайтів-донорів для зовнішніх посилань (DataForSEO); дані — у `backlinks\` |
 | `setup\` | Скрипт розгортання, шаблон налаштувань seo-cockpit, конфіг полів DataForSEO MCP |
 | `reisemu-de\` | Сайт reisemu.de; `turkei\` — Туреччина (етапи 1–2), `aegypten\` — заготовка |
 | `ContentOptimization\` | Чернетки промптів |
