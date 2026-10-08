@@ -205,3 +205,4 @@
 ## tz-travel
 
 ### Журнал
+- /tour/spanien — 2026-10-08; файли: meta-spanien.xlsx, tz-copywriter-spanien.docx; конкуренти (12): ab-in-den-urlaub.de, reise.de, lidl-reisen.de, tui.com, anextour.de, schauinsland-reisen.de, lidl-reisen.de, dertour.de, rewe-reisen.de, sonnenklar.tv, its.de, ltur.com

@@ -1,0 +1,1402 @@
+{
+ "page": "https://reisemu.de/tour/spanien",
+ "slug": "spanien",
+ "page_kind": "commercial",
+ "doc_title": "ТЗ для копірайтера: хаб «Spanien Urlaub»",
+ "header": [
+  "Сторінка: https://reisemu.de/tour/spanien · мова тексту: німецька (de-DE), звертання на «Sie» · інструкції українською, заголовки й ключі німецькою.",
+  "Основа: 12 сторінок туроператорів і агрегаторів турів із ТОП-10 google.de за ключами «spanien urlaub», «spanien meer urlaub», «festland spanien urlaub», «spanien am meer», «spanien mit kindern urlaub» (SERP від 8 жовтня 2026), 53 ключі хаба (35 340 запитів на місяць)."
+ ],
+ "goal": [
+  "Мета: головна сторінка напрямку «Іспанія». Вона має ранжуватися за «spanien urlaub» (14 800 запитів) і суміжними запитами про море, материк, острови й недорогий відпочинок та вести відвідувача до лістингу пропозицій і до підсторінок (регіони й острови, місяці, All Inclusive, готелі, пізніше — Pauschalreise, Last Minute, Reisehinweise).",
+  "Аудиторія: мешканці Німеччини, які планують пляжний відпочинок з перельотом — сім’ї з дітьми, пари, компанії; частина їде власним авто або із собакою. Регіон часто ще не обрано: людина вагається між островами й материком.",
+  "Інтент: комерційний з елементом вибору. Людина хоче побачити ціни й пропозиції та зрозуміти, яке узбережжя чи острів обрати і коли їхати. Текст не замінює лістинг, а допомагає обрати й переводить на пропозиції.",
+  "Тон: конкретний і корисний — цифри (температура повітря й води, час перельоту, довжина пляжів), без штампів на кшталт «spanische Lebensfreude» і «Traumstrände erwarten Sie»."
+ ],
+ "volume": {
+  "range": [
+   8400,
+   9900
+  ],
+  "words": "1 300–1 550",
+  "why": [
+   "Медіана 12 конкурентів — 7 616 символів без пробілів; п’ятірка лідерів за обсягом: ab-in-den-urlaub 21 911, tui 17 889, ltur 14 290, reise.de 11 271, schauinsland-reisen 8 797.",
+   "Діапазон 8 400–9 900 — вище медіани, на рівні п’ятого й четвертого лідерів. Більше не потрібно: регіони й острови мають власні сторінки (46 на сайті), хаб дає по 280–330 символів на регіон і посилання.",
+   "Обсяг визначають обов’язкові блоки: три кластери ключів (море й материк, синонім «Reise», günstig), три прогалини за конкурентами (Reisezeit, Familienurlaub, FAQ) і блок регіонів.",
+   "Зараз на reisemu.de власного тексту немає: 62 символи без службових повідомлень пошуку."
+  ]
+ },
+ "structure": [
+  {
+   "level": "H1",
+   "heading": "Spanien Urlaub günstig buchen",
+   "chars": null,
+   "topic": null,
+   "note": "Один H1. Без слів Last-Minute, Pauschalreise, All Inclusive. Точне входження «Spanien Urlaub»."
+  },
+  {
+   "level": "intro",
+   "heading": "(без заголовка, одразу під H1)",
+   "chars": [
+    150,
+    250
+   ],
+   "topic": null,
+   "note": "1–2 речення, до 250 символів. Головний ключ «Spanien Urlaub» у першому реченні (точне входження). Більше нічого: далі одразу лістинг."
+  },
+  {
+   "level": "listing",
+   "heading": "(наявний блок пропозицій, без нового заголовка від копірайтера)",
+   "chars": null,
+   "topic": null,
+   "note": "Тексту немає. Наявний заголовок лістингу «Last-Minute-Angebote» перейменувати на нейтральний «Aktuelle Angebote». Під лістингом — посилання «Last-Minute-Angebote Spanien» на /tour/spanien/last-minute (після запуску сторінки). Увесь текст нижче починається з H2."
+  },
+  {
+   "level": "H2",
+   "heading": "Urlaub in Spanien: Meer, Inseln und Festland im Überblick",
+   "chars": [
+    650,
+    750
+   ],
+   "topic": null,
+   "note": "Перший блок під лістингом, 2–3 абзаци: чому Іспанія (понад 300 сонячних днів на півдні, 2–2,5 години перельоту до материка й Балеар, близько 4,5 години до Канар, два моря — Mittelmeer і Atlantik) і що читач знайде нижче. Ключі: «Spanien Reise», «Reise nach Spanien buchen», «Urlaub in Spanien buchen», «Spanien Reiseziele», «Tourismus in Spanien» (одне речення: Іспанія — один із найпопулярніших напрямків у німців); одне точне входження «Spanien Urlaub». Форми «Spain Holiday» окремо не вписувати.",
+   "clusters": [
+    "K05a"
+   ]
+  },
+  {
+   "level": "H2",
+   "heading": "Die schönsten Urlaubsorte und Reiseziele in Spanien",
+   "chars": [
+    2100,
+    2400
+   ],
+   "topic": "subtopic:Beliebte Urlaubsorte in Spanien",
+   "note": "Вступ 2 речення (Балеари, Канари, середземноморське узбережжя материка, Андалусія, міста) + порівняльна таблиця регіонів + шість H3 по 280–330 символів. У кожному H3 лише чотири речі: для кого, які пляжі, одна особливість, посилання на сторінку регіону. Ключі блоку: «Spanien Urlaubsorte», «schöne Urlaubsorte in Spanien», «die schönsten Urlaubsorte Spaniens», «Spanien Reiseziele»."
+  },
+  {
+   "level": "H3",
+   "heading": "Mallorca & die Balearen",
+   "chars": [
+    280,
+    330
+   ],
+   "topic": null,
+   "note": "Для кого: сім’ї, пари, перша поїздка. Пляжі: бухти (Calas) і довгі піщані пляжі Alcúdia та Playa de Palma. Особливість: Serra de Tramuntana. Посилання на /tour/spanien/mallorca, /tour/spanien/menorca, /tour/spanien/insel-ibiza."
+  },
+  {
+   "level": "H3",
+   "heading": "Kanarische Inseln",
+   "chars": [
+    280,
+    330
+   ],
+   "topic": null,
+   "note": "Для кого: відпочинок узимку й навесні, активні. Пляжі: дюни Maspalomas, чорний вулканічний пісок Тенерифе. Особливість: Teide. Посилання на /tour/spanien/teneriffa, /tour/spanien/insel-gran-canaria, /tour/spanien/insel-fuerteventura, /tour/spanien/insel-lanzarote."
+  },
+  {
+   "level": "H3",
+   "heading": "Costa Brava & Costa Dorada",
+   "chars": [
+    280,
+    330
+   ],
+   "topic": null,
+   "note": "Для кого: сім’ї, ті, хто їде авто, молодь (Lloret de Mar, Salou). Пляжі: скелясті бухти на Costa Brava, довгі пологі пляжі на Costa Dorada. Особливість: парк PortAventura. Посилання на /tour/spanien/costa-brava, /tour/spanien/costa-dorada, /tour/spanien/lloret-de-mar, /tour/spanien/salou."
+  },
+  {
+   "level": "H3",
+   "heading": "Andalusien & Costa del Sol",
+   "chars": [
+    280,
+    330
+   ],
+   "topic": null,
+   "note": "Для кого: пляж плюс культура. Пляжі: Costa del Sol (Málaga, Marbella, Torremolinos), Costa de la Luz на Атлантиці. Особливість: Alhambra в Гранаді, Севілья. Посилання на /tour/spanien/andalusien, /tour/spanien/malaga."
+  },
+  {
+   "level": "H3",
+   "heading": "Valencia & Costa Blanca",
+   "chars": [
+    280,
+    330
+   ],
+   "topic": null,
+   "note": "Для кого: сім’ї, довгий сезон. Пляжі: широкі міські пляжі Валенсії, Benidorm і Alicante. Особливість: Ciudad de las Artes y las Ciencias. Посилання на /tour/spanien/valencia, /tour/spanien/alicante, /tour/spanien/benidorm."
+  },
+  {
+   "level": "H3",
+   "heading": "Barcelona & Madrid",
+   "chars": [
+    280,
+    330
+   ],
+   "topic": null,
+   "note": "Для кого: міська поїздка на 3–4 дні, можна поєднати з пляжем Costa Brava. Особливість: Sagrada Família і Park Güell, музей Прадо. Посилання на /tour/spanien/barcelona, /tour/spanien/madrid."
+  },
+  {
+   "level": "H2",
+   "heading": "Spanien Urlaub am Meer: Strände am Festland und auf den Inseln",
+   "chars": [
+    1100,
+    1300
+   ],
+   "topic": null,
+   "note": "Єдиний H2 з точною формою головного ключа. Вступ 2–3 речення: Mittelmeer тепліше й спокійніше, Atlantik свіжіший і з хвилями; одне точне входження «Spanien Urlaub am Meer mit Flug». Далі два H3. Ключі блоку: «Spanien am Meer», «Urlaub am Meer in Spanien», «Strandurlaub Spanien», «Hotel und Flug am Meer».",
+   "clusters": [
+    "K01a"
+   ]
+  },
+  {
+   "level": "H3",
+   "heading": "Strandurlaub auf dem spanischen Festland",
+   "chars": [
+    420,
+    500
+   ],
+   "topic": null,
+   "note": "Ключі: «Festland Spanien Urlaub», «Spanien Festland», «die schönsten Strände am spanischen Festland», «Strandurlaub Spanien Festland». Маркований список із 5 пляжів материка (назва жирним + одне речення): напр. Playa de la Concha (San Sebastián), Cala Aiguablava (Costa Brava), Playa de Bolonia (Costa de la Luz), Playa de Levante (Benidorm), Playa de la Malvarrosa (Valencia). Одне речення про курорти з нічним життям (Lloret de Mar, Salou, Benidorm) — закриває «Party Spanien Festland»."
+  },
+  {
+   "level": "H3",
+   "heading": "Inselurlaub: Balearen und Kanaren",
+   "chars": [
+    350,
+    420
+   ],
+   "topic": null,
+   "note": "Ключі: «Spanien Urlaub Inseln», «Insel Urlaub in Spanien». Чим острови відрізняються від материка: Балеари — літній сезон і короткий переліт, Канари — тепло цілий рік. Без повторення описів із блоку регіонів; посилання на сторінки островів."
+  },
+  {
+   "level": "H2",
+   "heading": "Beste Reisezeit für Spanien",
+   "chars": [
+    750,
+    900
+   ],
+   "topic": [
+    "block:seasons",
+    "subtopic:Klima & beste Reisezeit – Spanien"
+   ],
+   "note": "Без H3. Таблиця за місяцями + 2–3 абзаци: 1) середземноморське узбережжя й Балеари — купальний сезон із травня до жовтня, найкращий баланс погоди й цін у червні та вересні; 2) Канари — 20–26 °C цілий рік, тому це зимовий напрямок; внутрішні райони й Андалусія — весна й осінь; 3) шкільні канікули в Німеччині: «Sommerferien in Spanien», «Ferien in Spanien 2026», «Spanien Ferien» (попит і ціни вищі). Посилання в тексті на /tour/spanien/october і ще два місяці."
+  },
+  {
+   "level": "H2",
+   "heading": "Anreise nach Spanien: Flug und Hotel, Auto oder Bus",
+   "chars": [
+    800,
+    950
+   ],
+   "topic": null,
+   "note": "Аеропорти прильоту (Palma de Mallorca PMI, Málaga AGP, Barcelona BCN, Alicante ALC, Teneriffa Süd TFS, Gran Canaria LPA), тривалість прямого перельоту, трансфер. Маркований список «що входить у ціну». Одне точне входження «Spanien Urlaub mit Flug»; ще «Hotel und Flug nach Spanien». Один абзац про дорогу авто (відстань до Costa Brava з півдня Німеччини, платні дороги у Франції) — «Urlaub in Spanien mit dem Auto», і одне речення про автобус — «Reise nach Spanien mit dem Bus». Харчування: одне речення з анкором «All Inclusive Urlaub Spanien» на /tour/spanien/all-inclusive. Одне речення з анкором «Pauschalreise Spanien» на /tour/spanien/pauschalreise (після запуску сторінки) і одне з анкором «Hotels in Spanien» на /hotels/spanien."
+  },
+  {
+   "level": "H2",
+   "heading": "Urlaubsarten: Familienurlaub, Kurzurlaub & Urlaub mit Hund",
+   "chars": [
+    1100,
+    1300
+   ],
+   "topic": "subtopic:Familienurlaub in Spanien",
+   "note": "Вступ 1–2 речення + три H3."
+  },
+  {
+   "level": "H3",
+   "heading": "Familienurlaub in Spanien",
+   "chars": [
+    380,
+    450
+   ],
+   "topic": null,
+   "note": "Ключі: «Spanien Familienurlaub», «Urlaub in Spanien mit Kindern». Пологі пляжі (Alcúdia, Costa Dorada), аквапарки й парки розваг (PortAventura, Siam Park), дитячі клуби; які регіони зручні з дітьми."
+  },
+  {
+   "level": "H3",
+   "heading": "Kurzurlaub und Kurztrip",
+   "chars": [
+    300,
+    360
+   ],
+   "topic": null,
+   "note": "Ключі: «Kurzurlaub Spanien», «Kurztrip nach Spanien», «Kurzurlaub mit Flug». 3–5 ночей: Barcelona, Valencia, Mallorca, Málaga — прямі рейси, короткий трансфер."
+  },
+  {
+   "level": "H3",
+   "heading": "Urlaub mit Hund",
+   "chars": [
+    250,
+    300
+   ],
+   "topic": null,
+   "note": "Ключ «Spanien Urlaub mit Hund» (розбавлено: «Urlaub mit Hund in Spanien»). Правила перевезення в літаку й поїздка авто, пляжі для собак (Playas caninas), що уточнити в готелі. Без вигаданих правил конкретних авіакомпаній."
+  },
+  {
+   "level": "H2",
+   "heading": "Günstiger Urlaub in Spanien: So sparen Sie bei der Buchung",
+   "chars": [
+    550,
+    650
+   ],
+   "topic": null,
+   "note": "Ключі кластера: «günstiger Urlaub Spanien», «billiger Urlaub in Spanien», «Spanien Reise günstig», «Urlaub in Spanien günstig buchen». 4–5 практичних порад: місяці поза канікулами (травень, червень, вересень, жовтень), раннє бронювання (анкор «Frühbucher-Angebote Spanien» на /tour/spanien-fruehbucher), гнучкий аеропорт вильоту, материк дешевший за острови в сезон. Конкретних цін не писати.",
+   "clusters": [
+    "K06"
+   ]
+  },
+  {
+   "level": "H2",
+   "heading": "Häufige Fragen zum Urlaub in Spanien",
+   "chars": [
+    1200,
+    1400
+   ],
+   "topic": "block:faq",
+   "note": "6 питань, відповідь 200–230 символів кожна. Розмітка FAQPage. У відповідях точну форму «Spanien Urlaub» не вживати. Про документи — лише питання 4, з посиланням на /tour/spanien/reisehinweise."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wann ist die beste Reisezeit für Spanien?",
+   "note": "reise.de, lidl-reisen, tui; коротка відповідь і якір на блок «Beste Reisezeit»"
+  },
+  {
+   "q": "Wo ist ein Spanien Urlaub am günstigsten?",
+   "note": "tui («Wo in Spanien günstig Urlaub machen?»), schauinsland-reisen, sonnenklar.tv. Єдине питання з точною формою «Spanien Urlaub». Конкретних цін не писати; якір на блок «Günstiger Urlaub in Spanien»"
+  },
+  {
+   "q": "Wie lange dauert der Flug nach Spanien?",
+   "note": "reise.de; час прямого перельоту до Mallorca, Málaga, Barcelona і на Канари"
+  },
+  {
+   "q": "Welche Dokumente brauche ich für Spanien – reicht ein Aufenthaltstitel?",
+   "note": "reise.de, sonnenklar.tv; ключ «kann man mit aufenthaltstitel nach spanien reisen» (рішення власника: на хаб, FAQ). Коротко: Personalausweis або Reisepass для громадян ЄС; чинний німецький Aufenthaltstitel разом із паспортом дозволяє поїздки в Шенгенській зоні до 90 днів. Посилання «Einreise nach Spanien» на /tour/spanien/reisehinweise — після запуску сторінки"
+  },
+  {
+   "q": "Wo ist es in Spanien am schönsten am Meer?",
+   "note": "schauinsland-reisen, tui; 3 варіанти за типом відпочинку з якорем на блок про море"
+  },
+  {
+   "q": "Wann lohnen sich Ferien in Spanien 2026 und 2027?",
+   "note": "ключі «ferien in spanien 2026», «ferien spanien 2026 sommer», «ferien spanien 2027»; відповідь прив’язати до шкільних канікул у Німеччині (Oster-, Sommer-, Herbstferien): погода й рівень цін"
+  }
+ ],
+ "exact_text": [
+  "короткий вступ під H1 (перше речення)",
+  "перший H2 під лістингом «Urlaub in Spanien: Meer, Inseln und Festland im Überblick»",
+  "вступ блоку «Spanien Urlaub am Meer» («Spanien Urlaub am Meer mit Flug»)",
+  "блок «Anreise nach Spanien» («Spanien Urlaub mit Flug»)"
+ ],
+ "keywords": {
+  "spanien urlaub": {
+   "place": "title / H1",
+   "count": "7 (ліміт 8, разом на всій сторінці)",
+   "block": "заголовки (2): H1, H2 «Spanien Urlaub am Meer…»; FAQ (1): питання 2; текст (4): вступ під H1, перший H2 під лістингом, вступ блоку про море, блок «Anreise». Title рахується окремо",
+   "why": "головний ключ; розподіл входжень — у розділі 5 ТЗ"
+  },
+  "spanien meer urlaub": {
+   "place": "H2",
+   "count": "1 + 2 розбавлені",
+   "block": "H2 «Spanien Urlaub am Meer…» (усі слова ключа в заголовку); у тексті «Urlaub am Meer in Spanien»",
+   "why": "ядро 0.84, 3 600 запитів — другий за частотністю ключ, тому саме цей H2 має точну форму головного ключа"
+  },
+  "festland spanien urlaub": {
+   "place": "H3",
+   "count": "1–2",
+   "block": "H3 «Strandurlaub auf dem spanischen Festland»: «Urlaub auf dem spanischen Festland»",
+   "why": "H2/текст 0.69; у ТОП хабів материка 1 з 8 → окрема сторінка не потрібна, достатньо H3"
+  },
+  "spanien am meer": {
+   "place": "H2",
+   "count": "1–2",
+   "block": "блок «Spanien Urlaub am Meer»: заголовок і вступ («Spanien am Meer»)",
+   "why": "близькість 0.59, але 1 300 запитів і та сама тема, що в H2"
+  },
+  "spanien mit kindern urlaub": {
+   "place": "H3",
+   "count": "1–2",
+   "block": "H3 «Familienurlaub in Spanien»: «Urlaub in Spanien mit Kindern»",
+   "why": "H2/текст 0.79; сторінки _kinder на сайті немає → тема на хабі"
+  },
+  "spanien reise": {
+   "place": "текст",
+   "count": "2–3",
+   "block": "перший H2 під лістингом («Spanien Reise», «Reise nach Spanien»)",
+   "why": "ядро 0.87; синонім головного ключа, кластер K05a закрито першим H2 — окремий заголовок під синонім не створюємо"
+  },
+  "spanien reiseziele": {
+   "place": "H2",
+   "count": "1–2",
+   "block": "H2 «Die schönsten Urlaubsorte und Reiseziele in Spanien»",
+   "why": "ядро 0.82; усі слова ключа в заголовку блоку регіонів"
+  },
+  "spanien hotel und flug": {
+   "place": "H2",
+   "count": "1–2",
+   "block": "H2 «Anreise nach Spanien: Flug und Hotel, Auto oder Bus» і текст блоку («Hotel und Flug nach Spanien»)",
+   "why": "близькість 0.64, але 720 запитів; пакетний запит лишився на хабі (правило готелів його не чіпає)"
+  },
+  "spanien urlaubsorte": {
+   "place": "H2",
+   "count": "1–2",
+   "block": "H2 «Die schönsten Urlaubsorte und Reiseziele in Spanien»",
+   "why": "ядро 0.87"
+  },
+  "strandurlaub spanien": {
+   "place": "H3",
+   "count": "1–2",
+   "block": "H3 «Strandurlaub auf dem spanischen Festland» і вступ блоку про море",
+   "why": "H2/текст 0.74"
+  },
+  "günstiger urlaub spanien": {
+   "place": "H2",
+   "count": "1 + title",
+   "block": "H2 «Günstiger Urlaub in Spanien…»; слово «günstig» у title і H1",
+   "why": "близькість 0.64, але «günstig» у title мають 8 з 12 конкурентів, а окремої сторінки günstig на сайті немає; SERP ключа не підтверджено"
+  },
+  "spanien urlaub mit flug": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок «Anreise nach Spanien»: одне точне входження (входить у ліміт головного ключа)",
+   "why": "H2/текст 0.75"
+  },
+  "sommer ferien spanien": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок «Beste Reisezeit für Spanien»: абзац про шкільні канікули («Sommerferien in Spanien»)",
+   "why": "H2/текст 0.69; у Німеччині «Ferien» — канікули, тому місце в блоці сезону"
+  },
+  "festland spanien": {
+   "place": "H3",
+   "count": "1–2",
+   "block": "H3 «Strandurlaub auf dem spanischen Festland» («spanisches Festland»)",
+   "why": "близькість 0.52; та сама тема, що «festland spanien urlaub»"
+  },
+  "urlaub spanien 2026": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок «Beste Reisezeit für Spanien»: «Urlaub in Spanien 2026»",
+   "why": "H2/текст 0.66; рік у title мають лише 2 з 12 → у title не беремо (комплект B — для тесту); SERP ключа не підтверджено"
+  },
+  "urlaub buchen spanien": {
+   "place": "title",
+   "count": "2",
+   "block": "title і H1 (через «Spanien Urlaub … buchen»), перший H2 під лістингом («Urlaub in Spanien buchen»)",
+   "why": "H2/текст 0.76; «buchen» у title мають 10 з 12 конкурентів"
+  },
+  "spanien ferien": {
+   "place": "текст",
+   "count": "1–2",
+   "block": "блок «Beste Reisezeit für Spanien», питання 6 FAQ («Ferien in Spanien»)",
+   "why": "ядро 0.86 за близькістю, 390 запитів; «Ferien» — канікули → блок сезону"
+  },
+  "kurzurlaub spanien": {
+   "place": "H3",
+   "count": "1–2",
+   "block": "H3 «Kurzurlaub und Kurztrip»",
+   "why": "ядро 0.82, вужчий інтент → окремий H3, не title"
+  },
+  "spanien tourismus": {
+   "place": "текст",
+   "count": "1",
+   "block": "перший H2 під лістингом: одне речення («Tourismus in Spanien»)",
+   "why": "H2/текст 0.79; довідковий запит, одне природне входження"
+  },
+  "spanien urlaub mit hund": {
+   "place": "H3",
+   "count": "1",
+   "block": "H3 «Urlaub mit Hund» (розбавлено: «Urlaub mit Hund in Spanien»)",
+   "why": "H2/текст 0.77; окремий інтент → власний H3; точну форму не вписувати, щоб не перевищити ліміт головного ключа"
+  },
+  "schönste strände spanien festland": {
+   "place": "текст",
+   "count": "1",
+   "block": "H3 «Strandurlaub auf dem spanischen Festland»: речення перед списком пляжів («die schönsten Strände am spanischen Festland»)",
+   "why": "<0.65 → текст; SERP ключа не підтверджено"
+  },
+  "schöne strände spanien festland": {
+   "place": "текст",
+   "count": "0–1",
+   "block": "H3 «Strandurlaub auf dem spanischen Festland»: закривається попереднім входженням",
+   "why": "<0.65; граматична форма того самого запиту"
+  },
+  "schönsten strände spanien festland": {
+   "place": "текст",
+   "count": "0–1",
+   "block": "H3 «Strandurlaub auf dem spanischen Festland»: закривається попереднім входженням",
+   "why": "<0.65; граматична форма того самого запиту"
+  },
+  "ferien in spanien 2026": {
+   "place": "FAQ",
+   "count": "1",
+   "block": "питання 6 FAQ «Wann lohnen sich Ferien in Spanien 2026 und 2027?»",
+   "why": "<0.65 → FAQ; SERP ключа не підтверджено"
+  },
+  "kurztrip spanien": {
+   "place": "H3",
+   "count": "1",
+   "block": "H3 «Kurzurlaub und Kurztrip» («Kurztrip nach Spanien»)",
+   "why": "H2/текст 0.72"
+  },
+  "spanien urlaub inseln": {
+   "place": "H3",
+   "count": "1",
+   "block": "H3 «Inselurlaub: Balearen und Kanaren» (розбавлено: «Urlaub auf den spanischen Inseln»)",
+   "why": "H2/текст 0.74"
+  },
+  "spanien insel urlaub": {
+   "place": "H3",
+   "count": "1",
+   "block": "H3 «Inselurlaub: Balearen und Kanaren»",
+   "why": "ядро 0.82 за близькістю, 210 запитів → H3; SERP ключа не підтверджено"
+  },
+  "schöne urlaubsorte spanien": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок «Die schönsten Urlaubsorte und Reiseziele in Spanien»: вступ («schöne Urlaubsorte in Spanien»)",
+   "why": "H2/текст 0.69"
+  },
+  "spain holiday": {
+   "place": "текст",
+   "count": "0",
+   "block": "окремо не вписувати: англомовна форма, її закриває головний ключ",
+   "why": "ядро 0.80 за близькістю, але це англійський запит; текст німецькою"
+  },
+  "spain holidays": {
+   "place": "текст",
+   "count": "0",
+   "block": "окремо не вписувати: англомовна форма",
+   "why": "те саме, що «spain holiday»"
+  },
+  "spanien holiday": {
+   "place": "текст",
+   "count": "0",
+   "block": "окремо не вписувати: суміш німецької й англійської",
+   "why": "те саме, що «spain holiday»"
+  },
+  "spanien schönste urlaubsorte": {
+   "place": "H2",
+   "count": "1",
+   "block": "H2 «Die schönsten Urlaubsorte und Reiseziele in Spanien»",
+   "why": "H2/текст 0.75; слова ключа в заголовку"
+  },
+  "spanien familienurlaub": {
+   "place": "H3",
+   "count": "1–2",
+   "block": "H3 «Familienurlaub in Spanien»",
+   "why": "ядро 0.81; прогалина за конкурентами (5 з 12)"
+  },
+  "billig urlaub spanien": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок «Günstiger Urlaub in Spanien»: одна форма «billiger Urlaub in Spanien»",
+   "why": "<0.65; «billig» у заголовки не виносити"
+  },
+  "billige urlaub spanien": {
+   "place": "текст",
+   "count": "0–1",
+   "block": "блок «Günstiger Urlaub in Spanien»: закривається попереднім входженням",
+   "why": "граматично неправильна форма запиту"
+  },
+  "billiger urlaub spanien": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок «Günstiger Urlaub in Spanien»",
+   "why": "<0.65; та сама тема, що «günstiger urlaub spanien»"
+  },
+  "spanien urlaub am meer mit flug": {
+   "place": "текст",
+   "count": "1",
+   "block": "вступ блоку про море: точне входження (входить у ліміт головного ключа)",
+   "why": "H2/текст 0.67"
+  },
+  "spanien festland urlaub am meer": {
+   "place": "текст",
+   "count": "1",
+   "block": "H3 «Strandurlaub auf dem spanischen Festland» (розбавлено: «Urlaub am Meer auf dem spanischen Festland»)",
+   "why": "H2/текст 0.72; SERP ключа не підтверджено"
+  },
+  "spanien urlaub mit auto": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок «Anreise nach Spanien»: абзац про дорогу авто («Urlaub in Spanien mit dem Auto»)",
+   "why": "H2/текст 0.74; SERP ключа не підтверджено"
+  },
+  "spanien urlaub am meer flug und hotel": {
+   "place": "текст",
+   "count": "0–1",
+   "block": "закривається входженнями «am Meer mit Flug» і «Hotel und Flug»",
+   "why": "<0.65; довгий ключ дослівно не вписувати"
+  },
+  "spanien festland urlaub strand": {
+   "place": "текст",
+   "count": "0–1",
+   "block": "H3 «Strandurlaub auf dem spanischen Festland»: закривається заголовком H3",
+   "why": "H2/текст 0.68"
+  },
+  "ferien spanien 2026 sommer": {
+   "place": "FAQ",
+   "count": "0–1",
+   "block": "питання 6 FAQ, відповідь («Sommerferien 2026»)",
+   "why": "<0.65 → FAQ"
+  },
+  "strandurlaub spanien festland": {
+   "place": "H3",
+   "count": "1",
+   "block": "H3 «Strandurlaub auf dem spanischen Festland» (усі слова ключа в заголовку)",
+   "why": "рішення власника (етап 1): /ratgeber не створюємо, ключ на хабі"
+  },
+  "kann man mit aufenthaltstitel nach spanien reisen": {
+   "place": "FAQ",
+   "count": "1",
+   "block": "питання 4 FAQ «Welche Dokumente brauche ich für Spanien – reicht ein Aufenthaltstitel?»",
+   "why": "рішення власника (етап 1): на хаб, у FAQ"
+  },
+  "kurzurlaub spanien mit flug": {
+   "place": "текст",
+   "count": "1",
+   "block": "H3 «Kurzurlaub und Kurztrip» («Kurzurlaub mit Flug»)",
+   "why": "H2/текст 0.66"
+  },
+  "spanien hotel und flug am meer": {
+   "place": "текст",
+   "count": "0–1",
+   "block": "вступ блоку про море («Hotel und Flug am Meer»)",
+   "why": "<0.65"
+  },
+  "ferien spanien 2027": {
+   "place": "FAQ",
+   "count": "1",
+   "block": "питання 6 FAQ",
+   "why": "<0.65 → FAQ"
+  },
+  "party spanien festland": {
+   "place": "текст",
+   "count": "1",
+   "block": "H3 «Strandurlaub auf dem spanischen Festland»: одне речення про курорти з нічним життям (Lloret de Mar, Salou, Benidorm)",
+   "why": "близькість 0.50, 50 запитів → одне речення"
+  },
+  "reise buchen spanien": {
+   "place": "текст",
+   "count": "1",
+   "block": "перший H2 під лістингом («Reise nach Spanien buchen»)",
+   "why": "H2/текст 0.67; кластер K05a"
+  },
+  "reise nach spanien mit bus": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок «Anreise nach Spanien»: одне речення про автобус",
+   "why": "<0.65; кластер K05a, вузький інтент"
+  },
+  "reisen mit dem bus nach spanien": {
+   "place": "текст",
+   "count": "0–1",
+   "block": "блок «Anreise nach Spanien»: закривається попереднім входженням",
+   "why": "<0.65"
+  },
+  "spanien reise günstig": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок «Günstiger Urlaub in Spanien» («Spanien Reise günstig»)",
+   "why": "H2/текст 0.70"
+  },
+  "urlaub spanien günstig buchen": {
+   "place": "H2",
+   "count": "1",
+   "block": "H2 «Günstiger Urlaub in Spanien: So sparen Sie bei der Buchung»; у тексті «Urlaub in Spanien günstig buchen»",
+   "why": "<0.65, але це формула title більшості ТОП"
+  }
+ },
+ "lists": [
+  "H3 «Strandurlaub auf dem spanischen Festland»: маркований список із 5 пляжів, назва жирним + одне речення.",
+  "Блок «Anreise nach Spanien»: маркований список із 4–5 пунктів «що входить у ціну» (переліт, трансфер, готель, харчування, багаж).",
+  "Блок «Günstiger Urlaub in Spanien»: нумерований список із 4–5 порад."
+ ],
+ "tables": [
+  "Таблиця 1, блок регіонів — порівняння регіонів. Колонки: Region | Strände | Ideal für | Flughafen & Flugzeit | Preis ab. Рядки: Mallorca, Kanaren, Costa Brava, Costa Dorada, Costa del Sol, Costa Blanca. Ціни «ab … €» замовник підставляє з лістингу.",
+  "Таблиця 2, блок «Beste Reisezeit» — місяці. Колонки: Monat | Lufttemperatur | Wassertemperatur | Geeignet für. Рядки: Januar–Dezember (12 рядків). Кліматичні дані брати з climate-data.org: середні багаторічні значення для Málaga (температура повітря вдень і температура води). Якщо температури води для Málaga там немає — брати її з seatemperature.info для Málaga. Значення округлювати до цілих градусів. Над таблицею одне речення, що дані наведено для середземноморського узбережжя (Málaga), а на Канарах узимку тепліше (близько 20–22 °C), на атлантичній півночі прохолодніше й дощовіше.",
+  "Таблицю за 12 місяцями не має жоден із 12 конкурентів (таблиці є у 4: календарі в rewe-reisen і ltur, короткі довідки в reise.de і таблиця регіонів у sonnenklar.tv), тож це спосіб виділитися."
+ ],
+ "photos": [
+  "Усього 11–12 фото: 1 головне (бухта на Майорці або пляж Costa del Sol), 6 — по одному на кожен H3 регіонів, 2 — блок про море (пляж материка, острів), 1 — до блоку сезону, 2 — види відпочинку (сім’я на пляжі, місто для короткої поїздки).",
+  "До кожного фото копірайтер дає унікальний alt німецькою з назвою місця, наприклад «Sandstrand Playa de Muro bei Alcúdia auf Mallorca». Точної форми головного ключа в alt немає. Зараз на сторінці шість зображень з однаковим alt «Urlaub in Spanien»."
+ ],
+ "terms": {
+  "spanien": {
+   "uk": "Іспанія",
+   "where": "H2 / текст"
+  },
+  "inseln": {
+   "uk": "острови",
+   "where": "H2 / H3"
+  },
+  "urlaub in spanien": {
+   "uk": "відпочинок в Іспанії",
+   "where": "H2 / текст — основна розбавлена форма"
+  },
+  "strände": {
+   "uk": "пляжі",
+   "where": "H2 / текст"
+  },
+  "mallorca": {
+   "uk": "Майорка",
+   "where": "H3 / текст"
+  },
+  "kanaren": {
+   "uk": "Канари",
+   "where": "H3 / текст"
+  },
+  "balearen": {
+   "uk": "Балеарські острови",
+   "where": "H3 / текст"
+  },
+  "andalusien": {
+   "uk": "Андалусія",
+   "where": "H3 / текст"
+  },
+  "mittelmeer": {
+   "uk": "Середземне море",
+   "where": "блок про море, блок сезону"
+  },
+  "barcelona": {
+   "uk": "Барселона",
+   "where": "H3 / текст"
+  },
+  "gran canaria": {
+   "uk": "Гран-Канарія",
+   "where": "H3 «Kanarische Inseln»"
+  },
+  "hotel": {
+   "uk": "готель",
+   "where": "H2 / текст"
+  },
+  "sonne": {
+   "uk": "сонце",
+   "where": "текст"
+  },
+  "meer": {
+   "uk": "море",
+   "where": "H2 / текст"
+  },
+  "madrid": {
+   "uk": "Мадрид",
+   "where": "H3 / текст"
+  },
+  "küste": {
+   "uk": "узбережжя",
+   "where": "текст"
+  },
+  "fuerteventura": {
+   "uk": "Фуертевентура",
+   "where": "H3 «Kanarische Inseln»"
+  },
+  "reiseziele": {
+   "uk": "напрямки подорожей",
+   "where": "H2"
+  },
+  "costa blanca": {
+   "uk": "Коста-Бланка",
+   "where": "H3 / таблиця регіонів"
+  },
+  "kanarischen inseln": {
+   "uk": "Канарські острови",
+   "where": "H3",
+   "name": "Kanarische Inseln"
+  },
+  "costa del sol": {
+   "uk": "Коста-дель-Соль",
+   "where": "H3 / таблиця регіонів"
+  },
+  "ibiza": {
+   "uk": "Ібіца",
+   "where": "H3 «Mallorca & die Balearen»"
+  },
+  "halbinsel": {
+   "uk": "півострів",
+   "where": "текст",
+   "name": "Iberische Halbinsel"
+  },
+  "flug": {
+   "uk": "переліт",
+   "where": "H2 / текст"
+  },
+  "natur": {
+   "uk": "природа",
+   "where": "текст"
+  },
+  "familienurlaub": {
+   "uk": "сімейний відпочинок",
+   "where": "H2 / H3"
+  },
+  "strand": {
+   "uk": "пляж",
+   "where": "текст"
+  },
+  "kinder": {
+   "uk": "діти",
+   "where": "H3 «Familienurlaub in Spanien»"
+  },
+  "teneriffa": {
+   "uk": "Тенерифе",
+   "where": "H3 «Kanarische Inseln»"
+  },
+  "costa brava": {
+   "uk": "Коста-Брава",
+   "where": "H3 / таблиця регіонів"
+  },
+  "palma": {
+   "uk": "Пальма",
+   "where": "H3 «Mallorca & die Balearen», блок «Anreise»",
+   "name": "Palma de Mallorca"
+  },
+  "sehenswürdigkeiten": {
+   "uk": "визначні пам’ятки",
+   "where": "H3 регіонів (по одній особливості)"
+  },
+  "familien": {
+   "uk": "сім’ї",
+   "where": "H3 «Familienurlaub in Spanien»"
+  },
+  "tapas": {
+   "uk": "тапас",
+   "where": "текст (одне речення про кухню в блоці «Anreise», харчування)"
+  },
+  "lanzarote": {
+   "uk": "Лансароте",
+   "where": "H3 «Kanarische Inseln»"
+  },
+  "kultur": {
+   "uk": "культура",
+   "where": "H3 «Andalusien & Costa del Sol»"
+  },
+  "spanien urlaub": {
+   "uk": "відпочинок в Іспанії",
+   "where": "H1, H2 / текст — у межах ліміту точних входжень (розділ 5)"
+  },
+  "strandurlaub": {
+   "uk": "пляжний відпочинок",
+   "where": "H3"
+  },
+  "festland": {
+   "uk": "материк",
+   "where": "H2 / H3"
+  },
+  "badeurlaub": {
+   "uk": "пляжний (купальний) відпочинок",
+   "where": "блок про море"
+  },
+  "valencia": {
+   "uk": "Валенсія",
+   "where": "H3 / текст"
+  },
+  "sommer": {
+   "uk": "літо",
+   "where": "блок «Beste Reisezeit»"
+  },
+  "reisezeit": {
+   "uk": "найкращий час для подорожі",
+   "where": "H2",
+   "name": "beste Reisezeit"
+  },
+  "atlantik": {
+   "uk": "Атлантика",
+   "where": "блок про море, блок сезону"
+  },
+  "klima": {
+   "uk": "клімат",
+   "where": "блок сезону"
+  },
+  "temperaturen": {
+   "uk": "температури",
+   "where": "текст (таблиця сезонів)"
+  },
+  "metropolen": {
+   "uk": "великі міста",
+   "where": "H3 «Barcelona & Madrid»"
+  },
+  "geschichte": {
+   "uk": "історія",
+   "where": "текст"
+  },
+  "familienurlaub in spanien": {
+   "uk": "сімейний відпочинок в Іспанії",
+   "where": "H3"
+  },
+  "sevilla": {
+   "uk": "Севілья",
+   "where": "H3 «Andalusien & Costa del Sol»"
+  },
+  "sandstrände": {
+   "uk": "піщані пляжі",
+   "where": "блок про море, H3 регіонів"
+  },
+  "rundreise": {
+   "uk": "екскурсійний тур",
+   "where": "лише анкор на /tour/spanien/rundreisen"
+  },
+  "granada": {
+   "uk": "Гранада",
+   "where": "H3 «Andalusien & Costa del Sol»"
+  },
+  "buchten": {
+   "uk": "бухти",
+   "where": "H3 «Mallorca & die Balearen», «Costa Brava & Costa Dorada»"
+  },
+  "winter": {
+   "uk": "зима",
+   "where": "блок «Beste Reisezeit» (Канари)"
+  },
+  "paella": {
+   "uk": "паелья",
+   "where": "H3 «Valencia & Costa Blanca»"
+  },
+  "städten": {
+   "uk": "міста",
+   "where": "H3 «Barcelona & Madrid», «Kurzurlaub und Kurztrip»",
+   "name": "Städte"
+  },
+  "ferien": {
+   "uk": "канікули",
+   "where": "блок сезону, FAQ"
+  },
+  "resorts": {
+   "uk": "курортні готелі",
+   "where": "текст"
+  },
+  "málaga": {
+   "uk": "Малага",
+   "where": "H3 «Andalusien & Costa del Sol», таблиця сезону"
+  },
+  "marbella": {
+   "uk": "Марбелья",
+   "where": "H3 «Andalusien & Costa del Sol»"
+  },
+  "alhambra": {
+   "uk": "Альгамбра",
+   "where": "H3 «Andalusien & Costa del Sol»"
+  },
+  "maspalomas": {
+   "uk": "Маспаломас",
+   "where": "H3 «Kanarische Inseln»"
+  },
+  "september": {
+   "uk": "вересень",
+   "where": "блок «Beste Reisezeit», блок «Günstiger Urlaub»"
+  },
+  "august": {
+   "uk": "серпень",
+   "where": "блок «Beste Reisezeit»"
+  },
+  "teide": {
+   "uk": "вулкан Тейде",
+   "where": "H3 «Kanarische Inseln»"
+  },
+  "hauptstadt": {
+   "uk": "столиця",
+   "where": "H3 «Barcelona & Madrid»"
+  },
+  "pyrenäen": {
+   "uk": "Піренеї",
+   "where": "текст (одна згадка у вступі блоку регіонів)"
+  },
+  "wandern": {
+   "uk": "піші походи",
+   "where": "H3 «Mallorca & die Balearen» (Serra de Tramuntana)"
+  },
+  "erholung": {
+   "uk": "відпочинок, відновлення",
+   "where": "текст"
+  },
+  "architektur": {
+   "uk": "архітектура",
+   "where": "H3 «Barcelona & Madrid»"
+  },
+  "animation": {
+   "uk": "анімація",
+   "where": "H3 «Familienurlaub in Spanien»"
+  },
+  "sommerurlaub": {
+   "uk": "літній відпочинок",
+   "where": "блок сезону"
+  },
+  "menorca": {
+   "uk": "Менорка",
+   "where": "H3 «Mallorca & die Balearen»"
+  },
+  "costa dorada": {
+   "uk": "Коста-Дорада",
+   "where": "H3 / таблиця регіонів"
+  },
+  "pauschalreise": {
+   "uk": "пакетний тур",
+   "where": "лише анкор на /tour/spanien/pauschalreise"
+  },
+  "last minute": {
+   "uk": "гарячі тури",
+   "where": "лише анкор на /tour/spanien/last-minute"
+  },
+  "flug und hotel": {
+   "uk": "переліт і готель",
+   "where": "H2 «Anreise nach Spanien…»"
+  },
+  "alicante": {
+   "uk": "Аліканте",
+   "where": "H3 «Valencia & Costa Blanca»"
+  },
+  "freizeitparks": {
+   "uk": "парки розваг",
+   "where": "H3 «Familienurlaub in Spanien»"
+  },
+  "mietwagen": {
+   "uk": "орендоване авто",
+   "where": "блок «Anreise»"
+  },
+  "sagrada": {
+   "uk": "Саграда-Фамілія",
+   "where": "H3 «Barcelona & Madrid»",
+   "name": "Sagrada Família"
+  },
+  "park güell": {
+   "uk": "парк Гуеля",
+   "where": "H3 «Barcelona & Madrid»"
+  },
+  "herbst": {
+   "uk": "осінь",
+   "where": "блок сезону"
+  },
+  "frühling": {
+   "uk": "весна",
+   "where": "блок сезону"
+  },
+  "verpflegung": {
+   "uk": "харчування",
+   "where": "блок «Anreise»"
+  },
+  "kosten": {
+   "uk": "вартість",
+   "where": "FAQ, блок «Günstiger Urlaub»"
+  },
+  "sonnenstunden": {
+   "uk": "сонячні години",
+   "where": "блок сезону"
+  },
+  "wassersport": {
+   "uk": "водні види спорту",
+   "where": "H3 «Kanarische Inseln»"
+  }
+ },
+ "terms_skip": [
+  "costa",
+  "playa",
+  "iberischen halbinsel",
+  "europas",
+  "wanderungen",
+  "entspannung",
+  "highlights",
+  "wahl",
+  "spanien-urlaub",
+  "urlaubsland",
+  "traumstrände",
+  "traumhaften stränden",
+  "sightseeing",
+  "dörfer",
+  "besuch",
+  "dorada",
+  "lebensfreude",
+  "orten",
+  "westküste",
+  "sport",
+  "spezialitäten",
+  "kathedrale",
+  "kunst"
+ ],
+ "links": [
+  {
+   "page": "/tour/spanien/pauschalreise",
+   "anchors": [
+    "Pauschalreise Spanien",
+    "Pauschalreise nach Spanien"
+   ],
+   "where": "блок «Anreise nach Spanien»"
+  },
+  {
+   "page": "/tour/spanien/all-inclusive",
+   "anchors": [
+    "All Inclusive Urlaub Spanien",
+    "Spanien All Inclusive"
+   ],
+   "where": "блок «Anreise nach Spanien» (харчування)"
+  },
+  {
+   "page": "/hotels/spanien",
+   "anchors": [
+    "Hotels in Spanien",
+    "Unterkünfte in Spanien"
+   ],
+   "where": "блок «Anreise nach Spanien»"
+  },
+  {
+   "page": "/tour/spanien/malaga",
+   "anchors": [
+    "Urlaub in Málaga",
+    "Málaga Urlaub"
+   ],
+   "where": "H3 «Andalusien & Costa del Sol»"
+  },
+  {
+   "page": "/tour/spanien/reisehinweise",
+   "anchors": [
+    "Einreise nach Spanien",
+    "Reisehinweise Spanien"
+   ],
+   "where": "FAQ, питання 4 (окремого блоку про в’їзд на хабі немає)"
+  },
+  {
+   "page": "/tour/spanien/rundreisen",
+   "anchors": [
+    "Rundreisen durch Spanien",
+    "Rundreise durch Südspanien"
+   ],
+   "where": "H3 «Andalusien & Costa del Sol» (одне речення наприкінці)"
+  },
+  {
+   "page": "/tour/spanien/last-minute",
+   "anchors": [
+    "Last-Minute-Angebote Spanien",
+    "Last Minute Spanien"
+   ],
+   "where": "під лістингом"
+  },
+  {
+   "page": "/tour/spanien/alicante",
+   "anchors": [
+    "Urlaub in Alicante",
+    "Alicante Urlaub"
+   ],
+   "where": "H3 «Valencia & Costa Blanca»"
+  },
+  {
+   "page": "/tour/spanien/mallorca",
+   "anchors": [
+    "Urlaub auf Mallorca",
+    "Mallorca Urlaub"
+   ],
+   "where": "H3 «Mallorca & die Balearen», таблиця регіонів"
+  },
+  {
+   "page": "/tour/spanien/valencia",
+   "anchors": [
+    "Urlaub in Valencia",
+    "Valencia Urlaub"
+   ],
+   "where": "H3 «Valencia & Costa Blanca»"
+  },
+  {
+   "page": "/tour/spanien/andalusien",
+   "anchors": [
+    "Urlaub in Andalusien",
+    "Andalusien Urlaub"
+   ],
+   "where": "H3 «Andalusien & Costa del Sol», таблиця регіонів"
+  },
+  {
+   "page": "/tour/spanien/barcelona",
+   "anchors": [
+    "Urlaub in Barcelona",
+    "Barcelona Städtereise"
+   ],
+   "where": "H3 «Barcelona & Madrid»; H3 «Kurzurlaub und Kurztrip»"
+  },
+  {
+   "page": "/tour/spanien/october",
+   "anchors": [
+    "Spanien im Oktober",
+    "Urlaub in Spanien im Oktober"
+   ],
+   "where": "блок «Beste Reisezeit» (абзац про найкращі місяці)"
+  }
+ ],
+ "links_skip": {},
+ "links_extra": [
+  {
+   "page": "/tour/spanien/teneriffa",
+   "state": "існує",
+   "anchors": [
+    "Urlaub auf Teneriffa",
+    "Teneriffa Urlaub"
+   ],
+   "where": "H3 «Kanarische Inseln» (додатково до обов’язкових)"
+  },
+  {
+   "page": "/tour/spanien/insel-gran-canaria",
+   "state": "існує",
+   "anchors": [
+    "Urlaub auf Gran Canaria",
+    "Gran Canaria Urlaub"
+   ],
+   "where": "H3 «Kanarische Inseln» (додатково до обов’язкових)"
+  },
+  {
+   "page": "/tour/spanien/insel-fuerteventura",
+   "state": "існує",
+   "anchors": [
+    "Urlaub auf Fuerteventura",
+    "Fuerteventura Urlaub"
+   ],
+   "where": "H3 «Kanarische Inseln» (додатково до обов’язкових)"
+  },
+  {
+   "page": "/tour/spanien/insel-lanzarote",
+   "state": "існує",
+   "anchors": [
+    "Urlaub auf Lanzarote",
+    "Lanzarote Urlaub"
+   ],
+   "where": "H3 «Kanarische Inseln» (додатково до обов’язкових)"
+  },
+  {
+   "page": "/tour/spanien/menorca",
+   "state": "існує",
+   "anchors": [
+    "Urlaub auf Menorca",
+    "Menorca Urlaub"
+   ],
+   "where": "H3 «Mallorca & die Balearen» (додатково до обов’язкових)"
+  },
+  {
+   "page": "/tour/spanien/insel-ibiza",
+   "state": "існує",
+   "anchors": [
+    "Urlaub auf Ibiza",
+    "Ibiza Urlaub"
+   ],
+   "where": "H3 «Mallorca & die Balearen» (додатково до обов’язкових)"
+  },
+  {
+   "page": "/tour/spanien/costa-brava",
+   "state": "існує",
+   "anchors": [
+    "Urlaub an der Costa Brava",
+    "Costa Brava Urlaub"
+   ],
+   "where": "H3 «Costa Brava & Costa Dorada», таблиця регіонів (додатково до обов’язкових)"
+  },
+  {
+   "page": "/tour/spanien/costa-dorada",
+   "state": "існує",
+   "anchors": [
+    "Urlaub an der Costa Dorada",
+    "Costa Dorada Urlaub"
+   ],
+   "where": "H3 «Costa Brava & Costa Dorada», таблиця регіонів (додатково до обов’язкових)"
+  },
+  {
+   "page": "/tour/spanien/lloret-de-mar",
+   "state": "існує",
+   "anchors": [
+    "Urlaub in Lloret de Mar",
+    "Lloret de Mar Urlaub"
+   ],
+   "where": "H3 «Costa Brava & Costa Dorada» (додатково до обов’язкових)"
+  },
+  {
+   "page": "/tour/spanien/salou",
+   "state": "існує",
+   "anchors": [
+    "Urlaub in Salou",
+    "Salou Urlaub"
+   ],
+   "where": "H3 «Costa Brava & Costa Dorada» (додатково до обов’язкових)"
+  },
+  {
+   "page": "/tour/spanien/benidorm",
+   "state": "існує",
+   "anchors": [
+    "Urlaub in Benidorm",
+    "Benidorm Urlaub"
+   ],
+   "where": "H3 «Valencia & Costa Blanca» (додатково до обов’язкових)"
+  },
+  {
+   "page": "/tour/spanien/madrid",
+   "state": "існує",
+   "anchors": [
+    "Städtereise nach Madrid",
+    "Madrid Urlaub"
+   ],
+   "where": "H3 «Barcelona & Madrid» (додатково до обов’язкових)"
+  },
+  {
+   "page": "/tour/spanien/june",
+   "state": "існує",
+   "anchors": [
+    "Spanien im Juni",
+    "Urlaub in Spanien im Juni"
+   ],
+   "where": "блок «Beste Reisezeit» (додатково до обов’язкових)"
+  },
+  {
+   "page": "/tour/spanien/september",
+   "state": "існує",
+   "anchors": [
+    "Spanien im September",
+    "Urlaub in Spanien im September"
+   ],
+   "where": "блок «Beste Reisezeit» (додатково до обов’язкових)"
+  },
+  {
+   "page": "/tour/spanien-fruehbucher",
+   "state": "існує",
+   "anchors": [
+    "Frühbucher-Angebote Spanien",
+    "Spanien Frühbucher"
+   ],
+   "where": "блок «Günstiger Urlaub in Spanien» (додатково до обов’язкових)"
+  }
+ ],
+ "bans": [
+  "Не вписувати довгі ключі дослівно, якщо фраза звучить неприродно («spanien urlaub am meer flug und hotel»): достатньо, щоб слова стояли в одному реченні.",
+  "Не вписувати англомовні форми «Spain Holiday(s)» і «Spanien Holiday»: текст німецькою, ці запити закриває головний ключ.",
+  "Не писати про чинні правила в’їзду, митні норми й безпеку з подробицями — це зміст /tour/spanien/reisehinweise; на хабі лише коротка відповідь у FAQ і посилання.",
+  "Регіони й острови — лише коротко (H3 на 280–330 символів): докладно про них пишуть власні сторінки регіонів.",
+  "Слово «günstig» — у H1, одному H2 і тексті блоку «Günstiger Urlaub»; в інших блоках не більше двох разів. Слово «billig» — лише в тексті цього блоку, не в заголовках.",
+  "Не писати про дати шкільних канікул в іспанських школах: «Ferien» у ключах — це відпустка й канікули в Німеччині.",
+  "Без шаблонного тексту під кожен регіон і без вигаданих цін, рейтингів та правил авіакомпаній."
+ ],
+ "competitors_better": [
+  "Текст. Медіана 7 616 символів проти 62 на reisemu.de (решта — службові повідомлення пошуку); у п’яти лідерів 8 800–21 900.",
+  "Блок сезону й клімату мають 7 з 12 конкурентів, FAQ — 6, заголовки про курорти й регіони — 5, про сімейний відпочинок — 5. На reisemu.de є лише блоки посилань на 5 регіонів і місяці, без тексту.",
+  "Title. «Spanien Urlaub» у title мають 6 з 12, «buchen» — 10, «günstig» — 8. Title reisemu.de має 108 символів, містить Last Minute, Pauschalreise і all inclusive, а головного ключа в точній формі в ньому немає.",
+  "Заголовки. У конкурентів 6–7 H2 і 3–4 H3 за медіаною; на reisemu.de три H2 — це назви блоків («Last-Minute-Angebote», «Unsere Favoriten in Spaniens», «Beliebte Reiseziele»), текстових заголовків немає.",
+  "Структуровані дані: BreadcrumbList є у 8 з 12, FAQPage — у reise.de і schauinsland-reisen, AggregateRating — у 4; на reisemu.de розмітки JSON-LD не знайдено."
+ ],
+ "how_to_beat": [
+  "Таблиця за 12 місяцями з температурою повітря й води — її немає в жодного з 12 конкурентів.",
+  "Порівняльна таблиця регіонів із реальними цінами «ab … €» з власного лістингу й часом перельоту.",
+  "Окремий блок про материк («Festland»): 9 ключів сторінки містять це слово (3 170 запитів), а в конкурентів материк і острови змішані.",
+  "Блок «Anreise» з конкретикою: аеропорти, час перельоту, дорога авто й автобусом, поїздка із собакою — у конкурентів про авто й собак майже нічого немає.",
+  "FAQ із шістьма питаннями та розміткою FAQPage (її мають лише 2 з 12).",
+  "Чітке розведення тем: хаб не конкурує з власними сторінками All Inclusive, Pauschalreise, Last Minute і готелів, а посилається на них; посилання на 12+ сторінок регіонів замість 5 зараз."
+ ],
+ "meta": {
+  "note": "Рік у title мають 2 з 12 розібраних сторінок (reise.de, sonnenklar.tv) — менше порога 3, тому в комплекті A року немає; варіант із роком — комплект B. «günstig» у title мають 8 з 12, а окремої сторінки günstig на сайті немає (кластер K06 призначено хабу), тому слово в комплекті A. Дві сторінки ТОП не відкрилися для аналізу (holidaycheck — HTTP 400, loveholidays — HTTP 403) і замінені запасними.",
+  "A": {
+   "condition": "Впроваджувати зараз. Перед заміною title перевірити в GSC, чи має хаб кліки за запитами з «last minute» і «pauschalreise»: якщо так — title міняти разом із запуском /tour/spanien/last-minute і /tour/spanien/pauschalreise.",
+   "title": {
+    "text": "Spanien Urlaub günstig buchen – Flug & Hotel | reisemu.de",
+    "why": "Головний ключ на початку, «günstig» (8 з 12) і «buchen» (10 з 12) — формула більшості ТОП (lidl-reisen, anextour, schauinsland-reisen, its, ltur); «Flug & Hotel» — ключі «…mit flug», «hotel und flug» (1 310 запитів). Року немає (2 з 12). Символів немає."
+   },
+   "description": {
+    "text": "Spanien Urlaub günstig buchen ✈ Angebote mit Flug & Hotel ✓ Mallorca, Kanaren, Costa Brava & Andalusien ✓ Beste Reisezeit & Strände im Überblick.",
+    "why": "Початок збігається з title і H1; далі пакет «Flug & Hotel», чотири головні регіони й теми блоків (сезон, пляжі). Символи: ✈ один раз, ✓ двічі. У конкурентів ✈ мають 2 з 12, ✓ — 5, ☀ — 5; три сторінки без символів."
+   },
+   "h1": {
+    "text": "Spanien Urlaub günstig buchen",
+    "why": "Дослівно початок title: головний ключ, «günstig» і «buchen»."
+   }
+  },
+  "tests": [
+   {
+    "name": "Комплект B",
+    "condition": "Пробувати, якщо через 8–12 тижнів у GSC частка показів за запитами з роком («urlaub spanien 2026», «ferien in spanien 2026») зросла або CTR нижчий за середній по сайту на тих самих позиціях.",
+    "title": {
+     "text": "Spanien Urlaub 2026/2027 buchen – Flug & Hotel | reisemu.de",
+     "why": "Рік, як у sonnenklar.tv («Spanien Urlaub 2026 / 2027 günstig buchen»); ключі з роком на сторінці — 770 запитів."
+    },
+    "description": {
+     "text": "Spanien Urlaub 2026/2027 buchen ✈ Angebote mit Flug & Hotel ✓ Mallorca, Kanaren, Costa Brava & Andalusien ✓ Reisezeit & Tipps. Jetzt vergleichen!",
+     "why": "Та сама побудова, що в комплекті A, з роком; ✈ один раз, ✓ двічі."
+    },
+    "h1": {
+     "text": "Spanien Urlaub 2026/2027 buchen",
+     "why": "Пара до title комплекту B."
+    }
+   },
+   {
+    "name": "Комплект C",
+    "condition": "Пробувати, якщо сторінка вийшла в ТОП-10 за «spanien urlaub», а за запитами про море й материк («spanien meer urlaub», «festland spanien urlaub») позиції нижчі за ТОП-20.",
+    "title": {
+     "text": "Spanien Urlaub buchen: Meer, Inseln & Festland | reisemu.de",
+     "why": "Без «günstig»: акцент на море, острови й материк — 17 ключів сторінки про море, пляжі, острови й материк (9 460 запитів)."
+    },
+    "description": {
+     "text": "Urlaub in Spanien buchen: Angebote mit Flug und Hotel am Mittelmeer und Atlantik. Regionen, Strände und Reisezeit für Festland, Balearen & Kanaren.",
+     "why": "Без символів: природна форма «Urlaub in Spanien buchen», семантичні слова «Mittelmeer», «Atlantik», «Festland»."
+    },
+    "h1": {
+     "text": "Spanien Urlaub buchen: Meer, Inseln & Festland",
+     "why": "Пара до title комплекту C."
+    }
+   }
+  ],
+  "current_notes": {
+   "title": "108 символів (ліміт 60); містить головні слова трьох інших сторінок (Last Minute, Pauschalreise, all inclusive), головний ключ лише з дефісом («Spanien-Urlaub»).",
+   "description": "162 символи (ліміт 155); набір слів без зв’язного речення (Billigurlaub, Last-Minute, Pauschalreisen, all inclusive), кольоровий емодзі ✅.",
+   "h1": "«Urlaub in Spanien» — розбавлена форма, без «buchen» і «günstig»; точної форми головного ключа немає."
+  }
+ },
+ "developer": [
+  "Лістинг: перейменувати заголовок «Last-Minute-Angebote» на нейтральний «Aktuelle Angebote»; під лістингом поставити посилання «Last-Minute-Angebote Spanien» на /tour/spanien/last-minute (після запуску сторінки).",
+  "Порядок блоків: H1 → 1–2 речення вступу → лістинг → увесь текст. Зараз власного тексту на сторінці немає.",
+  "Виправити заголовки блоків: «Unsere Favoriten in Spaniens» → «Unsere Favoriten in Spanien», «Reiseziele Spaniens» → «Reiseziele in Spanien».",
+  "Блок «Reiseziele Spaniens» посилається лише на 5 регіонів (Mallorca, Teneriffa, Gran Canaria, Barcelona, Salou), а на сайті є 46 сторінок регіонів, островів і курортів, що відповідають 200 (Costa Brava, Costa Dorada, Andalusien, Málaga, Valencia, Alicante, Menorca, Ibiza, Fuerteventura, Lanzarote, Madrid та інші) — додати їх у блок.",
+  "Сторінка /tour/spanien-fruehbucher є в sitemap, але хаб на неї не посилається — додати посилання.",
+  "Нові сторінки з розподілу етапу 1 зараз віддають 301 на хаб: /tour/spanien/pauschalreise (4 470 запитів), /tour/spanien/reisehinweise (660), /tour/spanien/last-minute (390), /tour/spanien/rundreisen (390). Посилання на них у тексті вмикати після запуску.",
+  "Шість зображень мають однаковий alt «Urlaub in Spanien» — дати унікальні. У блоці інших напрямків alt «Türkei ab Deutschlands», «Ägypten ab Deutschlands» — виправити граматику («ab Deutschland»).",
+  "Розмітка JSON-LD: на сторінці її немає; додати BreadcrumbList і FAQPage (для блоку «Häufige Fragen»)."
+ ],
+ "subtopics_uk": {
+  "Familienurlaub in Spanien": "сімейний відпочинок в Іспанії",
+  "Beliebte Urlaubsorte in Spanien": "популярні курорти й напрямки",
+  "Klima & beste Reisezeit – Spanien": "клімат і найкращий час для поїздки",
+  "Weitere Reiseideen": "інші ідеї та добірки пропозицій",
+  "Wann ist die beste Reisezeit für einen Spanien-Familienurlaub?": "коли їхати з дітьми і коли дешевше",
+  "Durch Spaniens schönste Citys schlendern": "міста й пам’ятки",
+  "Balearen: Spaniens beliebteste Reiseziele für einen Familienurlaub": "Балеари для сімейного відпочинку",
+  "FAQ zum Urlaub in Spanien": "поширені запитання",
+  "Familienurlaub auf den Kanarischen Inseln": "Канарські острови (сімейний та острівний відпочинок)",
+  "Andalusiens Traumstrände": "пляжі Андалусії та найкращі пляжі Іспанії",
+  "Die Balearen": "Балеарські острови",
+  "In Spanien Urlaub machen: Sonne, Meer und vielfältige Eindrücke": "загальний опис країни (вступний блок)",
+  "Buchen Sie Ihren Urlaub in Spanien": "бронювання відпочинку",
+  "Häufige Fragen zu Familienurlaub Spanien": "запитання про сімейний відпочинок",
+  "Spanien in allen Facetten": "різні грані Іспанії (добірки)",
+  "Die bekanntesten Sehenswürdigkeiten in Spanien": "найвідоміші пам’ятки"
+ },
+ "gaps_declined": {},
+ "keywords_intro": "Кількість — точні входження або природна форма з тими самими словами («Urlaub in Spanien buchen» зараховується за «urlaub buchen spanien»). Порядок — за частотністю.",
+ "keywords_note": "Усі ключі, що містять слова «spanien urlaub» (варіанти з «am Meer», «mit Flug», «mit Hund», «mit Auto», «Inseln»), поза переліченими місцями вписувати розбавлено — через «Urlaub in Spanien». 11 ключів сторінки мають непідтверджений SERP (повторний збір 15–18 жовтня 2026): їхні місця визначено за типом ключа.",
+ "diluted_forms": [
+  "Urlaub in Spanien",
+  "Spanien Reise",
+  "Reise nach Spanien",
+  "Ferien in Spanien",
+  "Urlaub am Meer in Spanien",
+  "Urlaub auf dem spanischen Festland"
+ ],
+ "terms_skip_reasons": {
+  "costa": "уривок назв узбереж (Costa Brava, Costa del Sol)",
+  "playa": "уривок назв пляжів",
+  "iberischen halbinsel": "дубль «Halbinsel» (подається як Iberische Halbinsel)",
+  "europas": "уривок фрази",
+  "wanderungen": "дубль «Wandern»",
+  "entspannung": "рекламний штамп, дубль «Erholung»",
+  "highlights": "загальне слово",
+  "wahl": "загальне слово",
+  "spanien-urlaub": "дубль головного ключа (написання з дефісом не вживати)",
+  "urlaubsland": "загальне слово",
+  "traumstrände": "рекламний штамп",
+  "traumhaften stränden": "рекламний штамп",
+  "sightseeing": "дубль «Sehenswürdigkeiten»",
+  "dörfer": "тема не для хабу",
+  "besuch": "загальне слово",
+  "dorada": "дубль «Costa Dorada»",
+  "lebensfreude": "рекламний штамп",
+  "orten": "загальне слово",
+  "westküste": "стосується окремих островів, тема сторінок регіонів",
+  "sport": "загальне слово, є «Wassersport»",
+  "spezialitäten": "дубль «Tapas», «Paella»",
+  "kathedrale": "тема сторінок міст",
+  "kunst": "тема сторінок міст"
+ },
+ "links_note": "Нові сторінки (/pauschalreise, /reisehinweise, /rundreisen, /last-minute) зараз віддають 301 на хаб: посилання на них ставити лише після запуску."
+}

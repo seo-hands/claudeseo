@@ -1,0 +1,317 @@
+{
+ "page": "https://reisemu.de/tour/spanien",
+ "slug": "spanien",
+ "main_keyword": "spanien urlaub",
+ "landing_types": [
+  "хаб країни"
+ ],
+ "forming_keywords": [
+  {
+   "keyword": "spanien urlaub",
+   "volume": 14800,
+   "role": "головний",
+   "head_word_of_other_page": null,
+   "in_serp_cache": true,
+   "type_pages_in_top": 7
+  },
+  {
+   "keyword": "spanien meer urlaub",
+   "volume": 3600,
+   "role": "суміжний",
+   "head_word_of_other_page": null,
+   "in_serp_cache": true,
+   "type_pages_in_top": 5
+  },
+  {
+   "keyword": "festland spanien urlaub",
+   "volume": 1300,
+   "role": "суміжний",
+   "head_word_of_other_page": null,
+   "in_serp_cache": true,
+   "type_pages_in_top": 1
+  },
+  {
+   "keyword": "spanien am meer",
+   "volume": 1300,
+   "role": "суміжний",
+   "head_word_of_other_page": null,
+   "in_serp_cache": true,
+   "type_pages_in_top": 2
+  },
+  {
+   "keyword": "spanien mit kindern urlaub",
+   "volume": 880,
+   "role": "суміжний",
+   "head_word_of_other_page": null,
+   "in_serp_cache": true,
+   "type_pages_in_top": 3
+  }
+ ],
+ "selected": [
+  {
+   "url": "https://www.ab-in-den-urlaub.de/urlaub/europa/spanien",
+   "type": "хаб країни",
+   "positions": {
+    "spanien urlaub": 1
+   },
+   "other_positions": {
+    "spanien reise": 3,
+    "billige urlaub spanien": 3,
+    "billiger urlaub spanien": 3,
+    "reise buchen spanien": 2,
+    "spanien reise günstig": 3
+   },
+   "serp_title": "Urlaub Spanien • Reisen jetzt günstig buchen! ...",
+   "best_position": 1,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.holidaycheck.de/urlaub/spanien",
+   "type": "хаб країни",
+   "positions": {
+    "spanien urlaub": 2,
+    "spanien meer urlaub": 1
+   },
+   "other_positions": {
+    "spanien reise": 2,
+    "sommer ferien spanien": 6,
+    "urlaub buchen spanien": 2,
+    "spanien ferien": 6,
+    "kurzurlaub spanien": 2,
+    "spanien urlaub inseln": 8,
+    "spanien holiday": 3,
+    "billige urlaub spanien": 2,
+    "billiger urlaub spanien": 2,
+    "reise buchen spanien": 3,
+    "spanien reise günstig": 2,
+    "urlaub spanien günstig buchen": 2
+   },
+   "serp_title": "Spanien Urlaub • Günstig buchen bei HolidayCheck",
+   "best_position": 1,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.lidl-reisen.de/urlaub/spanien",
+   "type": "хаб країни",
+   "positions": {
+    "spanien urlaub": 3
+   },
+   "other_positions": {
+    "spanien reise": 1,
+    "spanien hotel und flug": 4,
+    "urlaub buchen spanien": 1,
+    "spanien ferien": 3,
+    "kurzurlaub spanien": 3,
+    "billige urlaub spanien": 1,
+    "billiger urlaub spanien": 1,
+    "spanien urlaub am meer flug und hotel": 3,
+    "kurzurlaub spanien mit flug": 1,
+    "spanien hotel und flug am meer": 6,
+    "reise buchen spanien": 1,
+    "spanien reise günstig": 1,
+    "urlaub spanien günstig buchen": 1
+   },
+   "serp_title": "Spanien Urlaub günstig buchen bei Lidl-Reisen",
+   "best_position": 3,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.tui.com/urlaub/spanien/",
+   "type": "хаб країни",
+   "positions": {
+    "spanien urlaub": 5,
+    "spanien meer urlaub": 7
+   },
+   "other_positions": {
+    "urlaub buchen spanien": 5
+   },
+   "serp_title": "Spanien Urlaub » Angebote rund um Deine Spanien Reise",
+   "best_position": 5,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.anextour.de/urlaub/spanien/",
+   "type": "хаб країни",
+   "positions": {
+    "spanien urlaub": 6
+   },
+   "other_positions": {
+    "spanien reise": 5,
+    "spanien urlaub mit flug": 5,
+    "urlaub buchen spanien": 6,
+    "kurzurlaub spanien": 8,
+    "billige urlaub spanien": 5,
+    "billiger urlaub spanien": 5,
+    "reise buchen spanien": 5,
+    "spanien reise günstig": 5,
+    "urlaub spanien günstig buchen": 5
+   },
+   "serp_title": "Spanien Urlaub günstig buchen mit ANEX Tour",
+   "best_position": 6,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.schauinsland-reisen.de/urlaubsziele/spanien",
+   "type": "хаб країни",
+   "positions": {
+    "spanien urlaub": 7,
+    "spanien meer urlaub": 6
+   },
+   "other_positions": {
+    "spanien reise": 8,
+    "spanien hotel und flug": 5,
+    "urlaub buchen spanien": 3,
+    "kurzurlaub spanien": 5,
+    "billige urlaub spanien": 8,
+    "billiger urlaub spanien": 6,
+    "spanien urlaub am meer flug und hotel": 1,
+    "kurzurlaub spanien mit flug": 6,
+    "spanien hotel und flug am meer": 5,
+    "reise buchen spanien": 4,
+    "spanien reise günstig": 9,
+    "urlaub spanien günstig buchen": 3
+   },
+   "serp_title": "Spanien Urlaub günstig buchen | Pauschalreise mit Flug ...",
+   "best_position": 6,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.loveholidays.com/de/urlaub/spanien/",
+   "type": "хаб країни",
+   "positions": {
+    "spanien urlaub": 8,
+    "festland spanien urlaub": 8
+   },
+   "other_positions": {
+    "spanien urlaub mit flug": 9,
+    "urlaub buchen spanien": 8,
+    "spanien holiday": 4,
+    "spanien urlaub am meer mit flug": 2,
+    "spanien urlaub am meer flug und hotel": 9
+   },
+   "serp_title": "Spanien Urlaub 2026/2027 | weloveholidays",
+   "best_position": 8,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.dertour.de/strandurlaub/spanien",
+   "type": "хаб країни",
+   "positions": {
+    "spanien meer urlaub": 9,
+    "spanien am meer": 3
+   },
+   "other_positions": {},
+   "serp_title": "Strandurlaub Spanien buchen DERTOUR",
+   "best_position": 3,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.rewe-reisen.de/themen/familienurlaub/spanien.html",
+   "type": "хаб країни",
+   "positions": {
+    "spanien mit kindern urlaub": 6
+   },
+   "other_positions": {},
+   "serp_title": "Familienurlaub Spanien bei REWE Reisen buchen",
+   "best_position": 6,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.sonnenklar.tv/urlaub/spanien.html",
+   "type": "хаб країни",
+   "positions": {
+    "spanien meer urlaub": 8
+   },
+   "other_positions": {
+    "kurztrip spanien": 8,
+    "billige urlaub spanien": 7,
+    "billiger urlaub spanien": 4,
+    "reise buchen spanien": 7,
+    "spanien reise günstig": 8,
+    "urlaub spanien günstig buchen": 4
+   },
+   "serp_title": "Spanien Urlaub 2026 / 2027 günstig buchen",
+   "best_position": 8,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.its.de/urlaubsziele/europa/spanien",
+   "type": "хаб країни",
+   "positions": {},
+   "other_positions": {
+    "strandurlaub spanien": 5,
+    "spanien urlaub mit flug": 1
+   },
+   "serp_title": "Urlaub Spanien günstig buchen - ITS",
+   "best_position": 1,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.ltur.com/de/reiseziele/spanien",
+   "type": "хаб країни",
+   "positions": {},
+   "other_positions": {
+    "spanien hotel und flug": 6,
+    "kurztrip spanien": 1,
+    "spanien urlaub am meer flug und hotel": 7,
+    "kurzurlaub spanien mit flug": 7,
+    "spanien hotel und flug am meer": 9
+   },
+   "serp_title": "Spanien Urlaub günstig buchen – Flug & Hotel",
+   "best_position": 1,
+   "only_flagged_keys": false
+  }
+ ],
+ "reserves": [
+  {
+   "url": "https://www.reise.de/familienurlaub/spanien/",
+   "type": "хаб країни",
+   "positions": {
+    "spanien mit kindern urlaub": 9
+   },
+   "other_positions": {},
+   "serp_title": "Familienurlaub Spanien 2026: Strand & Kultur",
+   "best_position": 9,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.lidl-reisen.de/familienurlaub/spanien",
+   "type": "хаб країни",
+   "positions": {},
+   "other_positions": {
+    "spanien familienurlaub": 1
+   },
+   "serp_title": "Familienurlaub in Spanien günstig buchen bei ...",
+   "best_position": 1,
+   "only_flagged_keys": false
+  }
+ ],
+ "excluded": [
+  {
+   "url": "https://holidays.eurowings.com/de-de/urlaub/spanien",
+   "keyword": "spanien hotel und flug",
+   "position": 1,
+   "reason": "сайт авіакомпанії (правило скіла для хабу)"
+  },
+  {
+   "url": "https://www.sunelia.com/de/sunelia-tipps/spanien-urlaub/",
+   "keyword": "spanien urlaubsorte",
+   "position": 1,
+   "reason": "довідкова стаття мережі кемпінгів, не туроператор (правило скіла для хабу)"
+  },
+  {
+   "url": "https://www.lidl-reisen.ch/familienferien/spanien",
+   "keyword": "spanien mit kindern urlaub",
+   "position": 4,
+   "reason": "швейцарський дубль lidl-reisen.de (рішення користувача)"
+  },
+  {
+   "url": "https://www.secretplaces.de/kollektion/strandhotels-und-villen-am-meer/spanien",
+   "keyword": "spanien am meer",
+   "position": 5,
+   "reason": "колекція бутик-готелів, не хаб турів (рішення користувача)"
+  }
+ ],
+ "confirmed": true,
+ "_note": "Покажіть список користувачу. Після підтвердження (або правок у цьому файлі) запустіть select_competitors.py --confirm."
+}

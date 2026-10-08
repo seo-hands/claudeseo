@@ -1,0 +1,5209 @@
+{
+ "page": "https://reisemu.de/tour/spanien",
+ "model": "jinaai/jina-embeddings-v2-base-de",
+ "model_info": {
+  "cache_dir": "E:/Work/claudeseo/models",
+  "fallback_used": false,
+  "downloaded": false,
+  "errors": [],
+  "model": "jinaai/jina-embeddings-v2-base-de"
+ },
+ "note": "Близькість рахує відкрита модель, а не Google: орієнтир поруч із частотністю й аналізом ТОП, а не замість них.",
+ "thresholds": {
+  "core": 0.8,
+  "mid": 0.65,
+  "term_min_competitors": 3,
+  "topic": 0.65,
+  "gap_min_competitors": 5,
+  "topic_text_share": 0.5
+ },
+ "references": [
+  "spanien urlaub",
+  "spanien meer urlaub",
+  "festland spanien urlaub",
+  "spanien am meer",
+  "spanien mit kindern urlaub"
+ ],
+ "competitors_used": [
+  "https://www.ab-in-den-urlaub.de/urlaub/europa/spanien",
+  "https://www.reise.de/familienurlaub/spanien/",
+  "https://www.lidl-reisen.de/urlaub/spanien",
+  "https://www.tui.com/urlaub/spanien/",
+  "https://www.anextour.de/urlaub/spanien/",
+  "https://www.schauinsland-reisen.de/urlaubsziele/spanien",
+  "https://www.lidl-reisen.de/familienurlaub/spanien",
+  "https://www.dertour.de/strandurlaub/spanien",
+  "https://www.rewe-reisen.de/themen/familienurlaub/spanien.html",
+  "https://www.sonnenklar.tv/urlaub/spanien.html",
+  "https://www.its.de/urlaubsziele/europa/spanien",
+  "https://www.ltur.com/de/reiseziele/spanien"
+ ],
+ "keywords": [
+  {
+   "keyword": "spanien urlaub",
+   "translation": "відпочинок в Іспанії",
+   "volume": 14800,
+   "sim_main": 1.0,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.836,
+    "festland spanien urlaub": 0.692,
+    "spanien am meer": 0.59,
+    "spanien mit kindern urlaub": 0.792
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.836,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien meer urlaub",
+   "translation": "відпочинок на морі в Іспанії",
+   "volume": 3600,
+   "sim_main": 0.836,
+   "sim_adjacent": {
+    "spanien meer urlaub": 1.0,
+    "festland spanien urlaub": 0.609,
+    "spanien am meer": 0.772,
+    "spanien mit kindern urlaub": 0.683
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 1.0,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "festland spanien urlaub",
+   "translation": "відпочинок у материковій Іспанії",
+   "volume": 1300,
+   "sim_main": 0.692,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.609,
+    "festland spanien urlaub": 1.0,
+    "spanien am meer": 0.453,
+    "spanien mit kindern urlaub": 0.577
+   },
+   "closest_adjacent": "festland spanien urlaub",
+   "sim_closest_adjacent": 1.0,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien am meer",
+   "translation": "Іспанія на морі",
+   "volume": 1300,
+   "sim_main": 0.59,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.772,
+    "festland spanien urlaub": 0.453,
+    "spanien am meer": 1.0,
+    "spanien mit kindern urlaub": 0.487
+   },
+   "closest_adjacent": "spanien am meer",
+   "sim_closest_adjacent": 1.0,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien mit kindern urlaub",
+   "translation": "відпочинок в Іспанії з дітьми",
+   "volume": 880,
+   "sim_main": 0.792,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.683,
+    "festland spanien urlaub": 0.577,
+    "spanien am meer": 0.487,
+    "spanien mit kindern urlaub": 1.0
+   },
+   "closest_adjacent": "spanien mit kindern urlaub",
+   "sim_closest_adjacent": 1.0,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien reise",
+   "translation": "подорож до Іспанії",
+   "volume": 880,
+   "sim_main": 0.872,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.718,
+    "festland spanien urlaub": 0.524,
+    "spanien am meer": 0.602,
+    "spanien mit kindern urlaub": 0.703
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.718,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien reiseziele",
+   "translation": "куди поїхати в Іспанії",
+   "volume": 880,
+   "sim_main": 0.815,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.716,
+    "festland spanien urlaub": 0.582,
+    "spanien am meer": 0.653,
+    "spanien mit kindern urlaub": 0.666
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.716,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien hotel und flug",
+   "translation": "Іспанія: готель і переліт",
+   "volume": 720,
+   "sim_main": 0.638,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.571,
+    "festland spanien urlaub": 0.448,
+    "spanien am meer": 0.429,
+    "spanien mit kindern urlaub": 0.528
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.571,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien urlaubsorte",
+   "translation": "курорти Іспанії",
+   "volume": 720,
+   "sim_main": 0.87,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.793,
+    "festland spanien urlaub": 0.669,
+    "spanien am meer": 0.632,
+    "spanien mit kindern urlaub": 0.713
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.793,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "strandurlaub spanien",
+   "translation": "пляжний відпочинок в Іспанії",
+   "volume": 720,
+   "sim_main": 0.74,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.773,
+    "festland spanien urlaub": 0.66,
+    "spanien am meer": 0.634,
+    "spanien mit kindern urlaub": 0.61
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.773,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "günstiger urlaub spanien",
+   "translation": "недорогий відпочинок в Іспанії",
+   "volume": 720,
+   "sim_main": 0.642,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.595,
+    "festland spanien urlaub": 0.49,
+    "spanien am meer": 0.419,
+    "spanien mit kindern urlaub": 0.578
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.595,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien urlaub mit flug",
+   "translation": "відпочинок в Іспанії з перельотом",
+   "volume": 590,
+   "sim_main": 0.754,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.69,
+    "festland spanien urlaub": 0.485,
+    "spanien am meer": 0.44,
+    "spanien mit kindern urlaub": 0.656
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.69,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "sommer ferien spanien",
+   "translation": "літні канікули в Іспанії",
+   "volume": 590,
+   "sim_main": 0.694,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.566,
+    "festland spanien urlaub": 0.622,
+    "spanien am meer": 0.385,
+    "spanien mit kindern urlaub": 0.544
+   },
+   "closest_adjacent": "festland spanien urlaub",
+   "sim_closest_adjacent": 0.622,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "festland spanien",
+   "translation": "материкова Іспанія",
+   "volume": 590,
+   "sim_main": 0.521,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.408,
+    "festland spanien urlaub": 0.909,
+    "spanien am meer": 0.455,
+    "spanien mit kindern urlaub": 0.415
+   },
+   "closest_adjacent": "festland spanien urlaub",
+   "sim_closest_adjacent": 0.909,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "urlaub spanien 2026",
+   "translation": "відпочинок в Іспанії 2026",
+   "volume": 390,
+   "sim_main": 0.655,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.599,
+    "festland spanien urlaub": 0.526,
+    "spanien am meer": 0.422,
+    "spanien mit kindern urlaub": 0.541
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.599,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "urlaub buchen spanien",
+   "translation": "забронювати відпочинок в Іспанії",
+   "volume": 390,
+   "sim_main": 0.759,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.67,
+    "festland spanien urlaub": 0.572,
+    "spanien am meer": 0.438,
+    "spanien mit kindern urlaub": 0.577
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.67,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien ferien",
+   "translation": "канікули в Іспанії",
+   "volume": 390,
+   "sim_main": 0.862,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.696,
+    "festland spanien urlaub": 0.721,
+    "spanien am meer": 0.485,
+    "spanien mit kindern urlaub": 0.687
+   },
+   "closest_adjacent": "festland spanien urlaub",
+   "sim_closest_adjacent": 0.721,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "kurzurlaub spanien",
+   "translation": "короткий відпочинок в Іспанії",
+   "volume": 390,
+   "sim_main": 0.817,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.684,
+    "festland spanien urlaub": 0.676,
+    "spanien am meer": 0.478,
+    "spanien mit kindern urlaub": 0.668
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.684,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien tourismus",
+   "translation": "туризм в Іспанії",
+   "volume": 390,
+   "sim_main": 0.789,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.664,
+    "festland spanien urlaub": 0.555,
+    "spanien am meer": 0.568,
+    "spanien mit kindern urlaub": 0.611
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.664,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien urlaub mit hund",
+   "translation": "відпочинок в Іспанії із собакою",
+   "volume": 320,
+   "sim_main": 0.772,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.687,
+    "festland spanien urlaub": 0.555,
+    "spanien am meer": 0.483,
+    "spanien mit kindern urlaub": 0.673
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.687,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "schönste strände spanien festland",
+   "translation": "найкращі пляжі материкової Іспанії",
+   "volume": 320,
+   "sim_main": 0.463,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.526,
+    "festland spanien urlaub": 0.632,
+    "spanien am meer": 0.578,
+    "spanien mit kindern urlaub": 0.359
+   },
+   "closest_adjacent": "festland spanien urlaub",
+   "sim_closest_adjacent": 0.632,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "schöne strände spanien festland",
+   "translation": "гарні пляжі материкової Іспанії",
+   "volume": 320,
+   "sim_main": 0.513,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.541,
+    "festland spanien urlaub": 0.718,
+    "spanien am meer": 0.573,
+    "spanien mit kindern urlaub": 0.407
+   },
+   "closest_adjacent": "festland spanien urlaub",
+   "sim_closest_adjacent": 0.718,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "schönsten strände spanien festland",
+   "translation": "найкращі пляжі материкової Іспанії",
+   "volume": 320,
+   "sim_main": 0.464,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.525,
+    "festland spanien urlaub": 0.638,
+    "spanien am meer": 0.577,
+    "spanien mit kindern urlaub": 0.364
+   },
+   "closest_adjacent": "festland spanien urlaub",
+   "sim_closest_adjacent": 0.638,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "ferien in spanien 2026",
+   "translation": "канікули в Іспанії 2026",
+   "volume": 260,
+   "sim_main": 0.611,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.546,
+    "festland spanien urlaub": 0.525,
+    "spanien am meer": 0.392,
+    "spanien mit kindern urlaub": 0.528
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.546,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "kurztrip spanien",
+   "translation": "коротка поїздка до Іспанії",
+   "volume": 260,
+   "sim_main": 0.722,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.594,
+    "festland spanien urlaub": 0.575,
+    "spanien am meer": 0.467,
+    "spanien mit kindern urlaub": 0.622
+   },
+   "closest_adjacent": "spanien mit kindern urlaub",
+   "sim_closest_adjacent": 0.622,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien urlaub inseln",
+   "translation": "відпочинок на островах Іспанії",
+   "volume": 210,
+   "sim_main": 0.737,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.835,
+    "festland spanien urlaub": 0.582,
+    "spanien am meer": 0.656,
+    "spanien mit kindern urlaub": 0.616
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.835,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien insel urlaub",
+   "translation": "відпочинок на острові в Іспанії",
+   "volume": 210,
+   "sim_main": 0.824,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.868,
+    "festland spanien urlaub": 0.647,
+    "spanien am meer": 0.61,
+    "spanien mit kindern urlaub": 0.676
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.868,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "schöne urlaubsorte spanien",
+   "translation": "гарні курорти Іспанії",
+   "volume": 210,
+   "sim_main": 0.686,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.653,
+    "festland spanien urlaub": 0.63,
+    "spanien am meer": 0.512,
+    "spanien mit kindern urlaub": 0.574
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.653,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spain holiday",
+   "translation": "відпочинок в Іспанії",
+   "volume": 210,
+   "sim_main": 0.804,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.619,
+    "festland spanien urlaub": 0.608,
+    "spanien am meer": 0.436,
+    "spanien mit kindern urlaub": 0.63
+   },
+   "closest_adjacent": "spanien mit kindern urlaub",
+   "sim_closest_adjacent": 0.63,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spain holidays",
+   "translation": "відпочинок в Іспанії",
+   "volume": 210,
+   "sim_main": 0.81,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.622,
+    "festland spanien urlaub": 0.603,
+    "spanien am meer": 0.412,
+    "spanien mit kindern urlaub": 0.649
+   },
+   "closest_adjacent": "spanien mit kindern urlaub",
+   "sim_closest_adjacent": 0.649,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien holiday",
+   "translation": "відпочинок в Іспанії",
+   "volume": 210,
+   "sim_main": 0.857,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.668,
+    "festland spanien urlaub": 0.642,
+    "spanien am meer": 0.491,
+    "spanien mit kindern urlaub": 0.665
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.668,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien schönste urlaubsorte",
+   "translation": "найкращі курорти Іспанії",
+   "volume": 210,
+   "sim_main": 0.752,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.729,
+    "festland spanien urlaub": 0.568,
+    "spanien am meer": 0.604,
+    "spanien mit kindern urlaub": 0.62
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.729,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien familienurlaub",
+   "translation": "сімейний відпочинок в Іспанії",
+   "volume": 170,
+   "sim_main": 0.807,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.676,
+    "festland spanien urlaub": 0.586,
+    "spanien am meer": 0.471,
+    "spanien mit kindern urlaub": 0.829
+   },
+   "closest_adjacent": "spanien mit kindern urlaub",
+   "sim_closest_adjacent": 0.829,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "billig urlaub spanien",
+   "translation": "дешевий відпочинок в Іспанії",
+   "volume": 170,
+   "sim_main": 0.625,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.595,
+    "festland spanien urlaub": 0.519,
+    "spanien am meer": 0.397,
+    "spanien mit kindern urlaub": 0.541
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.595,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "billige urlaub spanien",
+   "translation": "дешевий відпочинок в Іспанії",
+   "volume": 170,
+   "sim_main": 0.656,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.623,
+    "festland spanien urlaub": 0.544,
+    "spanien am meer": 0.407,
+    "spanien mit kindern urlaub": 0.57
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.623,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "billiger urlaub spanien",
+   "translation": "дешевий відпочинок в Іспанії",
+   "volume": 170,
+   "sim_main": 0.636,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.611,
+    "festland spanien urlaub": 0.52,
+    "spanien am meer": 0.408,
+    "spanien mit kindern urlaub": 0.567
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.611,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien urlaub am meer mit flug",
+   "translation": "відпочинок на морі в Іспанії з перельотом",
+   "volume": 110,
+   "sim_main": 0.67,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.813,
+    "festland spanien urlaub": 0.463,
+    "spanien am meer": 0.644,
+    "spanien mit kindern urlaub": 0.585
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.813,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien festland urlaub am meer",
+   "translation": "відпочинок на морі в материковій Іспанії",
+   "volume": 110,
+   "sim_main": 0.723,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.885,
+    "festland spanien urlaub": 0.774,
+    "spanien am meer": 0.749,
+    "spanien mit kindern urlaub": 0.594
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.885,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien urlaub mit auto",
+   "translation": "відпочинок в Іспанії на авто",
+   "volume": 90,
+   "sim_main": 0.735,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.625,
+    "festland spanien urlaub": 0.546,
+    "spanien am meer": 0.459,
+    "spanien mit kindern urlaub": 0.612
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.625,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien urlaub am meer flug und hotel",
+   "translation": "відпочинок на морі в Іспанії: переліт і готель",
+   "volume": 90,
+   "sim_main": 0.644,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.801,
+    "festland spanien urlaub": 0.483,
+    "spanien am meer": 0.615,
+    "spanien mit kindern urlaub": 0.533
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.801,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien festland urlaub strand",
+   "translation": "пляжний відпочинок у материковій Іспанії",
+   "volume": 90,
+   "sim_main": 0.679,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.73,
+    "festland spanien urlaub": 0.768,
+    "spanien am meer": 0.594,
+    "spanien mit kindern urlaub": 0.537
+   },
+   "closest_adjacent": "festland spanien urlaub",
+   "sim_closest_adjacent": 0.768,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "ferien spanien 2026 sommer",
+   "translation": "літні канікули в Іспанії 2026",
+   "volume": 70,
+   "sim_main": 0.612,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.553,
+    "festland spanien urlaub": 0.506,
+    "spanien am meer": 0.371,
+    "spanien mit kindern urlaub": 0.498
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.553,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "strandurlaub spanien festland",
+   "translation": "пляжний відпочинок у материковій Іспанії",
+   "volume": 70,
+   "sim_main": 0.646,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.682,
+    "festland spanien urlaub": 0.812,
+    "spanien am meer": 0.584,
+    "spanien mit kindern urlaub": 0.527
+   },
+   "closest_adjacent": "festland spanien urlaub",
+   "sim_closest_adjacent": 0.812,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "kann man mit aufenthaltstitel nach spanien reisen",
+   "translation": "чи можна їхати до Іспанії з посвідкою на проживання",
+   "volume": 70,
+   "sim_main": 0.601,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.497,
+    "festland spanien urlaub": 0.497,
+    "spanien am meer": 0.305,
+    "spanien mit kindern urlaub": 0.524
+   },
+   "closest_adjacent": "spanien mit kindern urlaub",
+   "sim_closest_adjacent": 0.524,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "kurzurlaub spanien mit flug",
+   "translation": "короткий відпочинок в Іспанії з перельотом",
+   "volume": 50,
+   "sim_main": 0.657,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.591,
+    "festland spanien urlaub": 0.504,
+    "spanien am meer": 0.377,
+    "spanien mit kindern urlaub": 0.589
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.591,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien hotel und flug am meer",
+   "translation": "Іспанія: готель на морі з перельотом",
+   "volume": 50,
+   "sim_main": 0.546,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.692,
+    "festland spanien urlaub": 0.414,
+    "spanien am meer": 0.633,
+    "spanien mit kindern urlaub": 0.445
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.692,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "ferien spanien 2027",
+   "translation": "канікули в Іспанії 2027",
+   "volume": 50,
+   "sim_main": 0.595,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.529,
+    "festland spanien urlaub": 0.497,
+    "spanien am meer": 0.354,
+    "spanien mit kindern urlaub": 0.494
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.529,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "party spanien festland",
+   "translation": "тусовочний відпочинок у материковій Іспанії",
+   "volume": 50,
+   "sim_main": 0.5,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.378,
+    "festland spanien urlaub": 0.772,
+    "spanien am meer": 0.356,
+    "spanien mit kindern urlaub": 0.405
+   },
+   "closest_adjacent": "festland spanien urlaub",
+   "sim_closest_adjacent": 0.772,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "reise buchen spanien",
+   "translation": "забронювати подорож до Іспанії",
+   "volume": 50,
+   "sim_main": 0.668,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.572,
+    "festland spanien urlaub": 0.446,
+    "spanien am meer": 0.389,
+    "spanien mit kindern urlaub": 0.513
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.572,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "reise nach spanien mit bus",
+   "translation": "подорож до Іспанії автобусом",
+   "volume": 50,
+   "sim_main": 0.485,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.42,
+    "festland spanien urlaub": 0.31,
+    "spanien am meer": 0.344,
+    "spanien mit kindern urlaub": 0.445
+   },
+   "closest_adjacent": "spanien mit kindern urlaub",
+   "sim_closest_adjacent": 0.445,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "reisen mit dem bus nach spanien",
+   "translation": "поїздки автобусом до Іспанії",
+   "volume": 50,
+   "sim_main": 0.52,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.444,
+    "festland spanien urlaub": 0.316,
+    "spanien am meer": 0.346,
+    "spanien mit kindern urlaub": 0.488
+   },
+   "closest_adjacent": "spanien mit kindern urlaub",
+   "sim_closest_adjacent": 0.488,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "spanien reise günstig",
+   "translation": "недорога подорож до Іспанії",
+   "volume": 50,
+   "sim_main": 0.697,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.604,
+    "festland spanien urlaub": 0.401,
+    "spanien am meer": 0.477,
+    "spanien mit kindern urlaub": 0.592
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.604,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "urlaub spanien günstig buchen",
+   "translation": "недорого забронювати відпочинок в Іспанії",
+   "volume": 50,
+   "sim_main": 0.629,
+   "sim_adjacent": {
+    "spanien meer urlaub": 0.573,
+    "festland spanien urlaub": 0.459,
+    "spanien am meer": 0.407,
+    "spanien mit kindern urlaub": 0.523
+   },
+   "closest_adjacent": "spanien meer urlaub",
+   "sim_closest_adjacent": 0.573,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  }
+ ],
+ "terms": [
+  {
+   "term": "Spanien",
+   "competitors": 12,
+   "of": 12,
+   "occurrences": 336,
+   "variants": [
+    "spaniens"
+   ],
+   "sim_main": 0.712,
+   "sim_best": 0.712,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": true,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Costa",
+   "competitors": 12,
+   "of": 12,
+   "occurrences": 113,
+   "variants": [],
+   "sim_main": 0.34,
+   "sim_best": 0.34,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Inseln",
+   "competitors": 12,
+   "of": 12,
+   "occurrences": 38,
+   "variants": [
+    "insel"
+   ],
+   "sim_main": 0.258,
+   "sim_best": 0.335,
+   "closest_ref": "spanien meer urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Urlaub in Spanien",
+   "competitors": 11,
+   "of": 12,
+   "occurrences": 45,
+   "variants": [],
+   "sim_main": 0.93,
+   "sim_best": 0.93,
+   "closest_ref": "spanien urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": true,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Strände",
+   "competitors": 11,
+   "of": 12,
+   "occurrences": 37,
+   "variants": [
+    "stränden"
+   ],
+   "sim_main": 0.362,
+   "sim_best": 0.485,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Mallorca",
+   "competitors": 11,
+   "of": 12,
+   "occurrences": 50,
+   "variants": [],
+   "sim_main": 0.391,
+   "sim_best": 0.456,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kanaren",
+   "competitors": 11,
+   "of": 12,
+   "occurrences": 44,
+   "variants": [],
+   "sim_main": 0.273,
+   "sim_best": 0.39,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Balearen",
+   "competitors": 10,
+   "of": 12,
+   "occurrences": 36,
+   "variants": [],
+   "sim_main": 0.472,
+   "sim_best": 0.577,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Andalusien",
+   "competitors": 10,
+   "of": 12,
+   "occurrences": 42,
+   "variants": [
+    "andalusiens"
+   ],
+   "sim_main": 0.522,
+   "sim_best": 0.522,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Mittelmeer",
+   "competitors": 10,
+   "of": 12,
+   "occurrences": 19,
+   "variants": [],
+   "sim_main": 0.305,
+   "sim_best": 0.51,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Barcelona",
+   "competitors": 10,
+   "of": 12,
+   "occurrences": 52,
+   "variants": [
+    "barcelonas"
+   ],
+   "sim_main": 0.44,
+   "sim_best": 0.44,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Gran Canaria",
+   "competitors": 10,
+   "of": 12,
+   "occurrences": 19,
+   "variants": [],
+   "sim_main": 0.384,
+   "sim_best": 0.397,
+   "closest_ref": "spanien am meer",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Hotel",
+   "competitors": 10,
+   "of": 12,
+   "occurrences": 130,
+   "variants": [
+    "hotels"
+   ],
+   "sim_main": 0.289,
+   "sim_best": 0.289,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sonne",
+   "competitors": 10,
+   "of": 12,
+   "occurrences": 23,
+   "variants": [],
+   "sim_main": 0.229,
+   "sim_best": 0.229,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Meer",
+   "competitors": 9,
+   "of": 12,
+   "occurrences": 39,
+   "variants": [],
+   "sim_main": 0.205,
+   "sim_best": 0.565,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Madrid",
+   "competitors": 9,
+   "of": 12,
+   "occurrences": 25,
+   "variants": [],
+   "sim_main": 0.483,
+   "sim_best": 0.483,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Küste",
+   "competitors": 9,
+   "of": 12,
+   "occurrences": 19,
+   "variants": [
+    "küsten"
+   ],
+   "sim_main": 0.268,
+   "sim_best": 0.473,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Fuerteventura",
+   "competitors": 9,
+   "of": 12,
+   "occurrences": 23,
+   "variants": [],
+   "sim_main": 0.334,
+   "sim_best": 0.464,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Reiseziele",
+   "competitors": 9,
+   "of": 12,
+   "occurrences": 17,
+   "variants": [
+    "reiseziel",
+    "reisezielen"
+   ],
+   "sim_main": 0.43,
+   "sim_best": 0.43,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Costa Blanca",
+   "competitors": 9,
+   "of": 12,
+   "occurrences": 19,
+   "variants": [],
+   "sim_main": 0.365,
+   "sim_best": 0.405,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kanarischen Inseln",
+   "competitors": 9,
+   "of": 12,
+   "occurrences": 14,
+   "variants": [],
+   "sim_main": 0.283,
+   "sim_best": 0.366,
+   "closest_ref": "spanien meer urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Costa del Sol",
+   "competitors": 9,
+   "of": 12,
+   "occurrences": 27,
+   "variants": [],
+   "sim_main": 0.353,
+   "sim_best": 0.353,
+   "closest_ref": "spanien urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ibiza",
+   "competitors": 9,
+   "of": 12,
+   "occurrences": 20,
+   "variants": [],
+   "sim_main": 0.334,
+   "sim_best": 0.334,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Halbinsel",
+   "competitors": 9,
+   "of": 12,
+   "occurrences": 13,
+   "variants": [],
+   "sim_main": 0.223,
+   "sim_best": 0.323,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Flug",
+   "competitors": 9,
+   "of": 12,
+   "occurrences": 83,
+   "variants": [],
+   "sim_main": 0.249,
+   "sim_best": 0.249,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Natur",
+   "competitors": 9,
+   "of": 12,
+   "occurrences": 15,
+   "variants": [],
+   "sim_main": 0.099,
+   "sim_best": 0.127,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Familienurlaub",
+   "competitors": 8,
+   "of": 12,
+   "occurrences": 58,
+   "variants": [],
+   "sim_main": 0.489,
+   "sim_best": 0.507,
+   "closest_ref": "spanien mit kindern urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Strand",
+   "competitors": 8,
+   "of": 12,
+   "occurrences": 44,
+   "variants": [],
+   "sim_main": 0.285,
+   "sim_best": 0.442,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kinder",
+   "competitors": 8,
+   "of": 12,
+   "occurrences": 25,
+   "variants": [
+    "kindern"
+   ],
+   "sim_main": 0.109,
+   "sim_best": 0.375,
+   "closest_ref": "spanien mit kindern urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Teneriffa",
+   "competitors": 8,
+   "of": 12,
+   "occurrences": 21,
+   "variants": [],
+   "sim_main": 0.316,
+   "sim_best": 0.375,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Costa Brava",
+   "competitors": 8,
+   "of": 12,
+   "occurrences": 28,
+   "variants": [],
+   "sim_main": 0.369,
+   "sim_best": 0.369,
+   "closest_ref": "spanien urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Playa",
+   "competitors": 8,
+   "of": 12,
+   "occurrences": 30,
+   "variants": [],
+   "sim_main": 0.333,
+   "sim_best": 0.333,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Palma",
+   "competitors": 8,
+   "of": 12,
+   "occurrences": 19,
+   "variants": [],
+   "sim_main": 0.267,
+   "sim_best": 0.267,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sehenswürdigkeiten",
+   "competitors": 8,
+   "of": 12,
+   "occurrences": 23,
+   "variants": [],
+   "sim_main": 0.19,
+   "sim_best": 0.252,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Familien",
+   "competitors": 8,
+   "of": 12,
+   "occurrences": 19,
+   "variants": [
+    "familie"
+   ],
+   "sim_main": 0.132,
+   "sim_best": 0.219,
+   "closest_ref": "spanien mit kindern urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Tapas",
+   "competitors": 8,
+   "of": 12,
+   "occurrences": 12,
+   "variants": [],
+   "sim_main": 0.214,
+   "sim_best": 0.214,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Lanzarote",
+   "competitors": 8,
+   "of": 12,
+   "occurrences": 14,
+   "variants": [],
+   "sim_main": 0.126,
+   "sim_best": 0.156,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kultur",
+   "competitors": 8,
+   "of": 12,
+   "occurrences": 20,
+   "variants": [],
+   "sim_main": 0.143,
+   "sim_best": 0.148,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Spanien Urlaub",
+   "competitors": 7,
+   "of": 12,
+   "occurrences": 27,
+   "variants": [],
+   "sim_main": 0.953,
+   "sim_best": 0.953,
+   "closest_ref": "spanien urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": true,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Strandurlaub",
+   "competitors": 7,
+   "of": 12,
+   "occurrences": 17,
+   "variants": [],
+   "sim_main": 0.576,
+   "sim_best": 0.622,
+   "closest_ref": "spanien meer urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Festland",
+   "competitors": 7,
+   "of": 12,
+   "occurrences": 24,
+   "variants": [
+    "festlands"
+   ],
+   "sim_main": 0.228,
+   "sim_best": 0.618,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Badeurlaub",
+   "competitors": 7,
+   "of": 12,
+   "occurrences": 13,
+   "variants": [
+    "badeurlauber"
+   ],
+   "sim_main": 0.559,
+   "sim_best": 0.559,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Iberischen Halbinsel",
+   "competitors": 7,
+   "of": 12,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.288,
+   "sim_best": 0.435,
+   "closest_ref": "spanien am meer",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Valencia",
+   "competitors": 7,
+   "of": 12,
+   "occurrences": 13,
+   "variants": [],
+   "sim_main": 0.358,
+   "sim_best": 0.392,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sommer",
+   "competitors": 7,
+   "of": 12,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.358,
+   "sim_best": 0.358,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Europas",
+   "competitors": 7,
+   "of": 12,
+   "occurrences": 11,
+   "variants": [
+    "europa"
+   ],
+   "sim_main": 0.344,
+   "sim_best": 0.344,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Reisezeit",
+   "competitors": 7,
+   "of": 12,
+   "occurrences": 13,
+   "variants": [],
+   "sim_main": 0.325,
+   "sim_best": 0.325,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Atlantik",
+   "competitors": 7,
+   "of": 12,
+   "occurrences": 12,
+   "variants": [],
+   "sim_main": 0.179,
+   "sim_best": 0.265,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Klima",
+   "competitors": 7,
+   "of": 12,
+   "occurrences": 15,
+   "variants": [],
+   "sim_main": 0.191,
+   "sim_best": 0.191,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Temperaturen",
+   "competitors": 7,
+   "of": 12,
+   "occurrences": 11,
+   "variants": [],
+   "sim_main": 0.183,
+   "sim_best": 0.183,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Metropolen",
+   "competitors": 7,
+   "of": 12,
+   "occurrences": 12,
+   "variants": [
+    "metropole"
+   ],
+   "sim_main": 0.104,
+   "sim_best": 0.147,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Geschichte",
+   "competitors": 7,
+   "of": 12,
+   "occurrences": 12,
+   "variants": [],
+   "sim_main": 0.109,
+   "sim_best": 0.109,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Familienurlaub in Spanien",
+   "competitors": 6,
+   "of": 12,
+   "occurrences": 20,
+   "variants": [],
+   "sim_main": 0.772,
+   "sim_best": 0.815,
+   "closest_ref": "spanien mit kindern urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": true,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sevilla",
+   "competitors": 6,
+   "of": 12,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.435,
+   "sim_best": 0.436,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sandstrände",
+   "competitors": 6,
+   "of": 12,
+   "occurrences": 8,
+   "variants": [
+    "sandstränden"
+   ],
+   "sim_main": 0.273,
+   "sim_best": 0.394,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Rundreise",
+   "competitors": 6,
+   "of": 12,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.345,
+   "sim_best": 0.345,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": "Rundreise",
+   "other_page": "/tour/spanien/rundreisen"
+  },
+  {
+   "term": "Pyrenäen",
+   "competitors": 6,
+   "of": 12,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.322,
+   "sim_best": 0.337,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Granada",
+   "competitors": 6,
+   "of": 12,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.311,
+   "sim_best": 0.311,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Wanderungen",
+   "competitors": 6,
+   "of": 12,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.276,
+   "sim_best": 0.276,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Buchten",
+   "competitors": 6,
+   "of": 12,
+   "occurrences": 14,
+   "variants": [],
+   "sim_main": 0.258,
+   "sim_best": 0.258,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Winter",
+   "competitors": 6,
+   "of": 12,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.236,
+   "sim_best": 0.236,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Entspannung",
+   "competitors": 6,
+   "of": 12,
+   "occurrences": 13,
+   "variants": [],
+   "sim_main": 0.225,
+   "sim_best": 0.225,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Paella",
+   "competitors": 6,
+   "of": 12,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.211,
+   "sim_best": 0.211,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Städten",
+   "competitors": 6,
+   "of": 12,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.135,
+   "sim_best": 0.171,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Highlights",
+   "competitors": 6,
+   "of": 12,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.136,
+   "sim_best": 0.136,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Wahl",
+   "competitors": 6,
+   "of": 12,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.107,
+   "sim_best": 0.107,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Spanien-Urlaub",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.963,
+   "sim_best": 0.963,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Urlaubsland",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.492,
+   "sim_best": 0.617,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ferien",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.516,
+   "sim_best": 0.516,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Traumstrände",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.337,
+   "sim_best": 0.451,
+   "closest_ref": "spanien meer urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Resorts",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 7,
+   "variants": [
+    "resort"
+   ],
+   "sim_main": 0.397,
+   "sim_best": 0.438,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Málaga",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.359,
+   "sim_best": 0.415,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "traumhaften Stränden",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 8,
+   "variants": [
+    "traumhafte strände"
+   ],
+   "sim_main": 0.27,
+   "sim_best": 0.406,
+   "closest_ref": "spanien meer urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Marbella",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.393,
+   "sim_best": 0.393,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sightseeing",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.334,
+   "sim_best": 0.334,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Dörfer",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.111,
+   "sim_best": 0.301,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Alhambra",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.271,
+   "sim_best": 0.271,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Besuch",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.263,
+   "sim_best": 0.263,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Wandern",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.249,
+   "sim_best": 0.249,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Dorada",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.231,
+   "sim_best": 0.231,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Lebensfreude",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.228,
+   "sim_best": 0.228,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Erholung",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 14,
+   "variants": [],
+   "sim_main": 0.217,
+   "sim_best": 0.217,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Orten",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.149,
+   "sim_best": 0.215,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Westküste",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.107,
+   "sim_best": 0.208,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Maspalomas",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.156,
+   "sim_best": 0.189,
+   "closest_ref": "spanien meer urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sport",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 12,
+   "variants": [],
+   "sim_main": 0.169,
+   "sim_best": 0.169,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "September",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.132,
+   "sim_best": 0.132,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Spezialitäten",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.131,
+   "sim_best": 0.131,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "August",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.091,
+   "sim_best": 0.113,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kathedrale",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.092,
+   "sim_best": 0.113,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Architektur",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.069,
+   "sim_best": 0.098,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Animation",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.091,
+   "sim_best": 0.091,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kunst",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.09,
+   "sim_best": 0.09,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Teide",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.03,
+   "sim_best": 0.077,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Hauptstadt",
+   "competitors": 5,
+   "of": 12,
+   "occurrences": 14,
+   "variants": [],
+   "sim_main": -0.013,
+   "sim_best": 0.006,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sommerurlaub",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.623,
+   "sim_best": 0.623,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Urlaubsangebote",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.519,
+   "sim_best": 0.519,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Mittelmeer und Atlantik",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.17,
+   "sim_best": 0.51,
+   "closest_ref": "spanien am meer",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "ans Meer",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.168,
+   "sim_best": 0.499,
+   "closest_ref": "spanien am meer",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Menorca",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 11,
+   "variants": [],
+   "sim_main": 0.354,
+   "sim_best": 0.485,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Reiseangebote",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.43,
+   "sim_best": 0.43,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Pauschalreise",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.421,
+   "sim_best": 0.421,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": "Pauschalreise",
+   "other_page": "/tour/spanien/pauschalreise"
+  },
+  {
+   "term": "Atlantikküste",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.189,
+   "sim_best": 0.402,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Katalonien",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [
+    "kataloniens"
+   ],
+   "sim_main": 0.373,
+   "sim_best": 0.373,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sagrada",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.352,
+   "sim_best": 0.352,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Flug und Hotel",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.338,
+   "sim_best": 0.338,
+   "closest_ref": "spanien urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Costa Dorada",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.336,
+   "sim_best": 0.336,
+   "closest_ref": "spanien urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sonne Strand",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.231,
+   "sim_best": 0.327,
+   "closest_ref": "spanien meer urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Costa Brava Costa",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.323,
+   "sim_best": 0.323,
+   "closest_ref": "spanien urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Badespaß",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.315,
+   "sim_best": 0.315,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Inselgruppe",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.227,
+   "sim_best": 0.291,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Landschaft",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [
+    "landschaften"
+   ],
+   "sim_main": 0.114,
+   "sim_best": 0.29,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Freizeitparks",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.237,
+   "sim_best": 0.29,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Wellness",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 15,
+   "variants": [],
+   "sim_main": 0.289,
+   "sim_best": 0.289,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Freizeitaktivitäten",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.285,
+   "sim_best": 0.285,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Entspannen",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.283,
+   "sim_best": 0.283,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Cala",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.274,
+   "sim_best": 0.274,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Gaudí",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.237,
+   "sim_best": 0.264,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Formentera",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.247,
+   "sim_best": 0.261,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Schnorcheln",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.25,
+   "sim_best": 0.25,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Vulkanlandschaften",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.044,
+   "sim_best": 0.249,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Abenteuer",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.234,
+   "sim_best": 0.244,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Alicante",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.239,
+   "sim_best": 0.239,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Gastfreundschaft",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.188,
+   "sim_best": 0.236,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Spaziergänge",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.223,
+   "sim_best": 0.223,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Flair",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.157,
+   "sim_best": 0.219,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Club",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.217,
+   "sim_best": 0.217,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Mietwagen",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.217,
+   "sim_best": 0.217,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Flamenco",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.175,
+   "sim_best": 0.215,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Aktivitäten",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.212,
+   "sim_best": 0.212,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sonnenstunden",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.208,
+   "sim_best": 0.208,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Teil",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.2,
+   "sim_best": 0.2,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Frühling",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.196,
+   "sim_best": 0.196,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Erlebnis",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.192,
+   "sim_best": 0.192,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Verpflegung",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.191,
+   "sim_best": 0.191,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Tauchen",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.159,
+   "sim_best": 0.186,
+   "closest_ref": "spanien meer urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Essen",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 18,
+   "variants": [],
+   "sim_main": 0.184,
+   "sim_best": 0.184,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Lage",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.164,
+   "sim_best": 0.18,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Leben",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.177,
+   "sim_best": 0.177,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Straßen",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.107,
+   "sim_best": 0.169,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Surfer",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [
+    "surfen"
+   ],
+   "sim_main": 0.119,
+   "sim_best": 0.168,
+   "closest_ref": "spanien meer urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Juli und August",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.156,
+   "sim_best": 0.161,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Last Minute",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.157,
+   "sim_best": 0.157,
+   "closest_ref": "spanien urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": "Last-Minute",
+   "other_page": "/tour/spanien/last-minute"
+  },
+  {
+   "term": "Wassersport",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.098,
+   "sim_best": 0.155,
+   "closest_ref": "spanien meer urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Park Güell",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.075,
+   "sim_best": 0.135,
+   "closest_ref": "festland spanien urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Herbst",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.133,
+   "sim_best": 0.133,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kilometer",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.072,
+   "sim_best": 0.129,
+   "closest_ref": "spanien am meer",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Deutschen",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.122,
+   "sim_best": 0.122,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Restaurants",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.122,
+   "sim_best": 0.122,
+   "closest_ref": "spanien urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kosten",
+   "competitors": 4,
+   "of": 12,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.112,
+   "sim_best": 0.116,
+   "closest_ref": "spanien meer urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  }
+ ],
+ "subtopics": [
+  {
+   "subtopic": "Familienurlaub in Spanien",
+   "competitors": 5,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de",
+    "reise.de",
+    "rewe-reisen.de",
+    "schauinsland-reisen.de",
+    "tui.com"
+   ],
+   "headings": [
+    "reise.de: Der perfekte Familienurlaub: Flüge und Hotels in Spanien",
+    "reise.de: Familienurlaub Spanien bei Reise.de buchen",
+    "lidl-reisen.de: Buchen Sie Ihren Familienurlaub in Spanien",
+    "tui.com: Familienurlaub in Spanien",
+    "schauinsland-reisen.de: Familienurlaub",
+    "lidl-reisen.de: Mit Ihrer Familie unvergesslichen Familienurlaub in Spanien erleben",
+    "reise.de: Welche Region in Spanien eignet sich am besten für einen Familienurlaub?",
+    "lidl-reisen.de: Die schönsten Ziele für Familienurlaub in Spanien",
+    "rewe-reisen.de: Die schönsten Reiseziele für Ihren Familienurlaub in Spanien"
+   ],
+   "topic_words": [
+    "familienurlaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.446,
+   "own_best_sim": 0.622,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": true
+  },
+  {
+   "subtopic": "Beliebte Urlaubsorte in Spanien",
+   "competitors": 5,
+   "of": 12,
+   "hosts": [
+    "ab-in-den-urlaub.de",
+    "its.de",
+    "lidl-reisen.de",
+    "ltur.com",
+    "tui.com"
+   ],
+   "headings": [
+    "ab-in-den-urlaub.de: Besonders beliebte Urlaubsarten in Spanien",
+    "tui.com: Beliebte Urlaubsorte in Spanien",
+    "ltur.com: Das sind die schönsten Urlaubsregionen",
+    "lidl-reisen.de: Die schönsten Reiseziele in Spanien",
+    "its.de: Weitere schöne Reiseziele",
+    "tui.com: Welche Urlaubsziele in Spanien interessieren Dich?"
+   ],
+   "topic_words": [
+    "reiseziel"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.483,
+   "own_best_sim": 0.805,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": true,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "лише заголовок або блок посилань, тексту немає",
+   "gap": true
+  },
+  {
+   "subtopic": "Klima & beste Reisezeit – Spanien",
+   "competitors": 5,
+   "of": 12,
+   "hosts": [
+    "ab-in-den-urlaub.de",
+    "lidl-reisen.de",
+    "ltur.com",
+    "reise.de",
+    "sonnenklar.tv"
+   ],
+   "headings": [
+    "ab-in-den-urlaub.de: Die beste Reisezeit für deinen Spanien Urlaub",
+    "lidl-reisen.de: Wann ist die beste Reisezeit für einen Urlaub in Spanien?",
+    "reise.de: Klima & beste Reisezeit – Spanien",
+    "ltur.com: Beste Reisezeit und Klimatabelle Spanien",
+    "sonnenklar.tv: Beste Reisezeit für Ihren Spanien Urlaub: Klima im Check"
+   ],
+   "topic_words": [
+    "reisezeit",
+    "klima"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.241,
+   "own_best_sim": 0.447,
+   "own_best_heading": "Spanien Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": true
+  },
+  {
+   "subtopic": "Weitere Reiseideen",
+   "competitors": 4,
+   "of": 12,
+   "hosts": [
+    "ab-in-den-urlaub.de",
+    "dertour.de",
+    "lidl-reisen.de",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "ab-in-den-urlaub.de: Aktivitäten für deine Spanien Reise",
+    "lidl-reisen.de: Weitere Reiseangebote für Spanien",
+    "dertour.de: Weitere Reiseideen",
+    "schauinsland-reisen.de: Top-Ziele für deine Pauschalreise: Spanien erleben"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.388,
+   "own_best_sim": 0.679,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": true,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "заголовок схожий, слів теми для перевірки тексту немає",
+   "gap": false
+  },
+  {
+   "subtopic": "Wann ist die beste Reisezeit für einen Spanien-Familienurlaub?",
+   "competitors": 3,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de",
+    "reise.de",
+    "tui.com"
+   ],
+   "headings": [
+    "reise.de: Wann ist die beste Reisezeit für einen Familienurlaub in Spanien?",
+    "tui.com: Wann ist die beste Zeit für Spanienurlaub?",
+    "lidl-reisen.de: Wann ist die beste Reisezeit für einen Spanien-Familienurlaub?",
+    "lidl-reisen.de: Wann ist ein Spanien-Urlaub besonders preiswert?"
+   ],
+   "topic_words": [
+    "reisezeit"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.633,
+   "own_best_sim": 0.553,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Durch Spaniens schönste Citys schlendern",
+   "competitors": 3,
+   "of": 12,
+   "hosts": [
+    "ab-in-den-urlaub.de",
+    "lidl-reisen.de",
+    "ltur.com"
+   ],
+   "headings": [
+    "ab-in-den-urlaub.de: Top Sehenswürdigkeiten in deinem Spanien-Urlaub",
+    "lidl-reisen.de: Die schönsten Städte Spaniens",
+    "ltur.com: Durch Spaniens schönste Citys schlendern"
+   ],
+   "topic_words": [
+    "spanien"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.587,
+   "own_best_sim": 0.803,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": true,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "лише заголовок або блок посилань, тексту немає",
+   "gap": false
+  },
+  {
+   "subtopic": "Balearen: Spaniens beliebteste Reiseziele für einen Familienurlaub",
+   "competitors": 3,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de",
+    "reise.de",
+    "rewe-reisen.de"
+   ],
+   "headings": [
+    "reise.de: Der wohl verdiente Familienurlaub: Spaniens Urlaubsangebot für Groß und Klein",
+    "lidl-reisen.de: Balearen: Spaniens beliebteste Reiseziele für einen Familienurlaub",
+    "rewe-reisen.de: Kinderfreundliche Urlaubsorte auf den Balearen"
+   ],
+   "topic_words": [
+    "balear",
+    "familienurlaub",
+    "spanien"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.66,
+   "own_best_sim": 0.675,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": true,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "лише заголовок або блок посилань, тексту немає",
+   "gap": false
+  },
+  {
+   "subtopic": "FAQ zum Urlaub in Spanien",
+   "competitors": 3,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de",
+    "sonnenklar.tv",
+    "tui.com"
+   ],
+   "headings": [
+    "lidl-reisen.de: FAQ zum Urlaub in Spanien",
+    "tui.com: Häufige Fragen zu Urlaub in Spanien",
+    "sonnenklar.tv: FAQ: Alles Wichtige für Ihren Urlaub in Spanien"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.11,
+   "own_best_sim": 0.216,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Familienurlaub auf den Kanarischen Inseln",
+   "competitors": 3,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de",
+    "ltur.com",
+    "rewe-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Kanarische Inseln: Familienurlaub für Groß und Klein",
+    "rewe-reisen.de: Familienurlaub auf den Kanarischen Inseln",
+    "ltur.com: Von der Sonne verwöhnt - Inselurlaub auf den Kanarischen Inseln"
+   ],
+   "topic_words": [
+    "insel",
+    "kanarisch",
+    "familienurlaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.512,
+   "own_best_sim": 0.432,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Andalusiens Traumstrände",
+   "competitors": 2,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de",
+    "ltur.com"
+   ],
+   "headings": [
+    "lidl-reisen.de: Die 5 schönsten Strände Spaniens",
+    "lidl-reisen.de: Andalusien – historische Sehenswürdigkeiten und paradiesische Strände",
+    "ltur.com: Andalusiens Traumstrände"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.527,
+   "own_best_sim": 0.622,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die Balearen",
+   "competitors": 2,
+   "of": 12,
+   "hosts": [
+    "ltur.com",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Die Balearen",
+    "ltur.com: Urlaub auf den Balearen",
+    "ltur.com: Entdecke die Balearen von ihrer schönsten Seite"
+   ],
+   "topic_words": [
+    "balear"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.512,
+   "own_best_sim": 0.562,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "In Spanien Urlaub machen: Sonne, Meer und vielfältige Eindrücke",
+   "competitors": 2,
+   "of": 12,
+   "hosts": [
+    "ab-in-den-urlaub.de",
+    "tui.com"
+   ],
+   "headings": [
+    "ab-in-den-urlaub.de: Urlaub in Spanien: Sonne, Strand und unvergessliche Erlebnisse",
+    "tui.com: In Spanien Urlaub machen: Sonne, Meer und vielfältige Eindrücke"
+   ],
+   "topic_words": [
+    "sonne"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.404,
+   "own_best_sim": 0.406,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Buchen Sie Ihren Urlaub in Spanien",
+   "competitors": 2,
+   "of": 12,
+   "hosts": [
+    "ab-in-den-urlaub.de",
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "ab-in-den-urlaub.de: Spanien Urlaub buchen: Das solltest du beachten",
+    "lidl-reisen.de: Buchen Sie Ihren Urlaub in Spanien"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.162,
+   "own_best_sim": 0.381,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Häufige Fragen zu Familienurlaub Spanien",
+   "competitors": 2,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de",
+    "reise.de"
+   ],
+   "headings": [
+    "reise.de: Häufige Fragen zu Familienurlaub Spanien",
+    "lidl-reisen.de: FAQ und Familienurlaub Spanien Tipps"
+   ],
+   "topic_words": [
+    "familienurlaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.36,
+   "own_best_sim": 0.343,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Spanien in allen Facetten",
+   "competitors": 2,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Spanien in allen Facetten",
+    "schauinsland-reisen.de: All Inclusive Urlaub"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.096,
+   "own_best_sim": 0.255,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die bekanntesten Sehenswürdigkeiten in Spanien",
+   "competitors": 2,
+   "of": 12,
+   "hosts": [
+    "ltur.com",
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Top-Sehenswürdigkeiten im Spanien Urlaub",
+    "ltur.com: Die bekanntesten Sehenswürdigkeiten in Spanien"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.062,
+   "own_best_sim": 0.621,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  }
+ ],
+ "subtopic_singletons": [
+  {
+   "subtopic": "Mit Lidl Reisen einen Familienurlaub in Spanien buchen",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Mit Lidl Reisen Urlaub in Spanien machen",
+    "lidl-reisen.de: Mit Lidl Reisen einen Familienurlaub in Spanien buchen"
+   ],
+   "topic_words": [
+    "familienurlaub",
+    "reis"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.338,
+   "own_best_sim": 0.388,
+   "own_best_heading": "Spanien Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Beliebte Reisethemen",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "its.de"
+   ],
+   "headings": [
+    "its.de: Urlaub in Spanien: Beliebte Reiseziele",
+    "its.de: Beliebte Reisethemen"
+   ],
+   "topic_words": [
+    "reisethem",
+    "reiseziel"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.337,
+   "own_best_sim": 0.903,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": true,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "лише заголовок або блок посилань, тексту немає",
+   "gap": false
+  },
+  {
+   "subtopic": "Reisen Spanien – Die beliebtesten 10000 Urlaubsangebote",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "ab-in-den-urlaub.de"
+   ],
+   "headings": [
+    "ab-in-den-urlaub.de: Reisen Spanien – Die beliebtesten 10000 Urlaubsangebote"
+   ],
+   "topic_words": [
+    "reis",
+    "urlaubsangebot"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.399,
+   "own_best_sim": 0.521,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Das macht deinen Spanien Urlaub so besonders",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "ab-in-den-urlaub.de"
+   ],
+   "headings": [
+    "ab-in-den-urlaub.de: Das macht deinen Spanien Urlaub so besonders"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.004,
+   "own_best_sim": 0.089,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wo kannst du in Spanien Urlaub machen?",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "ab-in-den-urlaub.de"
+   ],
+   "headings": [
+    "ab-in-den-urlaub.de: Wo kannst du in Spanien Urlaub machen?"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.163,
+   "own_best_sim": 0.304,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Dein Urlaub in Spanien: Erinnerungen, die bleiben",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "ab-in-den-urlaub.de"
+   ],
+   "headings": [
+    "ab-in-den-urlaub.de: Dein Urlaub in Spanien: Erinnerungen, die bleiben"
+   ],
+   "topic_words": [
+    "bleib",
+    "erinnerung"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.086,
+   "own_best_sim": 0.141,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ausgewählte Bewertungen zu Urlaub Spanien",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "ab-in-den-urlaub.de"
+   ],
+   "headings": [
+    "ab-in-den-urlaub.de: Ausgewählte Bewertungen zu Urlaub Spanien"
+   ],
+   "topic_words": [
+    "ausgewählt"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.075,
+   "own_best_sim": 0.361,
+   "own_best_heading": "Unsere Favoriten in Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Familienurlaub Spanien: Was im Paket steckt",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "reise.de"
+   ],
+   "headings": [
+    "reise.de: Familienurlaub Spanien: Was im Paket steckt"
+   ],
+   "topic_words": [
+    "familienurlaub",
+    "paket",
+    "steckt"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.351,
+   "own_best_sim": 0.33,
+   "own_best_heading": "Spanien Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wie lange dauert der Flug nach Spanien ab Deutschland?",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "reise.de"
+   ],
+   "headings": [
+    "reise.de: Wie lange dauert der Flug nach Spanien ab Deutschland?"
+   ],
+   "topic_words": [
+    "dauert",
+    "deutschland",
+    "flug",
+    "lange"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.149,
+   "own_best_sim": 0.264,
+   "own_best_heading": "Spanien Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Brauche ich für Spanien einen Reisepass?",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "reise.de"
+   ],
+   "headings": [
+    "reise.de: Brauche ich für Spanien einen Reisepass?"
+   ],
+   "topic_words": [
+    "brauch",
+    "reisepas"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.141,
+   "own_best_sim": 0.24,
+   "own_best_heading": "Spanien Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Beliebter Spanien Urlaub",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "reise.de"
+   ],
+   "headings": [
+    "reise.de: Beliebter Spanien Urlaub"
+   ],
+   "topic_words": [
+    "beliebt"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.15,
+   "own_best_sim": 0.356,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Spanien Urlaub: das ganze Jahr Sonne satt",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Spanien Urlaub: das ganze Jahr Sonne satt"
+   ],
+   "topic_words": [
+    "ganze",
+    "satt",
+    "sonne"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.287,
+   "own_best_sim": 0.195,
+   "own_best_heading": "Spanien Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Top-Ziele für Ihren Strandurlaub in Spanien",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Top-Ziele für Ihren Strandurlaub in Spanien"
+   ],
+   "topic_words": [
+    "strandurlaub",
+    "top-ziel"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.348,
+   "own_best_sim": 0.544,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Familienurlaub, Aktiv- oder Genussreise? Vom Inselhopping bis zum Roadtrip",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Familienurlaub, Aktiv- oder Genussreise? Vom Inselhopping bis zum Roadtrip"
+   ],
+   "topic_words": [
+    "aktiv",
+    "familienurlaub",
+    "genussreis",
+    "inselhopping",
+    "roadtrip"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.443,
+   "own_best_sim": 0.525,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wann buche ich am besten eine Spanien Reise?",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Wann buche ich am besten eine Spanien Reise?"
+   ],
+   "topic_words": [
+    "reise"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.285,
+   "own_best_sim": 0.483,
+   "own_best_heading": "Spanien Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wie kann ich bei einem Urlaub in Spanien sparen?",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Wie kann ich bei einem Urlaub in Spanien sparen?"
+   ],
+   "topic_words": [
+    "spar"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.088,
+   "own_best_sim": 0.367,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Zum Bestpreis nach Spanien: Buche deinen Winterurlaub im Warmen schon ab 349 €",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Zum Bestpreis nach Spanien: Buche deinen Winterurlaub im Warmen schon ab 349 €"
+   ],
+   "topic_words": [
+    "bestprei",
+    "schon",
+    "warm",
+    "winterurlaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.24,
+   "own_best_sim": 0.394,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "1 Woche Spanien Urlaub auf dem Festland inkl. Flug - Unsere TOP Angebote",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: 1 Woche Spanien Urlaub auf dem Festland inkl. Flug - Unsere TOP Angebote"
+   ],
+   "topic_words": [
+    "festland",
+    "flug"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.379,
+   "own_best_sim": 0.456,
+   "own_best_heading": "Spanien Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Urlaub in Spanien 2027 - für jeden Reisetypen das perfekte Angebot",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Urlaub in Spanien 2027 - für jeden Reisetypen das perfekte Angebot"
+   ],
+   "topic_words": [
+    "reisetyp"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.277,
+   "own_best_sim": 0.484,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Was Du in Spanien gesehen haben solltest - unsere Empfehlungen",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Was Du in Spanien gesehen haben solltest - unsere Empfehlungen"
+   ],
+   "topic_words": [
+    "geseh",
+    "solltest"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.081,
+   "own_best_sim": 0.357,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Nationalpark El Teide, Teneriffa",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Nationalpark El Teide, Teneriffa"
+   ],
+   "topic_words": [
+    "nationalpark",
+    "teide",
+    "teneriffa"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.198,
+   "own_best_sim": 0.273,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Playa de las Cantaras, Gran Canaria",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Playa de las Cantaras, Gran Canaria"
+   ],
+   "topic_words": [
+    "canaria",
+    "cantara",
+    "gran",
+    "playa"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.43,
+   "own_best_sim": 0.48,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Torre d’es Savinar, Ibiza",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Torre d’es Savinar, Ibiza"
+   ],
+   "topic_words": [
+    "ibiza",
+    "savinar",
+    "torre"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.327,
+   "own_best_sim": 0.387,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Sagrada Familie, Barcelona",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Sagrada Familie, Barcelona"
+   ],
+   "topic_words": [
+    "barcelona",
+    "famili",
+    "sagrada"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.426,
+   "own_best_sim": 0.404,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Basaltsäulen Los Organos, La Gomera",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Basaltsäulen Los Organos, La Gomera"
+   ],
+   "topic_words": [
+    "basaltsäul",
+    "gomera",
+    "organo"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.073,
+   "own_best_sim": 0.23,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Puig Major, Mallorca",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Puig Major, Mallorca"
+   ],
+   "topic_words": [
+    "major",
+    "mallorca",
+    "puig"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.234,
+   "own_best_sim": 0.297,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Schöne Strände in Spanien für jeden Geschmack",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Schöne Strände in Spanien für jeden Geschmack"
+   ],
+   "topic_words": [
+    "stränd"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.239,
+   "own_best_sim": 0.473,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wandern und andere Aktivitäten im Urlaub in Spanien",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Wandern und andere Aktivitäten im Urlaub in Spanien"
+   ],
+   "topic_words": [
+    "aktivität",
+    "wander"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.242,
+   "own_best_sim": 0.468,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Spanien – ein Urlaubsland voller Kultur und Geschichte",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Spanien – ein Urlaubsland voller Kultur und Geschichte"
+   ],
+   "topic_words": [
+    "geschicht",
+    "kultur",
+    "urlaubsland",
+    "voll"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.427,
+   "own_best_sim": 0.499,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Typisch Spanien Urlaub – was Du wissen solltest",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Typisch Spanien Urlaub – was Du wissen solltest"
+   ],
+   "topic_words": [
+    "solltest",
+    "typisch",
+    "wiss"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.022,
+   "own_best_sim": 0.121,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wo ist es am schönsten, Urlaub zu machen in Spanien?",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Wo ist es am schönsten, Urlaub zu machen in Spanien?"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.192,
+   "own_best_sim": 0.512,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wo in Spanien günstig Urlaub machen?",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Wo in Spanien günstig Urlaub machen?"
+   ],
+   "topic_words": [
+    "günstig"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.084,
+   "own_best_sim": 0.372,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wo liegt Spanien?",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Wo liegt Spanien?"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.117,
+   "own_best_sim": 0.331,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Welche kulinarischen Spezialitäten hat Spanien zu bieten?",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Welche kulinarischen Spezialitäten hat Spanien zu bieten?"
+   ],
+   "topic_words": [
+    "kulinarisch",
+    "spezialität"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.143,
+   "own_best_sim": 0.38,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Mit ANEX Tour nach Spanien fliegen!",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "anextour.de"
+   ],
+   "headings": [
+    "anextour.de: Mit ANEX Tour nach Spanien fliegen!"
+   ],
+   "topic_words": [
+    "flieg",
+    "tour"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.372,
+   "own_best_sim": 0.43,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Aktuelle Urlaubsangebote für Spanien",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "anextour.de"
+   ],
+   "headings": [
+    "anextour.de: Aktuelle Urlaubsangebote für Spanien"
+   ],
+   "topic_words": [
+    "aktuell",
+    "urlaubsangebot"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.467,
+   "own_best_sim": 0.656,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": true,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "лише заголовок або блок посилань, тексту немає",
+   "gap": false
+  },
+  {
+   "subtopic": "Für die Spanien Reise zu zweit",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "anextour.de"
+   ],
+   "headings": [
+    "anextour.de: Für die Spanien Reise zu zweit"
+   ],
+   "topic_words": [
+    "reise",
+    "zweit"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.294,
+   "own_best_sim": 0.413,
+   "own_best_heading": "Spanien Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Hier geht es direkt zu dem Abschnitt, der dich interessiert",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Hier geht es direkt zu dem Abschnitt, der dich interessiert"
+   ],
+   "topic_words": [
+    "abschnitt",
+    "direkt",
+    "interessiert"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.037,
+   "own_best_sim": 0.257,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Top-Hotels in Spanien",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Top-Hotels in Spanien"
+   ],
+   "topic_words": [
+    "top-hotel"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.096,
+   "own_best_sim": 0.478,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die vielen Facetten Spaniens: Von Inselmagie bis Festlandvielfalt",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Die vielen Facetten Spaniens: Von Inselmagie bis Festlandvielfalt"
+   ],
+   "topic_words": [
+    "facett",
+    "festlandvielfalt",
+    "inselmagi",
+    "spanien",
+    "viel"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.452,
+   "own_best_sim": 0.457,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die Kanaren",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Die Kanaren"
+   ],
+   "topic_words": [
+    "kanar"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.299,
+   "own_best_sim": 0.34,
+   "own_best_heading": "Unsere Favoriten in Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Das spanische Festland",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Das spanische Festland"
+   ],
+   "topic_words": [
+    "festland",
+    "spanisch"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.622,
+   "own_best_sim": 0.581,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Dein Spanienurlaub: Wir verreist du am liebsten?",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Dein Spanienurlaub: Wir verreist du am liebsten?"
+   ],
+   "topic_words": [
+    "liebst",
+    "spanienurlaub",
+    "verreist"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.701,
+   "own_best_sim": 0.611,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Adults-only-Urlaub",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Adults-only-Urlaub"
+   ],
+   "topic_words": [
+    "adults-only-urlaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.374,
+   "own_best_sim": 0.332,
+   "own_best_heading": "Spanien Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Badeurlaub",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Badeurlaub"
+   ],
+   "topic_words": [
+    "badeurlaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.559,
+   "own_best_sim": 0.333,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Hotels in Spanien: So facettenreich wie das Land selbst",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Hotels in Spanien: So facettenreich wie das Land selbst"
+   ],
+   "topic_words": [
+    "facettenreich",
+    "hotel",
+    "selbst"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.135,
+   "own_best_sim": 0.306,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Bereit spanische Lebensfreude zu erleben?",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Bereit spanische Lebensfreude zu erleben?"
+   ],
+   "topic_words": [
+    "bereit",
+    "lebensfreud",
+    "spanisch"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.603,
+   "own_best_sim": 0.51,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Entdecke Spanien:",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Entdecke Spanien:"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.22,
+   "own_best_sim": 0.303,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "FAQ – Von Stränden bis Städtereisen: Alles, was du über Spanien wissen musst",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: FAQ – Von Stränden bis Städtereisen: Alles, was du über Spanien wissen musst"
+   ],
+   "topic_words": [
+    "musst",
+    "stränd",
+    "städtereis",
+    "wiss"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.337,
+   "own_best_sim": 0.326,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Familienurlaub Spanien: Temperament, Tradition & Traumstädte",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Familienurlaub Spanien: Temperament, Tradition & Traumstädte"
+   ],
+   "topic_words": [
+    "familienurlaub",
+    "temperament",
+    "traditio",
+    "traumstädt"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.367,
+   "own_best_sim": 0.512,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Katalonien im Familienurlaub in Spanien entdecken",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Katalonien im Familienurlaub in Spanien entdecken"
+   ],
+   "topic_words": [
+    "familienurlaub",
+    "kataloni"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.515,
+   "own_best_sim": 0.481,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die Top-Ziele für den Urlaub",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "dertour.de"
+   ],
+   "headings": [
+    "dertour.de: Die Top-Ziele für den Urlaub"
+   ],
+   "topic_words": [
+    "top-ziel"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.06,
+   "own_best_sim": 0.459,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Mallorca – Traumstrände statt Party und Lärm",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "dertour.de"
+   ],
+   "headings": [
+    "dertour.de: Mallorca – Traumstrände statt Party und Lärm"
+   ],
+   "topic_words": [
+    "lärm",
+    "mallorca",
+    "party",
+    "statt",
+    "traumstränd"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.363,
+   "own_best_sim": 0.374,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Großer Badespaß für alle an der Costa del Sol",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "dertour.de"
+   ],
+   "headings": [
+    "dertour.de: Großer Badespaß für alle an der Costa del Sol"
+   ],
+   "topic_words": [
+    "badespaß",
+    "costa",
+    "groß"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.376,
+   "own_best_sim": 0.386,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ursprüngliches Badevergnügen auf den Kanaren",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "dertour.de"
+   ],
+   "headings": [
+    "dertour.de: Ursprüngliches Badevergnügen auf den Kanaren"
+   ],
+   "topic_words": [
+    "badevergnüg",
+    "kanar",
+    "ursprünglich"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.299,
+   "own_best_sim": 0.309,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Strandurlaub: Entdecke Spanien mit uns",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "dertour.de"
+   ],
+   "headings": [
+    "dertour.de: Strandurlaub: Entdecke Spanien mit uns"
+   ],
+   "topic_words": [
+    "strandurlaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.464,
+   "own_best_sim": 0.471,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Urlaub mit Kind in Spanien",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "rewe-reisen.de"
+   ],
+   "headings": [
+    "rewe-reisen.de: Urlaub mit Kind in Spanien"
+   ],
+   "topic_words": [
+    "kind"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.11,
+   "own_best_sim": 0.11,
+   "own_best_heading": "Spanien Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "REWE Reisen Service-Center",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "rewe-reisen.de"
+   ],
+   "headings": [
+    "rewe-reisen.de: REWE Reisen Service-Center"
+   ],
+   "topic_words": [
+    "reis",
+    "service-cent"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.124,
+   "own_best_sim": 0.37,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "5 Gründe für Ihren Urlaub in Spanien:",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "sonnenklar.tv"
+   ],
+   "headings": [
+    "sonnenklar.tv: 5 Gründe für Ihren Urlaub in Spanien:"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.026,
+   "own_best_sim": 0.133,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Bewertung für sonnenklar.TV – EUVIA Travel GmbH",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "sonnenklar.tv"
+   ],
+   "headings": [
+    "sonnenklar.tv: Bewertung für sonnenklar.TV – EUVIA Travel GmbH"
+   ],
+   "topic_words": [
+    "bewertung",
+    "euvia",
+    "travel"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.25,
+   "own_best_sim": 0.242,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "2533 Angebote für Spanien",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "its.de"
+   ],
+   "headings": [
+    "its.de: 2533 Angebote für Spanien"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.051,
+   "own_best_sim": 0.421,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Spanien: Urlaub unter südlicher Sonne",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "its.de"
+   ],
+   "headings": [
+    "its.de: Spanien: Urlaub unter südlicher Sonne"
+   ],
+   "topic_words": [
+    "sonne",
+    "südlich"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.161,
+   "own_best_sim": 0.143,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Erleben Sie den Zauber Spaniens bei einem Urlaub mit ITS!",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "its.de"
+   ],
+   "headings": [
+    "its.de: Erleben Sie den Zauber Spaniens bei einem Urlaub mit ITS!"
+   ],
+   "topic_words": [
+    "spanien",
+    "zaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.522,
+   "own_best_sim": 0.499,
+   "own_best_heading": "Unsere Favoriten in Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Mehr Spanien Angebote bei ltur",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "ltur.com"
+   ],
+   "headings": [
+    "ltur.com: Mehr Spanien Angebote bei ltur"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.158,
+   "own_best_sim": 0.494,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Entdecke Spanien: Infos und Tipps für deinen Urlaub",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "ltur.com"
+   ],
+   "headings": [
+    "ltur.com: Entdecke Spanien: Infos und Tipps für deinen Urlaub"
+   ],
+   "topic_words": [
+    "infos"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.111,
+   "own_best_sim": 0.27,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Was macht Spanien für einen Urlaub so interessant?",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "ltur.com"
+   ],
+   "headings": [
+    "ltur.com: Was macht Spanien für einen Urlaub so interessant?"
+   ],
+   "topic_words": [
+    "interessant"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.078,
+   "own_best_sim": 0.232,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Mit welchem Flieger geht es für dich nach Spanien?",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "ltur.com"
+   ],
+   "headings": [
+    "ltur.com: Mit welchem Flieger geht es für dich nach Spanien?"
+   ],
+   "topic_words": [
+    "flieg",
+    "welchem"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.118,
+   "own_best_sim": 0.288,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Von Wellness bis Action: Alles ist in Spanien möglich",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "ltur.com"
+   ],
+   "headings": [
+    "ltur.com: Von Wellness bis Action: Alles ist in Spanien möglich"
+   ],
+   "topic_words": [
+    "actio",
+    "möglich",
+    "wellnes"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.158,
+   "own_best_sim": 0.251,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Andalusien entdecken",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "ltur.com"
+   ],
+   "headings": [
+    "ltur.com: Andalusien entdecken"
+   ],
+   "topic_words": [
+    "andalusi"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.506,
+   "own_best_sim": 0.582,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Erholung auf den Kanaren",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "ltur.com"
+   ],
+   "headings": [
+    "ltur.com: Erholung auf den Kanaren"
+   ],
+   "topic_words": [
+    "erholung",
+    "kanar"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.298,
+   "own_best_sim": 0.3,
+   "own_best_heading": "Reiseziele Spaniens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Hinweise zu Einreise und Visum",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "ltur.com"
+   ],
+   "headings": [
+    "ltur.com: Hinweise zu Einreise und Visum"
+   ],
+   "topic_words": [
+    "einreis",
+    "hinweis",
+    "visum"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.242,
+   "own_best_sim": 0.286,
+   "own_best_heading": "Spanien Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wichtige Tipps von Trinkgeld bis Spezialitäten",
+   "competitors": 1,
+   "of": 12,
+   "hosts": [
+    "ltur.com"
+   ],
+   "headings": [
+    "ltur.com: Wichtige Tipps von Trinkgeld bis Spezialitäten"
+   ],
+   "topic_words": [
+    "spezialität",
+    "trinkgeld",
+    "wichtig"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.055,
+   "own_best_sim": 0.277,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  }
+ ],
+ "headings_total": 130,
+ "own_headings": [
+  "Last-Minute-Angebote",
+  "Unsere Favoriten in Spaniens",
+  "Beliebte Reiseziele",
+  "Reiseziele Spaniens",
+  "Spanien Reisen nach Monaten"
+ ]
+}
