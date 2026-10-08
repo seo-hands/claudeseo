@@ -25,8 +25,6 @@
     "schönste strände spanien festland",
     "schöne strände spanien festland",
     "schönsten strände spanien festland",
-    "spanien unterkunft",
-    "unterkünfte spanien",
     "ferien in spanien 2026",
     "kurztrip spanien",
     "spanien urlaub inseln",
@@ -50,16 +48,16 @@
     "party spanien festland"
    ],
    "head": "spanien urlaub",
-   "total": 32670,
+   "total": 32030,
    "intent": "informational",
    "page": "/tour/spanien",
    "top_type": "інше",
-   "top_share": 0.3589041095890411,
-   "top_count": "131/365",
+   "top_share": 0.3504273504273504,
+   "top_count": "123/351",
    "statuses": {
     "рекомендовано": 8,
-    "окрема сторінка не потрібна": 9,
-    "спірно (не перевірено)": 18,
+    "окрема сторінка не потрібна": 8,
+    "спірно (не перевірено)": 17,
     "спірно (SERP не підтверджено)": 7,
     "за рішенням власника": 1
    },
@@ -126,25 +124,27 @@
    "label": "K03 · spanien all inclusive urlaub"
   },
   {
-   "id": "K04a",
+   "id": "K04",
    "key": "hotel",
    "name": "Hotels Spanien",
    "members": [
-    "hotels spanien"
+    "hotels spanien",
+    "hotels spanien festland"
    ],
    "head": "hotels spanien",
-   "total": 2400,
+   "total": 2470,
    "intent": "commercial",
-   "page": "/tour/spanien",
-   "top_type": "інше",
-   "top_share": 0.42857142857142855,
-   "top_count": "3/7",
+   "page": "/hotels/spanien",
+   "top_type": "готель",
+   "top_share": 0.5,
+   "top_count": "7/14",
    "statuses": {
-    "окрема сторінка не потрібна": 1
+    "за бізнес-правилом": 1,
+    "рекомендовано": 1
    },
-   "split": true,
+   "split": false,
    "base": "K04",
-   "label": "K04a · hotels spanien"
+   "label": "K04 · hotels spanien"
   },
   {
    "id": "K05a",
@@ -202,6 +202,30 @@
    "split": false,
    "base": "K06",
    "label": "K06 · günstiger urlaub spanien"
+  },
+  {
+   "id": "K01b",
+   "key": "urlaub_core",
+   "name": "Spanien Urlaub: бронювання, рік, з перельотом",
+   "members": [
+    "spanien unterkunft",
+    "unterkünfte spanien",
+    "riu hotel spanien festland"
+   ],
+   "head": "spanien unterkunft",
+   "total": 730,
+   "intent": "transactional",
+   "page": "/hotels/spanien",
+   "top_type": "інше",
+   "top_share": 0.34782608695652173,
+   "top_count": "8/23",
+   "statuses": {
+    "за бізнес-правилом": 2,
+    "рекомендовано": 1
+   },
+   "split": true,
+   "base": "K01",
+   "label": "K01b · spanien unterkunft"
   },
   {
    "id": "K07",
@@ -417,48 +441,6 @@
    "label": "K15 · spanien oktober urlaub"
   },
   {
-   "id": "K01b",
-   "key": "urlaub_core",
-   "name": "Spanien Urlaub: бронювання, рік, з перельотом",
-   "members": [
-    "riu hotel spanien festland"
-   ],
-   "head": "riu hotel spanien festland",
-   "total": 90,
-   "intent": "navigational",
-   "page": "/hotels/spanien",
-   "top_type": "готель",
-   "top_share": 0.5555555555555556,
-   "top_count": "5/9",
-   "statuses": {
-    "рекомендовано": 1
-   },
-   "split": true,
-   "base": "K01",
-   "label": "K01b · riu hotel spanien festland"
-  },
-  {
-   "id": "K04b",
-   "key": "hotel",
-   "name": "Hotels Spanien",
-   "members": [
-    "hotels spanien festland"
-   ],
-   "head": "hotels spanien festland",
-   "total": 70,
-   "intent": "commercial",
-   "page": "/hotels/spanien",
-   "top_type": "готель",
-   "top_share": 0.7142857142857143,
-   "top_count": "5/7",
-   "statuses": {
-    "рекомендовано": 1
-   },
-   "split": true,
-   "base": "K04",
-   "label": "K04b · hotels spanien festland"
-  },
-  {
    "id": "K16",
    "key": "info_warnung",
    "name": "Spanien: Reisewarnung, Sicherheit, Auswärtiges Amt",
@@ -603,13 +585,13 @@
    ]
   },
   "hotels spanien": {
-   "page": "/tour/spanien",
+   "page": "/hotels/spanien",
    "cand": "/tour/spanien",
    "count": 2,
    "family": "hub",
    "fam_count": 2,
-   "status": "окрема сторінка не потрібна",
-   "note": "",
+   "status": "за бізнес-правилом",
+   "note": "Правило скіла: ключі зі словами Hotel/Hotels/Unterkunft/Unterkünfte без регіону й без іншого типу туру ведуть на сторінку готелів (hotels_page напрямку). У ТОП hotel-сторінок 2/7; за ТОП було б: /tour/spanien (окрема сторінка не потрібна).",
    "ranked": [
     [
      "/tour/spanien",
@@ -619,7 +601,10 @@
      "/hotels/spanien",
      2
     ]
-   ]
+   ],
+   "serp_page": "/tour/spanien",
+   "serp_status": "окрема сторінка не потрібна",
+   "business": "hotels"
   },
   "pauschalreise spanien": {
    "page": "/tour/spanien/pauschalreise",
@@ -1274,34 +1259,40 @@
    ]
   },
   "spanien unterkunft": {
-   "page": "/tour/spanien",
+   "page": "/hotels/spanien",
    "cand": "/tour/spanien",
    "count": 4,
    "family": "hub",
    "fam_count": 4,
-   "status": "спірно (не перевірено)",
-   "note": "",
+   "status": "за бізнес-правилом",
+   "note": "Правило скіла: ключі зі словами Hotel/Hotels/Unterkunft/Unterkünfte без регіону й без іншого типу туру ведуть на сторінку готелів (hotels_page напрямку). У ТОП hotel-сторінок 0/7; за ТОП було б: /tour/spanien (спірно (не перевірено)).",
    "ranked": [
     [
      "/tour/spanien",
      4
     ]
-   ]
+   ],
+   "serp_page": "/tour/spanien",
+   "serp_status": "спірно (не перевірено)",
+   "business": "hotels"
   },
   "unterkünfte spanien": {
-   "page": "/tour/spanien",
+   "page": "/hotels/spanien",
    "cand": "/tour/spanien",
    "count": 2,
    "family": "hub",
    "fam_count": 2,
-   "status": "окрема сторінка не потрібна",
-   "note": "",
+   "status": "за бізнес-правилом",
+   "note": "Правило скіла: ключі зі словами Hotel/Hotels/Unterkunft/Unterkünfte без регіону й без іншого типу туру ведуть на сторінку готелів (hotels_page напрямку). У ТОП hotel-сторінок 0/7; за ТОП було б: /tour/spanien (окрема сторінка не потрібна).",
    "ranked": [
     [
      "/tour/spanien",
      2
     ]
-   ]
+   ],
+   "serp_page": "/tour/spanien",
+   "serp_status": "окрема сторінка не потрібна",
+   "business": "hotels"
   },
   "alicante spanien urlaub": {
    "page": "/tour/spanien/alicante",

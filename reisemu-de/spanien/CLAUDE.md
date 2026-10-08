@@ -199,7 +199,8 @@
 - **повторний SERP для 11 непідтверджених ключів через 7–10 днів** (15–18 жовтня 2026): видалити їхні файли з serp-raw-regular, запустити fetch_serp.py, потім analyze.py
 - перевірка спірних — 2026-10-08; verify_landings --auto (holidaycheck.de віддає HTTP 400) і 4 пари хаб / all-inclusive (lidl-reisen, tui, sonnenklar.tv, ab-ins-blaue): різні H1, збіг тексту 0.00–0.02; вердикт у semantics-decisions.json: /tour/spanien/all-inclusive — окрема (5 ключів, 3 370 запитів перейшли з хаба)
 - рішення власника — 2026-10-08; semantics-decisions.json: видачу «spanien urlaub» звірено в браузері, 8 з 8 доменів збігаються з API; 14 нетуристичних ключів відфільтровано (5 020 запитів); /ratgeber не створюємо — «strandurlaub spanien festland» і «kann man mit aufenthaltstitel nach spanien reisen» на хаб (FAQ); «pauschalreise valencia spanien» → /tour/spanien/valencia, /valencia/pauschalreise не створюємо; решту розподілу прийнято
-- підсумок — 2026-10-08; recommendations-spanien.md; ключів 86, кластерів 19, сторінок 14; хаб 38 380, /pauschalreise 4 470 (нова), /all-inclusive 3 660, /reisehinweise 660 (нова), /last-minute 390 (нова), /rundreisen 390 (нова); «SERP не підтверджено» лишилось 11 ключів (3 330 запитів)
+- правило скіла «готелі» — 2026-10-08; ключі зі словами hotel|hotels|unterkunft|unterkünfte без регіону й без іншого типу туру → hotels_page (профіль de.json, skill_rules); «hotels spanien» (2 400), «spanien unterkunft» (320), «unterkünfte spanien» (320) перейшли з хаба на /hotels/spanien; «Hotel und Flug» (пакетні) лишились на хабі
+- підсумок — 2026-10-08; recommendations-spanien.md; ключів 86, кластерів 18, сторінок 14; хаб 35 340, /pauschalreise 4 470 (нова), /all-inclusive 3 660, /hotels/spanien 3 200, /reisehinweise 660 (нова), /last-minute 390 (нова), /rundreisen 390 (нова); «SERP не підтверджено» лишилось 11 ключів (3 330 запитів)
 
 ## tz-travel
 

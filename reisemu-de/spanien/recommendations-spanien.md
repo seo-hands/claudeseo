@@ -6,9 +6,10 @@
 
 | Сторінка | Стан | Кластери | Частотність |
 |---|---|---|---|
-| /tour/spanien | існує | K01a, K04a, K05a, K06 | 38 380 |
+| /tour/spanien | існує | K01a, K05a, K06 | 35 340 |
 | /tour/spanien/pauschalreise | нова | K02 | 4 470 |
 | /tour/spanien/all-inclusive | існує | K03 | 3 660 |
+| /hotels/spanien | існує | K04, K01b | 3 200 |
 | /tour/spanien/malaga | існує | K07 | 640 |
 | /tour/spanien/reisehinweise | нова | K08, K16 | 660 |
 | /tour/spanien/rundreisen | нова | K05b | 390 |
@@ -19,12 +20,14 @@
 | /tour/spanien/andalusien | існує | K13 | 210 |
 | /tour/spanien/barcelona | існує | K14 | 210 |
 | /tour/spanien/october | існує | K15 | 170 |
-| /hotels/spanien | існує | K01b, K04b | 160 |
 
-## Ключі «за бізнес-правилом» (2)
+## Ключі «за бізнес-правилом» (5)
 
 | Ключ | Частотність | Сторінка |
 |---|---|---|
+| hotels spanien | 2400 | /hotels/spanien |
+| spanien unterkunft | 320 | /hotels/spanien |
+| unterkünfte spanien | 320 | /hotels/spanien |
 | pauschalreise spanien all inclusive | 140 | /tour/spanien/pauschalreise |
 | spanien pauschalreisen all inclusive günstig | 70 | /tour/spanien/pauschalreise |
 
@@ -36,7 +39,7 @@
 | strandurlaub spanien festland | 70 | /tour/spanien |
 | pauschalreise valencia spanien | 50 | /tour/spanien/valencia |
 
-## Спірні без перевірки (3–4 з 10) (22)
+## Спірні без перевірки (3–4 з 10) (21)
 
 | Ключ | Частотність | Сторінка |
 |---|---|---|
@@ -49,7 +52,6 @@
 | spanien urlaub mit hund | 320 | /tour/spanien |
 | schöne strände spanien festland | 320 | /tour/spanien |
 | schönsten strände spanien festland | 320 | /tour/spanien |
-| spanien unterkunft | 320 | /tour/spanien |
 | spanien urlaub inseln | 210 | /tour/spanien |
 | spanien andalusien urlaub | 210 | /tour/spanien/andalusien |
 | schöne urlaubsorte spanien | 210 | /tour/spanien |
@@ -90,18 +92,19 @@
 
 ## Рекомендації
 
-1. **Хаб /tour/spanien — під «spanien urlaub» (14 800) і море/пляж.** На хаб розподілено 38 380 запитів; у ТОП головного ключа 7 з 8 сторінок — хаби країни (ab-in-den-urlaub, holidaycheck, lidl-reisen, tui, anextour, schauinsland-reisen, loveholidays). Title/H1 — «Spanien Urlaub», у тексті окремі секції під «Urlaub am Meer / Strandurlaub» (3 600 + 1 300 + 720), «mit Flug / Hotel und Flug» (590 + 720), «mit Kindern / Familienurlaub» (880 + 170), «günstig» (720 + 3×170), «Kurzurlaub» (390 + 260).
+1. **Хаб /tour/spanien — під «spanien urlaub» (14 800) і море/пляж.** На хаб розподілено 35 340 запитів; у ТОП головного ключа 7 з 8 сторінок — хаби країни (ab-in-den-urlaub, holidaycheck, lidl-reisen, tui, anextour, schauinsland-reisen, loveholidays). Title/H1 — «Spanien Urlaub», у тексті окремі секції під «Urlaub am Meer / Strandurlaub» (3 600 + 1 300 + 720), «mit Flug / Hotel und Flug» (590 + 720), «mit Kindern / Familienurlaub» (880 + 170), «günstig» (720 + 3×170), «Kurzurlaub» (390 + 260).
 2. **Секція «Spanien Festland» на хабі, окрема сторінка не потрібна.** «festland spanien urlaub» (1 300), «festland spanien» (590) і пляжні запити материка мають у ТОП «інше» й довідкові сторінки, хабів материка 1 з 8. Достатньо блоку H2 «Urlaub auf dem spanischen Festland» з посиланнями на costa-brava, costa-dorada, andalusien, valencia, alicante, malaga; «pauschalreise spanien festland» (320) іде на сторінку Pauschalreise.
 3. **Створити /tour/spanien/pauschalreise (4 470 запитів, 7 ключів).** Зараз адреса віддає 301 на хаб. ТОП підтверджує окремий тип: 8 з 9 для «pauschalreise spanien» (1 900) і «pauschalreise südspanien» (1 900). Хаб під Pauschalreise не оптимізуємо (бізнес-правило), з хаба — посилання на цю сторінку.
 4. **/tour/spanien/all-inclusive уже існує — закріпити за нею 3 660 запитів.** У ТОП тип all inclusive має 3–4 з 7–9 (спірно), але перевірка 4 доменів (lidl-reisen, tui, sonnenklar.tv, ab-ins-blaue) показала окремі сторінки з власним H1 і текстом (збіг 0.00–0.02), тому вердикт «окрема». Головні ключі: «spanien all inclusive urlaub» (1 600), «… mit flug 2026» (1 000). Хаб не має конкурувати за «all inclusive» у title/H1.
 5. **Нові сторінки меншого пріоритету:** /last-minute (390, ТОП 6 з 9), /reisehinweise («einreise spanien» 590 + «spanien urlaub gefährlich» 70), /rundreisen («reisen nach südspanien» 390, ТОП 6 з 9). Сторінки günstig, сезонів і kinder на сайті відсутні, тож ці модифікатори поки обслуговує хаб; «günstiger urlaub spanien» (720) має непідтверджений SERP.
 6. **Ядро почищено за рішенням власника (8 жовтня 2026).** 14 нетуристичних ключів (5 020 запитів: «auf spanien» 2 400, «urlaub spanisch» 480, «spanien flug günstig» 390, «in spanien» 320 та інші) перенесено у «Відфільтровані». Сторінку /ratgeber не створюємо: «strandurlaub spanien festland» (70) і «kann man mit aufenthaltstitel nach spanien reisen» (70) ведуть на хаб — другий закрити питанням у FAQ. «pauschalreise valencia spanien» (50) веде на наявну /tour/spanien/valencia, сторінку /valencia/pauschalreise не створюємо.
-7. **Основний попит на Іспанію лежить поза цим збором.** Зі словом «Spanien» регіони дають лише 1 800 запитів (malaga 640, alicante, mallorca, andalusien, barcelona, valencia); запити виду «mallorca urlaub», «kanaren urlaub», «teneriffa urlaub» слова теми не містять і в збір не потрапили. Наступний крок — окремі збори для Майорки, Канар (Тенерифе, Гран-Канарія, Фуертевентура, Лансароте), Коста-Брави й Андалусії у власних папках; сторінки під них на сайті вже є (46 регіональних), але хаб посилається лише на 5.
+7. **/hotels/spanien отримує готельні ключі (3 200 запитів).** «hotels spanien» (2 400), «spanien unterkunft» (320), «unterkünfte spanien» (320) ведуть на сторінку готелів за правилом скіла (слова Hotel/Unterkunft без регіону → hotels_page), разом із «riu hotel spanien festland» (90) і «hotels spanien festland» (70). Запити «Hotel und Flug» (720 + 90 + 50) — пакетні, лишаються на хабі. З хаба — посилання на /hotels/spanien.
+8. **Основний попит на Іспанію лежить поза цим збором.** Зі словом «Spanien» регіони дають лише 1 800 запитів (malaga 640, alicante, mallorca, andalusien, barcelona, valencia); запити виду «mallorca urlaub», «kanaren urlaub», «teneriffa urlaub» слова теми не містять і в збір не потрапили. Наступний крок — окремі збори для Майорки, Канар (Тенерифе, Гран-Канарія, Фуертевентура, Лансароте), Коста-Брави й Андалусії у власних папках; сторінки під них на сайті вже є (46 регіональних), але хаб посилається лише на 5.
 
 ## Обмеження
 
 - Видачу звірено вручну лише для головного ключа «spanien urlaub» (8 з 8 доменів збігаються з API); для решти вона може відрізнятись.
 - 11 ключів (3 330 запитів) мають статус «SERP не підтверджено»: жодна з 3 відповідей API не пройшла перевірку якості, сторінку визначено за типом ключа. Повторний збір — 15–18 жовтня 2026.
-- 22 ключі «спірно (не перевірено)» (3–4 з 10) пішли на ширшу сторінку; перевірено лише пару хаб / all-inclusive.
+- 21 ключ «спірно (не перевірено)» (3–4 з 10) пішли на ширшу сторінку; перевірено лише пару хаб / all-inclusive.
 - SERP-кластеризація (hard-4/soft-3) — лише довідка; основа — лема й інтент.
 - Частотність і CPC — DataForSEO Labs (google.de).

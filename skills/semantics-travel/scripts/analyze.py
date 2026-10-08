@@ -106,11 +106,13 @@ def run(workdir, S, args):
     NOTES.update(DEC["page_notes"])
     RULES = list(S.business_rules) + [r for r in DEC["business_rules"]]
     PROF = C.load_profile(S, workdir)
-    for r in PROF.get("skill_rules", []):      # permanent rules of the skill (safety / entry / visa -> Reisehinweise); applied last, so they win
-        pg = r["page"].replace("{page_base}", PB)
+    for r in PROF.get("skill_rules", []):      # permanent rules of the skill (safety / entry / visa -> Reisehinweise; hotel words -> hotels_page); applied last, so they win
+        if r.get("requires") and not S.get(r["requires"]):      # e.g. the hotels rule works only when the direction sets hotels_page
+            continue
+        pg = r["page"].replace("{page_base}", PB).replace("{hotels_page}", S.get("hotels_page") or "")
         for a, b in R.SLUG.items():
             pg = pg.replace("{" + a + "}", b)
-        RULES.append(dict(r, page=pg, exclude_patterns=[], exceptions=[]))
+        RULES.append(dict(r, page=pg, exclude_patterns=r.get("exclude_patterns", []), exceptions=[]))
     MOD_PAGES = [(re.compile(rx, re.I), pg) for rx, pg in S.modifier_pages]
     for _, pg in MOD_PAGES:
         NOTES.setdefault(pg, "Наявна посадкова сайту під модифікатор ключа (місяць, ціна, місто вильоту).")

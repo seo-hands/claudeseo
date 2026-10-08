@@ -485,6 +485,16 @@
    "family": "info",
    "page": "{page_base}/{info_hinweise}",
    "note": "Правило скіла: ключі про безпеку, в'їзд і візу належать до інформаційної сторінки Reisehinweise."
+  },
+  {
+   "name": "hotels",
+   "requires": "hotels_page",
+   "match": "(?<![a-zäöü])(hotels?|unterkunft|unterkünfte)(?![a-zäöü])",
+   "family": "hotel",
+   "page": "{hotels_page}",
+   "exclude_region": true,
+   "exclude_patterns": ["flug", "pauschal", "all[ -]?inclusive|all[ -]?inklusiv", "last ?minute"],
+   "note": "Правило скіла: ключі зі словами Hotel/Hotels/Unterkunft/Unterkünfte без регіону й без іншого типу туру ведуть на сторінку готелів (hotels_page напрямку)."
   }
  ],
  "seed_templates": {
