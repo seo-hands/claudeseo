@@ -1,0 +1,57 @@
+{
+ "business_rules": [],
+ "keyword_overrides": {
+  "strandurlaub spanien festland": {
+   "page": "/tour/spanien",
+   "reason": "/ratgeber не створюємо: ключ на хаб (секція Festland / FAQ)"
+  },
+  "kann man mit aufenthaltstitel nach spanien reisen": {
+   "page": "/tour/spanien",
+   "reason": "/ratgeber не створюємо: ключ на хаб (FAQ)"
+  },
+  "pauschalreise valencia spanien": {
+   "page": "/tour/spanien/valencia",
+   "reason": "окрему сторінку /valencia/pauschalreise не створюємо: наявна сторінка регіону"
+  }
+ },
+ "contested_verdicts": {
+  "/tour/spanien/all-inclusive": {
+   "verdict": "окрема",
+   "reason": "4 домени (lidl-reisen, tui, sonnenklar.tv, ab-ins-blaue) мають і хаб Spanien, і окрему сторінку Spanien All Inclusive: різні H1, збіг тексту 0.00–0.02"
+  }
+ },
+ "manual_check": {},
+ "page_notes": {},
+ "known_positions": {},
+ "manual_filter": {
+  "auf spanien": "рішення власника 2026-10-08: нетуристичний запит (уривок фрази / переклад слова)",
+  "in spanien": "рішення власника 2026-10-08: нетуристичний запит (уривок фрази / переклад слова)",
+  "urlaub spanisch": "рішення власника 2026-10-08: нетуристичний запит (уривок фрази / переклад слова)",
+  "ferien spanisch": "рішення власника 2026-10-08: нетуристичний запит (уривок фрази / переклад слова)",
+  "spanien ticket": "рішення власника 2026-10-08: нетуристичний запит (уривок фрази / переклад слова)",
+  "spanien flug günstig": "рішення власника 2026-10-08: нетуристичний запит (авіа / довідка)",
+  "deutschland nach spanien": "рішення власника 2026-10-08: нетуристичний запит (авіа / довідка)",
+  "flughäfen spanien festland": "рішення власника 2026-10-08: нетуристичний запит (авіа / довідка)",
+  "flughafen spanien festland": "рішення власника 2026-10-08: нетуристичний запит (авіа / довідка)",
+  "höchster berg spanien festland": "рішення власника 2026-10-08: нетуристичний запит (авіа / довідка)",
+  "wann sind sommerferien in spanien 2026": "рішення власника 2026-10-08: дати шкільних канікул, не туризм",
+  "wann sind ferien in spanien 2026": "рішення власника 2026-10-08: дати шкільних канікул, не туризм",
+  "wann sind in spanien ferien": "рішення власника 2026-10-08: дати шкільних канікул, не туризм",
+  "spanien ruf reisen": "рішення власника 2026-10-08: бренд туроператора (ruf Reisen)"
+ },
+ "page_overrides": {},
+ "region_pages": {},
+ "serp_manual_check": {
+  "keyword": "spanien urlaub",
+  "domains": [
+   "ab-in-den-urlaub.de",
+   "holidaycheck.de",
+   "lidl-reisen.de",
+   "sonnenklar.tv",
+   "tui.com",
+   "anextour.de",
+   "schauinsland-reisen.de",
+   "loveholidays.com"
+  ]
+ }
+}

@@ -1,0 +1,2842 @@
+{
+ "clusters": [
+  {
+   "id": "K01a",
+   "key": "urlaub_core",
+   "name": "Spanien Urlaub: бронювання, рік, з перельотом",
+   "members": [
+    "spanien urlaub",
+    "spanien meer urlaub",
+    "festland spanien urlaub",
+    "spanien am meer",
+    "spanien mit kindern urlaub",
+    "spanien hotel und flug",
+    "spanien urlaubsorte",
+    "strandurlaub spanien",
+    "spanien urlaub mit flug",
+    "sommer ferien spanien",
+    "festland spanien",
+    "urlaub spanien 2026",
+    "urlaub buchen spanien",
+    "spanien ferien",
+    "kurzurlaub spanien",
+    "spanien tourismus",
+    "spanien urlaub mit hund",
+    "schönste strände spanien festland",
+    "schöne strände spanien festland",
+    "schönsten strände spanien festland",
+    "spanien unterkunft",
+    "unterkünfte spanien",
+    "ferien in spanien 2026",
+    "kurztrip spanien",
+    "spanien urlaub inseln",
+    "spanien insel urlaub",
+    "schöne urlaubsorte spanien",
+    "spain holiday",
+    "spain holidays",
+    "spanien holiday",
+    "spanien schönste urlaubsorte",
+    "spanien familienurlaub",
+    "spanien urlaub am meer mit flug",
+    "spanien festland urlaub am meer",
+    "spanien urlaub mit auto",
+    "spanien urlaub am meer flug und hotel",
+    "spanien festland urlaub strand",
+    "ferien spanien 2026 sommer",
+    "strandurlaub spanien festland",
+    "kurzurlaub spanien mit flug",
+    "spanien hotel und flug am meer",
+    "ferien spanien 2027",
+    "party spanien festland"
+   ],
+   "head": "spanien urlaub",
+   "total": 32670,
+   "intent": "informational",
+   "page": "/tour/spanien",
+   "top_type": "інше",
+   "top_share": 0.3589041095890411,
+   "top_count": "131/365",
+   "statuses": {
+    "рекомендовано": 8,
+    "окрема сторінка не потрібна": 9,
+    "спірно (не перевірено)": 18,
+    "спірно (SERP не підтверджено)": 7,
+    "за рішенням власника": 1
+   },
+   "split": true,
+   "base": "K01",
+   "label": "K01a · spanien urlaub"
+  },
+  {
+   "id": "K02",
+   "key": "pauschal",
+   "name": "Pauschalreise Spanien",
+   "members": [
+    "pauschalreise spanien",
+    "pauschalreise südspanien",
+    "pauschalreise spanien festland",
+    "pauschalreise spanien all inclusive",
+    "pauschalreise spanien günstig",
+    "spanien pauschalreisen all inclusive günstig",
+    "spanien urlaub pauschalreise"
+   ],
+   "head": "pauschalreise spanien",
+   "total": 4470,
+   "intent": "commercial",
+   "page": "/tour/spanien/pauschalreise",
+   "top_type": "pauschalreise (країна)",
+   "top_share": 0.5901639344262295,
+   "top_count": "36/61",
+   "statuses": {
+    "рекомендовано": 5,
+    "за бізнес-правилом": 2
+   },
+   "split": false,
+   "base": "K02",
+   "label": "K02 · pauschalreise spanien"
+  },
+  {
+   "id": "K03",
+   "key": "allinclusive",
+   "name": "Spanien All Inclusive",
+   "members": [
+    "spanien all inclusive urlaub",
+    "spanien urlaub all inclusive mit flug 2026",
+    "urlaub spanien meer all inclusive mit flug",
+    "spanien urlaub günstig all inclusive",
+    "spanien urlaub mit flug und hotel all inclusive",
+    "spanien urlaub günstig all inclusive mit flug",
+    "urlaub spanien festland all inclusive",
+    "spanien festland all inclusive"
+   ],
+   "head": "spanien all inclusive urlaub",
+   "total": 3660,
+   "intent": "commercial",
+   "page": "/tour/spanien/all-inclusive",
+   "top_type": "all inclusive (країна)",
+   "top_share": 0.3939393939393939,
+   "top_count": "26/66",
+   "statuses": {
+    "спірно → підтверджено перевіркою": 5,
+    "спірно (SERP не підтверджено)": 1,
+    "рекомендовано": 2
+   },
+   "split": false,
+   "base": "K03",
+   "label": "K03 · spanien all inclusive urlaub"
+  },
+  {
+   "id": "K04a",
+   "key": "hotel",
+   "name": "Hotels Spanien",
+   "members": [
+    "hotels spanien"
+   ],
+   "head": "hotels spanien",
+   "total": 2400,
+   "intent": "commercial",
+   "page": "/tour/spanien",
+   "top_type": "інше",
+   "top_share": 0.42857142857142855,
+   "top_count": "3/7",
+   "statuses": {
+    "окрема сторінка не потрібна": 1
+   },
+   "split": true,
+   "base": "K04",
+   "label": "K04a · hotels spanien"
+  },
+  {
+   "id": "K05a",
+   "key": "reise",
+   "name": "Spanien Reise / Reisen: buchen, nach",
+   "members": [
+    "spanien reise",
+    "spanien reiseziele",
+    "kann man mit aufenthaltstitel nach spanien reisen",
+    "reise buchen spanien",
+    "reise nach spanien mit bus",
+    "reisen mit dem bus nach spanien"
+   ],
+   "head": "spanien reise",
+   "total": 1980,
+   "intent": "informational",
+   "page": "/tour/spanien",
+   "top_type": "хаб країни",
+   "top_share": 0.35294117647058826,
+   "top_count": "18/51",
+   "statuses": {
+    "рекомендовано": 2,
+    "окрема сторінка не потрібна": 1,
+    "за рішенням власника": 1,
+    "спірно (не перевірено)": 2
+   },
+   "split": true,
+   "base": "K05",
+   "label": "K05a · spanien reise"
+  },
+  {
+   "id": "K06",
+   "key": "urlaub_price",
+   "name": "Spanien Urlaub: günstig / billig / Schnäppchen",
+   "members": [
+    "günstiger urlaub spanien",
+    "billig urlaub spanien",
+    "billige urlaub spanien",
+    "billiger urlaub spanien",
+    "spanien reise günstig",
+    "urlaub spanien günstig buchen"
+   ],
+   "head": "günstiger urlaub spanien",
+   "total": 1330,
+   "intent": "commercial",
+   "page": "/tour/spanien",
+   "top_type": "хаб країни",
+   "top_share": 0.6111111111111112,
+   "top_count": "33/54",
+   "statuses": {
+    "спірно (SERP не підтверджено)": 1,
+    "спірно (не перевірено)": 1,
+    "рекомендовано": 4
+   },
+   "split": false,
+   "base": "K06",
+   "label": "K06 · günstiger urlaub spanien"
+  },
+  {
+   "id": "K07",
+   "key": "region_malaga",
+   "name": "Регіон: Malaga",
+   "members": [
+    "urlaub spanien malaga",
+    "málaga spanien urlaub"
+   ],
+   "head": "urlaub spanien malaga",
+   "total": 640,
+   "intent": "commercial",
+   "page": "/tour/spanien/malaga",
+   "top_type": "хаб регіону",
+   "top_share": 0.7222222222222222,
+   "top_count": "13/18",
+   "statuses": {
+    "рекомендовано": 2
+   },
+   "split": false,
+   "base": "K07",
+   "label": "K07 · urlaub spanien malaga"
+  },
+  {
+   "id": "K08",
+   "key": "info_einreise",
+   "name": "Spanien: Einreise, Personalausweis, Visum, Impfung",
+   "members": [
+    "einreise spanien"
+   ],
+   "head": "einreise spanien",
+   "total": 590,
+   "intent": "informational",
+   "page": "/tour/spanien/reisehinweise",
+   "top_type": "інформаційна",
+   "top_share": 0.5555555555555556,
+   "top_count": "5/9",
+   "statuses": {
+    "спірно (SERP не підтверджено)": 1
+   },
+   "split": false,
+   "base": "K08",
+   "label": "K08 · einreise spanien"
+  },
+  {
+   "id": "K05b",
+   "key": "reise",
+   "name": "Spanien Reise / Reisen: buchen, nach",
+   "members": [
+    "reisen nach südspanien"
+   ],
+   "head": "reisen nach südspanien",
+   "total": 390,
+   "intent": "informational",
+   "page": "/tour/spanien/rundreisen",
+   "top_type": "rundreise",
+   "top_share": 0.6666666666666666,
+   "top_count": "6/9",
+   "statuses": {
+    "рекомендовано": 1
+   },
+   "split": true,
+   "base": "K05",
+   "label": "K05b · reisen nach südspanien"
+  },
+  {
+   "id": "K09",
+   "key": "lastminute",
+   "name": "Last Minute Spanien",
+   "members": [
+    "spanien urlaub last minute"
+   ],
+   "head": "spanien urlaub last minute",
+   "total": 390,
+   "intent": "commercial",
+   "page": "/tour/spanien/last-minute",
+   "top_type": "last minute (країна)",
+   "top_share": 0.6666666666666666,
+   "top_count": "6/9",
+   "statuses": {
+    "рекомендовано": 1
+   },
+   "split": false,
+   "base": "K09",
+   "label": "K09 · spanien urlaub last minute"
+  },
+  {
+   "id": "K10",
+   "key": "region_alicante",
+   "name": "Регіон: Alicante",
+   "members": [
+    "alicante spanien urlaub"
+   ],
+   "head": "alicante spanien urlaub",
+   "total": 260,
+   "intent": "commercial",
+   "page": "/tour/spanien/alicante",
+   "top_type": "хаб регіону",
+   "top_share": 0.4444444444444444,
+   "top_count": "4/9",
+   "statuses": {
+    "спірно (SERP не підтверджено)": 1
+   },
+   "split": false,
+   "base": "K10",
+   "label": "K10 · alicante spanien urlaub"
+  },
+  {
+   "id": "K11",
+   "key": "region_mallorca",
+   "name": "Регіон: Mallorca",
+   "members": [
+    "spanien mallorca urlaub"
+   ],
+   "head": "spanien mallorca urlaub",
+   "total": 260,
+   "intent": "commercial",
+   "page": "/tour/spanien/mallorca",
+   "top_type": "хаб регіону",
+   "top_share": 0.75,
+   "top_count": "6/8",
+   "statuses": {
+    "рекомендовано": 1
+   },
+   "split": false,
+   "base": "K11",
+   "label": "K11 · spanien mallorca urlaub"
+  },
+  {
+   "id": "K12",
+   "key": "region_valencia",
+   "name": "Регіон: Valencia",
+   "members": [
+    "urlaub spanien valencia",
+    "pauschalreise valencia spanien"
+   ],
+   "head": "urlaub spanien valencia",
+   "total": 220,
+   "intent": "commercial",
+   "page": "/tour/spanien/valencia",
+   "top_type": "хаб регіону",
+   "top_share": 0.5,
+   "top_count": "9/18",
+   "statuses": {
+    "рекомендовано": 1,
+    "за рішенням власника": 1
+   },
+   "split": false,
+   "base": "K12",
+   "label": "K12 · urlaub spanien valencia"
+  },
+  {
+   "id": "K13",
+   "key": "region_andalusien",
+   "name": "Регіон: Andalusien",
+   "members": [
+    "spanien andalusien urlaub"
+   ],
+   "head": "spanien andalusien urlaub",
+   "total": 210,
+   "intent": "commercial",
+   "page": "/tour/spanien/andalusien",
+   "top_type": "rundreise",
+   "top_share": 0.375,
+   "top_count": "3/8",
+   "statuses": {
+    "спірно (не перевірено)": 1
+   },
+   "split": false,
+   "base": "K13",
+   "label": "K13 · spanien andalusien urlaub"
+  },
+  {
+   "id": "K14",
+   "key": "region_barcelona",
+   "name": "Регіон: Barcelona",
+   "members": [
+    "spanien barcelona urlaub"
+   ],
+   "head": "spanien barcelona urlaub",
+   "total": 210,
+   "intent": "commercial",
+   "page": "/tour/spanien/barcelona",
+   "top_type": "хаб регіону",
+   "top_share": 0.8,
+   "top_count": "8/10",
+   "statuses": {
+    "рекомендовано": 1
+   },
+   "split": false,
+   "base": "K14",
+   "label": "K14 · spanien barcelona urlaub"
+  },
+  {
+   "id": "K15",
+   "key": "urlaub_season",
+   "name": "Spanien Urlaub за місяцями",
+   "members": [
+    "spanien oktober urlaub"
+   ],
+   "head": "spanien oktober urlaub",
+   "total": 170,
+   "intent": "informational",
+   "page": "/tour/spanien/october",
+   "top_type": "хаб країни",
+   "top_share": 0.5,
+   "top_count": "4/8",
+   "statuses": {
+    "наявна посадкова (модифікатор)": 1
+   },
+   "split": false,
+   "base": "K15",
+   "label": "K15 · spanien oktober urlaub"
+  },
+  {
+   "id": "K01b",
+   "key": "urlaub_core",
+   "name": "Spanien Urlaub: бронювання, рік, з перельотом",
+   "members": [
+    "riu hotel spanien festland"
+   ],
+   "head": "riu hotel spanien festland",
+   "total": 90,
+   "intent": "navigational",
+   "page": "/hotels/spanien",
+   "top_type": "готель",
+   "top_share": 0.5555555555555556,
+   "top_count": "5/9",
+   "statuses": {
+    "рекомендовано": 1
+   },
+   "split": true,
+   "base": "K01",
+   "label": "K01b · riu hotel spanien festland"
+  },
+  {
+   "id": "K04b",
+   "key": "hotel",
+   "name": "Hotels Spanien",
+   "members": [
+    "hotels spanien festland"
+   ],
+   "head": "hotels spanien festland",
+   "total": 70,
+   "intent": "commercial",
+   "page": "/hotels/spanien",
+   "top_type": "готель",
+   "top_share": 0.7142857142857143,
+   "top_count": "5/7",
+   "statuses": {
+    "рекомендовано": 1
+   },
+   "split": true,
+   "base": "K04",
+   "label": "K04b · hotels spanien festland"
+  },
+  {
+   "id": "K16",
+   "key": "info_warnung",
+   "name": "Spanien: Reisewarnung, Sicherheit, Auswärtiges Amt",
+   "members": [
+    "spanien urlaub gefährlich"
+   ],
+   "head": "spanien urlaub gefährlich",
+   "total": 70,
+   "intent": "informational",
+   "page": "/tour/spanien/reisehinweise",
+   "top_type": "інформаційна",
+   "top_share": 0.8888888888888888,
+   "top_count": "8/9",
+   "statuses": {
+    "рекомендовано": 1
+   },
+   "split": false,
+   "base": "K16",
+   "label": "K16 · spanien urlaub gefährlich"
+  }
+ ],
+ "cross": [
+  [
+   "K05a · spanien reise",
+   "K06 · günstiger urlaub spanien",
+   8,
+   "reise buchen spanien  ↔  spanien reise günstig",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K02 · pauschalreise spanien",
+   "K03 · spanien all inclusive urlaub",
+   7,
+   "pauschalreise spanien all inclusive  ↔  spanien all inclusive urlaub",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/spanien/pauschalreise і /tour/spanien/all-inclusive): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K01a · spanien urlaub",
+   "K05a · spanien reise",
+   6,
+   "spanien urlaub  ↔  spanien reise",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K01a · spanien urlaub",
+   "K06 · günstiger urlaub spanien",
+   6,
+   "urlaub buchen spanien  ↔  billige urlaub spanien",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K01a · spanien urlaub",
+   "K15 · spanien oktober urlaub",
+   5,
+   "spanien urlaub  ↔  spanien oktober urlaub",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/spanien і /tour/spanien/october): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K02 · pauschalreise spanien",
+   "K06 · günstiger urlaub spanien",
+   5,
+   "pauschalreise spanien günstig  ↔  urlaub spanien günstig buchen",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/spanien/pauschalreise і /tour/spanien): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K01a · spanien urlaub",
+   "K02 · pauschalreise spanien",
+   4,
+   "kurzurlaub spanien mit flug  ↔  pauschalreise spanien all inclusive",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/spanien і /tour/spanien/pauschalreise): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K01a · spanien urlaub",
+   "K03 · spanien all inclusive urlaub",
+   4,
+   "kurzurlaub spanien mit flug  ↔  spanien urlaub günstig all inclusive mit flug",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/spanien і /tour/spanien/all-inclusive): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K02 · pauschalreise spanien",
+   "K05a · spanien reise",
+   3,
+   "pauschalreise spanien günstig  ↔  reise buchen spanien",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/spanien/pauschalreise і /tour/spanien): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K05a · spanien reise",
+   "K15 · spanien oktober urlaub",
+   3,
+   "spanien reise  ↔  spanien oktober urlaub",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/spanien і /tour/spanien/october): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K06 · günstiger urlaub spanien",
+   "K15 · spanien oktober urlaub",
+   3,
+   "billiger urlaub spanien  ↔  spanien oktober urlaub",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/spanien і /tour/spanien/october): ризик канібалізації, розвести інтент"
+  ]
+ ],
+ "decisions": {
+  "spanien urlaub": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 7,
+   "family": "hub",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     7
+    ],
+    [
+     "/tour/spanien/last-minute",
+     1
+    ]
+   ]
+  },
+  "spanien meer urlaub": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     5
+    ],
+    [
+     "/hotels/spanien",
+     1
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ]
+   ]
+  },
+  "hotels spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 2,
+   "family": "hub",
+   "fam_count": 2,
+   "status": "окрема сторінка не потрібна",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     2
+    ],
+    [
+     "/hotels/spanien",
+     2
+    ]
+   ]
+  },
+  "pauschalreise spanien": {
+   "page": "/tour/spanien/pauschalreise",
+   "cand": "/tour/spanien/pauschalreise",
+   "count": 8,
+   "family": "pauschal",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/pauschalreise",
+     8
+    ],
+    [
+     "/tour/spanien",
+     1
+    ]
+   ]
+  },
+  "pauschalreise südspanien": {
+   "page": "/tour/spanien/pauschalreise",
+   "cand": "/tour/spanien/pauschalreise",
+   "count": 8,
+   "family": "pauschal",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/pauschalreise",
+     8
+    ],
+    [
+     "/tour/spanien",
+     1
+    ]
+   ]
+  },
+  "spanien all inclusive urlaub": {
+   "page": "/tour/spanien/all-inclusive",
+   "cand": "/tour/spanien/all-inclusive",
+   "count": 4,
+   "family": "allinclusive",
+   "fam_count": 4,
+   "status": "спірно → підтверджено перевіркою",
+   "note": "4 домени (lidl-reisen, tui, sonnenklar.tv, ab-ins-blaue) мають і хаб Spanien, і окрему сторінку Spanien All Inclusive: різні H1, збіг тексту 0.00–0.02",
+   "ranked": [
+    [
+     "/tour/spanien/all-inclusive",
+     4
+    ],
+    [
+     "/tour/spanien",
+     1
+    ],
+    [
+     "/hotels/spanien",
+     1
+    ]
+   ]
+  },
+  "festland spanien urlaub": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 1,
+   "family": "hub",
+   "fam_count": 1,
+   "status": "окрема сторінка не потрібна",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     1
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ]
+   ]
+  },
+  "spanien am meer": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 3,
+   "family": "info",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     3
+    ],
+    [
+     "/tour/spanien",
+     2
+    ]
+   ]
+  },
+  "spanien urlaub all inclusive mit flug 2026": {
+   "page": "/tour/spanien/all-inclusive",
+   "cand": "/tour/spanien/all-inclusive",
+   "count": 4,
+   "family": "allinclusive",
+   "fam_count": 4,
+   "status": "спірно → підтверджено перевіркою",
+   "note": "4 домени (lidl-reisen, tui, sonnenklar.tv, ab-ins-blaue) мають і хаб Spanien, і окрему сторінку Spanien All Inclusive: різні H1, збіг тексту 0.00–0.02",
+   "ranked": [
+    [
+     "/tour/spanien/pauschalreise",
+     2
+    ],
+    [
+     "/tour/spanien/andalusien/all-inclusive",
+     2
+    ],
+    [
+     "/tour/spanien",
+     1
+    ]
+   ]
+  },
+  "spanien mit kindern urlaub": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     3
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     2
+    ],
+    [
+     "/hotels/spanien",
+     1
+    ]
+   ]
+  },
+  "spanien reise": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     5
+    ],
+    [
+     "/tour/spanien/last-minute",
+     1
+    ]
+   ]
+  },
+  "spanien reiseziele": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 1,
+   "family": "hub",
+   "fam_count": 1,
+   "status": "окрема сторінка не потрібна",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     1
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ]
+   ]
+  },
+  "günstiger urlaub spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/last-minute",
+   "count": 0,
+   "family": "lastminute",
+   "fam_count": 3,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/hotels/spanien",
+     2
+    ],
+    [
+     "/tour/spanien/last-minute",
+     1
+    ],
+    [
+     "/tour/spanien/costa-de-la-luz",
+     1
+    ]
+   ],
+   "serp_page": "/tour/spanien",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "spanien hotel und flug": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     4
+    ],
+    [
+     "/tour/spanien/pauschalreise",
+     2
+    ],
+    [
+     "/tour/spanien/rundreisen",
+     1
+    ]
+   ]
+  },
+  "spanien urlaubsorte": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 2,
+   "family": "info",
+   "fam_count": 2,
+   "status": "окрема сторінка не потрібна",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     2
+    ],
+    [
+     "/tour/spanien",
+     1
+    ]
+   ]
+  },
+  "strandurlaub spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     3
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     3
+    ]
+   ]
+  },
+  "spanien urlaub mit flug": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     5
+    ],
+    [
+     "/tour/spanien/pauschalreise",
+     2
+    ],
+    [
+     "/tour/spanien/rundreisen",
+     1
+    ]
+   ]
+  },
+  "sommer ferien spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 3,
+   "family": "info",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     3
+    ],
+    [
+     "/tour/spanien",
+     2
+    ],
+    [
+     "/hotels/spanien",
+     1
+    ]
+   ]
+  },
+  "festland spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 1,
+   "family": "info",
+   "fam_count": 1,
+   "status": "окрема сторінка не потрібна",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ]
+   ]
+  },
+  "einreise spanien": {
+   "page": "/tour/spanien/reisehinweise",
+   "cand": "/tour/spanien/reisehinweise",
+   "count": 0,
+   "family": "info",
+   "fam_count": 5,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/spanien/reisehinweise",
+     5
+    ],
+    [
+     "/tour/spanien",
+     1
+    ]
+   ],
+   "serp_page": "/tour/spanien/reisehinweise",
+   "serp_status": "рекомендовано"
+  },
+  "spanien urlaub last minute": {
+   "page": "/tour/spanien/last-minute",
+   "cand": "/tour/spanien/last-minute",
+   "count": 6,
+   "family": "lastminute",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/last-minute",
+     6
+    ],
+    [
+     "/tour/spanien",
+     2
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ]
+   ]
+  },
+  "urlaub spanien 2026": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 2,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/spanien/barcelona",
+     1
+    ],
+    [
+     "/tour/spanien/pauschalreise",
+     1
+    ],
+    [
+     "/tour/spanien/costa-de-la-luz",
+     1
+    ]
+   ],
+   "serp_page": "/tour/spanien",
+   "serp_status": "окрема сторінка не потрібна"
+  },
+  "urlaub buchen spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 8,
+   "family": "hub",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     8
+    ],
+    [
+     "/tour/spanien/last-minute",
+     1
+    ]
+   ]
+  },
+  "urlaub spanien meer all inclusive mit flug": {
+   "page": "/tour/spanien/all-inclusive",
+   "cand": "/tour/spanien/all-inclusive",
+   "count": 3,
+   "family": "allinclusive",
+   "fam_count": 3,
+   "status": "спірно → підтверджено перевіркою",
+   "note": "4 домени (lidl-reisen, tui, sonnenklar.tv, ab-ins-blaue) мають і хаб Spanien, і окрему сторінку Spanien All Inclusive: різні H1, збіг тексту 0.00–0.02",
+   "ranked": [
+    [
+     "/tour/spanien/all-inclusive",
+     3
+    ],
+    [
+     "/tour/spanien",
+     1
+    ],
+    [
+     "/hotels/spanien",
+     1
+    ]
+   ]
+  },
+  "spanien ferien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 2,
+   "family": "hub",
+   "fam_count": 2,
+   "status": "окрема сторінка не потрібна",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     2
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     2
+    ]
+   ]
+  },
+  "kurzurlaub spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     5
+    ],
+    [
+     "/tour/spanien/last-minute",
+     2
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ]
+   ]
+  },
+  "reisen nach südspanien": {
+   "page": "/tour/spanien/rundreisen",
+   "cand": "/tour/spanien/rundreisen",
+   "count": 6,
+   "family": "rundreise",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/rundreisen",
+     6
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ],
+    [
+     "/tour/spanien/andalusien",
+     1
+    ]
+   ]
+  },
+  "spanien tourismus": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 3,
+   "family": "info",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     3
+    ]
+   ]
+  },
+  "spanien urlaub mit hund": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     4
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ]
+   ]
+  },
+  "urlaub spanien malaga": {
+   "page": "/tour/spanien/malaga",
+   "cand": "/tour/spanien/malaga",
+   "count": 7,
+   "family": "hub",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/malaga",
+     7
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ],
+    [
+     "/tour/spanien/malaga/all-inclusive",
+     1
+    ]
+   ]
+  },
+  "málaga spanien urlaub": {
+   "page": "/tour/spanien/malaga",
+   "cand": "/tour/spanien/malaga",
+   "count": 7,
+   "family": "hub",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/malaga",
+     7
+    ],
+    [
+     "/tour/spanien/malaga/pauschalreise",
+     1
+    ],
+    [
+     "/tour/spanien/malaga/all-inclusive",
+     1
+    ]
+   ]
+  },
+  "pauschalreise spanien festland": {
+   "page": "/tour/spanien/pauschalreise",
+   "cand": "/tour/spanien/pauschalreise",
+   "count": 5,
+   "family": "pauschal",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/pauschalreise",
+     5
+    ],
+    [
+     "/tour/spanien",
+     1
+    ]
+   ]
+  },
+  "schönste strände spanien festland": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 0,
+   "family": "info",
+   "fam_count": 3,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     3
+    ]
+   ],
+   "serp_page": "/tour/spanien",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "schöne strände spanien festland": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 4,
+   "family": "info",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     4
+    ]
+   ]
+  },
+  "schönsten strände spanien festland": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 4,
+   "family": "info",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     4
+    ]
+   ]
+  },
+  "spanien unterkunft": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     4
+    ]
+   ]
+  },
+  "unterkünfte spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 2,
+   "family": "hub",
+   "fam_count": 2,
+   "status": "окрема сторінка не потрібна",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     2
+    ]
+   ]
+  },
+  "alicante spanien urlaub": {
+   "page": "/tour/spanien/alicante",
+   "cand": "/tour/spanien/alicante",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 7,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/spanien/alicante",
+     7
+    ],
+    [
+     "/tour/spanien/alicante/last-minute",
+     1
+    ],
+    [
+     "/tour/spanien/alicante/pauschalreise",
+     1
+    ]
+   ],
+   "serp_page": "/tour/spanien/alicante",
+   "serp_status": "рекомендовано"
+  },
+  "spanien mallorca urlaub": {
+   "page": "/tour/spanien/mallorca",
+   "cand": "/tour/spanien/mallorca",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/mallorca",
+     6
+    ],
+    [
+     "/tour/spanien/mallorca/all-inclusive",
+     1
+    ],
+    [
+     "/tour/spanien/mallorca/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "ferien in spanien 2026": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/spanien/madrid",
+     1
+    ],
+    [
+     "/tour/spanien/mallorca",
+     1
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ]
+   ],
+   "serp_page": "/tour/spanien",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "kurztrip spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     4
+    ],
+    [
+     "/tour/spanien/mallorca",
+     1
+    ],
+    [
+     "/tour/spanien/barcelona",
+     1
+    ]
+   ]
+  },
+  "spanien urlaub inseln": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 3,
+   "family": "info",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     3
+    ],
+    [
+     "/tour/spanien",
+     2
+    ]
+   ]
+  },
+  "spanien insel urlaub": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 1,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/hotels/spanien",
+     1
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ],
+    [
+     "/tour/spanien/teneriffa",
+     1
+    ]
+   ],
+   "serp_page": "/tour/spanien",
+   "serp_status": "окрема сторінка не потрібна"
+  },
+  "spanien andalusien urlaub": {
+   "page": "/tour/spanien/andalusien",
+   "cand": "/tour/spanien/rundreisen",
+   "count": 3,
+   "family": "rundreise",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/rundreisen",
+     3
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     2
+    ],
+    [
+     "/tour/spanien/andalusien",
+     2
+    ]
+   ]
+  },
+  "spanien urlaub günstig all inclusive": {
+   "page": "/tour/spanien/all-inclusive",
+   "cand": "/tour/spanien/all-inclusive",
+   "count": 3,
+   "family": "allinclusive",
+   "fam_count": 3,
+   "status": "спірно → підтверджено перевіркою",
+   "note": "4 домени (lidl-reisen, tui, sonnenklar.tv, ab-ins-blaue) мають і хаб Spanien, і окрему сторінку Spanien All Inclusive: різні H1, збіг тексту 0.00–0.02",
+   "ranked": [
+    [
+     "/hotels/spanien",
+     2
+    ],
+    [
+     "/tour/spanien/all-inclusive",
+     2
+    ],
+    [
+     "/tour/spanien/pauschalreise",
+     2
+    ]
+   ]
+  },
+  "spanien barcelona urlaub": {
+   "page": "/tour/spanien/barcelona",
+   "cand": "/tour/spanien/barcelona",
+   "count": 8,
+   "family": "hub",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/barcelona",
+     8
+    ],
+    [
+     "/tour/spanien/barcelona/last-minute",
+     1
+    ],
+    [
+     "/tour/spanien/barcelona/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "schöne urlaubsorte spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 3,
+   "family": "info",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     3
+    ],
+    [
+     "/tour/spanien",
+     2
+    ]
+   ]
+  },
+  "spain holiday": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 0,
+   "family": "info",
+   "fam_count": 3,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/hotels/spanien",
+     3
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     3
+    ],
+    [
+     "/tour/spanien/barcelona",
+     1
+    ]
+   ],
+   "serp_page": "/tour/spanien",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "spain holidays": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     4
+    ],
+    [
+     "/hotels/spanien",
+     1
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ]
+   ]
+  },
+  "spanien holiday": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     5
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ]
+   ]
+  },
+  "spanien schönste urlaubsorte": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 4,
+   "family": "info",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     4
+    ],
+    [
+     "/tour/spanien",
+     1
+    ]
+   ]
+  },
+  "spanien oktober urlaub": {
+   "page": "/tour/spanien/october",
+   "cand": "/tour/spanien",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "наявна посадкова (модифікатор)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/spanien (спірно (не перевірено)).",
+   "ranked": [
+    [
+     "/tour/spanien",
+     4
+    ],
+    [
+     "/tour/spanien/reisezeit",
+     1
+    ],
+    [
+     "/tour/spanien/last-minute",
+     1
+    ]
+   ],
+   "serp_page": "/tour/spanien",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "billig urlaub spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/last-minute",
+   "count": 3,
+   "family": "lastminute",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/last-minute",
+     3
+    ],
+    [
+     "/tour/spanien",
+     2
+    ],
+    [
+     "/tour/spanien/all-inclusive",
+     1
+    ]
+   ]
+  },
+  "urlaub spanien valencia": {
+   "page": "/tour/spanien/valencia",
+   "cand": "/tour/spanien/valencia",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/valencia",
+     6
+    ],
+    [
+     "/tour/spanien/valencia/pauschalreise",
+     2
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ]
+   ]
+  },
+  "spanien urlaub mit flug und hotel all inclusive": {
+   "page": "/tour/spanien/all-inclusive",
+   "cand": "/tour/spanien/all-inclusive",
+   "count": 0,
+   "family": "allinclusive",
+   "fam_count": 4,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/hotels/spanien",
+     3
+    ],
+    [
+     "/tour/spanien/all-inclusive",
+     3
+    ],
+    [
+     "/tour/spanien",
+     1
+    ]
+   ],
+   "serp_page": "/tour/spanien/all-inclusive",
+   "serp_status": "спірно → підтверджено перевіркою"
+  },
+  "spanien urlaub günstig all inclusive mit flug": {
+   "page": "/tour/spanien/all-inclusive",
+   "cand": "/tour/spanien/all-inclusive",
+   "count": 3,
+   "family": "allinclusive",
+   "fam_count": 3,
+   "status": "спірно → підтверджено перевіркою",
+   "note": "4 домени (lidl-reisen, tui, sonnenklar.tv, ab-ins-blaue) мають і хаб Spanien, і окрему сторінку Spanien All Inclusive: різні H1, збіг тексту 0.00–0.02",
+   "ranked": [
+    [
+     "/tour/spanien/all-inclusive",
+     3
+    ],
+    [
+     "/tour/spanien/pauschalreise",
+     2
+    ],
+    [
+     "/tour/spanien",
+     1
+    ]
+   ]
+  },
+  "billige urlaub spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 8,
+   "family": "hub",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     8
+    ],
+    [
+     "/tour/spanien/last-minute",
+     1
+    ]
+   ]
+  },
+  "billiger urlaub spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 8,
+   "family": "hub",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     8
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ]
+   ]
+  },
+  "spanien familienurlaub": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     4
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     2
+    ]
+   ]
+  },
+  "pauschalreise spanien all inclusive": {
+   "page": "/tour/spanien/pauschalreise",
+   "cand": "/tour/spanien/all-inclusive",
+   "count": 5,
+   "family": "allinclusive",
+   "fam_count": 5,
+   "status": "за бізнес-правилом",
+   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschal/Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/spanien/pauschalreise. У ТОП pauschal-сторінок 1/9; за ТОП було б: /tour/spanien/all-inclusive (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/spanien/all-inclusive",
+     5
+    ],
+    [
+     "/tour/spanien",
+     1
+    ],
+    [
+     "/hotels/spanien",
+     1
+    ]
+   ],
+   "serp_page": "/tour/spanien/all-inclusive",
+   "serp_status": "рекомендовано",
+   "business": "pauschalreise"
+  },
+  "spanien urlaub am meer mit flug": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     3
+    ],
+    [
+     "/tour/spanien/pauschalreise",
+     3
+    ],
+    [
+     "/hotels/spanien",
+     1
+    ]
+   ]
+  },
+  "spanien festland urlaub am meer": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/pauschalreise",
+   "count": 0,
+   "family": "pauschal",
+   "fam_count": 3,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/spanien/pauschalreise",
+     3
+    ],
+    [
+     "/hotels/spanien",
+     1
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ]
+   ],
+   "serp_page": "/tour/spanien",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "spanien urlaub mit auto": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 0,
+   "family": "info",
+   "fam_count": 3,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     3
+    ],
+    [
+     "/tour/spanien",
+     1
+    ],
+    [
+     "/tour/spanien/rundreisen",
+     1
+    ]
+   ],
+   "serp_page": "/tour/spanien",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "spanien urlaub am meer flug und hotel": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     5
+    ],
+    [
+     "/tour/spanien/rundreisen",
+     1
+    ],
+    [
+     "/tour/spanien/last-minute",
+     1
+    ]
+   ]
+  },
+  "pauschalreise spanien günstig": {
+   "page": "/tour/spanien/pauschalreise",
+   "cand": "/tour/spanien/pauschalreise",
+   "count": 5,
+   "family": "pauschal",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/pauschalreise",
+     5
+    ],
+    [
+     "/tour/spanien",
+     3
+    ],
+    [
+     "/tour/spanien/last-minute",
+     1
+    ]
+   ]
+  },
+  "riu hotel spanien festland": {
+   "page": "/hotels/spanien",
+   "cand": "/hotels/spanien",
+   "count": 9,
+   "family": "hotel",
+   "fam_count": 9,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/hotels/spanien",
+     9
+    ]
+   ]
+  },
+  "spanien festland urlaub strand": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 2,
+   "family": "info",
+   "fam_count": 2,
+   "status": "окрема сторінка не потрібна",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     2
+    ]
+   ]
+  },
+  "spanien urlaub gefährlich": {
+   "page": "/tour/spanien/reisehinweise",
+   "cand": "/tour/spanien/reisehinweise",
+   "count": 8,
+   "family": "info",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/reisehinweise",
+     8
+    ],
+    [
+     "/tour/spanien",
+     1
+    ]
+   ]
+  },
+  "kann man mit aufenthaltstitel nach spanien reisen": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 7,
+   "family": "info",
+   "fam_count": 7,
+   "status": "за рішенням власника",
+   "note": "/ratgeber не створюємо: ключ на хаб (FAQ) За ТОП було б: /tour/spanien/ratgeber (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     7
+    ]
+   ],
+   "serp_page": "/tour/spanien/ratgeber",
+   "serp_status": "рекомендовано"
+  },
+  "spanien pauschalreisen all inclusive günstig": {
+   "page": "/tour/spanien/pauschalreise",
+   "cand": "/tour/spanien/all-inclusive",
+   "count": 3,
+   "family": "allinclusive",
+   "fam_count": 3,
+   "status": "за бізнес-правилом",
+   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschal/Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/spanien/pauschalreise. У ТОП pauschal-сторінок 1/7; за ТОП було б: /tour/spanien (спірно (не перевірено)).",
+   "ranked": [
+    [
+     "/tour/spanien/all-inclusive",
+     3
+    ],
+    [
+     "/tour/spanien",
+     1
+    ],
+    [
+     "/hotels/spanien",
+     1
+    ]
+   ],
+   "serp_page": "/tour/spanien",
+   "serp_status": "спірно (не перевірено)",
+   "business": "pauschalreise"
+  },
+  "ferien spanien 2026 sommer": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 2,
+   "family": "hub",
+   "fam_count": 2,
+   "status": "окрема сторінка не потрібна",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     2
+    ],
+    [
+     "/tour/spanien/ratgeber",
+     1
+    ],
+    [
+     "/tour/spanien/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "hotels spanien festland": {
+   "page": "/hotels/spanien",
+   "cand": "/hotels/spanien",
+   "count": 5,
+   "family": "hotel",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/hotels/spanien",
+     5
+    ],
+    [
+     "/tour/spanien/all-inclusive",
+     1
+    ]
+   ]
+  },
+  "strandurlaub spanien festland": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 5,
+   "family": "info",
+   "fam_count": 5,
+   "status": "за рішенням власника",
+   "note": "/ratgeber не створюємо: ключ на хаб (секція Festland / FAQ) За ТОП було б: /tour/spanien/ratgeber (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     5
+    ],
+    [
+     "/tour/spanien/last-minute",
+     1
+    ]
+   ],
+   "serp_page": "/tour/spanien/ratgeber",
+   "serp_status": "рекомендовано"
+  },
+  "urlaub spanien festland all inclusive": {
+   "page": "/tour/spanien/all-inclusive",
+   "cand": "/tour/spanien/all-inclusive",
+   "count": 5,
+   "family": "allinclusive",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/all-inclusive",
+     5
+    ],
+    [
+     "/tour/spanien",
+     1
+    ],
+    [
+     "/hotels/spanien",
+     1
+    ]
+   ]
+  },
+  "kurzurlaub spanien mit flug": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     4
+    ],
+    [
+     "/tour/spanien/pauschalreise",
+     3
+    ],
+    [
+     "/tour/spanien/last-minute",
+     1
+    ]
+   ]
+  },
+  "spanien reise günstig": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 8,
+   "family": "hub",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     8
+    ],
+    [
+     "/tour/spanien/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "reise buchen spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 7,
+   "family": "hub",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     7
+    ],
+    [
+     "/tour/spanien/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "reise nach spanien mit bus": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/rundreisen",
+   "count": 3,
+   "family": "rundreise",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/rundreisen",
+     3
+    ],
+    [
+     "/tour/spanien",
+     2
+    ],
+    [
+     "/hotels/spanien",
+     1
+    ]
+   ]
+  },
+  "reisen mit dem bus nach spanien": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     3
+    ],
+    [
+     "/tour/spanien/rundreisen",
+     3
+    ],
+    [
+     "/hotels/spanien",
+     1
+    ]
+   ]
+  },
+  "spanien urlaub pauschalreise": {
+   "page": "/tour/spanien/pauschalreise",
+   "cand": "/tour/spanien/pauschalreise",
+   "count": 8,
+   "family": "pauschal",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/pauschalreise",
+     8
+    ],
+    [
+     "/tour/spanien",
+     1
+    ]
+   ]
+  },
+  "pauschalreise valencia spanien": {
+   "page": "/tour/spanien/valencia",
+   "cand": "/tour/spanien/valencia/pauschalreise",
+   "count": 6,
+   "family": "pauschal",
+   "fam_count": 6,
+   "status": "за рішенням власника",
+   "note": "окрему сторінку /valencia/pauschalreise не створюємо: наявна сторінка регіону За ТОП було б: /tour/spanien/valencia/pauschalreise (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/spanien/valencia/pauschalreise",
+     6
+    ],
+    [
+     "/tour/spanien/valencia",
+     3
+    ]
+   ],
+   "serp_page": "/tour/spanien/valencia/pauschalreise",
+   "serp_status": "рекомендовано"
+  },
+  "spanien hotel und flug am meer": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     4
+    ],
+    [
+     "/tour/spanien/pauschalreise",
+     2
+    ],
+    [
+     "/tour/spanien/rundreisen",
+     1
+    ]
+   ]
+  },
+  "urlaub spanien günstig buchen": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 7,
+   "family": "hub",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien",
+     7
+    ],
+    [
+     "/tour/spanien/last-minute",
+     1
+    ],
+    [
+     "/tour/spanien/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "ferien spanien 2027": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien/ratgeber",
+   "count": 2,
+   "family": "info",
+   "fam_count": 2,
+   "status": "окрема сторінка не потрібна",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     2
+    ]
+   ]
+  },
+  "party spanien festland": {
+   "page": "/tour/spanien",
+   "cand": "/tour/spanien",
+   "count": 2,
+   "family": "hub",
+   "fam_count": 2,
+   "status": "окрема сторінка не потрібна",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/ratgeber",
+     2
+    ],
+    [
+     "/tour/spanien",
+     1
+    ],
+    [
+     "/tour/spanien/lloret-de-mar",
+     1
+    ]
+   ]
+  },
+  "spanien festland all inclusive": {
+   "page": "/tour/spanien/all-inclusive",
+   "cand": "/tour/spanien/all-inclusive",
+   "count": 5,
+   "family": "allinclusive",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/spanien/all-inclusive",
+     5
+    ],
+    [
+     "/hotels/spanien",
+     2
+    ],
+    [
+     "/tour/spanien",
+     1
+    ]
+   ]
+  }
+ },
+ "types": {
+  "spanien urlaub": {
+   "хаб країни": 7,
+   "last minute (країна)": 1
+  },
+  "spanien meer urlaub": {
+   "хаб країни": 5,
+   "all inclusive (країна)": 1,
+   "готель": 1,
+   "rundreise": 1,
+   "інформаційна": 1
+  },
+  "hotels spanien": {
+   "інше": 3,
+   "хаб країни": 2,
+   "готель": 2
+  },
+  "pauschalreise spanien": {
+   "хаб країни": 1,
+   "pauschalreise (країна)": 8
+  },
+  "pauschalreise südspanien": {
+   "pauschalreise (країна)": 8,
+   "хаб країни": 1
+  },
+  "spanien all inclusive urlaub": {
+   "all inclusive (країна)": 4,
+   "last minute (країна)": 1,
+   "хаб країни": 1,
+   "готель": 1
+  },
+  "festland spanien urlaub": {
+   "інше": 6,
+   "інформаційна": 1,
+   "хаб країни": 1
+  },
+  "spanien am meer": {
+   "інформаційна": 3,
+   "хаб країни": 2,
+   "інше": 4
+  },
+  "spanien urlaub all inclusive mit flug 2026": {
+   "pauschalreise (країна)": 2,
+   "all inclusive (країна)": 1,
+   "all inclusive (регіон)": 3,
+   "хаб країни": 1
+  },
+  "spanien mit kindern urlaub": {
+   "інше": 1,
+   "готель": 1,
+   "інформаційна": 2,
+   "хаб країни": 3,
+   "all inclusive (країна)": 1,
+   "rundreise": 1
+  },
+  "spanien reise": {
+   "хаб країни": 5,
+   "інше": 2,
+   "last minute (країна)": 1
+  },
+  "spanien reiseziele": {
+   "інше": 6,
+   "інформаційна": 1,
+   "хаб країни": 1
+  },
+  "günstiger urlaub spanien": {
+   "last minute (регіон)": 2,
+   "готель (регіон)": 1,
+   "інше": 3,
+   "хаб регіону": 1,
+   "готель": 1,
+   "last minute (країна)": 1
+  },
+  "spanien hotel und flug": {
+   "хаб країни": 4,
+   "all inclusive (країна)": 1,
+   "pauschalreise (країна)": 2,
+   "last minute (країна)": 1,
+   "rundreise": 1
+  },
+  "spanien urlaubsorte": {
+   "хаб країни": 1,
+   "інше": 5,
+   "інформаційна": 2
+  },
+  "strandurlaub spanien": {
+   "інформаційна": 3,
+   "інше": 3,
+   "хаб країни": 3
+  },
+  "spanien urlaub mit flug": {
+   "хаб країни": 5,
+   "rundreise": 1,
+   "pauschalreise (країна)": 2,
+   "last minute (країна)": 1
+  },
+  "sommer ferien spanien": {
+   "інше": 3,
+   "інформаційна": 3,
+   "хаб країни": 2,
+   "готель": 1
+  },
+  "festland spanien": {
+   "інше": 7,
+   "інформаційна": 1
+  },
+  "einreise spanien": {
+   "інформаційна": 5,
+   "хаб країни": 1,
+   "інше": 3
+  },
+  "spanien urlaub last minute": {
+   "last minute (країна)": 6,
+   "інформаційна": 1,
+   "хаб країни": 2
+  },
+  "urlaub spanien 2026": {
+   "інше": 5,
+   "хаб регіону": 2,
+   "pauschalreise (країна)": 1
+  },
+  "urlaub buchen spanien": {
+   "хаб країни": 8,
+   "last minute (країна)": 1
+  },
+  "urlaub spanien meer all inclusive mit flug": {
+   "all inclusive (країна)": 3,
+   "last minute (країна)": 1,
+   "pauschalreise (країна)": 1,
+   "хаб країни": 1,
+   "готель": 1
+  },
+  "spanien ferien": {
+   "інформаційна": 2,
+   "інше": 4,
+   "хаб країни": 2
+  },
+  "kurzurlaub spanien": {
+   "інформаційна": 1,
+   "хаб країни": 5,
+   "last minute (країна)": 2
+  },
+  "reisen nach südspanien": {
+   "rundreise": 6,
+   "all inclusive (регіон)": 1,
+   "хаб регіону": 1,
+   "інформаційна": 1
+  },
+  "spanien tourismus": {
+   "інформаційна": 3,
+   "інше": 6
+  },
+  "spanien urlaub mit hund": {
+   "інше": 4,
+   "хаб країни": 4,
+   "інформаційна": 1
+  },
+  "urlaub spanien malaga": {
+   "хаб регіону": 6,
+   "інформаційна": 1,
+   "all inclusive (регіон)": 1,
+   "готель (регіон)": 1
+  },
+  "málaga spanien urlaub": {
+   "pauschalreise (регіон)": 1,
+   "хаб регіону": 7,
+   "all inclusive (регіон)": 1
+  },
+  "pauschalreise spanien festland": {
+   "інше": 3,
+   "pauschalreise (країна)": 5,
+   "хаб країни": 1
+  },
+  "schönste strände spanien festland": {
+   "інше": 5,
+   "інформаційна": 3
+  },
+  "schöne strände spanien festland": {
+   "інше": 4,
+   "інформаційна": 4
+  },
+  "schönsten strände spanien festland": {
+   "інше": 4,
+   "інформаційна": 4
+  },
+  "spanien unterkunft": {
+   "хаб країни": 4,
+   "інше": 3
+  },
+  "unterkünfte spanien": {
+   "інше": 5,
+   "хаб країни": 2
+  },
+  "alicante spanien urlaub": {
+   "pauschalreise (регіон)": 1,
+   "хаб регіону": 4,
+   "готель (регіон)": 3,
+   "last minute (регіон)": 1
+  },
+  "spanien mallorca urlaub": {
+   "хаб регіону": 6,
+   "all inclusive (регіон)": 1,
+   "pauschalreise (регіон)": 1
+  },
+  "ferien in spanien 2026": {
+   "інше": 2,
+   "Frühbucher": 1,
+   "хаб регіону": 3,
+   "інформаційна": 1
+  },
+  "kurztrip spanien": {
+   "хаб країни": 4,
+   "хаб регіону": 2,
+   "інше": 2,
+   "last minute (країна)": 1
+  },
+  "spanien urlaub inseln": {
+   "інформаційна": 3,
+   "інше": 3,
+   "хаб країни": 2
+  },
+  "spanien insel urlaub": {
+   "інше": 6,
+   "інформаційна": 1,
+   "готель": 1,
+   "хаб регіону": 1
+  },
+  "spanien andalusien urlaub": {
+   "хаб регіону": 2,
+   "rundreise": 3,
+   "pauschalreise (регіон)": 1,
+   "інформаційна": 2
+  },
+  "spanien urlaub günstig all inclusive": {
+   "all inclusive (країна)": 2,
+   "all inclusive (регіон)": 1,
+   "інше": 1,
+   "хаб країни": 1,
+   "готель": 2,
+   "pauschalreise (країна)": 2
+  },
+  "spanien barcelona urlaub": {
+   "хаб регіону": 8,
+   "pauschalreise (регіон)": 1,
+   "last minute (регіон)": 1
+  },
+  "schöne urlaubsorte spanien": {
+   "інше": 3,
+   "інформаційна": 3,
+   "хаб країни": 2
+  },
+  "spain holiday": {
+   "готель": 3,
+   "інформаційна": 3,
+   "інше": 1,
+   "хаб регіону": 1
+  },
+  "spain holidays": {
+   "інформаційна": 1,
+   "інше": 3,
+   "хаб країни": 4,
+   "готель": 1
+  },
+  "spanien holiday": {
+   "інформаційна": 1,
+   "інше": 3,
+   "хаб країни": 5
+  },
+  "spanien schönste urlaubsorte": {
+   "інше": 4,
+   "хаб країни": 1,
+   "інформаційна": 4
+  },
+  "spanien oktober urlaub": {
+   "хаб країни": 4,
+   "last minute (країна)": 1,
+   "інформаційна": 1,
+   "інше": 2
+  },
+  "billig urlaub spanien": {
+   "інше": 2,
+   "all inclusive (країна)": 1,
+   "хаб країни": 2,
+   "last minute (країна)": 3,
+   "pauschalreise (країна)": 1
+  },
+  "urlaub spanien valencia": {
+   "pauschalreise (регіон)": 2,
+   "хаб регіону": 6,
+   "інформаційна": 1
+  },
+  "spanien urlaub mit flug und hotel all inclusive": {
+   "all inclusive (країна)": 3,
+   "all inclusive (регіон)": 1,
+   "інше": 1,
+   "хаб країни": 1,
+   "готель": 3
+  },
+  "spanien urlaub günstig all inclusive mit flug": {
+   "all inclusive (країна)": 3,
+   "last minute (країна)": 1,
+   "хаб країни": 1,
+   "готель": 1,
+   "pauschalreise (країна)": 2,
+   "інформаційна": 1
+  },
+  "billige urlaub spanien": {
+   "хаб країни": 8,
+   "last minute (країна)": 1
+  },
+  "billiger urlaub spanien": {
+   "хаб країни": 8,
+   "інформаційна": 1
+  },
+  "spanien familienurlaub": {
+   "хаб країни": 4,
+   "інформаційна": 2,
+   "інше": 3
+  },
+  "pauschalreise spanien all inclusive": {
+   "all inclusive (країна)": 5,
+   "last minute (країна)": 1,
+   "хаб країни": 1,
+   "готель": 1,
+   "pauschalreise (країна)": 1
+  },
+  "spanien urlaub am meer mit flug": {
+   "pauschalreise (країна)": 3,
+   "хаб країни": 3,
+   "готель": 1,
+   "all inclusive (країна)": 1,
+   "інше": 1
+  },
+  "spanien festland urlaub am meer": {
+   "last minute (регіон)": 1,
+   "pauschalreise (країна)": 3,
+   "інше": 2,
+   "готель": 1,
+   "інформаційна": 1
+  },
+  "spanien urlaub mit auto": {
+   "хаб країни": 1,
+   "інше": 3,
+   "rundreise": 1,
+   "інформаційна": 3
+  },
+  "spanien urlaub am meer flug und hotel": {
+   "хаб країни": 5,
+   "pauschalreise (країна)": 1,
+   "all inclusive (країна)": 1,
+   "last minute (країна)": 1,
+   "rundreise": 1
+  },
+  "pauschalreise spanien günstig": {
+   "pauschalreise (країна)": 5,
+   "хаб країни": 3,
+   "last minute (країна)": 1
+  },
+  "riu hotel spanien festland": {
+   "готель": 5,
+   "готель (регіон)": 4
+  },
+  "spanien festland urlaub strand": {
+   "інше": 6,
+   "інформаційна": 2
+  },
+  "spanien urlaub gefährlich": {
+   "інформаційна": 8,
+   "хаб країни": 1
+  },
+  "kann man mit aufenthaltstitel nach spanien reisen": {
+   "інформаційна": 7,
+   "інше": 2
+  },
+  "spanien pauschalreisen all inclusive günstig": {
+   "all inclusive (країна)": 3,
+   "last minute (країна)": 1,
+   "хаб країни": 1,
+   "pauschalreise (країна)": 1,
+   "готель": 1
+  },
+  "ferien spanien 2026 sommer": {
+   "інше": 6,
+   "інформаційна": 1,
+   "хаб країни": 2,
+   "pauschalreise (країна)": 1
+  },
+  "hotels spanien festland": {
+   "готель": 5,
+   "all inclusive (країна)": 1,
+   "інше": 1
+  },
+  "strandurlaub spanien festland": {
+   "інформаційна": 5,
+   "last minute (країна)": 1,
+   "інше": 2
+  },
+  "urlaub spanien festland all inclusive": {
+   "all inclusive (країна)": 5,
+   "last minute (країна)": 1,
+   "хаб країни": 1,
+   "готель": 1,
+   "pauschalreise (країна)": 1
+  },
+  "kurzurlaub spanien mit flug": {
+   "хаб країни": 4,
+   "pauschalreise (країна)": 3,
+   "last minute (країна)": 1,
+   "all inclusive (країна)": 1
+  },
+  "spanien reise günstig": {
+   "хаб країни": 8,
+   "pauschalreise (країна)": 1
+  },
+  "reise buchen spanien": {
+   "хаб країни": 7,
+   "pauschalreise (країна)": 1,
+   "інше": 1
+  },
+  "reise nach spanien mit bus": {
+   "хаб країни": 2,
+   "інше": 2,
+   "rundreise": 3,
+   "готель (регіон)": 1
+  },
+  "reisen mit dem bus nach spanien": {
+   "хаб країни": 3,
+   "інше": 2,
+   "rundreise": 3,
+   "готель (регіон)": 1
+  },
+  "spanien urlaub pauschalreise": {
+   "хаб країни": 1,
+   "pauschalreise (країна)": 8
+  },
+  "pauschalreise valencia spanien": {
+   "pauschalreise (регіон)": 6,
+   "хаб регіону": 3
+  },
+  "spanien hotel und flug am meer": {
+   "pauschalreise (країна)": 2,
+   "хаб країни": 4,
+   "all inclusive (країна)": 1,
+   "last minute (країна)": 1,
+   "rundreise": 1
+  },
+  "urlaub spanien günstig buchen": {
+   "хаб країни": 7,
+   "pauschalreise (країна)": 1,
+   "last minute (країна)": 1
+  },
+  "ferien spanien 2027": {
+   "інше": 7,
+   "інформаційна": 2
+  },
+  "party spanien festland": {
+   "інформаційна": 2,
+   "хаб країни": 1,
+   "інше": 5,
+   "хаб регіону": 1
+  },
+  "spanien festland all inclusive": {
+   "all inclusive (країна)": 5,
+   "готель": 2,
+   "last minute (країна)": 1,
+   "хаб країни": 1
+  }
+ }
+}

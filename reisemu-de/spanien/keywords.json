@@ -1,0 +1,4737 @@
+{
+ "keywords": [
+  {
+   "keyword": "spanien urlaub",
+   "volume": 14800,
+   "cpc": 0.87,
+   "intent": "informational",
+   "kd": 1,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien meer urlaub",
+   "volume": 3600,
+   "cpc": 0.86,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок на морі в Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "hotels spanien",
+   "volume": 2400,
+   "cpc": 0.949999988079071,
+   "intent": "commercial",
+   "kd": 7,
+   "own_position": 2,
+   "source": "competitor:holidaycheck.de",
+   "label": "ядро",
+   "translation_uk": "готелі Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise spanien",
+   "volume": 1900,
+   "cpc": 1.44,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise südspanien",
+   "volume": 1900,
+   "cpc": 1.440000057220459,
+   "intent": "commercial",
+   "kd": 0,
+   "own_position": 24,
+   "source": "competitor:ab-in-den-urlaub.de",
+   "label": "ядро",
+   "translation_uk": "пакетний тур на південь Іспанії",
+   "translation_note_uk": "Südspanien — Андалусія, Коста-дель-Соль"
+  },
+  {
+   "keyword": "spanien all inclusive urlaub",
+   "volume": 1600,
+   "cpc": 1.11,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Іспанії «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "festland spanien urlaub",
+   "volume": 1300,
+   "cpc": 0.9,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у материковій Іспанії",
+   "translation_note_uk": "Festland — материк, без Балеарських і Канарських островів"
+  },
+  {
+   "keyword": "spanien am meer",
+   "volume": 1300,
+   "cpc": 1,
+   "intent": "informational",
+   "kd": 0,
+   "own_position": 6,
+   "source": "competitor:holidaycheck.de",
+   "label": "ядро",
+   "translation_uk": "Іспанія на морі",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien urlaub all inclusive mit flug 2026",
+   "volume": 1000,
+   "cpc": 0.87,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Іспанії «все включено» з перельотом 2026",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien mit kindern urlaub",
+   "volume": 880,
+   "cpc": 0.71,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Іспанії з дітьми",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien reise",
+   "volume": 880,
+   "cpc": 1.03,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien reiseziele",
+   "volume": 880,
+   "cpc": 0.8899999856948853,
+   "intent": "informational",
+   "kd": 0,
+   "own_position": 46,
+   "source": "competitor:ab-in-den-urlaub.de",
+   "label": "ядро",
+   "translation_uk": "куди поїхати в Іспанії",
+   "translation_note_uk": "Reiseziele — туристичні напрямки всередині країни"
+  },
+  {
+   "keyword": "günstiger urlaub spanien",
+   "volume": 720,
+   "cpc": 1.15,
+   "intent": "commercial",
+   "kd": 7,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "недорогий відпочинок в Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien hotel und flug",
+   "volume": 720,
+   "cpc": 1,
+   "intent": "commercial",
+   "kd": 0,
+   "own_position": 14,
+   "source": "competitor:ab-in-den-urlaub.de",
+   "label": "ядро",
+   "translation_uk": "Іспанія: готель і переліт",
+   "translation_note_uk": "фактично пакетний тур"
+  },
+  {
+   "keyword": "spanien urlaubsorte",
+   "volume": 720,
+   "cpc": 0.8899999856948853,
+   "intent": "commercial",
+   "kd": 0,
+   "own_position": 33,
+   "source": "competitor:ab-in-den-urlaub.de",
+   "label": "ядро",
+   "translation_uk": "курорти Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "strandurlaub spanien",
+   "volume": 720,
+   "cpc": 1.2799999713897705,
+   "intent": "commercial",
+   "kd": 3,
+   "own_position": 23,
+   "source": "competitor:ab-in-den-urlaub.de",
+   "label": "ядро",
+   "translation_uk": "пляжний відпочинок в Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien urlaub mit flug",
+   "volume": 590,
+   "cpc": 0.8899999856948853,
+   "intent": "commercial",
+   "kd": 0,
+   "own_position": 82,
+   "source": "ranked",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Іспанії з перельотом",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "sommer ferien spanien",
+   "volume": 590,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 4,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро",
+   "translation_uk": "літні канікули в Іспанії",
+   "translation_note_uk": "може означати і відпочинок улітку, і дати шкільних канікул в Іспанії"
+  },
+  {
+   "keyword": "festland spanien",
+   "volume": 590,
+   "cpc": 1.25,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро",
+   "translation_uk": "материкова Іспанія",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "einreise spanien",
+   "volume": 590,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 9,
+   "own_position": 67,
+   "source": "competitor:lidl-reisen.de",
+   "label": "ядро",
+   "translation_uk": "в’їзд до Іспанії",
+   "translation_note_uk": "правила в’їзду, документи"
+  },
+  {
+   "keyword": "spanien urlaub last minute",
+   "volume": 390,
+   "cpc": 1.37,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "гарячі тури до Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub spanien 2026",
+   "volume": 390,
+   "cpc": 0.98,
+   "intent": "informational",
+   "kd": 8,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Іспанії 2026",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub buchen spanien",
+   "volume": 390,
+   "cpc": 1.11,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок в Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub spanien meer all inclusive mit flug",
+   "volume": 390,
+   "cpc": 1.08,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок на морі в Іспанії «все включено» з перельотом",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien ferien",
+   "volume": 390,
+   "cpc": 1.18,
+   "intent": "informational",
+   "kd": 3,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Іспанії",
+   "translation_note_uk": "Ferien — і відпустка, і шкільні канікули"
+  },
+  {
+   "keyword": "kurzurlaub spanien",
+   "volume": 390,
+   "cpc": 0.75,
+   "intent": "commercial",
+   "kd": 0,
+   "own_position": 19,
+   "source": "competitor:ab-in-den-urlaub.de",
+   "label": "ядро",
+   "translation_uk": "короткий відпочинок в Іспанії",
+   "translation_note_uk": "поїздка на кілька днів"
+  },
+  {
+   "keyword": "reisen nach südspanien",
+   "volume": 390,
+   "cpc": 1.1399999856948853,
+   "intent": "informational",
+   "kd": 0,
+   "own_position": 28,
+   "source": "competitor:ab-in-den-urlaub.de",
+   "label": "ядро",
+   "translation_uk": "подорожі на південь Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien tourismus",
+   "volume": 390,
+   "cpc": 0.7799999713897705,
+   "intent": "informational",
+   "kd": 19,
+   "own_position": 47,
+   "source": "competitor:holidaycheck.de",
+   "label": "ядро",
+   "translation_uk": "туризм в Іспанії",
+   "translation_note_uk": "довідковий запит"
+  },
+  {
+   "keyword": "spanien urlaub mit hund",
+   "volume": 320,
+   "cpc": 1.14,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Іспанії із собакою",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub spanien malaga",
+   "volume": 320,
+   "cpc": 0.86,
+   "intent": "commercial",
+   "kd": 7,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Малазі, Іспанія",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "málaga spanien urlaub",
+   "volume": 320,
+   "cpc": 0.86,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Малазі, Іспанія",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise spanien festland",
+   "volume": 320,
+   "cpc": 1.27,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до материкової Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "schönste strände spanien festland",
+   "volume": 320,
+   "cpc": 0.99,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро",
+   "translation_uk": "найкращі пляжі материкової Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "schöne strände spanien festland",
+   "volume": 320,
+   "cpc": 0.99,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро",
+   "translation_uk": "гарні пляжі материкової Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "schönsten strände spanien festland",
+   "volume": 320,
+   "cpc": 0.99,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро",
+   "translation_uk": "найкращі пляжі материкової Іспанії",
+   "translation_note_uk": "граматична форма того самого запиту"
+  },
+  {
+   "keyword": "spanien unterkunft",
+   "volume": 320,
+   "cpc": 1.1200000047683716,
+   "intent": "transactional",
+   "kd": 22,
+   "own_position": 34,
+   "source": "competitor:holidaycheck.de",
+   "label": "ядро",
+   "translation_uk": "житло в Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "unterkünfte spanien",
+   "volume": 320,
+   "cpc": 1.1200000047683716,
+   "intent": "commercial",
+   "kd": 22,
+   "own_position": 30,
+   "source": "competitor:holidaycheck.de",
+   "label": "ядро",
+   "translation_uk": "варіанти житла в Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "alicante spanien urlaub",
+   "volume": 260,
+   "cpc": 0.74,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Аліканте, Іспанія",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien mallorca urlaub",
+   "volume": 260,
+   "cpc": 0.98,
+   "intent": "commercial",
+   "kd": 11,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок на Майорці, Іспанія",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ferien in spanien 2026",
+   "volume": 260,
+   "cpc": 1.14,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Іспанії 2026",
+   "translation_note_uk": "імовірно дати шкільних канікул"
+  },
+  {
+   "keyword": "kurztrip spanien",
+   "volume": 260,
+   "cpc": 0.8100000023841858,
+   "intent": "commercial",
+   "kd": 0,
+   "own_position": 9,
+   "source": "competitor:holidaycheck.de",
+   "label": "ядро",
+   "translation_uk": "коротка поїздка до Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien urlaub inseln",
+   "volume": 210,
+   "cpc": 0.89,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок на островах Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien insel urlaub",
+   "volume": 210,
+   "cpc": 0.89,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок на острові в Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien andalusien urlaub",
+   "volume": 210,
+   "cpc": 0.97,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Андалусії, Іспанія",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien urlaub günstig all inclusive",
+   "volume": 210,
+   "cpc": 0.74,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "недорогий відпочинок в Іспанії «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien barcelona urlaub",
+   "volume": 210,
+   "cpc": 0.82,
+   "intent": "commercial",
+   "kd": 3,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Барселоні, Іспанія",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "schöne urlaubsorte spanien",
+   "volume": 210,
+   "cpc": 0.9800000190734863,
+   "intent": "informational",
+   "kd": 0,
+   "own_position": 42,
+   "source": "competitor:ab-in-den-urlaub.de",
+   "label": "ядро",
+   "translation_uk": "гарні курорти Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spain holiday",
+   "volume": 210,
+   "cpc": 1.059999942779541,
+   "intent": "informational",
+   "kd": 31,
+   "own_position": 70,
+   "source": "competitor:holidaycheck.de",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Іспанії",
+   "translation_note_uk": "англійською"
+  },
+  {
+   "keyword": "spain holidays",
+   "volume": 210,
+   "cpc": 1.059999942779541,
+   "intent": "informational",
+   "kd": 33,
+   "own_position": 70,
+   "source": "competitor:holidaycheck.de",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Іспанії",
+   "translation_note_uk": "англійською; також «свята в Іспанії»"
+  },
+  {
+   "keyword": "spanien holiday",
+   "volume": 210,
+   "cpc": 1.059999942779541,
+   "intent": "informational",
+   "kd": 37,
+   "own_position": 21,
+   "source": "competitor:lidl-reisen.de",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Іспанії",
+   "translation_note_uk": "суміш німецької й англійської"
+  },
+  {
+   "keyword": "spanien schönste urlaubsorte",
+   "volume": 210,
+   "cpc": 0.9800000190734863,
+   "intent": "informational",
+   "kd": 0,
+   "own_position": 19,
+   "source": "competitor:lidl-reisen.de",
+   "label": "ядро",
+   "translation_uk": "найкращі курорти Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien oktober urlaub",
+   "volume": 170,
+   "cpc": 0.89,
+   "intent": "informational",
+   "kd": 19,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Іспанії в жовтні",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "billig urlaub spanien",
+   "volume": 170,
+   "cpc": 1.16,
+   "intent": "commercial",
+   "kd": 8,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "дешевий відпочинок в Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub spanien valencia",
+   "volume": 170,
+   "cpc": 0.87,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Валенсії, Іспанія",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien urlaub mit flug und hotel all inclusive",
+   "volume": 170,
+   "cpc": 0.92,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "related:spanien reise",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Іспанії з перельотом і готелем «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien urlaub günstig all inclusive mit flug",
+   "volume": 170,
+   "cpc": 0.85,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "related:spanien urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "недорогий відпочинок в Іспанії «все включено» з перельотом",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "billige urlaub spanien",
+   "volume": 170,
+   "cpc": 1.159999966621399,
+   "intent": "commercial",
+   "kd": 8,
+   "own_position": 4,
+   "source": "competitor:ab-in-den-urlaub.de",
+   "label": "ядро",
+   "translation_uk": "дешевий відпочинок в Іспанії",
+   "translation_note_uk": "граматично неправильна форма"
+  },
+  {
+   "keyword": "billiger urlaub spanien",
+   "volume": 170,
+   "cpc": 1.159999966621399,
+   "intent": "commercial",
+   "kd": 8,
+   "own_position": 2,
+   "source": "competitor:ab-in-den-urlaub.de",
+   "label": "ядро",
+   "translation_uk": "дешевий відпочинок в Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien familienurlaub",
+   "volume": 170,
+   "cpc": 0.9800000190734863,
+   "intent": "commercial",
+   "kd": 0,
+   "own_position": 32,
+   "source": "competitor:ab-in-den-urlaub.de",
+   "label": "ядро",
+   "translation_uk": "сімейний відпочинок в Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise spanien all inclusive",
+   "volume": 140,
+   "cpc": 1.39,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Іспанії «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien urlaub am meer mit flug",
+   "volume": 110,
+   "cpc": 0.949999988079071,
+   "intent": "commercial",
+   "kd": 0,
+   "own_position": 91,
+   "source": "ranked",
+   "label": "ядро",
+   "translation_uk": "відпочинок на морі в Іспанії з перельотом",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien festland urlaub am meer",
+   "volume": 110,
+   "cpc": 0.94,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро",
+   "translation_uk": "відпочинок на морі в материковій Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien urlaub mit auto",
+   "volume": 90,
+   "cpc": 0.38,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "related:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Іспанії на авто",
+   "translation_note_uk": "поїздка власним авто"
+  },
+  {
+   "keyword": "spanien urlaub am meer flug und hotel",
+   "volume": 90,
+   "cpc": 0.91,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "related:spanien reise",
+   "label": "ядро",
+   "translation_uk": "відпочинок на морі в Іспанії: переліт і готель",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise spanien günstig",
+   "volume": 90,
+   "cpc": 1.47,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро",
+   "translation_uk": "недорогий пакетний тур до Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "riu hotel spanien festland",
+   "volume": 90,
+   "cpc": 3.08,
+   "intent": "navigational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро",
+   "translation_uk": "готель RIU в материковій Іспанії",
+   "translation_note_uk": "бренд готельної мережі"
+  },
+  {
+   "keyword": "spanien festland urlaub strand",
+   "volume": 90,
+   "cpc": 0.63,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро",
+   "translation_uk": "пляжний відпочинок у материковій Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien urlaub gefährlich",
+   "volume": 70,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 10,
+   "source": "related:spanien urlaub",
+   "label": "ядро",
+   "translation_uk": "чи небезпечно відпочивати в Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "kann man mit aufenthaltstitel nach spanien reisen",
+   "volume": 70,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 3,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро",
+   "translation_uk": "чи можна їхати до Іспанії з посвідкою на проживання",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien pauschalreisen all inclusive günstig",
+   "volume": 70,
+   "cpc": 0.7,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "related:spanien pauschalreise",
+   "label": "ядро",
+   "translation_uk": "недорогі пакетні тури до Іспанії «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ferien spanien 2026 sommer",
+   "volume": 70,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 15,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро",
+   "translation_uk": "літні канікули в Іспанії 2026",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "hotels spanien festland",
+   "volume": 70,
+   "cpc": 0.49,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро",
+   "translation_uk": "готелі материкової Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "strandurlaub spanien festland",
+   "volume": 70,
+   "cpc": 1.37,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро",
+   "translation_uk": "пляжний відпочинок у материковій Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub spanien festland all inclusive",
+   "volume": 70,
+   "cpc": 0.8,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро",
+   "translation_uk": "відпочинок у материковій Іспанії «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "kurzurlaub spanien mit flug",
+   "volume": 50,
+   "cpc": 0.8299999833106995,
+   "intent": "transactional",
+   "kd": 0,
+   "own_position": 95,
+   "source": "ranked",
+   "label": "ядро",
+   "translation_uk": "короткий відпочинок в Іспанії з перельотом",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien reise günstig",
+   "volume": 50,
+   "cpc": 0.99,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien reise",
+   "label": "ядро",
+   "translation_uk": "недорога подорож до Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise buchen spanien",
+   "volume": 50,
+   "cpc": 1.41,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:spanien reise",
+   "label": "ядро",
+   "translation_uk": "забронювати подорож до Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise nach spanien mit bus",
+   "volume": 50,
+   "cpc": 0.61,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:spanien reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Іспанії автобусом",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reisen mit dem bus nach spanien",
+   "volume": 50,
+   "cpc": 0.61,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро",
+   "translation_uk": "поїздки автобусом до Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien urlaub pauschalreise",
+   "volume": 50,
+   "cpc": 0.94,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур на відпочинок до Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise valencia spanien",
+   "volume": 50,
+   "cpc": 1.43,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Валенсії, Іспанія",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "spanien hotel und flug am meer",
+   "volume": 50,
+   "cpc": 0.78,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "related:spanien pauschalreise",
+   "label": "ядро",
+   "translation_uk": "Іспанія: готель на морі з перельотом",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub spanien günstig buchen",
+   "volume": 50,
+   "cpc": 1.17,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "недорого забронювати відпочинок в Іспанії",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ferien spanien 2027",
+   "volume": 50,
+   "cpc": 0.86,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Іспанії 2027",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "party spanien festland",
+   "volume": 50,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро",
+   "translation_uk": "тусовочний відпочинок у материковій Іспанії",
+   "translation_note_uk": "курорти з нічним життям"
+  },
+  {
+   "keyword": "spanien festland all inclusive",
+   "volume": 50,
+   "cpc": 1.01,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро",
+   "translation_uk": "материкова Іспанія «все включено»",
+   "translation_note_uk": ""
+  }
+ ],
+ "longtail": [
+  {
+   "keyword": "finca spanien festland",
+   "volume": 50,
+   "cpc": 1.54,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "strände spanien festland",
+   "volume": 50,
+   "cpc": 0.85,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "fincas spanien festland",
+   "volume": 50,
+   "cpc": 1.54,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "familienhotel spanien festland",
+   "volume": 50,
+   "cpc": 1.25,
+   "intent": "commercial",
+   "kd": 1,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "familienhotels spanien festland",
+   "volume": 50,
+   "cpc": 1.25,
+   "intent": "commercial",
+   "kd": 1,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub spanien festland wo am schönsten",
+   "volume": 50,
+   "cpc": 0.85,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferienhäuser spanien festland",
+   "volume": 50,
+   "cpc": 1.23,
+   "intent": "commercial",
+   "kd": 38,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "partyort spanien festland",
+   "volume": 50,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "iberostar spanien festland",
+   "volume": 50,
+   "cpc": 2.75,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "strand spanien festland",
+   "volume": 50,
+   "cpc": 0.85,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach spanien personalausweis",
+   "volume": 40,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": 13,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien urlaub 2026 all inclusive",
+   "volume": 40,
+   "cpc": 0.63,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "related:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise spanien strand",
+   "volume": 40,
+   "cpc": 1.58,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise benidorm spanien",
+   "volume": 40,
+   "cpc": 1.57,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub buchen spanien all inclusive",
+   "volume": 40,
+   "cpc": 2.39,
+   "intent": "transactional",
+   "kd": 1,
+   "source": "suggestions:spanien urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub buchen spanien mit flug und hotel",
+   "volume": 40,
+   "cpc": 1.12,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:spanien urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien urlaub all inclusive mit flug 2027",
+   "volume": 40,
+   "cpc": 0.59,
+   "intent": "commercial",
+   "kd": null,
+   "source": "related:spanien urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaubsorte spanien festland",
+   "volume": 40,
+   "cpc": 0.42,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "haus kaufen spanien festland",
+   "volume": 40,
+   "cpc": 0.32,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "schönster strand spanien festland",
+   "volume": 40,
+   "cpc": 1.77,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "fähre teneriffa spanien festland",
+   "volume": 40,
+   "cpc": 0.79,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "wo leben die meisten deutschen in spanien festland",
+   "volume": 40,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien urlaub teneriffa",
+   "volume": 30,
+   "cpc": 0.59,
+   "intent": "commercial",
+   "kd": 14,
+   "source": "related:spanien urlaub",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise malaga spanien",
+   "volume": 30,
+   "cpc": 1.07,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "günstige reisen nach spanien mit bus",
+   "volume": 30,
+   "cpc": 0.62,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "last minute reisen spanien",
+   "volume": 30,
+   "cpc": 1.51,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "last minute pauschalreise spanien",
+   "volume": 30,
+   "cpc": 2.16,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise denia spanien",
+   "volume": 30,
+   "cpc": 0.82,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "fkk hotel spanien pauschalreise",
+   "volume": 30,
+   "cpc": 0.76,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise salou spanien",
+   "volume": 30,
+   "cpc": 1.24,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise marbella spanien",
+   "volume": 30,
+   "cpc": 1.04,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise spanien küste",
+   "volume": 30,
+   "cpc": 1.36,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise granada spanien",
+   "volume": 30,
+   "cpc": 1.04,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "wann hat spanien ferien",
+   "volume": 30,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien festland küste",
+   "volume": 30,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 4,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "küsten spanien festland",
+   "volume": 30,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 8,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "finca mieten spanien festland",
+   "volume": 30,
+   "cpc": 1.2,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub spanien festland mit auto",
+   "volume": 30,
+   "cpc": 0.78,
+   "intent": "commercial",
+   "kd": 26,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub mit kindern spanien festland",
+   "volume": 30,
+   "cpc": 1.09,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "last minute spanien festland",
+   "volume": 30,
+   "cpc": 1.3,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "kinderhotel spanien festland",
+   "volume": 30,
+   "cpc": 0.72,
+   "intent": "navigational",
+   "kd": null,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "riu spanien festland",
+   "volume": 30,
+   "cpc": 2.55,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "robinson club spanien festland",
+   "volume": 30,
+   "cpc": 2.39,
+   "intent": "navigational",
+   "kd": 0,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "kinderhotels spanien festland",
+   "volume": 30,
+   "cpc": 0.72,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "fincas spanien festland mieten",
+   "volume": 30,
+   "cpc": 1.2,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach spanien mit flug und hotel",
+   "volume": 20,
+   "cpc": 1.69,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise durch spanien",
+   "volume": 20,
+   "cpc": 0.98,
+   "intent": "informational",
+   "kd": 51,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise know-how spanien",
+   "volume": 20,
+   "cpc": 0.31,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise alicante spanien",
+   "volume": 20,
+   "cpc": 0.77,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise spanien festland",
+   "volume": 20,
+   "cpc": 2.78,
+   "intent": "commercial",
+   "kd": 52,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach spanien kosten",
+   "volume": 20,
+   "cpc": 0.64,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise valencia spanien",
+   "volume": 20,
+   "cpc": 1.14,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "mit dem hund nach spanien reisen",
+   "volume": 20,
+   "cpc": 0.02,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "billige reisen nach spanien",
+   "volume": 20,
+   "cpc": 1,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "götten reisen spanien",
+   "volume": 20,
+   "cpc": 3.24,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "all inclusive reisen spanien",
+   "volume": 20,
+   "cpc": 1.48,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "anton götten reisen spanien",
+   "volume": 20,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ost west reisen spanien",
+   "volume": 20,
+   "cpc": 0.44,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "billig nach spanien reisen",
+   "volume": 20,
+   "cpc": 1,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "lambert reisen spanien",
+   "volume": 20,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "mit hund nach spanien reisen",
+   "volume": 20,
+   "cpc": 0.02,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ost-west reisen bus spanien",
+   "volume": 20,
+   "cpc": 2.3,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise spanien andalusien",
+   "volume": 20,
+   "cpc": 0.83,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise spanien am meer",
+   "volume": 20,
+   "cpc": 1.21,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise costa brava spanien",
+   "volume": 20,
+   "cpc": 0.72,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise malaga spanien",
+   "volume": 20,
+   "cpc": 2.07,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise rota spanien",
+   "volume": 20,
+   "cpc": 1.18,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise calpe spanien",
+   "volume": 20,
+   "cpc": 1.91,
+   "intent": "commercial",
+   "kd": 47,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise tarifa spanien",
+   "volume": 20,
+   "cpc": 0.8,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien urlaub buchen mit flug",
+   "volume": 20,
+   "cpc": 0.89,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien urlaub 10 tage",
+   "volume": 20,
+   "cpc": 0.65,
+   "intent": "informational",
+   "kd": null,
+   "source": "related:spanien urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien ferien 2026 barcelona",
+   "volume": 20,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien villa spanien",
+   "volume": 20,
+   "cpc": 0.62,
+   "intent": "commercial",
+   "kd": 21,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "langzeiturlaub spanien festland",
+   "volume": 20,
+   "cpc": 0.46,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "badeurlaub spanien festland",
+   "volume": 20,
+   "cpc": 0.74,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien festland hotel am strand",
+   "volume": 20,
+   "cpc": 0.89,
+   "intent": "commercial",
+   "kd": 3,
+   "source": "suggestions:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub spanien festland costa brava",
+   "volume": 20,
+   "cpc": 0.66,
+   "intent": "commercial",
+   "kd": null,
+   "source": "related:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise mit dem auto durch frankreich nach spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach spanien dokumente",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "leeres spanien reise in ein land das es nie gab",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "auto reise spanien",
+   "volume": 10,
+   "cpc": 0.5,
+   "intent": "commercial",
+   "kd": 51,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise orte",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise pcr test",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise spanien anmelden",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": 78,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "adac spanien reise",
+   "volume": 10,
+   "cpc": 0.15,
+   "intent": "informational",
+   "kd": 4,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise registrierung",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach fuerteventura spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise know-how wohnmobil-tourguide spanien",
+   "volume": 10,
+   "cpc": 0.2,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise gewinnen",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise app",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": 61,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach granada spanien",
+   "volume": 10,
+   "cpc": 2.83,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise von deutschland nach spanien mit dem auto",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ronda spanien reise",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach spanien mit flugzeug",
+   "volume": 10,
+   "cpc": 5.34,
+   "intent": "transactional",
+   "kd": 43,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach spanien personalausweis abgelaufen",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reiseführer spanien reise know-how",
+   "volume": 10,
+   "cpc": 0.33,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach spanien was muss ich beachten",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise und sicherheitshinweise",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 82,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise blog",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise spanien schweiz",
+   "volume": 10,
+   "cpc": 1.42,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise mit kindern",
+   "volume": 10,
+   "cpc": 0.79,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach spanien mallorca",
+   "volume": 10,
+   "cpc": 4.09,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise august",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise durch frankreich nach spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 54,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise mai",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise was beachten",
+   "volume": 10,
+   "cpc": 0.28,
+   "intent": "informational",
+   "kd": 59,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise durch spanien und portugal",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise impfung",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise von portugal nach spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach cordoba spanien",
+   "volume": 10,
+   "cpc": 1.06,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise juni",
+   "volume": 10,
+   "cpc": 2.43,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise spanien auswärtiges amt",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 100,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise know how wohnmobil spanien",
+   "volume": 10,
+   "cpc": 0.45,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien katalonien reise",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise deutschland spanien",
+   "volume": 10,
+   "cpc": 0.37,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach spanien barcelona",
+   "volume": 10,
+   "cpc": 1.33,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach spanien möglich",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 72,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise anmeldung",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": 78,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise sommer",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise spanien balearen",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "mein schiff reise checkliste spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach spanien mit dem auto",
+   "volume": 10,
+   "cpc": 0.35,
+   "intent": "commercial",
+   "kd": 54,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub spanien reise",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach spanien mit zug",
+   "volume": 10,
+   "cpc": 0.52,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien andalusien reise",
+   "volume": 10,
+   "cpc": 0.78,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reise stornieren",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "trd reisen nach spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reisen von spanien nach deutschland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 66,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reisen mit dem zug nach spanien",
+   "volume": 10,
+   "cpc": 0.52,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "billig reisen spanien festland",
+   "volume": 10,
+   "cpc": 1.12,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ruf reisen spanien lloret de mar",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "last minute reisen spanien festland",
+   "volume": 10,
+   "cpc": 0.89,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ruf reisen spanien playa de aro",
+   "volume": 10,
+   "cpc": 0.07,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "erlebe reisen spanien",
+   "volume": 10,
+   "cpc": 0.98,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urban reisen spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reisen nach spanien ausweis",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "graf reisen spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "adac-reisen spanien-andalusien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "gültigkeit personalausweis reisen spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reisen marbella spanien",
+   "volume": 10,
+   "cpc": 0.58,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "go reisen spanien",
+   "volume": 10,
+   "cpc": 3.29,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "schlosser reisen spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "kann man mit deutschen aufenthaltstitel nach spanien reisen",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reisen jakobsweg spanien",
+   "volume": 10,
+   "cpc": 3.66,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "fredrich reisen spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reisen nach spanien reisepass",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "calella spanien fun reisen",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reisen nach spanien für geimpfte",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 61,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "allein reisen spanien",
+   "volume": 10,
+   "cpc": 0.99,
+   "intent": "informational",
+   "kd": 100,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "car reisen spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reisen nach spanien im november",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ungeimpft reisen spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "offroad reisen spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reisen juli",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "domo reisen spanien schweiz",
+   "volume": 10,
+   "cpc": 1.83,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "tchibo reisen spanien andalusien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "mit abgelaufenem personalausweis reisen spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien reisen mit flug",
+   "volume": 10,
+   "cpc": 1.01,
+   "intent": "commercial",
+   "kd": 3,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "yoga-reisen spanien",
+   "volume": 10,
+   "cpc": 1.6,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien urlaub flug und unterkunft",
+   "volume": 10,
+   "cpc": 1.85,
+   "intent": "commercial",
+   "kd": null,
+   "source": "related:spanien reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien pauschalreise billig",
+   "volume": 10,
+   "cpc": 1.31,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise altea spanien",
+   "volume": 10,
+   "cpc": 0.74,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise calella spanien",
+   "volume": 10,
+   "cpc": 0.83,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise sevilla spanien",
+   "volume": 10,
+   "cpc": 1.18,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise san sebastian spanien",
+   "volume": 10,
+   "cpc": 0.85,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise nerja spanien",
+   "volume": 10,
+   "cpc": 1.24,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise mit hund spanien",
+   "volume": 10,
+   "cpc": 0.44,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise sitges spanien",
+   "volume": 10,
+   "cpc": 1.16,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise spanien mallorca",
+   "volume": 10,
+   "cpc": 0.85,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise spanien familie",
+   "volume": 10,
+   "cpc": 0.43,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise spanien atlantikküste",
+   "volume": 10,
+   "cpc": 0.36,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise jakobsweg spanien",
+   "volume": 10,
+   "cpc": 1.47,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien urlaub billig buchen",
+   "volume": 10,
+   "cpc": 1.03,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien mallorca urlaub buchen",
+   "volume": 10,
+   "cpc": 1,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub buchen spanien festland",
+   "volume": 10,
+   "cpc": 1.16,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "wann beginnen die ferien in spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien mit hund am meer spanien",
+   "volume": 10,
+   "cpc": 0.97,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien mit kindern in spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien ferien buchen",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien 2026 valencia",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien all inclusive",
+   "volume": 10,
+   "cpc": 0.68,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien andalusien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien mit hund spanien costa brava",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "yoga ferien spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien ferien mit dem auto",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "carlos ferien spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien mit hund in spanien",
+   "volume": 10,
+   "cpc": 1.35,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "wie lange ferien in spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien ferien am meer orte",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien finca spanien",
+   "volume": 10,
+   "cpc": 1.61,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien mallorca",
+   "volume": 10,
+   "cpc": 0.34,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien bauernhof spanien",
+   "volume": 10,
+   "cpc": 0.17,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien in malaga spanien",
+   "volume": 10,
+   "cpc": 0.99,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien barcelona",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien tarifa spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien oktober",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien denia spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "günstig ferien spanien",
+   "volume": 10,
+   "cpc": 0.63,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien meer",
+   "volume": 10,
+   "cpc": 0.3,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien ferien ostern",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien roses spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien mai 2026",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien september",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien galicien spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien 2026 mallorca",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "camping ferien spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "wie lange sind ferien in spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "last minute ferien spanien",
+   "volume": 10,
+   "cpc": 1.38,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien auf dem bauernhof spanien",
+   "volume": 10,
+   "cpc": 0.17,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien 2026 andalusien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "party ferien spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien herbst",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "billige ferien in spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien katalonien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien in spanien am meer hotel",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien familie",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien calpe spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien festland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "wann enden die ferien in spanien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien spanien 2026 katalonien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:spanien ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "spanien festland costa brava",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 20,
+   "source": "related:spanien festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "geheimtipp spanien festland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "related:spanien festland",
+   "label": "ядро"
+  }
+ ],
+ "adjacent": [
+  {
+   "keyword": "flüge spanien",
+   "volume": 4400,
+   "cpc": 0.9300000071525574,
+   "intent": "informational",
+   "kd": 1,
+   "own_position": 42,
+   "source": "competitor:holidaycheck.de",
+   "theme": "авіаквитки",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "fliegen spanien",
+   "volume": 4400,
+   "cpc": 0.9300000071525574,
+   "intent": "informational",
+   "kd": 0,
+   "own_position": 47,
+   "source": "competitor:lidl-reisen.de",
+   "theme": "авіаквитки",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "flug nach spanien",
+   "volume": 4400,
+   "cpc": 0.6700000166893005,
+   "intent": "commercial",
+   "kd": 1,
+   "own_position": 44,
+   "source": "competitor:lidl-reisen.de",
+   "theme": "авіаквитки",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "günstige flüge nach spanien",
+   "volume": 720,
+   "cpc": 1.149999976158142,
+   "intent": "commercial",
+   "kd": 1,
+   "own_position": 55,
+   "source": "competitor:holidaycheck.de",
+   "theme": "авіаквитки",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "billig fliegen nach spanien",
+   "volume": 480,
+   "cpc": 1.0399999618530273,
+   "intent": "commercial",
+   "kd": 6,
+   "own_position": 51,
+   "source": "competitor:lidl-reisen.de",
+   "theme": "авіаквитки",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "billigflüge nach spanien",
+   "volume": 480,
+   "cpc": 1.0399999618530273,
+   "intent": "commercial",
+   "kd": 6,
+   "own_position": 48,
+   "source": "competitor:lidl-reisen.de",
+   "theme": "авіаквитки",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "billigflug spanien",
+   "volume": 390,
+   "cpc": 0.9900000095367432,
+   "intent": "commercial",
+   "kd": 1,
+   "own_position": 64,
+   "source": "competitor:lidl-reisen.de",
+   "theme": "авіаквитки",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "flugticket spanien",
+   "volume": 260,
+   "cpc": 1.2100000381469727,
+   "intent": "transactional",
+   "kd": 6,
+   "own_position": 57,
+   "source": "competitor:lidl-reisen.de",
+   "theme": "авіаквитки",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "flug nach spanien kosten",
+   "volume": 210,
+   "cpc": 1.409999966621399,
+   "intent": "informational",
+   "kd": 2,
+   "own_position": 58,
+   "source": "competitor:ab-in-den-urlaub.de",
+   "theme": "авіаквитки",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "hiszpania wakacje",
+   "volume": 210,
+   "cpc": 0.5,
+   "intent": "informational",
+   "kd": 29,
+   "own_position": 81,
+   "source": "competitor:holidaycheck.de",
+   "theme": "інше (без слова теми)",
+   "label": "поза межами збору"
+  },
+  {
+   "keyword": "flug nach spanien preis",
+   "volume": 170,
+   "cpc": 1.3799999952316284,
+   "intent": "commercial",
+   "kd": 0,
+   "own_position": 46,
+   "source": "competitor:lidl-reisen.de",
+   "theme": "авіаквитки",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "ferienhaus spanien festland",
+   "volume": 50,
+   "cpc": 1.23,
+   "intent": "commercial",
+   "kd": 38,
+   "source": "suggestions:spanien festland",
+   "theme": "оренда житла (Ferienhaus)",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "ferienhaus mit pool spanien festland",
+   "volume": 30,
+   "cpc": 1.38,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien festland",
+   "theme": "оренда житла (Ferienhaus)",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "pauschalreise spanien ferienwohnung",
+   "volume": 10,
+   "cpc": 0.38,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "theme": "оренда житла (Ferienhaus)",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "pauschalreise spanien ferienhaus",
+   "volume": 10,
+   "cpc": 0.49,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:spanien pauschalreise",
+   "theme": "оренда житла (Ferienhaus)",
+   "label": "суміжне"
+  }
+ ],
+ "filtered": [
+  {
+   "keyword": "urlaub spanien",
+   "volume": 12100,
+   "reason": "дублікат (той самий запит: «spanien urlaub»)"
+  },
+  {
+   "keyword": "flüge nach spanien",
+   "volume": 4400,
+   "reason": "дублікат (той самий запит: «flüge spanien»)"
+  },
+  {
+   "keyword": "spanien urlaub meer",
+   "volume": 3600,
+   "reason": "дублікат (той самий запит: «spanien meer urlaub»)"
+  },
+  {
+   "keyword": "spanien urlaub am meer",
+   "volume": 3600,
+   "reason": "дублікат (той самий запит: «spanien meer urlaub»)"
+  },
+  {
+   "keyword": "urlaub am meer spanien",
+   "volume": 3600,
+   "reason": "дублікат (той самий запит: «spanien meer urlaub»)"
+  },
+  {
+   "keyword": "urlaub spanien am meer",
+   "volume": 3600,
+   "reason": "дублікат (той самий запит: «spanien meer urlaub»)"
+  },
+  {
+   "keyword": "spanien am meer urlaub",
+   "volume": 3600,
+   "reason": "дублікат (той самий запит: «spanien meer urlaub»)"
+  },
+  {
+   "keyword": "urlaub spanien meer",
+   "volume": 3600,
+   "reason": "дублікат (той самий запит: «spanien meer urlaub»)"
+  },
+  {
+   "keyword": "spanien hotel",
+   "volume": 2400,
+   "reason": "дублікат (той самий запит: «hotels spanien»)"
+  },
+  {
+   "keyword": "spanien pauschalreise",
+   "volume": 1900,
+   "reason": "дублікат (той самий запит: «pauschalreise spanien»)"
+  },
+  {
+   "keyword": "all inclusive spanien urlaub",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «spanien all inclusive urlaub»)"
+  },
+  {
+   "keyword": "urlaub in spanien",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «spanien urlaub»)"
+  },
+  {
+   "keyword": "spanien all inklusiv urlaub",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «spanien all inclusive urlaub»)"
+  },
+  {
+   "keyword": "urlaub all inclusive spanien",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «spanien all inclusive urlaub»)"
+  },
+  {
+   "keyword": "spanien urlaub all inclusive",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «spanien all inclusive urlaub»)"
+  },
+  {
+   "keyword": "urlaub spanien all inclusive",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «spanien all inclusive urlaub»)"
+  },
+  {
+   "keyword": "all inclusive urlaub spanien",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «spanien all inclusive urlaub»)"
+  },
+  {
+   "keyword": "spanien urlaub festland",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «festland spanien urlaub»)"
+  },
+  {
+   "keyword": "spanien festland urlaub",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «festland spanien urlaub»)"
+  },
+  {
+   "keyword": "urlaub festland spanien",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «festland spanien urlaub»)"
+  },
+  {
+   "keyword": "urlaub spanien festland",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «festland spanien urlaub»)"
+  },
+  {
+   "keyword": "spanien meer",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «spanien am meer»)"
+  },
+  {
+   "keyword": "urlaub spanien mit kindern",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «spanien mit kindern urlaub»)"
+  },
+  {
+   "keyword": "spanien urlaub mit kindern",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «spanien mit kindern urlaub»)"
+  },
+  {
+   "keyword": "urlaub mit kindern spanien",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «spanien mit kindern urlaub»)"
+  },
+  {
+   "keyword": "reise spanien",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «spanien reise»)"
+  },
+  {
+   "keyword": "reisen spanien",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «spanien reise»)"
+  },
+  {
+   "keyword": "spanien reisen",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «spanien reise»)"
+  },
+  {
+   "keyword": "urlaub am meer in spanien",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «spanien meer urlaub»)"
+  },
+  {
+   "keyword": "günstig urlaub spanien",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «günstiger urlaub spanien»)"
+  },
+  {
+   "keyword": "spanien günstig urlaub",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «günstiger urlaub spanien»)"
+  },
+  {
+   "keyword": "günstige urlaub spanien",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «günstiger urlaub spanien»)"
+  },
+  {
+   "keyword": "spanien günstiger urlaub",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «günstiger urlaub spanien»)"
+  },
+  {
+   "keyword": "spanien urlaub günstig",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «günstiger urlaub spanien»)"
+  },
+  {
+   "keyword": "urlaub in spanien am meer",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «spanien meer urlaub»)"
+  },
+  {
+   "keyword": "urlaub spanien günstig",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «günstiger urlaub spanien»)"
+  },
+  {
+   "keyword": "urlaub günstig spanien",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «günstiger urlaub spanien»)"
+  },
+  {
+   "keyword": "urlaub spanien mit flug",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «spanien urlaub mit flug»)"
+  },
+  {
+   "keyword": "spanien festland",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «festland spanien»)"
+  },
+  {
+   "keyword": "flüge nach spanien günstig",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «günstige flüge nach spanien»)"
+  },
+  {
+   "keyword": "hotels in spanien",
+   "volume": 480,
+   "reason": "дублікат (той самий запит: «hotels spanien»)"
+  },
+  {
+   "keyword": "spanien tui",
+   "volume": 480,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "spanien urlaub buchen",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «urlaub buchen spanien»)"
+  },
+  {
+   "keyword": "last minute urlaub spanien",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «spanien urlaub last minute»)"
+  },
+  {
+   "keyword": "last minute spanien urlaub",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «spanien urlaub last minute»)"
+  },
+  {
+   "keyword": "spanien last minute urlaub",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «spanien urlaub last minute»)"
+  },
+  {
+   "keyword": "urlaub spanien buchen",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «urlaub buchen spanien»)"
+  },
+  {
+   "keyword": "urlaub last minute spanien",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «spanien urlaub last minute»)"
+  },
+  {
+   "keyword": "reise nach spanien",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «spanien reise»)"
+  },
+  {
+   "keyword": "reisen nach spanien",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «spanien reise»)"
+  },
+  {
+   "keyword": "nach spanien reisen",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «spanien reise»)"
+  },
+  {
+   "keyword": "ferien spanien",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «spanien ferien»)"
+  },
+  {
+   "keyword": "billigflüge spanien",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «billigflüge nach spanien»)"
+  },
+  {
+   "keyword": "flug spanien günstig",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «spanien flug günstig»)"
+  },
+  {
+   "keyword": "urlaub spanien hund",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «spanien urlaub mit hund»)"
+  },
+  {
+   "keyword": "hund urlaub spanien",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «spanien urlaub mit hund»)"
+  },
+  {
+   "keyword": "urlaub hund spanien",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «spanien urlaub mit hund»)"
+  },
+  {
+   "keyword": "spanien malaga urlaub",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «urlaub spanien malaga»)"
+  },
+  {
+   "keyword": "urlaub mit hund spanien",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «spanien urlaub mit hund»)"
+  },
+  {
+   "keyword": "urlaub spanien mit hund",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «spanien urlaub mit hund»)"
+  },
+  {
+   "keyword": "malaga spanien urlaub",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «urlaub spanien malaga»)"
+  },
+  {
+   "keyword": "spanien urlaub hund",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «spanien urlaub mit hund»)"
+  },
+  {
+   "keyword": "spanien-urlaub hund",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «spanien urlaub mit hund»)"
+  },
+  {
+   "keyword": "spanien festland pauschalreise",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «pauschalreise spanien festland»)"
+  },
+  {
+   "keyword": "spanien schönste strände festland",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «schönste strände spanien festland»)"
+  },
+  {
+   "keyword": "pauschalreisen spanien festland",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «pauschalreise spanien festland»)"
+  },
+  {
+   "keyword": "unterkunft spanien",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «spanien unterkunft»)"
+  },
+  {
+   "keyword": "spanien urlaub all inclusive mit flug 2025",
+   "volume": 260,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "mallorca spanien urlaub",
+   "volume": 260,
+   "reason": "дублікат (той самий запит: «spanien mallorca urlaub»)"
+  },
+  {
+   "keyword": "spanien alicante urlaub",
+   "volume": 260,
+   "reason": "дублікат (той самий запит: «alicante spanien urlaub»)"
+  },
+  {
+   "keyword": "urlaub spanien mallorca",
+   "volume": 260,
+   "reason": "дублікат (той самий запит: «spanien mallorca urlaub»)"
+  },
+  {
+   "keyword": "urlaub alicante spanien",
+   "volume": 260,
+   "reason": "дублікат (той самий запит: «alicante spanien urlaub»)"
+  },
+  {
+   "keyword": "urlaub spanien alicante",
+   "volume": 260,
+   "reason": "дублікат (той самий запит: «alicante spanien urlaub»)"
+  },
+  {
+   "keyword": "karte spanien festland",
+   "volume": 260,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "spanien festland karte",
+   "volume": 260,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "festland spanien karte",
+   "volume": 260,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "karte festland spanien",
+   "volume": 260,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "karte von spanien festland",
+   "volume": 260,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "günstige flüge spanien",
+   "volume": 260,
+   "reason": "дублікат (той самий запит: «günstige flüge nach spanien»)"
+  },
+  {
+   "keyword": "urlaub nach spanien",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «spanien urlaub»)"
+  },
+  {
+   "keyword": "urlaub insel spanien",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «spanien insel urlaub»)"
+  },
+  {
+   "keyword": "inseln spanien urlaub",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «spanien urlaub inseln»)"
+  },
+  {
+   "keyword": "urlaub spanien andalusien",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «spanien andalusien urlaub»)"
+  },
+  {
+   "keyword": "urlaub spanien inseln",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «spanien urlaub inseln»)"
+  },
+  {
+   "keyword": "andalusien spanien urlaub",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «spanien andalusien urlaub»)"
+  },
+  {
+   "keyword": "urlaub spanien barcelona",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «spanien barcelona urlaub»)"
+  },
+  {
+   "keyword": "barcelona spanien urlaub",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «spanien barcelona urlaub»)"
+  },
+  {
+   "keyword": "spanien inseln urlaub",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «spanien urlaub inseln»)"
+  },
+  {
+   "keyword": "urlaub spanien insel",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «spanien insel urlaub»)"
+  },
+  {
+   "keyword": "insel spanien urlaub",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «spanien insel urlaub»)"
+  },
+  {
+   "keyword": "spanien urlaub all inclusive günstig",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «spanien urlaub günstig all inclusive»)"
+  },
+  {
+   "keyword": "spanien urlaub insel",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «spanien insel urlaub»)"
+  },
+  {
+   "keyword": "spanien hotel mit flug",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «spanien hotel und flug»)"
+  },
+  {
+   "keyword": "check24 spanien",
+   "volume": 210,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "urlaub oktober spanien",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «spanien oktober urlaub»)"
+  },
+  {
+   "keyword": "urlaub in spanien mit kindern",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «spanien mit kindern urlaub»)"
+  },
+  {
+   "keyword": "oktober urlaub spanien",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «spanien oktober urlaub»)"
+  },
+  {
+   "keyword": "urlaub valencia spanien",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «urlaub spanien valencia»)"
+  },
+  {
+   "keyword": "valencia spanien urlaub",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «urlaub spanien valencia»)"
+  },
+  {
+   "keyword": "urlaub spanien oktober",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «spanien oktober urlaub»)"
+  },
+  {
+   "keyword": "oktober spanien urlaub",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «spanien oktober urlaub»)"
+  },
+  {
+   "keyword": "spanien urlaub im oktober",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «spanien oktober urlaub»)"
+  },
+  {
+   "keyword": "günstige urlaub in spanien",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «günstiger urlaub spanien»)"
+  },
+  {
+   "keyword": "spanien urlaub oktober",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «spanien oktober urlaub»)"
+  },
+  {
+   "keyword": "billig spanien urlaub",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «billig urlaub spanien»)"
+  },
+  {
+   "keyword": "spanien urlaub 2026",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «urlaub spanien 2026»)"
+  },
+  {
+   "keyword": "urlaub in spanien all inclusive",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «spanien all inclusive urlaub»)"
+  },
+  {
+   "keyword": "spanien pauschalreise all inclusive",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «pauschalreise spanien all inclusive»)"
+  },
+  {
+   "keyword": "pauschalreise all inclusive spanien",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «pauschalreise spanien all inclusive»)"
+  },
+  {
+   "keyword": "spanien pauschalreisen all inclusive",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «pauschalreise spanien all inclusive»)"
+  },
+  {
+   "keyword": "spanien festland schönste strände",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «schönste strände spanien festland»)"
+  },
+  {
+   "keyword": "spanien urlaub andalusien",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «spanien andalusien urlaub»)"
+  },
+  {
+   "keyword": "check24 urlaub spanien",
+   "volume": 110,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "pauschalreise nach spanien",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «pauschalreise spanien»)"
+  },
+  {
+   "keyword": "wetter spanien festland",
+   "volume": 110,
+   "reason": "сміття: погода"
+  },
+  {
+   "keyword": "spanien festland wetter",
+   "volume": 110,
+   "reason": "сміття: погода"
+  },
+  {
+   "keyword": "wetter festland spanien",
+   "volume": 110,
+   "reason": "сміття: погода"
+  },
+  {
+   "keyword": "günstige pauschalreise spanien",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «pauschalreise spanien günstig»)"
+  },
+  {
+   "keyword": "riu hotels spanien festland",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «riu hotel spanien festland»)"
+  },
+  {
+   "keyword": "ferien in spanien 2025",
+   "volume": 70,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "spanien festland hotel",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «hotels spanien festland»)"
+  },
+  {
+   "keyword": "hotel spanien festland",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «hotels spanien festland»)"
+  },
+  {
+   "keyword": "spanien festland strandurlaub",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «strandurlaub spanien festland»)"
+  },
+  {
+   "keyword": "all inclusive urlaub spanien festland",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «urlaub spanien festland all inclusive»)"
+  },
+  {
+   "keyword": "tui spanien festland",
+   "volume": 70,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reise mit bus nach spanien",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «reise nach spanien mit bus»)"
+  },
+  {
+   "keyword": "spanien reise buchen",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «reise buchen spanien»)"
+  },
+  {
+   "keyword": "reisen nach spanien mit bus",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «reise nach spanien mit bus»)"
+  },
+  {
+   "keyword": "ruf reisen spanien",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «spanien ruf reisen»)"
+  },
+  {
+   "keyword": "spanien günstig reisen",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «spanien reise günstig»)"
+  },
+  {
+   "keyword": "reisen mit bus nach spanien",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «reise nach spanien mit bus»)"
+  },
+  {
+   "keyword": "spanien reisen günstig",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «spanien reise günstig»)"
+  },
+  {
+   "keyword": "urlaub spanien pauschalreise",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «spanien urlaub pauschalreise»)"
+  },
+  {
+   "keyword": "spanien urlaub günstig buchen",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «urlaub spanien günstig buchen»)"
+  },
+  {
+   "keyword": "spanien urlaub buchen günstig",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «urlaub spanien günstig buchen»)"
+  },
+  {
+   "keyword": "urlaub günstig buchen spanien",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «urlaub spanien günstig buchen»)"
+  },
+  {
+   "keyword": "günstig urlaub buchen spanien",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «urlaub spanien günstig buchen»)"
+  },
+  {
+   "keyword": "flughäfen in spanien festland",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «flughäfen spanien festland»)"
+  },
+  {
+   "keyword": "landkarte spanien festland",
+   "volume": 50,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "flughafen in spanien festland",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «flughafen spanien festland»)"
+  },
+  {
+   "keyword": "spanien festland party",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «party spanien festland»)"
+  },
+  {
+   "keyword": "finca festland spanien",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «finca spanien festland»)"
+  },
+  {
+   "keyword": "sehenswürdigkeiten spanien festland",
+   "volume": 50,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "spanien festland finca",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «finca spanien festland»)"
+  },
+  {
+   "keyword": "schönste strände spanien festland karte",
+   "volume": 50,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "all inclusive spanien festland",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «spanien festland all inclusive»)"
+  },
+  {
+   "keyword": "spanien festland ferienhaus",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «ferienhaus spanien festland»)"
+  },
+  {
+   "keyword": "urlaub spanien festland am meer",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «spanien festland urlaub am meer»)"
+  },
+  {
+   "keyword": "günstige reise spanien",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «spanien reise günstig»)"
+  },
+  {
+   "keyword": "reise nach spanien mit personalausweis",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «reise nach spanien personalausweis»)"
+  },
+  {
+   "keyword": "günstige reisen spanien",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «spanien reise günstig»)"
+  },
+  {
+   "keyword": "wikinger reisen spanien",
+   "volume": 40,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reisen nach spanien mit personalausweis",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «reise nach spanien personalausweis»)"
+  },
+  {
+   "keyword": "lidl reisen spanien",
+   "volume": 40,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "lidl-reisen spanien",
+   "volume": 40,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reisen nach spanien personalausweis",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «reise nach spanien personalausweis»)"
+  },
+  {
+   "keyword": "günstige spanien reisen",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «spanien reise günstig»)"
+  },
+  {
+   "keyword": "günstig reisen spanien",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «spanien reise günstig»)"
+  },
+  {
+   "keyword": "urlaub in spanien buchen",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «urlaub buchen spanien»)"
+  },
+  {
+   "keyword": "urlaub buchen in spanien",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «urlaub buchen spanien»)"
+  },
+  {
+   "keyword": "spanien festland strände",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «strände spanien festland»)"
+  },
+  {
+   "keyword": "urlaub in spanien festland",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «festland spanien urlaub»)"
+  },
+  {
+   "keyword": "spanien festland urlaubsorte",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «urlaubsorte spanien festland»)"
+  },
+  {
+   "keyword": "unwetter spanien festland",
+   "volume": 40,
+   "reason": "сміття: погода"
+  },
+  {
+   "keyword": "flughäfen spanien festland karte",
+   "volume": 40,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "flughafen spanien festland karte",
+   "volume": 40,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "spanien festland strand",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «strand spanien festland»)"
+  },
+  {
+   "keyword": "tui reise spanien",
+   "volume": 30,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reise in spanien",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «spanien reise»)"
+  },
+  {
+   "keyword": "bus reise nach spanien",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «reise nach spanien mit bus»)"
+  },
+  {
+   "keyword": "reise nach spanien günstig",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «spanien reise günstig»)"
+  },
+  {
+   "keyword": "reisen in spanien",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «spanien reise»)"
+  },
+  {
+   "keyword": "günstig nach spanien reisen",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «spanien reise günstig»)"
+  },
+  {
+   "keyword": "tui reisen spanien",
+   "volume": 30,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "bus reisen spanien",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «reise nach spanien mit bus»)"
+  },
+  {
+   "keyword": "reisen malaga spanien",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «reise malaga spanien»)"
+  },
+  {
+   "keyword": "spanien pauschalreise günstig",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «pauschalreise spanien günstig»)"
+  },
+  {
+   "keyword": "fkk-hotel spanien pauschalreise",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «fkk hotel spanien pauschalreise»)"
+  },
+  {
+   "keyword": "wann sind ferien in spanien",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «wann sind in spanien ferien»)"
+  },
+  {
+   "keyword": "finca spanien festland mieten",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «finca mieten spanien festland»)"
+  },
+  {
+   "keyword": "küste spanien festland",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «spanien festland küste»)"
+  },
+  {
+   "keyword": "spanien festland urlaub mit kindern",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «urlaub mit kindern spanien festland»)"
+  },
+  {
+   "keyword": "tui blue spanien festland",
+   "volume": 30,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "spanien festland urlaub karte",
+   "volume": 30,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "urlaub spanien festland mit kindern",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «urlaub mit kindern spanien festland»)"
+  },
+  {
+   "keyword": "ferienhaus spanien festland mit pool",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «ferienhaus mit pool spanien festland»)"
+  },
+  {
+   "keyword": "aida reise spanien",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "günstige reise nach spanien",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «spanien reise günstig»)"
+  },
+  {
+   "keyword": "last minute reise spanien",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «last minute reisen spanien»)"
+  },
+  {
+   "keyword": "reise know how spanien",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «reise know-how spanien»)"
+  },
+  {
+   "keyword": "spanien urlaub am meer booking",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reisen aktuell spanien",
+   "volume": 20,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "reisen valencia spanien",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «reise valencia spanien»)"
+  },
+  {
+   "keyword": "reisen alicante spanien",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «reise alicante spanien»)"
+  },
+  {
+   "keyword": "reisen nach spanien aktuell",
+   "volume": 20,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "skr reisen spanien",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "günstig reisen nach spanien",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «spanien reise günstig»)"
+  },
+  {
+   "keyword": "reisen spanien festland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «reise spanien festland»)"
+  },
+  {
+   "keyword": "ost-west reisen spanien",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «ost west reisen spanien»)"
+  },
+  {
+   "keyword": "günstige reisen nach spanien",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «spanien reise günstig»)"
+  },
+  {
+   "keyword": "aldi reisen spanien",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "durch spanien reisen",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «reise durch spanien»)"
+  },
+  {
+   "keyword": "reisen durch spanien",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «reise durch spanien»)"
+  },
+  {
+   "keyword": "tui pauschalreise spanien",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "pauschalreise spanien last minute",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «last minute pauschalreise spanien»)"
+  },
+  {
+   "keyword": "last minute spanien pauschalreise",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «last minute pauschalreise spanien»)"
+  },
+  {
+   "keyword": "ferien spanien sommer 2026",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «ferien spanien 2026 sommer»)"
+  },
+  {
+   "keyword": "spanien höchster berg festland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «höchster berg spanien festland»)"
+  },
+  {
+   "keyword": "immobilien spanien festland",
+   "volume": 20,
+   "reason": "сміття: не туризм"
+  },
+  {
+   "keyword": "holidaycheck spanien festland",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "festland spanien urlaubsorte",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «urlaubsorte spanien festland»)"
+  },
+  {
+   "keyword": "reise mit hund nach spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «mit hund nach spanien reisen»)"
+  },
+  {
+   "keyword": "spanien reise mit bus",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise nach spanien mit bus»)"
+  },
+  {
+   "keyword": "spanien valencia reise",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise valencia spanien»)"
+  },
+  {
+   "keyword": "reise spanien buchen",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise buchen spanien»)"
+  },
+  {
+   "keyword": "spanien reise mit dem bus",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reisen mit dem bus nach spanien»)"
+  },
+  {
+   "keyword": "billig reise spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «billig nach spanien reisen»)"
+  },
+  {
+   "keyword": "aida reise spanien mit lissabon",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "billige reise nach spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «billige reisen nach spanien»)"
+  },
+  {
+   "keyword": "reise nach spanien corona",
+   "volume": 10,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "aida reise spanien portugal",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "aida grosse spanien reise",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "spanien reise adac",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «adac spanien reise»)"
+  },
+  {
+   "keyword": "reise nach spanien 2021",
+   "volume": 10,
+   "reason": "застарілий рік (2021)"
+  },
+  {
+   "keyword": "reise app spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «spanien reise app»)"
+  },
+  {
+   "keyword": "reise mit auto nach spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «auto reise spanien»)"
+  },
+  {
+   "keyword": "reise schweiz spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise spanien schweiz»)"
+  },
+  {
+   "keyword": "spanien reise anmelden",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise spanien anmelden»)"
+  },
+  {
+   "keyword": "reise nach spanien festland",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise spanien festland»)"
+  },
+  {
+   "keyword": "reise nach valencia spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise valencia spanien»)"
+  },
+  {
+   "keyword": "reise und sicherheitshinweise spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «spanien reise und sicherheitshinweise»)"
+  },
+  {
+   "keyword": "reise nach spanien was beachten",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «spanien reise was beachten»)"
+  },
+  {
+   "keyword": "reise know how wohnmobil tourguide spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise know-how wohnmobil-tourguide spanien»)"
+  },
+  {
+   "keyword": "reise nach spanien all inclusive",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «all inclusive reisen spanien»)"
+  },
+  {
+   "keyword": "reise urlaub spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «urlaub spanien reise»)"
+  },
+  {
+   "keyword": "reisen mit kindern spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «spanien reise mit kindern»)"
+  },
+  {
+   "keyword": "spanien reisen stornieren",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «spanien reise stornieren»)"
+  },
+  {
+   "keyword": "spanien billig reisen",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «billig nach spanien reisen»)"
+  },
+  {
+   "keyword": "neckermann reisen mit bus nach spanien",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reisen nach spanien mit auto",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «auto reise spanien»)"
+  },
+  {
+   "keyword": "spanien reisen sommer 2020",
+   "volume": 10,
+   "reason": "застарілий рік (2020)"
+  },
+  {
+   "keyword": "spanien reisen mit kindern",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «spanien reise mit kindern»)"
+  },
+  {
+   "keyword": "spanien reisen mit auto",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «auto reise spanien»)"
+  },
+  {
+   "keyword": "barcelona spanien reisen",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise nach spanien barcelona»)"
+  },
+  {
+   "keyword": "ost-west reisen spanien 2022",
+   "volume": 10,
+   "reason": "застарілий рік (2022)"
+  },
+  {
+   "keyword": "jahn reisen spanien",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "tui spanien reisen",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reisen spanien personalausweis",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise nach spanien personalausweis»)"
+  },
+  {
+   "keyword": "reisen spanien schweiz",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise spanien schweiz»)"
+  },
+  {
+   "keyword": "rewe reisen spanien",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "tui reisen spanien festland",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "schauinsland reisen spanien",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "aida reisen spanien portugal",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "pauschalreise nach valencia spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «pauschalreise valencia spanien»)"
+  },
+  {
+   "keyword": "pauschalreise spanien 2023",
+   "volume": 10,
+   "reason": "застарілий рік (2023)"
+  },
+  {
+   "keyword": "pauschalreise spanien meer",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «pauschalreise spanien am meer»)"
+  },
+  {
+   "keyword": "pauschalreise spanien 2024",
+   "volume": 10,
+   "reason": "застарілий рік (2024)"
+  },
+  {
+   "keyword": "spanien last minute pauschalreise",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «last minute pauschalreise spanien»)"
+  },
+  {
+   "keyword": "pauschalreise spanien 2018",
+   "volume": 10,
+   "reason": "застарілий рік (2018)"
+  },
+  {
+   "keyword": "pauschalreise nach nerja spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «pauschalreise nerja spanien»)"
+  },
+  {
+   "keyword": "pauschalreise spanien 2025",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "pauschalreise spanien 2021",
+   "volume": 10,
+   "reason": "застарілий рік (2021)"
+  },
+  {
+   "keyword": "urlaub nach spanien buchen",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «urlaub buchen spanien»)"
+  },
+  {
+   "keyword": "urlaub buchen nach spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «urlaub buchen spanien»)"
+  },
+  {
+   "keyword": "ferien spanien valencia 2024",
+   "volume": 10,
+   "reason": "застарілий рік (2024)"
+  },
+  {
+   "keyword": "spanien ferien 2023",
+   "volume": 10,
+   "reason": "застарілий рік (2023)"
+  },
+  {
+   "keyword": "ferien spanien valencia 2025",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "ferien spanien 2024 herbst",
+   "volume": 10,
+   "reason": "застарілий рік (2024)"
+  },
+  {
+   "keyword": "ferien spanien 2023 sommer",
+   "volume": 10,
+   "reason": "застарілий рік (2023)"
+  },
+  {
+   "keyword": "wann sind in spanien ferien 2026",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «wann sind ferien in spanien 2026»)"
+  },
+  {
+   "keyword": "ferien spanien 2024",
+   "volume": 10,
+   "reason": "застарілий рік (2024)"
+  },
+  {
+   "keyword": "spanien ferien mit kindern",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien mit kindern in spanien»)"
+  },
+  {
+   "keyword": "ferien mit kindern spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien mit kindern in spanien»)"
+  },
+  {
+   "keyword": "ferien spanien 2022",
+   "volume": 10,
+   "reason": "застарілий рік (2022)"
+  },
+  {
+   "keyword": "spanien ferien 2024",
+   "volume": 10,
+   "reason": "застарілий рік (2024)"
+  },
+  {
+   "keyword": "ferien spanien 2025 barcelona",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "ferien spanien mit kindern",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien mit kindern in spanien»)"
+  },
+  {
+   "keyword": "wann sind ferien in spanien 2022",
+   "volume": 10,
+   "reason": "застарілий рік (2022)"
+  },
+  {
+   "keyword": "ferien in spanien andalusien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien spanien andalusien»)"
+  },
+  {
+   "keyword": "ferien spanien valencia 2022",
+   "volume": 10,
+   "reason": "застарілий рік (2022)"
+  },
+  {
+   "keyword": "ferien spanien 2023",
+   "volume": 10,
+   "reason": "застарілий рік (2023)"
+  },
+  {
+   "keyword": "ferien in spanien mit kindern",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien mit kindern in spanien»)"
+  },
+  {
+   "keyword": "ferien spanien 2025 sommer",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "ferien spanien am meer",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien spanien meer»)"
+  },
+  {
+   "keyword": "ferien spanien 2025 mallorca",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "günstige ferien in spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «günstig ferien spanien»)"
+  },
+  {
+   "keyword": "ferien in spanien 2022",
+   "volume": 10,
+   "reason": "застарілий рік (2022)"
+  },
+  {
+   "keyword": "ferien in spanien 2024",
+   "volume": 10,
+   "reason": "застарілий рік (2024)"
+  },
+  {
+   "keyword": "ferien buchen spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «spanien ferien buchen»)"
+  },
+  {
+   "keyword": "all inclusive ferien spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien spanien all inclusive»)"
+  },
+  {
+   "keyword": "spanien ferien 2027",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien spanien 2027»)"
+  },
+  {
+   "keyword": "günstige ferien nach spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «günstig ferien spanien»)"
+  },
+  {
+   "keyword": "ferien mit hund spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien mit hund in spanien»)"
+  },
+  {
+   "keyword": "ferien in spanien am meer",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien spanien meer»)"
+  },
+  {
+   "keyword": "ferien all inclusive spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien spanien all inclusive»)"
+  },
+  {
+   "keyword": "ferien nach spanien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «spanien ferien»)"
+  },
+  {
+   "keyword": "ferien spanien sommer 2022",
+   "volume": 10,
+   "reason": "застарілий рік (2022)"
+  },
+  {
+   "keyword": "ferien spanien 2018",
+   "volume": 10,
+   "reason": "застарілий рік (2018)"
+  },
+  {
+   "keyword": "spanien ferien sommer",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «sommer ferien spanien»)"
+  },
+  {
+   "keyword": "ferien spanien 2017",
+   "volume": 10,
+   "reason": "застарілий рік (2017)"
+  },
+  {
+   "keyword": "ferien spanien 2020",
+   "volume": 10,
+   "reason": "застарілий рік (2020)"
+  },
+  {
+   "keyword": "spanien ferien oktober",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien spanien oktober»)"
+  },
+  {
+   "keyword": "spanien ferien am meer",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien spanien meer»)"
+  },
+  {
+   "keyword": "ferien spanien andalusien 2025",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "ferien spanien 2023 mallorca",
+   "volume": 10,
+   "reason": "застарілий рік (2023)"
+  },
+  {
+   "keyword": "auf spanien",
+   "reason": "рішення власника 2026-10-08: нетуристичний запит (уривок фрази / переклад слова)"
+  },
+  {
+   "keyword": "in spanien",
+   "reason": "рішення власника 2026-10-08: нетуристичний запит (уривок фрази / переклад слова)"
+  },
+  {
+   "keyword": "urlaub spanisch",
+   "reason": "рішення власника 2026-10-08: нетуристичний запит (уривок фрази / переклад слова)"
+  },
+  {
+   "keyword": "ferien spanisch",
+   "reason": "рішення власника 2026-10-08: нетуристичний запит (уривок фрази / переклад слова)"
+  },
+  {
+   "keyword": "spanien ticket",
+   "reason": "рішення власника 2026-10-08: нетуристичний запит (уривок фрази / переклад слова)"
+  },
+  {
+   "keyword": "spanien flug günstig",
+   "reason": "рішення власника 2026-10-08: нетуристичний запит (авіа / довідка)"
+  },
+  {
+   "keyword": "deutschland nach spanien",
+   "reason": "рішення власника 2026-10-08: нетуристичний запит (авіа / довідка)"
+  },
+  {
+   "keyword": "flughäfen spanien festland",
+   "reason": "рішення власника 2026-10-08: нетуристичний запит (авіа / довідка)"
+  },
+  {
+   "keyword": "flughafen spanien festland",
+   "reason": "рішення власника 2026-10-08: нетуристичний запит (авіа / довідка)"
+  },
+  {
+   "keyword": "höchster berg spanien festland",
+   "reason": "рішення власника 2026-10-08: нетуристичний запит (авіа / довідка)"
+  },
+  {
+   "keyword": "wann sind sommerferien in spanien 2026",
+   "reason": "рішення власника 2026-10-08: дати шкільних канікул, не туризм"
+  },
+  {
+   "keyword": "wann sind ferien in spanien 2026",
+   "reason": "рішення власника 2026-10-08: дати шкільних канікул, не туризм"
+  },
+  {
+   "keyword": "wann sind in spanien ferien",
+   "reason": "рішення власника 2026-10-08: дати шкільних канікул, не туризм"
+  },
+  {
+   "keyword": "spanien ruf reisen",
+   "reason": "рішення власника 2026-10-08: бренд туроператора (ruf Reisen)"
+  }
+ ],
+ "meta": {
+  "url": "https://reisemu.de/tour/spanien",
+  "seeds": [
+   "spanien urlaub",
+   "spanien reise",
+   "spanien reisen",
+   "spanien pauschalreise",
+   "spanien urlaub buchen",
+   "spanien ferien",
+   "spanien festland"
+  ],
+  "snowball_seeds": [],
+  "collected": "2026-10-08",
+  "cost_usd": 0.3247,
+  "max_keywords": 100
+ }
+}

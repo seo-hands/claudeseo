@@ -1,0 +1,206 @@
+# reisemu.de · Іспанія
+
+Напрямок: Іспанія (Spanien). Цільовий хаб: https://reisemu.de/tour/spanien (варіанти /tour/spain, /tour/espana, /tour/spanien-urlaub на сайті не існують: 301 на /tour). Дані сайту (домен, мова, location_code, se_domain, GSC, GA4) — у CLAUDE.md батьківської папки.
+
+## semantics-travel
+- country: Spanien
+- slug: spanien
+- page_base: /tour/spanien
+- scope_terms: spanien|spanisch|spain
+- hotels_page: /hotels/spanien
+- main_keyword: spanien urlaub
+- hub_slugs: spanien|spain|espana|spanien-urlaub
+- region: palma-de-mallorca = palma[ -]de[ -]mallorca
+- region: magaluf = magaluf
+- region: cala-millor = cala[ -]millor
+- region: cala-dor = cala[ -]d.?or
+- region: can-picafort = can[ -]picafort
+- region: santa-ponsa = santa[ -]pon[sc]a
+- region: port-dalcudia = alcudia
+- region: mallorca = mallorca
+- region: menorca = menorca
+- region: insel-ibiza = (?<![a-z])ibiza(?![a-z])
+- region: maspalomas = maspalomas
+- region: insel-gran-canaria = gran[ -]?canaria
+- region: santa-cruz-de-tenerife = santa[ -]cruz
+- region: costa-adeje = (?<![a-z])adeje(?![a-z])
+- region: teneriffa = teneriffa|tenerife|teneriffe
+- region: insel-fuerteventura = fuerteventura
+- region: insel-lanzarote = lanzarote
+- region: lloret-de-mar = lloret
+- region: tossa-de-mar = tossa[ -]de[ -]mar
+- region: blanes = (?<![a-z])blanes(?![a-z])
+- region: calella = calella
+- region: pineda-de-mar = pineda[ -]de[ -]mar
+- region: santa-susanna = santa[ -]sus+an+a
+- region: platja-daro = platja[ -]d.?aro|playa[ -]de[ -]aro
+- region: costa-brava = costa[ -]brava
+- region: salou = (?<![a-z])salou(?![a-z])
+- region: cambrils = cambrils
+- region: la-pineda = la[ -]pineda
+- region: tarragona = tarragona
+- region: costa-dorada = costa[ -](dorada|daurada)
+- region: barcelona = barcelona
+- region: madrid = madrid
+- region: valencia = valencia
+- region: benidorm = benidorm
+- region: alicante = alicante
+- region: costa-de-almeria = almer[ií]a
+- region: marbella = marbella
+- region: torremolinos = torremolinos
+- region: benalmadena = benalm[aá]dena
+- region: estepona = estepona
+- region: malaga = m[aá]laga
+- region: sevilla = sevilla
+- region: granada = granada
+- region: costa-de-la-luz = costa[ -]de[ -]la[ -]luz
+- region: andalusien = andalusien|andaluc
+- region: galicien = galicien|galicia
+- existing_page: /tour/spanien
+- existing_page: /tour/spanien/all-inclusive
+- existing_page: /tour/spanien/palma-de-mallorca
+- existing_page: /tour/spanien/magaluf
+- existing_page: /tour/spanien/cala-millor
+- existing_page: /tour/spanien/cala-dor
+- existing_page: /tour/spanien/can-picafort
+- existing_page: /tour/spanien/santa-ponsa
+- existing_page: /tour/spanien/port-dalcudia
+- existing_page: /tour/spanien/mallorca
+- existing_page: /tour/spanien/menorca
+- existing_page: /tour/spanien/insel-ibiza
+- existing_page: /tour/spanien/maspalomas
+- existing_page: /tour/spanien/insel-gran-canaria
+- existing_page: /tour/spanien/santa-cruz-de-tenerife
+- existing_page: /tour/spanien/costa-adeje
+- existing_page: /tour/spanien/teneriffa
+- existing_page: /tour/spanien/insel-fuerteventura
+- existing_page: /tour/spanien/insel-lanzarote
+- existing_page: /tour/spanien/lloret-de-mar
+- existing_page: /tour/spanien/tossa-de-mar
+- existing_page: /tour/spanien/blanes
+- existing_page: /tour/spanien/calella
+- existing_page: /tour/spanien/pineda-de-mar
+- existing_page: /tour/spanien/santa-susanna
+- existing_page: /tour/spanien/platja-daro
+- existing_page: /tour/spanien/costa-brava
+- existing_page: /tour/spanien/salou
+- existing_page: /tour/spanien/cambrils
+- existing_page: /tour/spanien/la-pineda
+- existing_page: /tour/spanien/tarragona
+- existing_page: /tour/spanien/costa-dorada
+- existing_page: /tour/spanien/barcelona
+- existing_page: /tour/spanien/madrid
+- existing_page: /tour/spanien/valencia
+- existing_page: /tour/spanien/benidorm
+- existing_page: /tour/spanien/alicante
+- existing_page: /tour/spanien/costa-de-almeria
+- existing_page: /tour/spanien/marbella
+- existing_page: /tour/spanien/torremolinos
+- existing_page: /tour/spanien/benalmadena
+- existing_page: /tour/spanien/estepona
+- existing_page: /tour/spanien/malaga
+- existing_page: /tour/spanien/sevilla
+- existing_page: /tour/spanien/granada
+- existing_page: /tour/spanien/costa-de-la-luz
+- existing_page: /tour/spanien/andalusien
+- existing_page: /tour/spanien/galicien
+- existing_page: /hotels/spanien
+- existing_page: /tour/spanien/january
+- existing_page: /tour/spanien/february
+- existing_page: /tour/spanien/march
+- existing_page: /tour/spanien/april
+- existing_page: /tour/spanien/may
+- existing_page: /tour/spanien/june
+- existing_page: /tour/spanien/july
+- existing_page: /tour/spanien/august
+- existing_page: /tour/spanien/september
+- existing_page: /tour/spanien/october
+- existing_page: /tour/spanien/november
+- existing_page: /tour/spanien/december
+- existing_page: /tour/spanien-fruehbucher
+- existing_page: /tour/spanien/from-amsterdam
+- existing_page: /tour/spanien/from-baden-baden
+- existing_page: /tour/spanien/from-berlin
+- existing_page: /tour/spanien/from-bremen
+- existing_page: /tour/spanien/from-brussel
+- existing_page: /tour/spanien/from-dortmund
+- existing_page: /tour/spanien/from-dresden
+- existing_page: /tour/spanien/from-dusseldorf
+- existing_page: /tour/spanien/from-eindhoven
+- existing_page: /tour/spanien/from-erfurt
+- existing_page: /tour/spanien/from-frankfurt
+- existing_page: /tour/spanien/from-friedrichshafen
+- existing_page: /tour/spanien/from-genf
+- existing_page: /tour/spanien/from-graz
+- existing_page: /tour/spanien/from-hamburg
+- existing_page: /tour/spanien/from-hannover
+- existing_page: /tour/spanien/from-koln
+- existing_page: /tour/spanien/from-leipzig
+- existing_page: /tour/spanien/from-linz
+- existing_page: /tour/spanien/from-luxemburg
+- existing_page: /tour/spanien/from-munchen
+- existing_page: /tour/spanien/from-munsterosnabruck
+- existing_page: /tour/spanien/from-nurnberg
+- existing_page: /tour/spanien/from-paderbornlippstadt
+- existing_page: /tour/spanien/from-saarbrucken
+- existing_page: /tour/spanien/from-salzburg
+- existing_page: /tour/spanien/from-stuttgart
+- existing_page: /tour/spanien/from-wien
+- existing_page: /tour/spanien/from-zurich
+- modifier_page: januar = /tour/spanien/january
+- modifier_page: februar = /tour/spanien/february
+- modifier_page: märz|maerz = /tour/spanien/march
+- modifier_page: april = /tour/spanien/april
+- modifier_page: (?<![a-zäöü])mai(?![a-zäöü]) = /tour/spanien/may
+- modifier_page: juni = /tour/spanien/june
+- modifier_page: juli = /tour/spanien/july
+- modifier_page: august = /tour/spanien/august
+- modifier_page: september = /tour/spanien/september
+- modifier_page: oktober = /tour/spanien/october
+- modifier_page: november = /tour/spanien/november
+- modifier_page: dezember = /tour/spanien/december
+- modifier_page: frühbucher|fruehbucher = /tour/spanien-fruehbucher
+- modifier_page: amsterdam = /tour/spanien/from-amsterdam
+- modifier_page: baden[ -]baden = /tour/spanien/from-baden-baden
+- modifier_page: berlin = /tour/spanien/from-berlin
+- modifier_page: bremen = /tour/spanien/from-bremen
+- modifier_page: brüssel|bruessel = /tour/spanien/from-brussel
+- modifier_page: dortmund = /tour/spanien/from-dortmund
+- modifier_page: dresden = /tour/spanien/from-dresden
+- modifier_page: düsseldorf|duesseldorf = /tour/spanien/from-dusseldorf
+- modifier_page: eindhoven = /tour/spanien/from-eindhoven
+- modifier_page: erfurt = /tour/spanien/from-erfurt
+- modifier_page: frankfurt = /tour/spanien/from-frankfurt
+- modifier_page: friedrichshafen = /tour/spanien/from-friedrichshafen
+- modifier_page: genf = /tour/spanien/from-genf
+- modifier_page: (?<![a-zäöü])graz(?![a-zäöü]) = /tour/spanien/from-graz
+- modifier_page: hamburg = /tour/spanien/from-hamburg
+- modifier_page: hannover = /tour/spanien/from-hannover
+- modifier_page: köln|koeln = /tour/spanien/from-koln
+- modifier_page: leipzig = /tour/spanien/from-leipzig
+- modifier_page: (?<![a-zäöü])linz(?![a-zäöü]) = /tour/spanien/from-linz
+- modifier_page: luxemburg = /tour/spanien/from-luxemburg
+- modifier_page: münchen|muenchen = /tour/spanien/from-munchen
+- modifier_page: münster|muenster|osnabrück = /tour/spanien/from-munsterosnabruck
+- modifier_page: nürnberg|nuernberg = /tour/spanien/from-nurnberg
+- modifier_page: paderborn = /tour/spanien/from-paderbornlippstadt
+- modifier_page: saarbrücken|saarbruecken = /tour/spanien/from-saarbrucken
+- modifier_page: salzburg = /tour/spanien/from-salzburg
+- modifier_page: stuttgart = /tour/spanien/from-stuttgart
+- modifier_page: (?<![a-zäöü])wien(?![a-zäöü]) = /tour/spanien/from-wien
+- modifier_page: zürich|zuerich = /tour/spanien/from-zurich
+- brand: (?<!\w)(phoenix|phönix|rsd|eti|netto|skr|studiosus|globalis|chamäleon|neon|ecco|wikinger|aida|migros)(?!\w)|ferien touristik
+- business_rule: name=pauschalreise; match=pauschal; family=pauschal; page={page_base}/pauschalreise; exclude_region=yes; exclude_patterns=last ?minute||all[ -]?inclusive.*pauschal; note=Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschal/Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/spanien/pauschalreise.
+
+### Журнал
+- existing_page — 2026-10-08; перевірено з браузерним User-Agent (200 = існує), джерела адрес: блок посилань хаба, /countries/spanien/resort, sitemap (tourresorts, tourdirectionmonthlist, tourdirectiondeparturepoints) і вгадані слаги. Існують: хаб, /all-inclusive, 46 сторінок регіонів/островів/курортів, 12 місяців, 29 міст вильоту, /tour/spanien-fruehbucher, /hotels/spanien. Не існують: /tour/spanien_gunstig, _winter, _sommer, _herbst, _fruhling, _kinder (301 на /tour), /tour/spanien_vip (404), /hotels/spanien/beste (301), /tour/spanien/last-minute, /pauschalreise, /rundreise, /reisehinweise (301 на хаб); регіони без сторінки (301 на хаб): kanaren, balearen, katalonien, costa-del-sol, costa-blanca, la-palma, la-gomera, formentera, playa-de-palma, cala-ratjada, playa-del-ingles, puerto-de-la-cruz, fuengirola, nerja, bilbao, cadiz, murcia. Сезонів, günstig і kinder у modifier_page немає, бо таких сторінок на сайті немає; місяці, міста вильоту й Frühbucher записано
+- збір — 2026-10-08; Labs по 7 seed (spanien urlaub, spanien reise, spanien reisen, spanien pauschalreise, spanien urlaub buchen, spanien ferien, spanien festland), $0.32 (оцінка $0.91); keywords.json: ядро 100 (обсяг 55 100), довгий хвіст 222, суміжне 14 (авіаквитки, Ferienhaus), поза межами збору 1, відфільтровано 305; snowball пропущено; переклади — translations.json
+- SERP — 2026-10-08; live/regular, 100 ключів за 166 запитів, $0.33 (оцінка до $0.60); перевірку якості пройшли 87 ключів, 13 — «SERP не підтверджено» (3 850 запитів, розподілено за типом ключа); усі версії — serp-raw-regularersions; видачу головного ключа в браузері ще не звірено (serp-check.txt)
+- **повторний SERP для 11 непідтверджених ключів через 7–10 днів** (15–18 жовтня 2026): видалити їхні файли з serp-raw-regular, запустити fetch_serp.py, потім analyze.py
+- перевірка спірних — 2026-10-08; verify_landings --auto (holidaycheck.de віддає HTTP 400) і 4 пари хаб / all-inclusive (lidl-reisen, tui, sonnenklar.tv, ab-ins-blaue): різні H1, збіг тексту 0.00–0.02; вердикт у semantics-decisions.json: /tour/spanien/all-inclusive — окрема (5 ключів, 3 370 запитів перейшли з хаба)
+- рішення власника — 2026-10-08; semantics-decisions.json: видачу «spanien urlaub» звірено в браузері, 8 з 8 доменів збігаються з API; 14 нетуристичних ключів відфільтровано (5 020 запитів); /ratgeber не створюємо — «strandurlaub spanien festland» і «kann man mit aufenthaltstitel nach spanien reisen» на хаб (FAQ); «pauschalreise valencia spanien» → /tour/spanien/valencia, /valencia/pauschalreise не створюємо; решту розподілу прийнято
+- підсумок — 2026-10-08; recommendations-spanien.md; ключів 86, кластерів 19, сторінок 14; хаб 38 380, /pauschalreise 4 470 (нова), /all-inclusive 3 660, /reisehinweise 660 (нова), /last-minute 390 (нова), /rundreisen 390 (нова); «SERP не підтверджено» лишилось 11 ключів (3 330 запитів)
+
+## tz-travel
+
+### Журнал

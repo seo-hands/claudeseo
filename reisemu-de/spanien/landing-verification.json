@@ -1,0 +1,313 @@
+[
+ {
+  "id": "ab-in-den-urlaub.de: /tour/spanien/alicante",
+  "why": "/tour/spanien/alicante vs ширша сторінка",
+  "a": {
+   "url": "https://www.ab-in-den-urlaub.de/urlaub/europa/spanien",
+   "status": 200,
+   "mode": "raw",
+   "title": "Urlaub Spanien • Reisen jetzt günstig buchen! ab in den urlaub",
+   "h1": [
+    "Urlaub Spanien"
+   ],
+   "h2_count": 10,
+   "words": 1983,
+   "own_text_words": 455,
+   "own_paragraphs": 9,
+   "price_mentions": 0,
+   "text_head": "Urlaub in Spanien: Sonne, Strand und unvergessliche Erlebnisse Entdecke eines der begehrtesten Ziele Südeuropas, wo sich lebendige Traditionen und das entspannte Lebensgefühl des Mittelmeers vereinen. Deine Reise nach Sp"
+  },
+  "b": {
+   "url": "https://www.ab-in-den-urlaub.de/hotel/hotel-albahia-7247",
+   "status": 200,
+   "mode": "raw",
+   "title": "Hotel Albahia buchen • Alicante • ab in den urlaub",
+   "h1": [
+    "Hotel Albahia (Alicante)"
+   ],
+   "h2_count": 2,
+   "words": 577,
+   "own_text_words": 0,
+   "own_paragraphs": 0,
+   "price_mentions": 0,
+   "text_head": "Alle Angaben sind ohne Gewähr von Richtigkeit und Vollständigkeit. Es gelten ausschließlich die Leistungen des gebuchten Zimmers. Ausgewählte Hotelbewertungen zum Hotel Albahia 100% verifiziert Gesamtbewertung nach Lifes"
+  },
+  "text_overlap_6gram": 0.0
+ },
+ {
+  "id": "ab-in-den-urlaub.de: /tour/spanien/all-inclusive",
+  "why": "/tour/spanien/all-inclusive vs ширша сторінка",
+  "a": {
+   "url": "https://www.ab-in-den-urlaub.de/urlaub/europa/spanien",
+   "status": 200,
+   "mode": "raw",
+   "title": "Urlaub Spanien • Reisen jetzt günstig buchen! ab in den urlaub",
+   "h1": [
+    "Urlaub Spanien"
+   ],
+   "h2_count": 10,
+   "words": 1983,
+   "own_text_words": 455,
+   "own_paragraphs": 9,
+   "price_mentions": 0,
+   "text_head": "Urlaub in Spanien: Sonne, Strand und unvergessliche Erlebnisse Entdecke eines der begehrtesten Ziele Südeuropas, wo sich lebendige Traditionen und das entspannte Lebensgefühl des Mittelmeers vereinen. Deine Reise nach Sp"
+  },
+  "b": {
+   "url": "https://www.ab-in-den-urlaub.de/urlaub/all-inclusive",
+   "status": 200,
+   "mode": "raw",
+   "title": "All Inclusive Urlaub günstig buchen bei ab in den urlaub",
+   "h1": [
+    "All Inclusive Urlaub"
+   ],
+   "h2_count": 10,
+   "words": 1145,
+   "own_text_words": 817,
+   "own_paragraphs": 18,
+   "price_mentions": 6,
+   "text_head": "Die beliebtesten Reiseziele für Urlaub All Inclusive Unter den beliebtesten Zielen für All Inclusive Angebote findet ihr Länder, die seit Jahren mit hoher Servicequalität und einer großen Auswahl an Resorts überzeugen. I"
+  },
+  "text_overlap_6gram": 0.0
+ },
+ {
+  "id": "sonnenklar.tv: /tour/spanien/last-minute",
+  "why": "/tour/spanien/last-minute vs ширша сторінка",
+  "a": {
+   "url": "https://www.sonnenklar.tv/urlaub/spanien.html",
+   "status": 200,
+   "mode": "raw",
+   "title": "Spanien Urlaub 2026 / 2027 günstig buchen | sonnenklar.TV",
+   "h1": [
+    "Spanien Urlaub günstig buchen"
+   ],
+   "h2_count": 16,
+   "words": 662,
+   "own_text_words": 505,
+   "own_paragraphs": 11,
+   "price_mentions": 0,
+   "text_head": "Spanien - Fuerteventura - Costa Calma 8-tägige Flugreise, DZ Poolblick inkl. AI Sonne, Flamenco und mediterrane Lebensfreude – ein Urlaub in Spanien ist pure Leidenschaft für alle Sinne. Ob entspannte Strandtage an der C"
+  },
+  "b": {
+   "url": "https://www.sonnenklar.tv/last-minute/spanien.html",
+   "status": 200,
+   "mode": "raw",
+   "title": "Last Minute Spanien jetzt günstig buchen | sonnenklar.TV",
+   "h1": [
+    "Last Minute Spanien buchen"
+   ],
+   "h2_count": 15,
+   "words": 904,
+   "own_text_words": 399,
+   "own_paragraphs": 8,
+   "price_mentions": 1,
+   "text_head": "Last Minute Spanien buchen Mit Last Minute Spanien kurzfristig in die Sonne - An den weißen Stränden der Costa Blanca in der Sonne liegen, auf den Spuren Gaudís die monumentale Architektur Barcelonas entdecken und im Frü"
+  },
+  "text_overlap_6gram": 0.02
+ },
+ {
+  "id": "holidaycheck.de: /tour/spanien/pauschalreise",
+  "why": "/tour/spanien/pauschalreise vs ширша сторінка",
+  "a": {
+   "url": "https://www.holidaycheck.de/urlaub/spanien",
+   "status": 400,
+   "mode": "raw",
+   "title": "",
+   "h1": [],
+   "h2_count": 0,
+   "words": 30,
+   "own_text_words": 0,
+   "own_paragraphs": 0,
+   "price_mentions": 0,
+   "text_head": "Diese Funktionalität steht gerade nicht zur Verfügung. Vielen Dank für Ihr Verständnis. Bitte kontaktieren Sie unseren Support mit dieser Referenz: 0.7c93017.1791472259.bb4ad566 IP: 185.164.143.155 Zurück"
+  },
+  "b": {
+   "url": "https://www.holidaycheck.de/tp/pauschalreisen-spanien/29ed38c7-75eb-362c-923e-4bab92dd0b22",
+   "status": 400,
+   "mode": "raw",
+   "title": "",
+   "h1": [],
+   "h2_count": 0,
+   "words": 30,
+   "own_text_words": 0,
+   "own_paragraphs": 0,
+   "price_mentions": 0,
+   "text_head": "Diese Funktionalität steht gerade nicht zur Verfügung. Vielen Dank für Ihr Verständnis. Bitte kontaktieren Sie unseren Support mit dieser Referenz: 0.ac93017.1791472259.4d90bfb0 IP: 185.164.143.155 Zurück"
+  },
+  "text_overlap_6gram": 0.68
+ },
+ {
+  "id": "ab-in-den-urlaub.de: /tour/spanien/ratgeber",
+  "why": "/tour/spanien/ratgeber vs ширша сторінка",
+  "a": {
+   "url": "https://www.ab-in-den-urlaub.de/urlaub/europa/spanien",
+   "status": 200,
+   "mode": "raw",
+   "title": "Urlaub Spanien • Reisen jetzt günstig buchen! ab in den urlaub",
+   "h1": [
+    "Urlaub Spanien"
+   ],
+   "h2_count": 10,
+   "words": 1983,
+   "own_text_words": 455,
+   "own_paragraphs": 9,
+   "price_mentions": 0,
+   "text_head": "Urlaub in Spanien: Sonne, Strand und unvergessliche Erlebnisse Entdecke eines der begehrtesten Ziele Südeuropas, wo sich lebendige Traditionen und das entspannte Lebensgefühl des Mittelmeers vereinen. Deine Reise nach Sp"
+  },
+  "b": {
+   "url": "https://www.ab-in-den-urlaub.de/magazin/reisetipps/spanische-inseln/",
+   "status": 200,
+   "mode": "raw",
+   "title": "Spanische Inseln im Mittelmeer und Atlantik entdecken",
+   "h1": [
+    "Spanische Inseln – Top 10"
+   ],
+   "h2_count": 11,
+   "words": 1918,
+   "own_text_words": 1939,
+   "own_paragraphs": 29,
+   "price_mentions": 0,
+   "text_head": "Spaniens Inseln überzeugen mit malerischen Buchten, feinem Sandstrand und leuchtend blauem Wasser. Von den beliebten Balearen im Mittelmeer über die Kanaren vor der Nordwestküste von Afrika, die Auswahl ist riesig. Im Fo"
+  },
+  "text_overlap_6gram": 0.0
+ },
+ {
+  "id": "lidl-ai",
+  "why": "/tour/spanien/all-inclusive vs хаб",
+  "a": {
+   "url": "https://www.lidl-reisen.de/urlaub/spanien",
+   "status": 200,
+   "mode": "raw",
+   "title": "Spanien Urlaub günstig buchen bei Lidl-Reisen",
+   "h1": [
+    "Urlaub Spanien"
+   ],
+   "h2_count": 9,
+   "words": 1056,
+   "own_text_words": 910,
+   "own_paragraphs": 16,
+   "price_mentions": 0,
+   "text_head": "Endlich Ferien! Geht es um eine Reise in den Süden Europas, fallen den meisten sofort die spanischen Inseln ein. An Mallorca und Ibiza kommt keiner vorbei. Die Balearen mit ihren traumhaften Stränden gehören, dicht gefol"
+  },
+  "b": {
+   "url": "https://www.lidl-reisen.de/all-inclusive/spanien",
+   "status": 200,
+   "mode": "raw",
+   "title": "All-Inclusive Urlaub Spanien: Beste Deals für Strand & Meer",
+   "h1": [
+    "Spanien All Inclusive Urlaub"
+   ],
+   "h2_count": 10,
+   "words": 1287,
+   "own_text_words": 1338,
+   "own_paragraphs": 21,
+   "price_mentions": 0,
+   "text_head": "Pauschalreisen oder All-Inclusive-Urlaube versprechen eine flexible und entspannte Auszeit vom Alltag. Während Ihrer gesamten Reise haben Sie die Kosten im Blick und können sich in Ihrem gebuchten Hotel auf einen ausgeze"
+  },
+  "text_overlap_6gram": 0.0
+ },
+ {
+  "id": "tui-ai",
+  "why": "/tour/spanien/all-inclusive vs хаб",
+  "a": {
+   "url": "https://www.tui.com/urlaub/spanien/",
+   "status": 200,
+   "mode": "raw",
+   "title": "Spanien Urlaub » Angebote rund um Deine Spanien Reise | TUI",
+   "h1": [
+    "Spanien Urlaub"
+   ],
+   "h2_count": 21,
+   "words": 1365,
+   "own_text_words": 1189,
+   "own_paragraphs": 22,
+   "price_mentions": 2,
+   "text_head": "Zum Bestpreis nach Spanien: Buche deinen Winterurlaub im Warmen schon ab 349 € Wir feiern den Weltmeister mit absoluten Bestpreisen für deinen nächsten Spanienurlaub. Buche Mallorca oder die Kanaren im Winter schon ab 34"
+  },
+  "b": {
+   "url": "https://www.tui.com/pauschalreisen/all-inclusive/spanien/",
+   "status": 200,
+   "mode": "raw",
+   "title": "Spanien All Inclusive » Genieße die spanische Lebensfreude | TUI",
+   "h1": [
+    "Spanien All Inclusive"
+   ],
+   "h2_count": 7,
+   "words": 1793,
+   "own_text_words": 1632,
+   "own_paragraphs": 17,
+   "price_mentions": 0,
+   "text_head": "Spanien mit All Inclusive Paket: Lebe deine Urlaubsträume im sonnigen Süden Europas Möchtest du neue Energie tanken und eine ausgelassene Zeit in einem der sonnigsten Länder Europas verbringen? Ein All Inclusive Hotel in"
+  },
+  "text_overlap_6gram": 0.0
+ },
+ {
+  "id": "sonnenklar-ai",
+  "why": "/tour/spanien/all-inclusive vs хаб",
+  "a": {
+   "url": "https://www.sonnenklar.tv/urlaub/spanien.html",
+   "status": 200,
+   "mode": "raw",
+   "title": "Spanien Urlaub 2026 / 2027 günstig buchen | sonnenklar.TV",
+   "h1": [
+    "Spanien Urlaub günstig buchen"
+   ],
+   "h2_count": 16,
+   "words": 662,
+   "own_text_words": 505,
+   "own_paragraphs": 11,
+   "price_mentions": 0,
+   "text_head": "Spanien - Fuerteventura - Costa Calma 8-tägige Flugreise, DZ Poolblick inkl. AI Sonne, Flamenco und mediterrane Lebensfreude – ein Urlaub in Spanien ist pure Leidenschaft für alle Sinne. Ob entspannte Strandtage an der C"
+  },
+  "b": {
+   "url": "https://www.sonnenklar.tv/all-inclusive/spanien.html",
+   "status": 200,
+   "mode": "raw",
+   "title": "Spanien All Inclusive Urlaub günstig buchen | sonnenklar.TV",
+   "h1": [
+    "Spanien All Inclusive Urlaub"
+   ],
+   "h2_count": 7,
+   "words": 697,
+   "own_text_words": 702,
+   "own_paragraphs": 7,
+   "price_mentions": 0,
+   "text_head": "Spanien - Mallorca - El Arenal - Strand - Internetzugang - Pool - Sport Entdecken Sie den perfekten Urlaub in Spanien mit einem All Inclusive Erlebnis, das keine Wünsche offenlässt. Genießen Sie exquisite Speisen, erfris"
+  },
+  "text_overlap_6gram": 0.02
+ },
+ {
+  "id": "abinsblaue-ai",
+  "why": "/tour/spanien/all-inclusive vs хаб",
+  "a": {
+   "url": "https://www.ab-ins-blaue.de/urlaub/spanien.html",
+   "status": 200,
+   "mode": "raw",
+   "title": "Spanien Urlaub 2026/2027 | Jetzt günstig buchen!",
+   "h1": [
+    "Spanien – Urlaub 2026/2027"
+   ],
+   "h2_count": 5,
+   "words": 1136,
+   "own_text_words": 0,
+   "own_paragraphs": 0,
+   "price_mentions": 0,
+   "text_head": "Spanien – Urlaub 2026/2027 Reisen Sie in eines der vielseitigsten Länder Europas: buchen Sie jetzt Ihren Urlaub für 2026/2027 in Spanien Unsere populärsten Urlaubsangebote 2026/2027 für Reisen nach Spanien Ur"
+  },
+  "b": {
+   "url": "https://www.ab-ins-blaue.de/urlaub/spanien/all-inclusive-urlaub.html",
+   "status": 200,
+   "mode": "raw",
+   "title": "Spanien All Inclusive Urlaub 2026/2027 | Jetzt buchen!",
+   "h1": [
+    "Spanien - All Inclusive"
+   ],
+   "h2_count": 4,
+   "words": 381,
+   "own_text_words": 0,
+   "own_paragraphs": 0,
+   "price_mentions": 0,
+   "text_head": "Spanien - All Inclusive Entdecken Sie fantastische Traumgegenden: Buchen Sie Ihren All Inclusive Urlaub 2026/2027 in Spanien Unsere beliebtesten TOP All Inclusive Urlaubsangebote 2026/2027 für Spanien Toller "
+  },
+  "text_overlap_6gram": 0.02
+ }
+]

@@ -1,0 +1,9 @@
+check_url головного ключа «spanien urlaub»: https://www.google.de/search?q=spanien%20urlaub&hl=de&gl=DE&ie=UTF-8&uule=w+CAIQIFISCWu-scIecppHEVvlkY5rXeh1 (API datetime 2026-10-08 15:06:02 +00:00)
+1. www.ab-in-den-urlaub.de
+2. www.holidaycheck.de
+3. www.lidl-reisen.de
+4. www.sonnenklar.tv
+5. www.tui.com
+6. www.anextour.de
+7. www.schauinsland-reisen.de
+8. www.loveholidays.com
