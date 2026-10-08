@@ -111,7 +111,8 @@ class Build:
                 out.append(f"Канібалізація з етапу 1 ({p}): " + re.sub(r"^⚠\s*КАНІБАЛІЗАЦІЯ:\s*", "", note))
         if own.get("ok"):
             miss = [t for t in ("FAQPage", "BreadcrumbList") if t not in own["schema_types"]]
-            if miss:
+            # the plan may already carry its own JSON-LD item: then the automatic one would repeat it
+            if miss and not any(re.search(r"json-?ld", d, re.I) for d in self.plan.get("developer", [])):
                 out.append("JSON-LD: додати розмітку " + ", ".join(miss) + (" (зараз на сторінці розмітки JSON-LD не знайдено)." if not own["schema_types"] else f" (зараз є: {', '.join(own['schema_types'])})."))
             if own.get("ui_messages"):
                 out.append(f"У HTML сторінки є {len(own['ui_messages'])} службових повідомлень, які бачить пошуковий робот, наприклад: «" + own["ui_messages"][0][:110]
