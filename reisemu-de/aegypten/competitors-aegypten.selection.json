@@ -1,0 +1,312 @@
+{
+ "page": "https://reisemu.de/tour/agypten",
+ "slug": "aegypten",
+ "main_keyword": "ägypten urlaub",
+ "landing_types": [
+  "хаб країни"
+ ],
+ "forming_keywords": [
+  {
+   "keyword": "ägypten urlaub",
+   "volume": 60500,
+   "role": "головний",
+   "head_word_of_other_page": null,
+   "in_serp_cache": true,
+   "type_pages_in_top": 7
+  },
+  {
+   "keyword": "urlaub in aegypten",
+   "volume": 4400,
+   "role": "суміжний",
+   "head_word_of_other_page": null,
+   "in_serp_cache": true,
+   "type_pages_in_top": 2
+  },
+  {
+   "keyword": "ägypten urlaub 2026",
+   "volume": 2400,
+   "role": "суміжний",
+   "head_word_of_other_page": null,
+   "in_serp_cache": true,
+   "type_pages_in_top": 5
+  },
+  {
+   "keyword": "urlaub ägypten buchen",
+   "volume": 1900,
+   "role": "суміжний",
+   "head_word_of_other_page": null,
+   "in_serp_cache": true,
+   "type_pages_in_top": 2
+  },
+  {
+   "keyword": "ägypten urlaub all inclusive mit flug und hotel",
+   "volume": 1000,
+   "role": "суміжний",
+   "head_word_of_other_page": "All Inclusive",
+   "in_serp_cache": true,
+   "type_pages_in_top": 2
+  }
+ ],
+ "selected": [
+  {
+   "url": "https://www.holidaycheck.de/urlaub/aegypten",
+   "type": "хаб країни",
+   "positions": {
+    "ägypten urlaub": 2,
+    "ägypten urlaub 2026": 2
+   },
+   "other_positions": {
+    "ägypten urlaub 2026 all inclusive mit flug und hotel": 2,
+    "ägypten reise 2026": 2,
+    "ägypten ferien": 2,
+    "ägypten urlaub mit flug": 3,
+    "wann sind ferien in ägypten 2026": 3
+   },
+   "serp_title": "Ägypten Urlaub 2026/2027 • Günstig buchen bei ...",
+   "best_position": 2,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.lidl-reisen.de/urlaub/aegypten",
+   "type": "хаб країни",
+   "positions": {
+    "ägypten urlaub": 3,
+    "ägypten urlaub 2026": 3
+   },
+   "other_positions": {
+    "ägypten reise 2026": 1,
+    "ägypten ferien": 5
+   },
+   "serp_title": "Ägypten Urlaub günstig buchen bei Lidl Reisen",
+   "best_position": 3,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.schauinsland-reisen.de/urlaubsziele/aegypten",
+   "type": "хаб країни",
+   "positions": {
+    "ägypten urlaub": 4,
+    "ägypten urlaub 2026": 1
+   },
+   "other_positions": {
+    "ägypten urlaub 2026 all inclusive mit flug und hotel": 1,
+    "urlaub ägypten 2026 all inclusive": 1,
+    "ägypten reise 2026": 6,
+    "ägypten urlaub mit flug": 1,
+    "ägypten reise all inclusive": 3
+   },
+   "serp_title": "Ägypten-Urlaub günstig buchen | Pauschalreise mit Flug ...",
+   "best_position": 1,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.lmx.de/aegypten-urlaub/",
+   "type": "хаб країни",
+   "positions": {
+    "ägypten urlaub": 5
+   },
+   "other_positions": {},
+   "serp_title": "Ägypten Urlaub: Last Minute & Pauschalreisen",
+   "best_position": 5,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.ab-ins-blaue.de/urlaub/aegypten.html",
+   "type": "хаб країни",
+   "positions": {
+    "ägypten urlaub": 6,
+    "ägypten urlaub 2026": 8
+   },
+   "other_positions": {
+    "ägypten urlaub 2026 all inclusive mit flug und hotel": 6,
+    "urlaub ägypten 2026 all inclusive": 6
+   },
+   "serp_title": "Ägypten Urlaub 2026/2027 - All Inclusive buchen! - Ab ins Blaue",
+   "best_position": 6,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://coraltravel.de/urlaub/aegypten/",
+   "type": "хаб країни",
+   "positions": {
+    "ägypten urlaub": 7
+   },
+   "other_positions": {},
+   "serp_title": "Ägypten Urlaub – Sonne & Kultur mit Coral Travel erleben",
+   "best_position": 7,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.loveholidays.com/de/urlaub/aegypten/",
+   "type": "хаб країни",
+   "positions": {
+    "ägypten urlaub": 8,
+    "ägypten urlaub 2026": 6,
+    "ägypten urlaub all inclusive mit flug und hotel": 3
+   },
+   "other_positions": {
+    "ägypten urlaub 2026 all inclusive mit flug und hotel": 7,
+    "urlaub ägypten 2026 all inclusive": 8,
+    "ägypten reise 2026": 9,
+    "ferien ägypten 2026": 4
+   },
+   "serp_title": "Ägypten Urlaub 2026/2027 | weloveholidays",
+   "best_position": 3,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.its.de/urlaubsziele/afrika/aegypten",
+   "type": "хаб країни",
+   "positions": {
+    "ägypten urlaub all inclusive mit flug und hotel": 4
+   },
+   "other_positions": {},
+   "serp_title": "Urlaub Ägypten günstig buchen - ITS",
+   "best_position": 4,
+   "only_flagged_keys": true
+  },
+  {
+   "url": "https://www.dertour-reisebuero.de/reiseziele/afrika/aegypten/",
+   "type": "хаб країни",
+   "positions": {
+    "urlaub in aegypten": 6
+   },
+   "other_positions": {
+    "ägypten reise spezialist": 3
+   },
+   "serp_title": "Ägypten Urlaub günstig online buchen",
+   "best_position": 6,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.restplatzboerse.com/urlaub/aegypten/",
+   "type": "хаб країни",
+   "positions": {},
+   "other_positions": {
+    "urlaub ägypten 2026 all inclusive": 9,
+    "ägypten ferien": 8,
+    "ägypten reise all inclusive": 4
+   },
+   "serp_title": "Ägypten Urlaub | Jetzt Angebote günstig buchen",
+   "best_position": 4,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.aldi-reisen.de/aegypten",
+   "type": "хаб країни",
+   "positions": {},
+   "other_positions": {
+    "ägypten reise 2026": 3
+   },
+   "serp_title": "Ägypten Urlaub: jetzt buchen & verreisen",
+   "best_position": 3,
+   "only_flagged_keys": false
+  }
+ ],
+ "reserves": [
+  {
+   "url": "https://www.urlaubswelt.com/alle-regionen/afrika/aegypten/",
+   "type": "хаб країни",
+   "positions": {},
+   "other_positions": {
+    "ägypten urlaub buchen mit flug und hotel": 3
+   },
+   "serp_title": "Ägypten Urlaub - Flug & Hotel günstig buchen auf www. ...",
+   "best_position": 3,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.tui.com/urlaub/aegypten/",
+   "type": "хаб країни",
+   "positions": {},
+   "other_positions": {
+    "pauschalreise ägypten 2026": 1,
+    "reise ägypten tipps": 4
+   },
+   "serp_title": "Ägypten Urlaub » Angebote für Deine Ägypten Reise ☀",
+   "best_position": 1,
+   "only_flagged_keys": false,
+   "note": "додано за правилом користувача: наступні за позицією хаби країни з підтверджених SERP"
+  },
+  {
+   "url": "https://www.vtours.com/de/reiseziele/%C3%A4gypten/",
+   "type": "хаб країни",
+   "positions": {},
+   "other_positions": {
+    "pauschalreise ägypten pyramiden": 1
+   },
+   "serp_title": "Ägypten Urlaub: Hotel / Pauschalreise günstig buchen",
+   "best_position": 1,
+   "only_flagged_keys": false,
+   "note": "додано за правилом користувача: наступні за позицією хаби країни з підтверджених SERP"
+  },
+  {
+   "url": "https://www.rewe-reisen.de/urlaubsziele/afrika/aegypten.html",
+   "type": "хаб країни",
+   "positions": {},
+   "other_positions": {
+    "pauschalreise ägypten 2026": 2,
+    "günstig ägypten urlaub buchen": 7,
+    "ägypten urlaub im oktober": 7
+   },
+   "serp_title": "Ägypten Urlaub: Günstig ans Rote Meer",
+   "best_position": 2,
+   "only_flagged_keys": false,
+   "note": "додано за правилом користувача: наступні за позицією хаби країни з підтверджених SERP"
+  },
+  {
+   "url": "https://www.sonnenklar.tv/urlaub/aegypten.html",
+   "type": "хаб країни",
+   "positions": {},
+   "other_positions": {
+    "ägypten pauschalreise direktflug": 3,
+    "ägypten urlaub im oktober": 4,
+    "reise nach ägypten": 9
+   },
+   "serp_title": "Ägypten Urlaub 2026 / 2027 günstig buchen",
+   "best_position": 3,
+   "only_flagged_keys": false,
+   "note": "додано за правилом користувача: наступні за позицією хаби країни з підтверджених SERP"
+  }
+ ],
+ "excluded": [
+  {
+   "url": "https://www.vtours.com/de/reiseziele/%C3%A4gypten/?page=11",
+   "keyword": "urlaub ägypten buchen",
+   "position": 1,
+   "reason": "URL результатів пошуку з фільтрами в параметрах"
+  },
+  {
+   "url": "https://falk.travel/laender/aegypten/",
+   "keyword": "urlaub in aegypten",
+   "position": 8,
+   "reason": "довідник, не туроператор (рішення користувача)"
+  },
+  {
+   "url": "https://www.reisenavigator.com/aegypten-urlaub.html",
+   "keyword": "urlaub ägypten buchen",
+   "position": 8,
+   "reason": "потрапив лише з ключа з непідтвердженим SERP (рішення користувача)"
+  },
+  {
+   "url": "https://www.ferienhelden.ch/langzeiturlaub/aegypten",
+   "keyword": "ferien ägypten 2026",
+   "position": 3,
+   "reason": "швейцарський сайт (.ch) (рішення користувача)"
+  },
+  {
+   "url": "https://www.itscoop.ch/aegypten",
+   "keyword": "ägypten ferien",
+   "position": 4,
+   "reason": "швейцарський сайт (.ch) (рішення користувача)"
+  },
+  {
+   "url": "https://www.easyjet.com/de/urlaub/aegypten",
+   "keyword": "wann sind ferien in ägypten 2026",
+   "position": 4,
+   "reason": "авіакомпанія (рішення користувача)"
+  }
+ ],
+ "confirmed": true,
+ "_note": "Покажіть список користувачу. Після підтвердження (або правок у цьому файлі) запустіть select_competitors.py --confirm."
+}

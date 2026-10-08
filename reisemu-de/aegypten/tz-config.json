@@ -1,0 +1,15 @@
+{
+ "_about": "Перекриття налаштувань tz-travel для цього проєкту",
+ "brand": "reisemu.de",
+ "own_text_exclude": [
+  "Bitte warten",
+  "keine passenden",
+  "Suchkriterien",
+  "Keine Flüge verfügbar",
+  "Ausgebuchte Hotels",
+  "Eingeschränkte Verfügbarkeit",
+  "Unser Tipp: Passen Sie",
+  "hinterlassen Sie eine Anfrage",
+  "Exklusiv! Direktflüge"
+ ]
+}

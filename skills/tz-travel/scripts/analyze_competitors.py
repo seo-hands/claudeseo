@@ -39,13 +39,18 @@ def plugin_python():
     return p if os.path.exists(p) else None
 
 
-# key-like strings of third-party pages never reach the cache (and the repository): Google keys, GitHub/OpenAI/Slack/AWS/Stripe tokens
+# key-like strings of third-party pages never reach the cache (and the repository): Google keys, GitHub/OpenAI/Slack/AWS/Stripe/Mapbox tokens
 SECRET_RX = re.compile(r"(?<![\w-])(?:AIza[0-9A-Za-z_\-]{35}|gh[pousr]_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{30,}"
-                       r"|sk-(?:ant-|proj-)?[A-Za-z0-9_]{32,}|xox[baprs]-[A-Za-z0-9\-]{20,}|AKIA[0-9A-Z]{16}|[sr]k_live_[0-9A-Za-z]{16,})")   # not CSS classes like "desk-module-…"
+                       r"|sk-(?:ant-|proj-)?[A-Za-z0-9_]{32,}|xox[baprs]-[A-Za-z0-9\-]{20,}|AKIA[0-9A-Z]{16}|[sr]k_live_[0-9A-Za-z]{16,}"
+                       r"|[pst]k\.eyJ[A-Za-z0-9_\-]{20,}\.[A-Za-z0-9_\-]{10,})")   # not CSS classes like "desk-module-…"
+
+# any value of 32+ characters after token= / key= / apikey= / access_token= is masked whatever its format; the name stays
+PARAM_RX = re.compile(r"""(?i)((?:access_token|apikey|token|key)=(?:\x5c?["'])?)[^\s"'&<>\x5c]{32,}""")   # \x5c = backslash (quotes are escaped in the JSON dump)
 
 
 def redact(d):
-    return json.loads(SECRET_RX.sub("<REDACTED>", json.dumps(d, ensure_ascii=False, default=str)))
+    s = SECRET_RX.sub("<REDACTED>", json.dumps(d, ensure_ascii=False, default=str))
+    return json.loads(PARAM_RX.sub(r"\1<REDACTED>", s))
 
 
 class Renderer:

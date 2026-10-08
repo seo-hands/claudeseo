@@ -139,3 +139,4 @@
 ## tz-travel
 
 ### Журнал
+- /tour/agypten — 2026-10-08; файли: meta-aegypten.xlsx, tz-copywriter-aegypten.docx; конкуренти (11): urlaubswelt.com, lidl-reisen.de, schauinsland-reisen.de, lmx.de, ab-ins-blaue.de, coraltravel.de, tui.com, its.de, dertour-reisebuero.de, restplatzboerse.com, aldi-reisen.de

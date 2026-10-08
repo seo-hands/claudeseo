@@ -1,0 +1,1152 @@
+{
+ "page": "https://reisemu.de/tour/agypten",
+ "slug": "aegypten",
+ "page_kind": "commercial",
+ "doc_title": "ТЗ для копірайтера: хаб «Ägypten Urlaub»",
+ "header": [
+  "Сторінка: https://reisemu.de/tour/agypten · мова тексту: німецька (de-DE), звертання на «Sie» · інструкції українською, заголовки й ключі німецькою.",
+  "Основа: 11 сторінок-хабів туроператорів і агрегаторів турів із ТОП-10 google.de за ключами «ägypten urlaub», «urlaub in aegypten», «ägypten urlaub 2026», «ägypten urlaub all inclusive mit flug und hotel» та суміжними (SERP від 8 жовтня 2026), 19 ключів хаба (72 760 запитів на місяць)."
+ ],
+ "goal": [
+  "Мета: головна сторінка напрямку «Єгипет». Вона має ранжуватися за «ägypten urlaub» (60 500 запитів) і суміжними запитами та вести відвідувача до лістингу пропозицій і до підсторінок (курорти, місяці, All Inclusive, пізніше — Last Minute, Pauschalreise, Reisehinweise).",
+  "Аудиторія: мешканці Німеччини, які планують пляжний відпочинок на Червоному морі з перельотом — сім'ї з дітьми, пари, дайвери, ті, хто шукає сонце взимку. Курорт і дати часто ще не обрано.",
+  "Інтент: комерційний з елементом вибору. Людина хоче побачити ціни й пропозиції, а також зрозуміти, який курорт і місяць обрати. Текст не замінює лістинг, а допомагає обрати й переводить на пропозиції.",
+  "Тон: конкретний і корисний — цифри (температура повітря й води, час перельоту, трансфер), без штампів на кшталт «Land der Pharaonen erwartet Sie» і «Traumurlaub»."
+ ],
+ "volume": {
+  "range": [
+   8250,
+   9800
+  ],
+  "words": "1 300–1 500",
+  "why": [
+   "Медіана 11 конкурентів — 10 141 символ без пробілів; п'ятірка лідерів за обсягом: ab-ins-blaue 34 045, schauinsland 33 110, tui 17 470, lmx 14 379, restplatzboerse 11 477.",
+   "Обсяг свідомо нижчий за медіану (рішення власника): курорти й пам'ятки описані на окремих сторінках із власними зборами семантики (/tour/agypten/hurghada, /marsa-alam, /sharm-el-sheikh, /kairo та інші), а погода за місяцями — на сторінках місяців. Хаб їх не дублює: у блоці регіонів по 250–300 символів на курорт із посиланням, у блоці сезону — таблиця й 2–3 абзаци.",
+   "Конкуренти набирають обсяг саме цими темами: у schauinsland і ab-ins-blaue по 30–33 H3 з описом кожного курорту, пам'ятки й готельної концепції на одній сторінці.",
+   "Зараз на reisemu.de 1 231 символ власного тексту: п'ять абзаців унизу сторінки без заголовків (решта — службові повідомлення пошуку)."
+  ],
+  "below_median_reason": "курорти й пам'ятки описані на окремих сторінках із власними зборами семантики, хаб їх не дублює (2026-10-08)"
+ },
+ "structure": [
+  {
+   "level": "H1",
+   "heading": "Ägypten Urlaub 2026/2027 buchen",
+   "chars": null,
+   "topic": null,
+   "note": "Один H1. Без слів Last-Minute, Pauschalreise, All Inclusive. Точне входження «Ägypten Urlaub»."
+  },
+  {
+   "level": "intro",
+   "heading": "(без заголовка, одразу під H1)",
+   "chars": [
+    150,
+    250
+   ],
+   "topic": null,
+   "note": "1–2 речення, до 250 символів. Головний ключ «Ägypten Urlaub» у першому реченні (точне входження). Більше нічого: далі одразу лістинг."
+  },
+  {
+   "level": "listing",
+   "heading": "(наявний блок пропозицій, без нового заголовка від копірайтера)",
+   "chars": null,
+   "topic": null,
+   "note": "Тексту немає. Наявний заголовок лістингу «Last-Minute-Angebote» перейменувати на нейтральний «Aktuelle Angebote» (без «Last-Minute» і без «Ägypten Urlaub»). Під лістингом — посилання «Last-Minute-Angebote Ägypten» на /tour/agypten/last-minute (після запуску сторінки). Увесь текст нижче починається з H2."
+  },
+  {
+   "level": "H2",
+   "heading": "Urlaub in Ägypten: Regionen, Reisezeit und Angebote im Überblick",
+   "chars": [
+    600,
+    700
+   ],
+   "topic": null,
+   "note": "Перший блок під лістингом, 2–3 абзаци: чому Єгипет (Червоне море цілий рік, близько 4,5–5 годин перельоту, поєднання пляжу й давніх пам'яток) і що читач знайде нижче. Ключі: «Urlaub in Ägypten buchen», «Ägypten Reise buchen», «Ägypten buchen», «Ägypten Reise 2026»; одне точне входження «Ägypten Urlaub». Одне речення з формою «Spezialist für Ägypten Reisen» — про те, що reisemu.de порівнює пропозиції багатьох туроператорів. Одне речення з анкором «günstiger Urlaub in Ägypten» на /tour/agypten_gunstig.",
+   "clusters": [
+    "K02a",
+    "K06b"
+   ]
+  },
+  {
+   "level": "H2",
+   "heading": "Die beliebtesten Urlaubsregionen in Ägypten",
+   "chars": [
+    2000,
+    2300
+   ],
+   "topic": [
+    "block:regions",
+    "subtopic:Beliebte Urlaubsorte in Ägypten"
+   ],
+   "note": "Вступ 2 речення (Червоне море на материку, Синай, долина Нілу) + порівняльна таблиця регіонів + сім H3 по 250–300 символів. У кожному H3 лише чотири речі: для кого, який пляж, одна особливість, посилання на сторінку курорту. Курорти мають власні сторінки — хаб їх не дублює."
+  },
+  {
+   "level": "H3",
+   "heading": "Hurghada",
+   "chars": [
+    250,
+    300
+   ],
+   "topic": null,
+   "note": "Для кого: перша поїздка, сім'ї, ті, хто хоче вибір готелів і розваг. Пляж: піщаний, риф з понтона або човном. Особливість: острови Giftun. Посилання на /tour/agypten/hurghada."
+  },
+  {
+   "level": "H3",
+   "heading": "Makadi Bay, Sahl Hasheesh & Soma Bay",
+   "chars": [
+    250,
+    300
+   ],
+   "topic": null,
+   "note": "Для кого: спокійний готельний відпочинок без міста. Пляж: бухти з домашніми рифами. Особливість: кайтсерфінг у Soma Bay. Посилання на /tour/agypten/makadi-bay, /tour/agypten/sahl-hasheesh, /tour/agypten/soma-bay."
+  },
+  {
+   "level": "H3",
+   "heading": "El Gouna",
+   "chars": [
+    250,
+    300
+   ],
+   "topic": null,
+   "note": "Для кого: пари, активні відпочивальники. Пляж: лагуни, мілка вода. Особливість: місто на каналах із мариною. Посилання на /tour/agypten/el-gouna — після запуску сторінки."
+  },
+  {
+   "level": "H3",
+   "heading": "Marsa Alam & El Quseir",
+   "chars": [
+    250,
+    300
+   ],
+   "topic": null,
+   "note": "Для кого: дайвери й любителі снорклінгу. Пляж: рифи просто з берега. Особливість: черепахи й дюгоні в Abu Dabbab. Посилання на /tour/agypten/marsa-alam і /tour/agypten/el-quseir."
+  },
+  {
+   "level": "H3",
+   "heading": "Sharm el Sheikh & Dahab",
+   "chars": [
+    250,
+    300
+   ],
+   "topic": null,
+   "note": "Для кого: дайвери, пари, молодь. Пляж: бухти Синаю, риф біля берега. Особливість: національний парк Ras Mohammed. Посилання на /tour/agypten/sharm-el-sheikh і /tour/agypten/dahab."
+  },
+  {
+   "level": "H3",
+   "heading": "Kairo & Gizeh",
+   "chars": [
+    250,
+    300
+   ],
+   "topic": null,
+   "note": "Для кого: екскурсія на 1–3 дні до пляжного відпочинку. Пляжу немає. Особливість: Pyramiden von Gizeh і Sphinx. Посилання на /tour/agypten/kairo — усе докладно там."
+  },
+  {
+   "level": "H3",
+   "heading": "Luxor",
+   "chars": [
+    250,
+    300
+   ],
+   "topic": null,
+   "note": "Для кого: любителі історії, екскурсія з Хургади або частина круїзу Нілом. Особливість: Tal der Könige і Karnak-Tempel. Ключ «pauschalreise luxor ägypten» — одне розбавлене входження з анкором: «… lässt sich Luxor auch als [Pauschalreise nach Ägypten] mit Flug und Hotel buchen» (анкор на /tour/agypten/pauschalreise, після запуску сторінки).",
+   "clusters": [
+    "K14"
+   ]
+  },
+  {
+   "level": "H2",
+   "heading": "Beste Reisezeit für Ägypten",
+   "chars": [
+    700,
+    900
+   ],
+   "topic": [
+    "block:seasons",
+    "subtopic:Wann ist die beste Reisezeit für Ägypten?"
+   ],
+   "note": "Без H3. Таблиця за місяцями + 2–3 абзаци: 1) на Червоному морі сезон цілий рік, найкращий баланс погоди — жовтень, листопад і березень–травень; 2) зима: тепло вдень, прохолодні вечори, найкращий час для Каїра й Луксора; літо: спека понад 35 °C, зате нижчі ціни; 3) шкільні канікули в Німеччині — «Ägypten Ferien», «Ferien in Ägypten 2026» (попит і ціни вищі). Посилання в тексті на /tour/agypten/october, /tour/agypten/november, /tour/agypten/december."
+  },
+  {
+   "level": "H2",
+   "heading": "Ägypten Urlaub mit Flug und Hotel buchen",
+   "chars": [
+    1000,
+    1200
+   ],
+   "topic": null,
+   "note": "Єдиний H2 з точною формою головного ключа. Аеропорти прильоту (Hurghada HRG, Marsa Alam RMF, Sharm el Sheikh SSH, Kairo CAI), тривалість прямого перельоту з Німеччини, трансфер, що входить у пакет. Маркований список «що входить у ціну». У тексті одне точне входження «Ägypten Urlaub mit Flug»; ще «Urlaub in Ägypten buchen mit Flug und Hotel». Харчування: одне речення з анкором «All Inclusive Urlaub Ägypten» на /tour/agypten/all-inclusive і розбавленою формою «Urlaub in Ägypten 2026 – All Inclusive mit Flug und Hotel». Одне речення з анкором «Pauschalreise Ägypten» на /tour/agypten/pauschalreise (після запуску сторінки).",
+   "clusters": [
+    "K05b"
+   ]
+  },
+  {
+   "level": "H2",
+   "heading": "Urlaubsarten: Badeurlaub, Tauchen, Familienurlaub & Kurzurlaub",
+   "chars": [
+    1400,
+    1600
+   ],
+   "topic": "subtopic:Ägypten: Urlaubsangebote für Familien",
+   "note": "Вступ 1–2 речення з одним точним входженням «Ägypten Urlaub» + чотири H3 по 300–350 символів."
+  },
+  {
+   "level": "H3",
+   "heading": "Badeurlaub am Roten Meer",
+   "chars": [
+    300,
+    350
+   ],
+   "topic": null,
+   "note": "Піщані пляжі й лагуни, понтони до рифу, купальні тапочки; семантичні слова «Strandurlaub», «Sandstrände», «Resorts»."
+  },
+  {
+   "level": "H3",
+   "heading": "Tauchen und Schnorcheln",
+   "chars": [
+    300,
+    350
+   ],
+   "topic": null,
+   "note": "Домашні рифи, Ras Mohammed, Abu Dabbab, Giftun-Inseln; «Korallenriffe», «Unterwasserwelt», «Tauchspots»."
+  },
+  {
+   "level": "H3",
+   "heading": "Familienurlaub in Ägypten",
+   "chars": [
+    300,
+    350
+   ],
+   "topic": null,
+   "note": "Аквапарки, дитячі клуби, пологий вхід у море в лагунах; які курорти зручні з дітьми. Посилання «Urlaub mit Kindern in Ägypten» на /tour/agypten_kinder."
+  },
+  {
+   "level": "H3",
+   "heading": "Kurzurlaub in Ägypten",
+   "chars": [
+    300,
+    350
+   ],
+   "topic": null,
+   "note": "Ключ «Ägypten Kurzurlaub»: 4–5 ночей, прямий рейс до Хургади, короткий трансфер; для кого це має сенс."
+  },
+  {
+   "level": "H2",
+   "heading": "Sehenswürdigkeiten & Ausflüge in Ägypten",
+   "chars": [
+    800,
+    950
+   ],
+   "topic": "subtopic:TOP-Sehenswürdigkeiten im Ägypten Urlaub",
+   "note": "Маркований список із 6 місць, назва жирним + 1–2 речення: Pyramiden von Gizeh & Sphinx, Tal der Könige, Karnak-Tempel, Nilkreuzfahrt (Luxor–Assuan), Wüstensafari, Nationalpark Ras Mohammed. Наприкінці речення про те, що екскурсії бронюють на місці або заздалегідь."
+  },
+  {
+   "level": "H2",
+   "heading": "Häufige Fragen zum Urlaub in Ägypten",
+   "chars": [
+    1600,
+    1900
+   ],
+   "topic": "block:faq",
+   "note": "7 питань, відповідь 220–260 символів кожна. Розмітка FAQPage. У відповідях точну форму «Ägypten Urlaub» не вживати. Про документи, візу й безпеку — лише питання 4, з посиланням на /tour/agypten/reisehinweise."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wann ist die beste Reisezeit für Ägypten?",
+   "note": "lidl-reisen, coraltravel, tui, restplatzboerse, ab-ins-blaue; коротка відповідь і якір на блок «Beste Reisezeit»"
+  },
+  {
+   "q": "Was kostet ein Ägypten Urlaub und wann ist er am günstigsten?",
+   "note": "tui («Wann ist Ägypten-Urlaub am günstigsten?»), ab-ins-blaue («Was kostet ein Ägypten-Urlaub?»). Єдине питання з точною формою «Ägypten Urlaub». Конкретних цін не писати — «ab … €» підставляє замовник; анкор «Ägypten günstig buchen» на /tour/agypten_gunstig"
+  },
+  {
+   "q": "Wie lange dauert der Flug nach Ägypten?",
+   "note": "coraltravel; час прямого перельоту до Hurghada, Marsa Alam, Sharm el Sheikh"
+  },
+  {
+   "q": "Welche Dokumente brauche ich für Ägypten und ist das Land aktuell sicher?",
+   "note": "єдине питання про документи, візу й безпеку (lidl-reisen, ab-ins-blaue, restplatzboerse); коротка відповідь і посилання «Reisehinweise Ägypten» на /tour/agypten/reisehinweise — подробиці лише там"
+  },
+  {
+   "q": "Wo ist es in Ägypten am schönsten?",
+   "note": "lidl-reisen, tui, coraltravel («Welche Urlaubsorte sind besonders beliebt?»); 3 курорти за типом відпочинку з якорем на блок регіонів"
+  },
+  {
+   "q": "Wann lohnen sich Ferien in Ägypten 2026?",
+   "note": "ключі «ägypten ferien», «ferien ägypten 2026», «wann sind ferien in ägypten 2026»; відповідь прив'язати до шкільних канікул у Німеччині (Oster-, Herbst-, Weihnachtsferien): погода й рівень цін"
+  },
+  {
+   "q": "Ist Ägypten für einen Urlaub mit Kindern geeignet?",
+   "note": "coraltravel, tui, restplatzboerse; види відпочинку: які курорти й готелі зручні з дітьми, анкор «Urlaub mit Kindern in Ägypten» на /tour/agypten_kinder"
+  }
+ ],
+ "exact_text": [
+  "короткий вступ під H1 (перше речення)",
+  "перший H2 під лістингом «Urlaub in Ägypten: Regionen, Reisezeit und Angebote im Überblick»",
+  "блок «Ägypten Urlaub mit Flug und Hotel buchen» («Ägypten Urlaub mit Flug»)",
+  "вступ блоку «Urlaubsarten»"
+ ],
+ "keywords": {
+  "ägypten urlaub": {
+   "place": "title / H1",
+   "count": "7 (ліміт 8, разом на всій сторінці)",
+   "block": "заголовки (2): H1, H2 «Ägypten Urlaub mit Flug und Hotel buchen»; FAQ (1): питання 2; текст (4): вступ під H1, перший H2 під лістингом, блок про переліт і готель, вступ блоку «Urlaubsarten». Title рахується окремо",
+   "why": "головний ключ; розподіл входжень — у розділі 5 ТЗ"
+  },
+  "urlaub in aegypten": {
+   "place": "H2",
+   "count": "5–7",
+   "block": "H2 «Urlaub in Ägypten: Regionen, Reisezeit und Angebote im Überblick», H2 FAQ, текст усіх блоків — основна розбавлена форма «Urlaub in Ägypten»",
+   "why": "ядро 0.82; написання через «ae» не вживати — Google зводить його до «Ägypten»"
+  },
+  "ägypten urlaub 2026": {
+   "place": "title / H1",
+   "count": "1 + 1 розбавлене",
+   "block": "title і H1 («Ägypten Urlaub 2026/2027» — те саме точне входження, що й головного ключа); у блоці про переліт — «Urlaub in Ägypten 2026»",
+   "why": "близькість 0.75 (H2/текст), але 2 400 запитів і ще п'ять ключів сторінки з «2026» → рік у title і H1"
+  },
+  "urlaub ägypten buchen": {
+   "place": "title",
+   "count": "2",
+   "block": "title і H1 (через «Ägypten Urlaub … buchen»), перший H2 під лістингом (форма «Urlaub in Ägypten buchen»)",
+   "why": "ядро 0.81; «buchen» у title мають 8 з 11 конкурентів"
+  },
+  "ägypten urlaub all inclusive mit flug und hotel": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок «Ägypten Urlaub mit Flug und Hotel buchen»: слова «mit Flug und Hotel» закриває заголовок, «All Inclusive» — одне речення з анкором на /tour/agypten/all-inclusive",
+   "why": "обмеження етапу 1: «All Inclusive» — головне слово сторінки /tour/agypten/all-inclusive → у заголовку без нього, у тексті 1 входження з посиланням"
+  },
+  "ägypten urlaub 2026 all inclusive mit flug und hotel": {
+   "place": "текст",
+   "count": "1",
+   "block": "той самий блок: розбавлена форма «Urlaub in Ägypten 2026 – All Inclusive mit Flug und Hotel»",
+   "why": "обмеження етапу 1: «All Inclusive» — головне слово сторінки /tour/agypten/all-inclusive; точну форму не вписувати"
+  },
+  "urlaub ägypten 2026 all inclusive": {
+   "place": "текст",
+   "count": "0–1",
+   "block": "закривається попереднім входженням у блоці про переліт і готель",
+   "why": "<0.65 за близькістю; обмеження етапу 1: «All Inclusive» — головне слово сторінки /tour/agypten/all-inclusive"
+  },
+  "ägypten buchen": {
+   "place": "текст",
+   "count": "1–2",
+   "block": "перший H2 під лістингом, CTA-речення наприкінці блоку регіонів",
+   "why": "H2/текст 0.76"
+  },
+  "ägypten reise buchen": {
+   "place": "текст",
+   "count": "1–2",
+   "block": "перший H2 під лістингом (кластер K06b закрито цим заголовком разом із K02a: «Reise» — синонім головного ключа)",
+   "why": "H2/текст 0.77; окремий заголовок під синонім не створюємо"
+  },
+  "ägypten reise 2026": {
+   "place": "текст",
+   "count": "1",
+   "block": "перший H2 під лістингом («Ägypten Reise 2026»)",
+   "why": "<0.65 за близькістю, але це той самий кластер K06b → у тексті першого блоку"
+  },
+  "ägypten kurzurlaub": {
+   "place": "H3",
+   "count": "1–2",
+   "block": "H3 «Kurzurlaub in Ägypten» у блоці видів відпочинку; у тексті форма «Ägypten Kurzurlaub»",
+   "why": "близькість 0.89 (ядро) через спільну основу, але 140 запитів і вужчий інтент → не title, а окремий H3"
+  },
+  "ägypten ferien": {
+   "place": "текст",
+   "count": "1–2",
+   "block": "блок «Beste Reisezeit» (абзац про шкільні канікули), питання 6 FAQ",
+   "why": "ядро 0.86 за близькістю, 140 запитів; у Німеччині «Ferien» — це канікули, тому місце в блоці сезону"
+  },
+  "ägypten urlaub mit flug": {
+   "place": "H2",
+   "count": "1",
+   "block": "H2 «Ägypten Urlaub mit Flug und Hotel buchen» і одне точне входження в тексті цього блоку (входить у ліміт)",
+   "why": "H2/текст 0.79"
+  },
+  "ägypten reise all inclusive": {
+   "place": "текст",
+   "count": "0–1",
+   "block": "блок про переліт і готель, розбавлено: анкор «All Inclusive Urlaub Ägypten»",
+   "why": "обмеження етапу 1: «All Inclusive» — головне слово сторінки /tour/agypten/all-inclusive"
+  },
+  "ägypten urlaub buchen mit flug und hotel": {
+   "place": "H2",
+   "count": "1",
+   "block": "H2 «Ägypten Urlaub mit Flug und Hotel buchen» (усі слова ключа в заголовку)",
+   "why": "H2/текст 0.72"
+  },
+  "ferien ägypten 2026": {
+   "place": "FAQ",
+   "count": "1",
+   "block": "питання 6 FAQ «Wann lohnen sich Ferien in Ägypten 2026?»",
+   "why": "H2/текст 0.68 за близькістю, 70 запитів → FAQ разом із наступним ключем"
+  },
+  "wann sind ferien in ägypten 2026": {
+   "place": "FAQ",
+   "count": "1",
+   "block": "питання 6 FAQ; у відповіді — на які канікули припадає найкраща погода",
+   "why": "<0.65 → FAQ/довгий хвіст"
+  },
+  "ägypten reise spezialist": {
+   "place": "текст",
+   "count": "1",
+   "block": "перший H2 під лістингом: «Spezialist für Ägypten Reisen»",
+   "why": "H2/текст 0.68, 40 запитів; одне природне входження"
+  },
+  "pauschalreise luxor ägypten": {
+   "place": "H3",
+   "count": "1",
+   "block": "H3 «Luxor» у блоці регіонів: розбавлена форма з анкором «Pauschalreise nach Ägypten» на /tour/agypten/pauschalreise",
+   "why": "рішення власника (етап 1): поки на хабі, окрема сторінка /luxor пізніше. «Pauschalreise» — головне слово іншої сторінки → у заголовку лише «Luxor»"
+  }
+ },
+ "keywords_intro": "Кількість — точні входження або природна форма з тими самими словами («Urlaub in Ägypten buchen» зараховується за «urlaub ägypten buchen»). Порядок — за частотністю.",
+ "keywords_note": "Усі ключі, що містять слова «ägypten urlaub» (варіанти з 2026, All Inclusive, «mit Flug und Hotel»), поза переліченими місцями вписувати розбавлено — через «Urlaub in Ägypten». Написання «Aegypten» не вживати.",
+ "diluted_forms": [
+  "Urlaub in Ägypten",
+  "Ägypten Reise",
+  "Reise nach Ägypten",
+  "Ferien in Ägypten",
+  "Urlaub am Roten Meer"
+ ],
+ "lists": [
+  "Блок «Ägypten Urlaub mit Flug und Hotel buchen»: маркований список із 4–5 пунктів «що входить у ціну» (переліт, трансфер, готель, харчування, багаж).",
+  "Блок «Sehenswürdigkeiten & Ausflüge»: маркований список із 6 місць, назва жирним + 1–2 речення."
+ ],
+ "tables": [
+  "Таблиця 1, блок регіонів — порівняння курортів. Колонки: Region | Strand & Riff | Ideal für | Flughafen & Transfer | Preis ab. Рядки: Hurghada, Makadi Bay, El Gouna, Marsa Alam, Sharm el Sheikh, Kairo. Ціни «ab … €» замовник підставляє з лістингу.",
+  "Таблиця 2, блок «Beste Reisezeit» — місяці. Колонки: Monat | Lufttemperatur | Wassertemperatur | Geeignet für. Рядки: Januar–Dezember (12 рядків: в Єгипті сезон цілий рік). Кліматичні дані брати з climate-data.org: середні багаторічні значення для Hurghada (температура повітря вдень і температура води). Якщо температури води для Hurghada там немає — брати її з seatemperature.info для Hurghada. Значення округлювати до цілих градусів. Над таблицею одне речення, що дані наведено для узбережжя Червоного моря (Hurghada), а в Каїрі й у долині Нілу (Luxor) взимку прохолодніше, улітку спекотніше.",
+  "Таблицю за місяцями не має жоден з 11 конкурентів (таблиця взагалі є лише в lmx, і то це календар), тож це спосіб виділитися."
+ ],
+ "photos": [
+  "Усього 11–12 фото: 1 головне (риф і пляж на Червоному морі), 7 — по одному на кожен H3 регіонів, 1 — до блоку сезону, 2 — види відпочинку (снорклінг, сім'я на пляжі), 1 — пам'ятки (Karnak або Tal der Könige).",
+  "До кожного фото копірайтер дає унікальний alt німецькою з назвою місця, наприклад «Hausriff und Badesteg in der Makadi Bay am Roten Meer». Точної форми головного ключа в alt немає. Зараз на сторінці 12 зображень з однаковим alt «Ägypten Urlaub»."
+ ],
+ "terms": {
+  "ägypten": {
+   "uk": "Єгипет",
+   "where": "H2 / текст"
+  },
+  "kairo": {
+   "uk": "Каїр",
+   "where": "H3 / текст"
+  },
+  "hurghada": {
+   "uk": "Хургада",
+   "where": "H3 / текст"
+  },
+  "pyramiden": {
+   "uk": "піраміди",
+   "where": "H3 «Kairo & Gizeh», список пам'яток"
+  },
+  "gizeh": {
+   "uk": "Гіза",
+   "where": "H3 / текст"
+  },
+  "roten meer": {
+   "uk": "Червоне море",
+   "where": "H3 / текст",
+   "name": "Rotes Meer"
+  },
+  "luxor": {
+   "uk": "Луксор",
+   "where": "H3 / текст"
+  },
+  "tal der könige": {
+   "uk": "Долина царів",
+   "where": "H3 «Luxor», список пам'яток"
+  },
+  "ägypten urlaub": {
+   "uk": "відпочинок в Єгипті",
+   "where": "H1, H2 / текст — у межах ліміту точних входжень (розділ 5)"
+  },
+  "urlaub in ägypten": {
+   "uk": "відпочинок в Єгипті",
+   "where": "H2 / текст — основна розбавлена форма"
+  },
+  "sharm el sheikh": {
+   "uk": "Шарм-ель-Шейх",
+   "where": "H3 / текст"
+  },
+  "sehenswürdigkeiten": {
+   "uk": "визначні пам'ятки",
+   "where": "H2"
+  },
+  "wüste": {
+   "uk": "пустеля",
+   "where": "текст"
+  },
+  "marsa alam": {
+   "uk": "Марса-Алам",
+   "where": "H3 / текст"
+  },
+  "kultur": {
+   "uk": "культура",
+   "where": "текст"
+  },
+  "sphinx": {
+   "uk": "Сфінкс",
+   "where": "H3 «Kairo & Gizeh», список пам'яток"
+  },
+  "reisezeit": {
+   "uk": "найкращий час для подорожі",
+   "where": "H2",
+   "name": "beste Reisezeit"
+  },
+  "hotel": {
+   "uk": "готель",
+   "where": "H2 / текст"
+  },
+  "stränden": {
+   "uk": "пляжі",
+   "where": "текст",
+   "name": "Strände"
+  },
+  "nilkreuzfahrt": {
+   "uk": "круїз Нілом",
+   "where": "список пам'яток, H3 «Luxor»"
+  },
+  "strand": {
+   "uk": "пляж",
+   "where": "текст"
+  },
+  "makadi bay": {
+   "uk": "Макаді-Бей",
+   "where": "H3 / текст"
+  },
+  "korallenriffe": {
+   "uk": "коралові рифи",
+   "where": "H3 «Tauchen und Schnorcheln», блок регіонів"
+  },
+  "pharaonen": {
+   "uk": "фараони",
+   "where": "текст"
+  },
+  "gouna": {
+   "uk": "Ель-Гуна",
+   "where": "H3",
+   "name": "El Gouna"
+  },
+  "unterwasserwelt": {
+   "uk": "підводний світ",
+   "where": "H3 «Tauchen und Schnorcheln»"
+  },
+  "geschichte": {
+   "uk": "історія",
+   "where": "текст"
+  },
+  "reiseziele": {
+   "uk": "напрямки подорожей",
+   "where": "текст"
+  },
+  "tempel": {
+   "uk": "храми",
+   "where": "H3 «Luxor», список пам'яток"
+  },
+  "entspannung": {
+   "uk": "розслаблення",
+   "where": "текст"
+  },
+  "tauchen": {
+   "uk": "дайвінг",
+   "where": "H2 / H3"
+  },
+  "schnorcheln": {
+   "uk": "снорклінг",
+   "where": "H3"
+  },
+  "museum": {
+   "uk": "музей",
+   "where": "H3 «Kairo & Gizeh»",
+   "name": "Grand Egyptian Museum"
+  },
+  "sonne": {
+   "uk": "сонце",
+   "where": "текст"
+  },
+  "hauptstadt": {
+   "uk": "столиця",
+   "where": "H3 «Kairo & Gizeh»"
+  },
+  "ausflüge": {
+   "uk": "екскурсії",
+   "where": "H2"
+  },
+  "strandurlaub": {
+   "uk": "пляжний відпочинок",
+   "where": "H3 «Badeurlaub am Roten Meer»"
+  },
+  "all inclusive": {
+   "uk": "все включено",
+   "where": "лише анкор на /tour/agypten/all-inclusive"
+  },
+  "resorts": {
+   "uk": "курортні готелі",
+   "where": "текст"
+  },
+  "alexandria": {
+   "uk": "Александрія",
+   "where": "текст (одна згадка у вступі блоку регіонів: середземноморське узбережжя)"
+  },
+  "stätten": {
+   "uk": "історичні пам'ятки",
+   "where": "текст",
+   "name": "historische Stätten"
+  },
+  "unterkunft": {
+   "uk": "житло, готель",
+   "where": "блок про переліт і готель"
+  },
+  "flug": {
+   "uk": "переліт",
+   "where": "H2 / текст"
+  },
+  "aktivitäten": {
+   "uk": "активності",
+   "where": "блок видів відпочинку"
+  },
+  "temperaturen": {
+   "uk": "температури",
+   "where": "текст (таблиця сезонів)"
+  },
+  "highlights": {
+   "uk": "головні цікавинки",
+   "where": "текст"
+  },
+  "soma bay": {
+   "uk": "Сома-Бей",
+   "where": "H3 / текст"
+  },
+  "klima": {
+   "uk": "клімат",
+   "where": "блок сезону"
+  },
+  "sinai": {
+   "uk": "Синай",
+   "where": "H3 «Sharm el Sheikh & Dahab»"
+  },
+  "familien": {
+   "uk": "сім'ї",
+   "where": "H3 «Familienurlaub in Ägypten»"
+  },
+  "küche": {
+   "uk": "кухня",
+   "where": "текст (одне речення в блоці про переліт і готель, харчування)"
+  },
+  "pauschalreise": {
+   "uk": "пакетний тур",
+   "where": "лише анкор на /tour/agypten/pauschalreise"
+  },
+  "urlaubsort": {
+   "uk": "курорт",
+   "where": "H2 / текст",
+   "name": "Urlaubsorte"
+  },
+  "urlauber": {
+   "uk": "відпочивальники",
+   "where": "текст"
+  },
+  "rundreise": {
+   "uk": "круговий тур",
+   "where": "текст (H3 «Luxor»: Луксор як частина туру Нілом), одна згадка"
+  },
+  "abenteuer": {
+   "uk": "пригоди",
+   "where": "текст (Wüstensafari)"
+  },
+  "sandstränden": {
+   "uk": "піщані пляжі",
+   "where": "H3 «Badeurlaub am Roten Meer»",
+   "name": "Sandstrände"
+  },
+  "visum": {
+   "uk": "віза",
+   "where": "FAQ, питання 4"
+  },
+  "erholung": {
+   "uk": "відпочинок, відновлення",
+   "where": "текст"
+  },
+  "preis": {
+   "uk": "ціна",
+   "where": "FAQ, таблиця регіонів",
+   "name": "Preise"
+  },
+  "kosten": {
+   "uk": "вартість",
+   "where": "FAQ, питання 2"
+  },
+  "oktober": {
+   "uk": "жовтень",
+   "where": "блок «Beste Reisezeit» (текст, таблиця)"
+  },
+  "verpflegung": {
+   "uk": "харчування",
+   "where": "блок про переліт і готель"
+  },
+  "karnak": {
+   "uk": "Карнак",
+   "where": "H3 «Luxor», список пам'яток",
+   "name": "Karnak-Tempel"
+  },
+  "antike": {
+   "uk": "античність, давнина",
+   "where": "текст"
+  },
+  "grad": {
+   "uk": "градуси",
+   "where": "текст (таблиця сезонів)"
+  },
+  "kindern": {
+   "uk": "діти (з дітьми)",
+   "where": "H3 «Familienurlaub in Ägypten»",
+   "name": "mit Kindern"
+  },
+  "sinai-halbinsel": {
+   "uk": "Синайський півострів",
+   "where": "H3 «Sharm el Sheikh & Dahab»"
+  },
+  "märz": {
+   "uk": "березень",
+   "where": "текст (блок сезону, таблиця)"
+  },
+  "landschaft": {
+   "uk": "краєвид",
+   "where": "текст"
+  },
+  "badeurlaub": {
+   "uk": "пляжний (купальний) відпочинок",
+   "where": "H2 / H3"
+  },
+  "familienurlaub": {
+   "uk": "сімейний відпочинок",
+   "where": "H2 / H3"
+  },
+  "ägyptische museum": {
+   "uk": "Єгипетський музей",
+   "where": "H3 «Kairo & Gizeh»",
+   "name": "Ägyptisches Museum"
+  },
+  "flughafen": {
+   "uk": "аеропорт",
+   "where": "блок про переліт і готель"
+  },
+  "badeorte": {
+   "uk": "курорти для купання",
+   "where": "текст"
+  },
+  "e-visum": {
+   "uk": "електронна віза",
+   "where": "FAQ, питання 4"
+  },
+  "nationalpark": {
+   "uk": "національний парк",
+   "where": "список пам'яток (Ras Mohammed)"
+  },
+  "tauchspots": {
+   "uk": "місця для дайвінгу",
+   "where": "H3 «Tauchen und Schnorcheln»"
+  },
+  "assuan": {
+   "uk": "Асуан",
+   "where": "список пам'яток (Nilkreuzfahrt)"
+  },
+  "wetter": {
+   "uk": "погода",
+   "where": "блок сезону / FAQ"
+  },
+  "kinderclubs": {
+   "uk": "дитячі клуби",
+   "where": "H3 «Familienurlaub in Ägypten»"
+  },
+  "safaga": {
+   "uk": "Сафага",
+   "where": "текст (блок регіонів, одна згадка з посиланням)"
+  },
+  "last minute": {
+   "uk": "гарячі тури",
+   "where": "лише анкор на /tour/agypten/last-minute"
+  },
+  "november": {
+   "uk": "листопад",
+   "where": "блок «Beste Reisezeit» (текст, таблиця)"
+  },
+  "tutanchamun": {
+   "uk": "Тутанхамон",
+   "where": "H3 «Kairo & Gizeh» або «Luxor»"
+  },
+  "transfer": {
+   "uk": "трансфер",
+   "where": "блок регіонів, блок про переліт і готель"
+  },
+  "lagunen": {
+   "uk": "лагуни",
+   "where": "H3 «El Gouna», «Familienurlaub»"
+  },
+  "wassersport": {
+   "uk": "водні види спорту",
+   "where": "текст"
+  },
+  "winter": {
+   "uk": "зима",
+   "where": "блок «Beste Reisezeit»"
+  },
+  "sommer": {
+   "uk": "літо",
+   "where": "блок «Beste Reisezeit»"
+  },
+  "korallen": {
+   "uk": "корали",
+   "where": "текст"
+  },
+  "paare": {
+   "uk": "пари",
+   "where": "текст (для кого курорт)"
+  }
+ },
+ "terms_skip": [
+  "sharm",
+  "makadi",
+  "erlebnis",
+  "taucher und schnorchler",
+  "reisenden",
+  "hurghada sharm",
+  "rote meer",
+  "schönheit",
+  "vielzahl",
+  "touristen",
+  "hauptstadt kairo",
+  "freizeitmöglichkeiten",
+  "besuch",
+  "tauchen und schnorcheln",
+  "sonnenanbeter",
+  "bedingungen",
+  "direkt am roten"
+ ],
+ "terms_skip_reasons": {
+  "sharm": "дубль «Sharm el Sheikh»",
+  "makadi": "дубль «Makadi Bay»",
+  "erlebnis": "рекламний штамп",
+  "taucher und schnorchler": "дубль «Tauchen», «Schnorcheln»",
+  "reisenden": "загальне слово, дубль «Urlauber»",
+  "hurghada sharm": "уривок переліку курортів",
+  "rote meer": "дубль «Rotes Meer»",
+  "schönheit": "рекламний штамп",
+  "vielzahl": "слово-наповнювач",
+  "touristen": "дубль «Urlauber»",
+  "hauptstadt kairo": "дубль «Hauptstadt», «Kairo»",
+  "freizeitmöglichkeiten": "дубль «Aktivitäten»",
+  "besuch": "загальне слово",
+  "tauchen und schnorcheln": "дубль (є як заголовок H3)",
+  "sonnenanbeter": "рекламний штамп",
+  "bedingungen": "загальне слово",
+  "direkt am roten": "уривок фрази"
+ },
+ "links": [
+  {
+   "page": "/tour/agypten/reisehinweise",
+   "anchors": [
+    "Reisehinweise Ägypten",
+    "Einreise & Sicherheit in Ägypten"
+   ],
+   "where": "FAQ, питання 4 (окремого блоку про в'їзд і безпеку на хабі немає)"
+  },
+  {
+   "page": "/tour/agypten/pauschalreise",
+   "anchors": [
+    "Pauschalreise Ägypten",
+    "Pauschalreise nach Ägypten"
+   ],
+   "where": "блок про переліт і готель; H3 «Luxor»"
+  },
+  {
+   "page": "/tour/agypten/all-inclusive",
+   "anchors": [
+    "All Inclusive Urlaub Ägypten",
+    "Ägypten All Inclusive"
+   ],
+   "where": "блок про переліт і готель (харчування)"
+  },
+  {
+   "page": "/tour/agypten/hurghada",
+   "anchors": [
+    "Urlaub in Hurghada",
+    "Hurghada Urlaub"
+   ],
+   "where": "H3 «Hurghada», таблиця регіонів"
+  },
+  {
+   "page": "/tour/agypten_gunstig",
+   "anchors": [
+    "günstiger Urlaub in Ägypten",
+    "Ägypten günstig buchen"
+   ],
+   "where": "перший H2 під лістингом; FAQ, питання 2"
+  },
+  {
+   "page": "/tour/agypten/marsa-alam",
+   "anchors": [
+    "Urlaub in Marsa Alam",
+    "Marsa Alam Urlaub"
+   ],
+   "where": "H3 «Marsa Alam & El Quseir», таблиця регіонів"
+  },
+  {
+   "page": "/tour/agypten_kinder",
+   "anchors": [
+    "Urlaub mit Kindern in Ägypten",
+    "Familienurlaub Ägypten"
+   ],
+   "where": "H3 «Familienurlaub in Ägypten»; FAQ, питання 7"
+  },
+  {
+   "page": "/tour/agypten/kairo",
+   "anchors": [
+    "Kairo & Pyramiden von Gizeh",
+    "Reisen nach Kairo"
+   ],
+   "where": "H3 «Kairo & Gizeh»; список пам'яток"
+  },
+  {
+   "page": "/tour/agypten/december",
+   "anchors": [
+    "Ägypten im Dezember",
+    "Urlaub in Ägypten im Dezember"
+   ],
+   "where": "блок «Beste Reisezeit» (абзац про зиму)"
+  },
+  {
+   "page": "/tour/agypten/last-minute",
+   "anchors": [
+    "Last-Minute-Angebote Ägypten",
+    "Last Minute Ägypten"
+   ],
+   "where": "під лістингом"
+  },
+  {
+   "page": "/tour/agypten/november",
+   "anchors": [
+    "Ägypten im November",
+    "Urlaub in Ägypten im November"
+   ],
+   "where": "блок «Beste Reisezeit» (абзац про найкращі місяці)"
+  },
+  {
+   "page": "/tour/agypten/october",
+   "anchors": [
+    "Ägypten im Oktober",
+    "Urlaub in Ägypten im Oktober"
+   ],
+   "where": "блок «Beste Reisezeit» (абзац про найкращі місяці)"
+  },
+  {
+   "page": "/tour/agypten/el-gouna",
+   "anchors": [
+    "Urlaub in El Gouna",
+    "El Gouna Urlaub"
+   ],
+   "where": "H3 «El Gouna»"
+  },
+  {
+   "page": "/tour/agypten/makadi-bay",
+   "anchors": [
+    "Urlaub in Makadi Bay",
+    "Makadi Bay Urlaub"
+   ],
+   "where": "H3 «Makadi Bay, Sahl Hasheesh & Soma Bay», таблиця регіонів"
+  },
+  {
+   "page": "/tour/agypten/sharm-el-sheikh",
+   "anchors": [
+    "Urlaub in Sharm el Sheikh",
+    "Sharm el Sheikh Urlaub"
+   ],
+   "where": "H3 «Sharm el Sheikh & Dahab», таблиця регіонів"
+  }
+ ],
+ "links_extra": [
+  {
+   "page": "/tour/agypten/sahl-hasheesh",
+   "state": "існує",
+   "anchors": [
+    "Urlaub in Sahl Hasheesh",
+    "Sahl Hasheesh Urlaub"
+   ],
+   "where": "H3 «Makadi Bay, Sahl Hasheesh & Soma Bay» (додатково до обов'язкових)"
+  },
+  {
+   "page": "/tour/agypten/soma-bay",
+   "state": "існує",
+   "anchors": [
+    "Urlaub in Soma Bay",
+    "Soma Bay Urlaub"
+   ],
+   "where": "H3 «Makadi Bay, Sahl Hasheesh & Soma Bay» (додатково до обов'язкових)"
+  },
+  {
+   "page": "/tour/agypten/el-quseir",
+   "state": "існує",
+   "anchors": [
+    "Urlaub in El Quseir",
+    "El Quseir Urlaub"
+   ],
+   "where": "H3 «Marsa Alam & El Quseir» (додатково до обов'язкових)"
+  },
+  {
+   "page": "/tour/agypten/dahab",
+   "state": "існує",
+   "anchors": [
+    "Urlaub in Dahab",
+    "Dahab Urlaub"
+   ],
+   "where": "H3 «Sharm el Sheikh & Dahab» (додатково до обов'язкових)"
+  },
+  {
+   "page": "/tour/agypten/safaga",
+   "state": "існує",
+   "anchors": [
+    "Urlaub in Safaga",
+    "Safaga Urlaub"
+   ],
+   "where": "вступ блоку регіонів (додатково до обов'язкових)"
+  },
+  {
+   "page": "/hotels/agypten",
+   "state": "існує",
+   "anchors": [
+    "Hotels in Ägypten",
+    "Ägypten Hotels"
+   ],
+   "where": "блок про переліт і готель (додатково до обов'язкових)"
+  }
+ ],
+ "links_skip": {},
+ "links_note": "Нові сторінки (/reisehinweise, /pauschalreise, /last-minute, /el-gouna) зараз віддають 301 на хаб: посилання на них ставити лише після запуску.",
+ "bans": [
+  "Не переносити зі старого тексту речення про різницю в часі з Україною й Києвом, про «unsere Büros», «Reisemanager» і знижки «bis zu 50 %»: старий текст замінюється повністю.",
+  "Не вписувати довгі ключі дослівно, якщо фраза звучить неприродно («ägypten urlaub 2026 all inclusive mit flug und hotel»): достатньо, щоб слова стояли в одному реченні.",
+  "Не писати про чинні попередження МЗС, правила в'їзду й вартість візи з конкретними цифрами — це зміст /tour/agypten/reisehinweise; на хабі лише коротка відповідь у FAQ і посилання.",
+  "Піраміди, Сфінкс і музей — лише коротко (H3 і пункт списку): докладно про них пише сторінка /tour/agypten/kairo.",
+  "Слово «günstig» — не в заголовках і не більше трьох разів на текст: під нього є окрема сторінка /tour/agypten_gunstig.",
+  "Без шаблонного тексту під кожен курорт: у кожному H3 мають бути факти саме про це місце."
+ ],
+ "competitors_better": [
+  "Текст. Медіана 10 141 символ проти 1 231 на reisemu.de; у п'яти лідерів 11 500–34 000. ТЗ свідомо лишається нижче медіани (8 250–9 800): курорти й пам'ятки описано на окремих сторінках.",
+  "FAQ мають 7 з 11 конкурентів, блок сезону й клімату — 6, блок регіонів із текстом — 5 (заголовки про курорти — 6). На reisemu.de є лише посилання на курорти й місяці без тексту.",
+  "Title. «Ägypten Urlaub» у title мають 9 з 11, «buchen» — 8, «günstig» — 6. Title reisemu.de має 88 символів, містить Last-Minute, All-inclusive і Pauschalreisen, а головного ключа в ньому немає.",
+  "Заголовки. У лідерів 7 H2 і 6 H3 за медіаною; на reisemu.de три H2 — це назви блоків («Last-Minute-Angebote», «Unsere Favoriten in Ägyptens», «Beliebte Reiseziele»), текстових заголовків немає.",
+  "Структуровані дані: BreadcrumbList є у 8 з 11, FAQPage — у schauinsland і restplatzboerse, AggregateRating — в its.de; на reisemu.de розмітки JSON-LD не знайдено."
+ ],
+ "how_to_beat": [
+  "Таблиця за 12 місяцями з температурою повітря й води — її немає в жодного з конкурентів.",
+  "Порівняльна таблиця курортів із реальними цінами «ab … €» з власного лістингу й часом трансферу.",
+  "Блок про переліт і готель з конкретикою (аеропорти HRG, RMF, SSH, час перельоту, що входить у ціну): у конкурентів це здебільшого рекламний абзац.",
+  "FAQ із сімома питаннями та розміткою FAQPage (її мають лише 2 з 11); відповідь про документи й безпеку веде на власний гайд /tour/agypten/reisehinweise.",
+  "Чітке розведення тем: хаб не конкурує з власними сторінками All Inclusive, Last Minute, Pauschalreise, günstig і Kairo, а посилається на них — у lmx, schauinsland і ab-ins-blaue ці слова змішані в title і заголовках хаба.",
+  "Унікальні alt у фото й зміст-навігація (якорі на H2) на початку тексту."
+ ],
+ "meta": {
+  "note": "Рік у title: серед 11 розібраних сторінок його має лише ab-ins-blaue, але в ТОП-10 за головним ключем рік у title мають три сторінки — holidaycheck (поз. 2), ab-ins-blaue (6) і loveholidays (8); дві з них не відкрилися для аналізу (HTTP 400 і 403), їхні title узято з даних SERP етапу 1. Ще шість ключів сторінки містять «2026» (4 150 запитів). «günstig» (6 з 11) у комплект A не взято: під нього є окрема сторінка /tour/agypten_gunstig («günstiger urlaub ägypten», 1 290 запитів); варіант із «günstig» — комплект B.",
+  "A": {
+   "condition": "Впроваджувати зараз. Перед заміною title перевірити в GSC, чи має хаб кліки за запитами з «last minute» і «pauschalreise»: якщо так — title міняти разом із запуском /tour/agypten/last-minute і /tour/agypten/pauschalreise.",
+   "title": {
+    "text": "Ägypten Urlaub 2026/2027 buchen – Flug & Hotel | reisemu.de",
+    "why": "Головний ключ на початку, рік (ключі з «2026», 4 150 запитів), «buchen» (у title 8 з 11 конкурентів; ключ «urlaub ägypten buchen», 1 900) і «Flug & Hotel» (ключі «…mit flug», «…buchen mit flug und hotel»). Символів немає."
+   },
+   "description": {
+    "text": "Ägypten Urlaub 2026/2027 buchen ✈ Reisen mit Flug & Hotel ✓ Hurghada, Marsa Alam & Sharm el Sheikh ✓ Beste Reisezeit & Tipps. Jetzt Angebote vergleichen!",
+    "why": "Початок збігається з title і H1; далі пакет «Flug & Hotel», три найчастотніші курорти й сезон — те, що є в блоках сторінки. Символи: ✈ один раз, ✓ двічі. У конкурентів ✈ мають 2 з 11 (серед них lidl-reisen, поз. 3), ☀ — 2, сім сторінок без символів."
+   },
+   "h1": {
+    "text": "Ägypten Urlaub 2026/2027 buchen",
+    "why": "Дослівно початок title: головний ключ, рік і «buchen»."
+   }
+  },
+  "tests": [
+   {
+    "name": "Комплект B",
+    "condition": "Пробувати, якщо через 8–12 тижнів CTR сторінки в GSC нижчий за середній по сайту на тих самих позиціях, а /tour/agypten_gunstig не вийшла в ТОП-20 за «günstiger urlaub ägypten» — тобто цінові запити однаково збирає хаб.",
+    "title": {
+     "text": "Ägypten Urlaub günstig buchen – Angebote 2026 | reisemu.de",
+     "why": "Формула лідерів ТОП (lidl-reisen, schauinsland, its, restplatzboerse: «günstig buchen»); «günstig» у title мають 6 з 11."
+    },
+    "description": {
+     "text": "Ägypten Urlaub günstig buchen ✓ Aktuelle Angebote 2026 mit Flug & Hotel ✓ Hurghada, Marsa Alam & Sharm el Sheikh im Preisvergleich. Jetzt Reise sichern!",
+     "why": "Ціновий акцент, як у title; ✓ двічі, інших символів немає."
+    },
+    "h1": {
+     "text": "Ägypten Urlaub günstig buchen",
+     "why": "Пара до title комплекту B; без року."
+    }
+   },
+   {
+    "name": "Комплект C",
+    "condition": "Пробувати, якщо сторінка вийшла в ТОП-10 за «ägypten urlaub», а покази за запитами з роком становлять малу частку: варіант без року не потребує щорічного оновлення.",
+    "title": {
+     "text": "Ägypten Urlaub buchen: Flug, Hotel & Transfer | reisemu.de",
+     "why": "Без року: акцент на бронюванні й пакеті «переліт + готель + трансфер». Слово Pauschalreise не використано — воно для /tour/agypten/pauschalreise."
+    },
+    "description": {
+     "text": "Urlaub in Ägypten buchen: Angebote mit Flug, Hotel und Transfer am Roten Meer. Regionen, Reisezeit und Preise für Hurghada, Marsa Alam & Co. im Überblick.",
+     "why": "Без символів: природна форма «Urlaub in Ägypten buchen», семантичні слова «Rotes Meer», «Reisezeit»."
+    },
+    "h1": {
+     "text": "Ägypten Urlaub buchen: Flug, Hotel & Transfer",
+     "why": "Пара до title комплекту C."
+    }
+   }
+  ],
+  "current_notes": {
+   "title": "88 символів (ліміт 60); містить головні слова трьох інших сторінок (Last-Minute, All-inclusive, Pauschalreisen), а головного ключа «Ägypten Urlaub» у ньому немає.",
+   "description": "Теж про last minute, Pauschalreisen і All-inclusive; набір слів без зв'язного речення, кольоровий емодзі ✅.",
+   "h1": "Лише головний ключ, без року й «buchen»."
+  }
+ },
+ "developer": [
+  "Лістинг: перейменувати заголовок «Last-Minute-Angebote» на нейтральний «Aktuelle Angebote»; під лістингом поставити посилання «Last-Minute-Angebote Ägypten» на /tour/agypten/last-minute (після запуску сторінки).",
+  "Порядок блоків: H1 → 1–2 речення вступу → лістинг → увесь текст; зараз текст стоїть унизу сторінки п'ятьма абзацами під блоком «Ägypten Reisen nach Monaten», без власних заголовків.",
+  "Старий текст прибрати повністю. У ньому є речення про різницю в часі між Єгиптом і Україною («…und der Ukraine. Mit der Umstellung auf Sommerzeit in Kiew…») — залишок перекладу з українського сайту.",
+  "Виправити заголовки блоків: «Unsere Favoriten in Ägyptens» → «Unsere Favoriten in Ägypten», «Reiseziele Ägyptens» → «Reiseziele in Ägypten».",
+  "Нові сторінки з розподілу етапу 1 зараз віддають 301 на хаб: /tour/agypten/reisehinweise (102 500 запитів), /tour/agypten/pauschalreise (8 030), /tour/agypten/last-minute (890), /tour/agypten/el-gouna (330). Посилання на них у тексті вмикати після запуску.",
+  "Розмітка JSON-LD: на сторінці її немає; додати BreadcrumbList і FAQPage (для блоку «Häufige Fragen»)."
+ ],
+ "subtopics_uk": {
+  "Beliebte Urlaubsorte in Ägypten": "популярні курорти й напрямки",
+  "Wann ist die beste Reisezeit für Ägypten?": "найкращий час для поїздки",
+  "Ägypten: Urlaubsangebote für Familien": "сімейний відпочинок, відпочинок з дітьми",
+  "Sorgenfreier Traumurlaub: Ägypten All Inclusive erleben": "відпочинок «все включено»",
+  "Kairo": "Каїр",
+  "Hurghada": "Хургада",
+  "El Gouna": "Ель-Гуна",
+  "und keine Reiseangebote verpassen": "добірки пропозицій і розсилка",
+  "TOP-Sehenswürdigkeiten im Ägypten Urlaub": "головні пам'ятки",
+  "Das Land der Pharaonen entdecken": "країна фараонів (вступний блок)",
+  "Ägypten für Erwachsene – Exklusivität, spannende Erlebnisse und totale Erholung": "активний відпочинок і відпочинок для дорослих",
+  "Adults-only-Hotels in Ägypten: Luxus und Ruhe für den besonderen Urlaub": "готелі лише для дорослих, люкс",
+  "Wann ist Ägypten-Urlaub am günstigsten?": "коли дешевше і скільки коштує",
+  "Makadi Bay": "Макаді-Бей",
+  "Marsa Alam": "Марса-Алам",
+  "Sharm el Sheikh": "Шарм-ель-Шейх",
+  "Ägypten – das Land der Pharaonen und ein Traum aus Kultur, Natur und Abenteuer": "загальний опис країни",
+  "Ägypten in allen Facetten": "різні грані Єгипту (добірки)",
+  "Die Top-Ziele im Ägypten Urlaub": "топ-напрямки",
+  "Die wichtigsten Fragen rund um Ihren Ägypten Urlaub": "поширені запитання",
+  "Wo ist es am schönsten, Urlaub zu machen in Ägypten?": "де в Єгипті найкраще",
+  "Unsere Top-Hotels in Ägypten": "найкращі готелі",
+  "Erfrischende Auszeit – Hotels mit Aquapark für den perfekten Urlaub": "готелі з аквапарком",
+  "Luxor-Museum": "Луксор",
+  "Pyramiden von Gizeh": "піраміди Гізи",
+  "Tal der Könige": "Долина царів",
+  "Wähle dein Ziel und beginne jetzt dein Ägypten-Erlebnis": "вибір напрямку (заклик)",
+  "Was muss ich wissen für meinen Ägypten-Urlaub?": "що треба знати перед поїздкою",
+  "Menaville Safaga": "готель Menaville у Сафазі (лістинг)",
+  "Essen & Kulinarik in Ägypten": "їжа й місцева кухня",
+  "Übernachten & Hotels in Ägypten": "готелі й проживання",
+  "Entspannung genießen in ausgewählten Sternehotels": "велнес і готелі за зірковістю",
+  "Ägypten Urlaub – Kultur, Sonne und Abenteuer erleben": "культура, сонце й пригоди (вступний блок)",
+  "Günstige Ägypten Angebote mit Flug und Hotel": "пропозиції з перельотом і готелем",
+  "Alle Angebote für Ägypten": "усі пропозиції"
+ },
+ "gaps_declined": {}
+}

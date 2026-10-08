@@ -117,7 +117,12 @@ def check(ctx, plan, C, E):
         err.append("не задано volume.range")
     else:
         if vr[0] < S["text_median"]:
-            err.append(f"нижня межа обсягу {vr[0]} менша за медіану конкурентів {S['text_median']}")
+            msg = f"нижня межа обсягу {vr[0]} менша за медіану конкурентів {S['text_median']}"
+            # the owner may decide to stay below the median (e.g. regions are covered by their own pages): then it is a warning
+            if (plan["volume"].get("below_median_reason") or "").strip():
+                warn.append(msg + " — рішення власника: " + plan["volume"]["below_median_reason"])
+            else:
+                err.append(msg + " (якщо це рішення власника — запишіть причину у volume.below_median_reason)")
         if vr[1] > S["text_top5"][0]:
             err.append(f"верхня межа обсягу {vr[1]} більша за найдовший текст у ТОП {S['text_top5'][0]}")
         if not (vr[0] <= lo and hi <= vr[1] and lo - vr[0] <= 0.05 * vr[0] and vr[1] - hi <= 0.05 * vr[1]):

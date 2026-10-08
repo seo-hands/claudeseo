@@ -1,0 +1,78 @@
+{
+ "url": "https://www.loveholidays.com/de/urlaub/aegypten/",
+ "status_code": 403,
+ "content": "<html lang=\"en\"><head><title>loveholidays.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"></head><body style=\"margin:0\"><script data-cfasync=\"false\">var dd={'rt':'c','cid':'AHrlqAAAAAMAq-GXXdxp-R4AuaSPmw==','hsh':'A189178EDCE1A6FDCB9CF42B609954','t':'bv','qp':'','s':28654,'e':'cc859b093b1cf4d05dbfe3d94304c3f2086fc6a82149fee77fb2601c6abd625953d848ee6183dfba6da2bea1ac5f535b','host':'geo.captcha-delivery.com','cookie':'zjEKvnswMuZVLuSDuLHu8loWtEtkgLXQ~HhlE~hr8Y4MY0etsionshf59tAbdFuB5NLt0sJj3ycVcpL7sT8ZIAWe2aq8OkmU0Bg2kGygzNabOLQOgaDJk93k5edgKezU'}</script><script data-cfasync=\"false\" src=\"https://ct.captcha-delivery.com/c.js\"></script><iframe src=\"https://geo.captcha-delivery.com/captcha/?initialCid=AHrlqAAAAAMAq-GXXdxp-R4AuaSPmw%3D%3D&amp;hash=A189178EDCE1A6FDCB9CF42B609954&amp;cid=zjEKvnswMuZVLuSDuLHu8loWtEtkgLXQ~HhlE~hr8Y4MY0etsionshf59tAbdFuB5NLt0sJj3ycVcpL7sT8ZIAWe2aq8OkmU0Bg2kGygzNabOLQOgaDJk93k5edgKezU&amp;t=bv&amp;referer=https%3A%2F%2Fwww.loveholidays.com%2Fde%2Furlaub%2Faegypten%2F&amp;s=28654&amp;e=cc859b093b1cf4d05dbfe3d94304c3f2086fc6a82149fee77fb2601c6abd625953d848ee6183dfba6da2bea1ac5f535b&amp;dm=cd\" sandbox=\"allow-scripts allow-same-origin allow-forms\" allow=\"accelerometer; gyroscope; magnetometer\" title=\"DataDome CAPTCHA\" width=\"100%\" height=\"100%\" style=\"height:100vh;\" frameborder=\"0\" border=\"0\" scrolling=\"yes\"></iframe></body></html>",
+ "is_spa": true,
+ "extracted_text": null,
+ "publication_date": null,
+ "accessibility_error": null,
+ "accessibility_partial": false,
+ "headers": {
+  "accept-ch": "Sec-CH-Width, Sec-CH-DPR",
+  "accept-ranges": "bytes",
+  "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+  "cache-control": "max-age=0, private, no-cache, no-store, must-revalidate",
+  "charset": "utf-8",
+  "content-length": "776",
+  "content-security-policy": "default-src 'self' https: data: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https: blob:; script-src-elem 'self' 'unsafe-inline' https: blob:; style-src 'self' 'unsafe-inline' https:; img-src 'self' https: data: blob:; font-src 'self' https: data:; connect-src 'self' https: wss:; media-src 'self' https: data: blob:; frame-src 'self' https: data: blob:; child-src 'self' https: blob:; worker-src 'self' https: blob:; manifest-src 'self' https:; base-uri 'self'; form-action 'self' https:; frame-ancestors 'self'; object-src 'none'; upgrade-insecure-requests; report-to default;",
+  "content-type": "text/html;charset=utf-8",
+  "date": "Thu, 08 Oct 2026 12:42:20 GMT",
+  "pragma": "no-cache",
+  "referrer-policy": "strict-origin-when-cross-origin",
+  "reporting-endpoints": "default=\"/csp-report/\"",
+  "server-timing": "PASS, fastly;desc=\"Edge time\";dur=14",
+  "set-cookie": "datadome=zjEKvnswMuZVLuSDuLHu8loWtEtkgLXQ~HhlE~hr8Y4MY0etsionshf59tAbdFuB5NLt0sJj3ycVcpL7sT8ZIAWe2aq8OkmU0Bg2kGygzNabOLQOgaDJk93k5edgKezU; Max-Age=31536000; Domain=.loveholidays.com; Path=/; Secure; SameSite=Lax\nlvh_ch=default;expires=Fri, 08 Oct 2027 12:42:20 GMT; path=/; SameSite=Lax\nlvhid=5379001791463341;expires=Sat, 07 Oct 2028 12:42:20 GMT; path=/; SameSite=Lax\nlvh_cookies_accepted=;max-age=0;path=/\nlvh_cookies_accepted_ver=;max-age=0;path=/",
+  "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+  "timing-allow-origin": "*",
+  "vary": "Accept-Language",
+  "x-content-type-options": "nosniff",
+  "x-datadome": "protected",
+  "x-datadome-activesession-duration": "0",
+  "x-datadome-activesession-requestnumber": "1",
+  "x-datadome-cid": "AHrlqAAAAAMAq-GXXdxp-R4AuaSPmw==",
+  "x-datadome-clientside-executed": "0",
+  "x-datadome-endpointid": "61d7ac62-0c4c-407a-aa13-2dd0d46403f3",
+  "x-datadome-endpointname": "WEB+%28default%29",
+  "x-datadome-previousrequest-elapsed": "0",
+  "x-datadome-protection": "1",
+  "x-datadome-session-duration": "0",
+  "x-dd-b": "2",
+  "x-frame-options": "SAMEORIGIN",
+  "x-resolved-accept-language": "",
+  "x-xss-protection": "1; mode=block"
+ },
+ "redirect_chain": [],
+ "console_errors": [
+  "Failed to load resource: the server responded with a status of 403 ()"
+ ],
+ "render_diagnostics": [
+  "DOM did not reach the bounded stability threshold; captured the available DOM"
+ ],
+ "render_engine": "playwright-chromium",
+ "render_ms": 6062.999999994645,
+ "mode_used": "rendered",
+ "error": null,
+ "structured_data": {
+  "block_count": 0,
+  "processed_count": 0,
+  "total_bytes": 0,
+  "truncated": false,
+  "blocks": []
+ },
+ "truncation": {
+  "limit": null,
+  "fields": {
+   "content": {
+    "original_chars": 1503,
+    "returned_chars": 1503,
+    "truncated": false
+   },
+   "raw_content": {
+    "original_chars": 776,
+    "returned_chars": 776,
+    "truncated": false
+   }
+  }
+ },
+ "output_written": false
+}

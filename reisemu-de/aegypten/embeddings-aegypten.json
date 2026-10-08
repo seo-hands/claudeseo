@@ -1,0 +1,6247 @@
+{
+ "page": "https://reisemu.de/tour/agypten",
+ "model": "jinaai/jina-embeddings-v2-base-de",
+ "model_info": {
+  "cache_dir": "E:/Work/claudeseo/models",
+  "fallback_used": false,
+  "downloaded": false,
+  "errors": [],
+  "model": "jinaai/jina-embeddings-v2-base-de"
+ },
+ "note": "Близькість рахує відкрита модель, а не Google: орієнтир поруч із частотністю й аналізом ТОП, а не замість них.",
+ "thresholds": {
+  "core": 0.8,
+  "mid": 0.65,
+  "term_min_competitors": 3,
+  "topic": 0.65,
+  "gap_min_competitors": 5,
+  "topic_text_share": 0.5
+ },
+ "references": [
+  "ägypten urlaub",
+  "urlaub in aegypten",
+  "ägypten urlaub 2026",
+  "urlaub ägypten buchen",
+  "ägypten urlaub all inclusive mit flug und hotel"
+ ],
+ "competitors_used": [
+  "https://www.urlaubswelt.com/alle-regionen/afrika/aegypten/",
+  "https://www.lidl-reisen.de/urlaub/aegypten",
+  "https://www.schauinsland-reisen.de/urlaubsziele/aegypten",
+  "https://www.lmx.de/aegypten-urlaub/",
+  "https://www.ab-ins-blaue.de/urlaub/aegypten.html",
+  "https://coraltravel.de/urlaub/aegypten/",
+  "https://www.tui.com/urlaub/aegypten/",
+  "https://www.its.de/urlaubsziele/afrika/aegypten",
+  "https://www.dertour-reisebuero.de/reiseziele/afrika/aegypten/",
+  "https://www.restplatzboerse.com/urlaub/aegypten/",
+  "https://www.aldi-reisen.de/aegypten"
+ ],
+ "keywords": [
+  {
+   "keyword": "ägypten urlaub",
+   "translation": "відпочинок в Єгипті",
+   "volume": 60500,
+   "sim_main": 1.0,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.824,
+    "ägypten urlaub 2026": 0.746,
+    "urlaub ägypten buchen": 0.809,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.711
+   },
+   "closest_adjacent": "urlaub in aegypten",
+   "sim_closest_adjacent": 0.824,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "urlaub in aegypten",
+   "translation": "відпочинок в Єгипті",
+   "volume": 4400,
+   "sim_main": 0.824,
+   "sim_adjacent": {
+    "urlaub in aegypten": 1.0,
+    "ägypten urlaub 2026": 0.668,
+    "urlaub ägypten buchen": 0.719,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.632
+   },
+   "closest_adjacent": "urlaub in aegypten",
+   "sim_closest_adjacent": 1.0,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "ägypten urlaub 2026",
+   "translation": "відпочинок в Єгипті 2026",
+   "volume": 2400,
+   "sim_main": 0.746,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.668,
+    "ägypten urlaub 2026": 1.0,
+    "urlaub ägypten buchen": 0.702,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.578
+   },
+   "closest_adjacent": "ägypten urlaub 2026",
+   "sim_closest_adjacent": 1.0,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "urlaub ägypten buchen",
+   "translation": "забронювати відпочинок в Єгипті",
+   "volume": 1900,
+   "sim_main": 0.809,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.719,
+    "ägypten urlaub 2026": 0.702,
+    "urlaub ägypten buchen": 1.0,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.748
+   },
+   "closest_adjacent": "urlaub ägypten buchen",
+   "sim_closest_adjacent": 1.0,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "ägypten urlaub all inclusive mit flug und hotel",
+   "translation": "відпочинок в Єгипті «все включено» з перельотом і готелем",
+   "volume": 1000,
+   "sim_main": 0.711,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.632,
+    "ägypten urlaub 2026": 0.578,
+    "urlaub ägypten buchen": 0.748,
+    "ägypten urlaub all inclusive mit flug und hotel": 1.0
+   },
+   "closest_adjacent": "ägypten urlaub all inclusive mit flug und hotel",
+   "sim_closest_adjacent": 1.0,
+   "tier": "H2/текст",
+   "head_word_of_other_page": "All Inclusive"
+  },
+  {
+   "keyword": "ägypten urlaub 2026 all inclusive mit flug und hotel",
+   "translation": "відпочинок в Єгипті 2026 «все включено» з перельотом і готелем",
+   "volume": 880,
+   "sim_main": 0.686,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.628,
+    "ägypten urlaub 2026": 0.806,
+    "urlaub ägypten buchen": 0.74,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.901
+   },
+   "closest_adjacent": "ägypten urlaub all inclusive mit flug und hotel",
+   "sim_closest_adjacent": 0.901,
+   "tier": "H2/текст",
+   "head_word_of_other_page": "All Inclusive"
+  },
+  {
+   "keyword": "urlaub ägypten 2026 all inclusive",
+   "translation": "відпочинок в Єгипті 2026 «все включено»",
+   "volume": 590,
+   "sim_main": 0.643,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.608,
+    "ägypten urlaub 2026": 0.83,
+    "urlaub ägypten buchen": 0.672,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.788
+   },
+   "closest_adjacent": "ägypten urlaub 2026",
+   "sim_closest_adjacent": 0.83,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": "All Inclusive"
+  },
+  {
+   "keyword": "ägypten buchen",
+   "translation": "забронювати тур до Єгипту",
+   "volume": 320,
+   "sim_main": 0.758,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.632,
+    "ägypten urlaub 2026": 0.637,
+    "urlaub ägypten buchen": 0.932,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.703
+   },
+   "closest_adjacent": "urlaub ägypten buchen",
+   "sim_closest_adjacent": 0.932,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "ägypten reise buchen",
+   "translation": "забронювати подорож до Єгипту",
+   "volume": 260,
+   "sim_main": 0.767,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.637,
+    "ägypten urlaub 2026": 0.654,
+    "urlaub ägypten buchen": 0.942,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.707
+   },
+   "closest_adjacent": "urlaub ägypten buchen",
+   "sim_closest_adjacent": 0.942,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "ägypten reise 2026",
+   "translation": "подорож до Єгипту 2026",
+   "volume": 170,
+   "sim_main": 0.621,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.544,
+    "ägypten urlaub 2026": 0.934,
+    "urlaub ägypten buchen": 0.609,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.494
+   },
+   "closest_adjacent": "ägypten urlaub 2026",
+   "sim_closest_adjacent": 0.934,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "ägypten kurzurlaub",
+   "translation": "короткий відпочинок в Єгипті",
+   "volume": 140,
+   "sim_main": 0.888,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.741,
+    "ägypten urlaub 2026": 0.677,
+    "urlaub ägypten buchen": 0.729,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.679
+   },
+   "closest_adjacent": "urlaub in aegypten",
+   "sim_closest_adjacent": 0.741,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "ägypten ferien",
+   "translation": "канікули в Єгипті",
+   "volume": 140,
+   "sim_main": 0.859,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.77,
+    "ägypten urlaub 2026": 0.668,
+    "urlaub ägypten buchen": 0.695,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.593
+   },
+   "closest_adjacent": "urlaub in aegypten",
+   "sim_closest_adjacent": 0.77,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "ägypten urlaub mit flug",
+   "translation": "відпочинок в Єгипті з перельотом",
+   "volume": 140,
+   "sim_main": 0.785,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.636,
+    "ägypten urlaub 2026": 0.631,
+    "urlaub ägypten buchen": 0.772,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.809
+   },
+   "closest_adjacent": "ägypten urlaub all inclusive mit flug und hotel",
+   "sim_closest_adjacent": 0.809,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "ägypten reise all inclusive",
+   "translation": "подорож до Єгипту «все включено»",
+   "volume": 110,
+   "sim_main": 0.679,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.595,
+    "ägypten urlaub 2026": 0.546,
+    "urlaub ägypten buchen": 0.636,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.865
+   },
+   "closest_adjacent": "ägypten urlaub all inclusive mit flug und hotel",
+   "sim_closest_adjacent": 0.865,
+   "tier": "H2/текст",
+   "head_word_of_other_page": "All Inclusive"
+  },
+  {
+   "keyword": "ägypten urlaub buchen mit flug und hotel",
+   "translation": "забронювати відпочинок в Єгипті з перельотом і готелем",
+   "volume": 70,
+   "sim_main": 0.718,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.592,
+    "ägypten urlaub 2026": 0.599,
+    "urlaub ägypten buchen": 0.881,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.836
+   },
+   "closest_adjacent": "urlaub ägypten buchen",
+   "sim_closest_adjacent": 0.881,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "ferien ägypten 2026",
+   "translation": "канікули в Єгипті 2026",
+   "volume": 70,
+   "sim_main": 0.678,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.665,
+    "ägypten urlaub 2026": 0.944,
+    "urlaub ägypten buchen": 0.687,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.562
+   },
+   "closest_adjacent": "ägypten urlaub 2026",
+   "sim_closest_adjacent": 0.944,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "wann sind ferien in ägypten 2026",
+   "translation": "коли канікули в Єгипті у 2026 році",
+   "volume": 40,
+   "sim_main": 0.582,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.565,
+    "ägypten urlaub 2026": 0.848,
+    "urlaub ägypten buchen": 0.571,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.448
+   },
+   "closest_adjacent": "ägypten urlaub 2026",
+   "sim_closest_adjacent": 0.848,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "ägypten reise spezialist",
+   "translation": "туроператор-спеціаліст з Єгипту",
+   "volume": 40,
+   "sim_main": 0.682,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.534,
+    "ägypten urlaub 2026": 0.524,
+    "urlaub ägypten buchen": 0.622,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.563
+   },
+   "closest_adjacent": "urlaub ägypten buchen",
+   "sim_closest_adjacent": 0.622,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "pauschalreise luxor ägypten",
+   "translation": "пакетний тур до Луксора, Єгипет",
+   "volume": 40,
+   "sim_main": 0.655,
+   "sim_adjacent": {
+    "urlaub in aegypten": 0.538,
+    "ägypten urlaub 2026": 0.529,
+    "urlaub ägypten buchen": 0.697,
+    "ägypten urlaub all inclusive mit flug und hotel": 0.715
+   },
+   "closest_adjacent": "ägypten urlaub all inclusive mit flug und hotel",
+   "sim_closest_adjacent": 0.715,
+   "tier": "H2/текст",
+   "head_word_of_other_page": "Pauschalreise"
+  }
+ ],
+ "terms": [
+  {
+   "term": "Ägypten",
+   "competitors": 11,
+   "of": 11,
+   "occurrences": 445,
+   "variants": [
+    "ägyptens",
+    "ägypter"
+   ],
+   "sim_main": 0.698,
+   "sim_best": 0.698,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": true,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kairo",
+   "competitors": 11,
+   "of": 11,
+   "occurrences": 73,
+   "variants": [],
+   "sim_main": 0.547,
+   "sim_best": 0.547,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Hurghada",
+   "competitors": 11,
+   "of": 11,
+   "occurrences": 89,
+   "variants": [],
+   "sim_main": 0.385,
+   "sim_best": 0.385,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Pyramiden",
+   "competitors": 11,
+   "of": 11,
+   "occurrences": 71,
+   "variants": [],
+   "sim_main": 0.36,
+   "sim_best": 0.36,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Gizeh",
+   "competitors": 11,
+   "of": 11,
+   "occurrences": 51,
+   "variants": [],
+   "sim_main": 0.259,
+   "sim_best": 0.259,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Roten Meer",
+   "competitors": 11,
+   "of": 11,
+   "occurrences": 69,
+   "variants": [
+    "roten meeres"
+   ],
+   "sim_main": 0.214,
+   "sim_best": 0.214,
+   "closest_ref": "ägypten urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Luxor",
+   "competitors": 11,
+   "of": 11,
+   "occurrences": 68,
+   "variants": [],
+   "sim_main": 0.14,
+   "sim_best": 0.174,
+   "closest_ref": "ägypten urlaub all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Tal der Könige",
+   "competitors": 10,
+   "of": 11,
+   "occurrences": 29,
+   "variants": [],
+   "sim_main": 0.181,
+   "sim_best": 0.181,
+   "closest_ref": "ägypten urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sharm",
+   "competitors": 10,
+   "of": 11,
+   "occurrences": 65,
+   "variants": [],
+   "sim_main": 0.148,
+   "sim_best": 0.148,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ägypten Urlaub",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 41,
+   "variants": [],
+   "sim_main": 0.947,
+   "sim_best": 0.947,
+   "closest_ref": "ägypten urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": true,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Urlaub in Ägypten",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 27,
+   "variants": [],
+   "sim_main": 0.91,
+   "sim_best": 0.91,
+   "closest_ref": "ägypten urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": true,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sharm el Sheikh",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 40,
+   "variants": [],
+   "sim_main": 0.244,
+   "sim_best": 0.294,
+   "closest_ref": "ägypten urlaub 2026",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sehenswürdigkeiten",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 36,
+   "variants": [],
+   "sim_main": 0.283,
+   "sim_best": 0.292,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Wüste",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 28,
+   "variants": [],
+   "sim_main": 0.262,
+   "sim_best": 0.262,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Marsa Alam",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 60,
+   "variants": [],
+   "sim_main": 0.23,
+   "sim_best": 0.261,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Makadi",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 24,
+   "variants": [],
+   "sim_main": 0.244,
+   "sim_best": 0.244,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kultur",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 41,
+   "variants": [],
+   "sim_main": 0.171,
+   "sim_best": 0.171,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sphinx",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 27,
+   "variants": [],
+   "sim_main": 0.1,
+   "sim_best": 0.1,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Reisezeit",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 19,
+   "variants": [],
+   "sim_main": 0.381,
+   "sim_best": 0.381,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Hotel",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 40,
+   "variants": [
+    "hotels"
+   ],
+   "sim_main": 0.346,
+   "sim_best": 0.365,
+   "closest_ref": "ägypten urlaub all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Stränden",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 16,
+   "variants": [
+    "strände"
+   ],
+   "sim_main": 0.321,
+   "sim_best": 0.321,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Nilkreuzfahrt",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 20,
+   "variants": [],
+   "sim_main": 0.279,
+   "sim_best": 0.279,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Strand",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 44,
+   "variants": [],
+   "sim_main": 0.239,
+   "sim_best": 0.239,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Makadi Bay",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 19,
+   "variants": [],
+   "sim_main": 0.227,
+   "sim_best": 0.227,
+   "closest_ref": "ägypten urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Korallenriffe",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 23,
+   "variants": [
+    "korallenriffen"
+   ],
+   "sim_main": 0.178,
+   "sim_best": 0.186,
+   "closest_ref": "ägypten urlaub 2026",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Pharaonen",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 29,
+   "variants": [],
+   "sim_main": 0.162,
+   "sim_best": 0.162,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Gouna",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 36,
+   "variants": [],
+   "sim_main": 0.157,
+   "sim_best": 0.158,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Unterwasserwelt",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 34,
+   "variants": [],
+   "sim_main": 0.156,
+   "sim_best": 0.156,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Geschichte",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 45,
+   "variants": [],
+   "sim_main": 0.127,
+   "sim_best": 0.127,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Reiseziele",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 12,
+   "variants": [
+    "reiseziel"
+   ],
+   "sim_main": 0.526,
+   "sim_best": 0.526,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Tempel",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 37,
+   "variants": [
+    "tempels",
+    "tempeln"
+   ],
+   "sim_main": 0.336,
+   "sim_best": 0.336,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Erlebnis",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 19,
+   "variants": [],
+   "sim_main": 0.276,
+   "sim_best": 0.276,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Entspannung",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 16,
+   "variants": [],
+   "sim_main": 0.268,
+   "sim_best": 0.268,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Tauchen",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 28,
+   "variants": [
+    "taucher",
+    "tauch"
+   ],
+   "sim_main": 0.233,
+   "sim_best": 0.233,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Schnorcheln",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 20,
+   "variants": [],
+   "sim_main": 0.218,
+   "sim_best": 0.218,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Museum",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 18,
+   "variants": [],
+   "sim_main": 0.213,
+   "sim_best": 0.213,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Taucher und Schnorchler",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 11,
+   "variants": [],
+   "sim_main": 0.188,
+   "sim_best": 0.188,
+   "closest_ref": "ägypten urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sonne",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 24,
+   "variants": [],
+   "sim_main": 0.171,
+   "sim_best": 0.171,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Hauptstadt",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 13,
+   "variants": [],
+   "sim_main": 0.063,
+   "sim_best": 0.09,
+   "closest_ref": "ägypten urlaub all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ausflüge",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 16,
+   "variants": [
+    "ausflügen"
+   ],
+   "sim_main": 0.517,
+   "sim_best": 0.517,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Strandurlaub",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.507,
+   "sim_best": 0.507,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "All Inclusive",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 49,
+   "variants": [],
+   "sim_main": 0.162,
+   "sim_best": 0.469,
+   "closest_ref": "ägypten urlaub all inclusive mit flug und hotel",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": "All Inclusive",
+   "other_page": "/tour/agypten/all-inclusive"
+  },
+  {
+   "term": "Resorts",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 44,
+   "variants": [
+    "resort"
+   ],
+   "sim_main": 0.449,
+   "sim_best": 0.449,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Reisenden",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 11,
+   "variants": [],
+   "sim_main": 0.369,
+   "sim_best": 0.369,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Alexandria",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 18,
+   "variants": [],
+   "sim_main": 0.351,
+   "sim_best": 0.351,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Stätten",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 22,
+   "variants": [],
+   "sim_main": 0.337,
+   "sim_best": 0.337,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Unterkunft",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 11,
+   "variants": [],
+   "sim_main": 0.325,
+   "sim_best": 0.331,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Flug",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 32,
+   "variants": [],
+   "sim_main": 0.242,
+   "sim_best": 0.308,
+   "closest_ref": "ägypten urlaub all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Hurghada Sharm",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.275,
+   "sim_best": 0.275,
+   "closest_ref": "ägypten urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Aktivitäten",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 23,
+   "variants": [],
+   "sim_main": 0.241,
+   "sim_best": 0.241,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Rote Meer",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 15,
+   "variants": [],
+   "sim_main": 0.236,
+   "sim_best": 0.236,
+   "closest_ref": "ägypten urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Temperaturen",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 26,
+   "variants": [],
+   "sim_main": 0.194,
+   "sim_best": 0.194,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Schönheit",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.192,
+   "sim_best": 0.192,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Highlights",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 13,
+   "variants": [
+    "highlight"
+   ],
+   "sim_main": 0.168,
+   "sim_best": 0.168,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Soma Bay",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 11,
+   "variants": [],
+   "sim_main": 0.09,
+   "sim_best": 0.167,
+   "closest_ref": "ägypten urlaub 2026",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Klima",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 17,
+   "variants": [],
+   "sim_main": 0.112,
+   "sim_best": 0.112,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sinai",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 15,
+   "variants": [],
+   "sim_main": 0.095,
+   "sim_best": 0.095,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Vielzahl",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 15,
+   "variants": [],
+   "sim_main": 0.091,
+   "sim_best": 0.091,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Familien",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 25,
+   "variants": [
+    "familie"
+   ],
+   "sim_main": 0.066,
+   "sim_best": 0.086,
+   "closest_ref": "ägypten urlaub all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Küche",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.058,
+   "sim_best": 0.058,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Pauschalreise",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 26,
+   "variants": [
+    "pauschalreisen"
+   ],
+   "sim_main": 0.482,
+   "sim_best": 0.571,
+   "closest_ref": "ägypten urlaub all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": "Pauschalreise",
+   "other_page": "/tour/agypten/pauschalreise"
+  },
+  {
+   "term": "Urlaubsort",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [
+    "urlaubsorte"
+   ],
+   "sim_main": 0.531,
+   "sim_best": 0.531,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Urlauber",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [
+    "urlaubs"
+   ],
+   "sim_main": 0.506,
+   "sim_best": 0.506,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Touristen",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.445,
+   "sim_best": 0.445,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Hauptstadt Kairo",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.414,
+   "sim_best": 0.414,
+   "closest_ref": "ägypten urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Rundreise",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.391,
+   "sim_best": 0.391,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Abenteuer",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 25,
+   "variants": [],
+   "sim_main": 0.364,
+   "sim_best": 0.364,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Freizeitmöglichkeiten",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.361,
+   "sim_best": 0.361,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Besuch",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 18,
+   "variants": [],
+   "sim_main": 0.311,
+   "sim_best": 0.311,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sandstränden",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [
+    "sandstrände"
+   ],
+   "sim_main": 0.288,
+   "sim_best": 0.288,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Visum",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.281,
+   "sim_best": 0.281,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Erholung",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 25,
+   "variants": [],
+   "sim_main": 0.243,
+   "sim_best": 0.243,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Tauchen und Schnorcheln",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.232,
+   "sim_best": 0.232,
+   "closest_ref": "ägypten urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sonnenanbeter",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.228,
+   "sim_best": 0.228,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Preis",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [
+    "preise",
+    "preisen"
+   ],
+   "sim_main": 0.117,
+   "sim_best": 0.199,
+   "closest_ref": "urlaub ägypten buchen",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kosten",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.12,
+   "sim_best": 0.188,
+   "closest_ref": "urlaub ägypten buchen",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Oktober",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.186,
+   "sim_best": 0.186,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Verpflegung",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.172,
+   "sim_best": 0.18,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Karnak",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 14,
+   "variants": [],
+   "sim_main": 0.179,
+   "sim_best": 0.179,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Bedingungen",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 15,
+   "variants": [],
+   "sim_main": 0.122,
+   "sim_best": 0.158,
+   "closest_ref": "urlaub ägypten buchen",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Antike",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 11,
+   "variants": [],
+   "sim_main": 0.144,
+   "sim_best": 0.144,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "direkt am Roten",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.094,
+   "sim_best": 0.112,
+   "closest_ref": "ägypten urlaub 2026",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Grad",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 14,
+   "variants": [],
+   "sim_main": 0.075,
+   "sim_best": 0.082,
+   "closest_ref": "ägypten urlaub all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kindern",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.082,
+   "sim_best": 0.082,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sinai-Halbinsel",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.081,
+   "sim_best": 0.081,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "März",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.067,
+   "sim_best": 0.067,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Landschaft",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [
+    "landschaften"
+   ],
+   "sim_main": 0.064,
+   "sim_best": 0.064,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ägypten-Urlaub",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 19,
+   "variants": [],
+   "sim_main": 0.955,
+   "sim_best": 0.955,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ägypten reisen",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.841,
+   "sim_best": 0.841,
+   "closest_ref": "ägypten urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": true,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Reiseangebote",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.505,
+   "sim_best": 0.541,
+   "closest_ref": "ägypten urlaub all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ferienorte",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.486,
+   "sim_best": 0.537,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ägyptische Museum",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [
+    "ägyptischen museum"
+   ],
+   "sim_main": 0.505,
+   "sim_best": 0.505,
+   "closest_ref": "ägypten urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Badeurlaub",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 11,
+   "variants": [],
+   "sim_main": 0.499,
+   "sim_best": 0.499,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ausflug",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.454,
+   "sim_best": 0.454,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Familienurlaub",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.439,
+   "sim_best": 0.439,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Moscheen",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [
+    "moschee"
+   ],
+   "sim_main": 0.386,
+   "sim_best": 0.386,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Unterkünfte",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 15,
+   "variants": [
+    "unterkünften"
+   ],
+   "sim_main": 0.347,
+   "sim_best": 0.378,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sommer",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.349,
+   "sim_best": 0.349,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Destination",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [
+    "destinationen"
+   ],
+   "sim_main": 0.346,
+   "sim_best": 0.346,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "berühmten Pyramiden",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.323,
+   "sim_best": 0.323,
+   "closest_ref": "ägypten urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Baden",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.318,
+   "sim_best": 0.318,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Pharaos",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.278,
+   "sim_best": 0.278,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Spaß",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.277,
+   "sim_best": 0.277,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Traum",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.268,
+   "sim_best": 0.268,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Strandliebhaber",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.267,
+   "sim_best": 0.267,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Flughafen",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 13,
+   "variants": [],
+   "sim_main": 0.193,
+   "sim_best": 0.266,
+   "closest_ref": "ägypten urlaub all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "historische Stätten",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [
+    "historischen stätten"
+   ],
+   "sim_main": 0.233,
+   "sim_best": 0.261,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Badeorte",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [
+    "badeorten"
+   ],
+   "sim_main": 0.221,
+   "sim_best": 0.26,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Wadi",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.257,
+   "sim_best": 0.257,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "unvergessliche Erlebnisse",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.251,
+   "sim_best": 0.251,
+   "closest_ref": "ägypten urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "E-Visum",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.238,
+   "sim_best": 0.238,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Nationalpark",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 11,
+   "variants": [],
+   "sim_main": 0.236,
+   "sim_best": 0.236,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Tauchspots",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.229,
+   "sim_best": 0.229,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Alltag",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.219,
+   "sim_best": 0.219,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Inseln",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.212,
+   "sim_best": 0.212,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Park",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.207,
+   "sim_best": 0.207,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Schätze",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.205,
+   "sim_best": 0.205,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Jahren",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.204,
+   "sim_best": 0.204,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Assuan",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 15,
+   "variants": [],
+   "sim_main": 0.15,
+   "sim_best": 0.181,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Wetter",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 11,
+   "variants": [],
+   "sim_main": 0.18,
+   "sim_best": 0.18,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Weltwunder der Antike",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.179,
+   "sim_best": 0.179,
+   "closest_ref": "ägypten urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kinderclubs",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.171,
+   "sim_best": 0.175,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Safaga",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.151,
+   "sim_best": 0.172,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Last Minute",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.132,
+   "sim_best": 0.171,
+   "closest_ref": "urlaub ägypten buchen",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": "Last-Minute",
+   "other_page": "/tour/agypten/last-minute"
+  },
+  {
+   "term": "April",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.127,
+   "sim_best": 0.17,
+   "closest_ref": "ägypten urlaub 2026",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Paare",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 13,
+   "variants": [],
+   "sim_main": 0.144,
+   "sim_best": 0.144,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Atmosphäre",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 17,
+   "variants": [],
+   "sim_main": 0.142,
+   "sim_best": 0.142,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "November",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.035,
+   "sim_best": 0.141,
+   "closest_ref": "ägypten urlaub 2026",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Tutanchamun",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.139,
+   "sim_best": 0.139,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Fülle",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.133,
+   "sim_best": 0.133,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Metropole",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.133,
+   "sim_best": 0.133,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Abwechslung",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.126,
+   "sim_best": 0.126,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Geschichte und Kultur",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.121,
+   "sim_best": 0.126,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kinder",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 13,
+   "variants": [],
+   "sim_main": 0.117,
+   "sim_best": 0.117,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Club",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.115,
+   "sim_best": 0.115,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Khan",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.108,
+   "sim_best": 0.115,
+   "closest_ref": "ägypten urlaub 2026",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Architektur",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.098,
+   "sim_best": 0.115,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Bauwerke",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.112,
+   "sim_best": 0.112,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Bann",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.11,
+   "sim_best": 0.11,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Korallen",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.109,
+   "sim_best": 0.109,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Transfer",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 11,
+   "variants": [
+    "transfers"
+   ],
+   "sim_main": 0.106,
+   "sim_best": 0.106,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Rutschen",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.102,
+   "sim_best": 0.102,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Natur",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.098,
+   "sim_best": 0.098,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Lagunen",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.096,
+   "sim_best": 0.096,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Nils",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.092,
+   "sim_best": 0.092,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Wassersport",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 15,
+   "variants": [],
+   "sim_main": 0.074,
+   "sim_best": 0.074,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Wahrzeichen",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.063,
+   "sim_best": 0.063,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Fisch",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [
+    "fischen"
+   ],
+   "sim_main": 0.05,
+   "sim_best": 0.05,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Winter",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 13,
+   "variants": [],
+   "sim_main": 0.012,
+   "sim_best": 0.012,
+   "closest_ref": "ägypten urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Einheimischen",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.004,
+   "sim_best": 0.01,
+   "closest_ref": "urlaub in aegypten",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  }
+ ],
+ "subtopics": [
+  {
+   "subtopic": "Beliebte Urlaubsorte in Ägypten",
+   "competitors": 6,
+   "of": 11,
+   "hosts": [
+    "coraltravel.de",
+    "its.de",
+    "lidl-reisen.de",
+    "lmx.de",
+    "schauinsland-reisen.de",
+    "tui.com"
+   ],
+   "headings": [
+    "lidl-reisen.de: Die schönsten Reiseziele in Ägypten",
+    "its.de: Weitere schöne Reiseziele",
+    "lmx.de: Die Reiseziele in Ägypten",
+    "its.de: Urlaub in Ägypten: Beliebte Reiseziele",
+    "schauinsland-reisen.de: Top-Reiseziele: Die beliebtesten Urlaubsorte in Ägypten",
+    "tui.com: Beliebte Urlaubsorte in Ägypten",
+    "coraltravel.de: Reiseziele und Aktivitäten für Touristen in Ägypten",
+    "tui.com: Urlaubsziele in Ägypten für Abenteurer"
+   ],
+   "topic_words": [
+    "reiseziel",
+    "urlaubsort"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.526,
+   "own_best_sim": 0.903,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": true,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "лише заголовок або блок посилань, тексту немає",
+   "gap": true
+  },
+  {
+   "subtopic": "Wann ist die beste Reisezeit für Ägypten?",
+   "competitors": 4,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de",
+    "lidl-reisen.de",
+    "lmx.de",
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "lidl-reisen.de: Wann ist die beste Reisezeit für Ägypten?",
+    "restplatzboerse.com: Beste Reisezeit Ägypten",
+    "restplatzboerse.com: Wann ist die beste Reisezeit für eine Reise nach Ägypten?",
+    "lmx.de: Klima und beste Reisezeit in Ägypten",
+    "ab-ins-blaue.de: Beste Reisezeit für Ägypten: Wann ist das perfekte Wetter?"
+   ],
+   "topic_words": [
+    "reisezeit"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.282,
+   "own_best_sim": 0.505,
+   "own_best_heading": "Ägypten Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ägypten: Urlaubsangebote für Familien",
+   "competitors": 4,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de",
+    "restplatzboerse.com",
+    "schauinsland-reisen.de",
+    "tui.com"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Familienurlaub in Ägypten: Spiel, Spaß und Erholung für alle",
+    "tui.com: Ägypten: Urlaubsangebote für Familien",
+    "ab-ins-blaue.de: Ägypten mit Kindern – Ein perfektes Reiseziel für Familien, das Abenteuer und spannende Erlebnisse bietet",
+    "restplatzboerse.com: Ist Ägypten für einen Familienurlaub mit Kindern zu empfehlen?"
+   ],
+   "topic_words": [
+    "famili",
+    "familienurlaub",
+    "kinder"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.455,
+   "own_best_sim": 0.591,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Sorgenfreier Traumurlaub: Ägypten All Inclusive erleben",
+   "competitors": 4,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de",
+    "coraltravel.de",
+    "lmx.de",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Sorgenfreier Traumurlaub: Ägypten All Inclusive erleben",
+    "ab-ins-blaue.de: All-Inclusive-Urlaub in Ägypten – für eine Stressfreie Zeit",
+    "lmx.de: All Inclusive Familienurlaub in Ägypten",
+    "coraltravel.de: Sorglose Reiseplanung mit All Inklusive in Ägypten"
+   ],
+   "topic_words": [
+    "inclusiv"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.388,
+   "own_best_sim": 0.421,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Kairo",
+   "competitors": 4,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de",
+    "aldi-reisen.de",
+    "schauinsland-reisen.de",
+    "tui.com"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Kairo",
+    "aldi-reisen.de: Kairo – auf Entdeckungstour in Ägyptens Hauptstadt",
+    "ab-ins-blaue.de: Kairo - Das Herz Ägyptens und eine Stadt der Kontraste",
+    "tui.com: Die Zitadelle von Kairo"
+   ],
+   "topic_words": [
+    "kairo",
+    "ägypten"
+   ],
+   "topic_words_in_own_text": [
+    "ägypten"
+   ],
+   "sim_main": 0.583,
+   "own_best_sim": 0.736,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": true,
+   "own_text_match": true,
+   "on_own_page": true,
+   "own_status": "так",
+   "gap": false
+  },
+  {
+   "subtopic": "Hurghada",
+   "competitors": 3,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com",
+    "schauinsland-reisen.de",
+    "urlaubswelt.com"
+   ],
+   "headings": [
+    "urlaubswelt.com: Hurghada",
+    "schauinsland-reisen.de: Hurghada",
+    "restplatzboerse.com: Wetter (Hurghada)"
+   ],
+   "topic_words": [
+    "hurghada"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.383,
+   "own_best_sim": 0.311,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "El Gouna",
+   "competitors": 3,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de",
+    "schauinsland-reisen.de",
+    "urlaubswelt.com"
+   ],
+   "headings": [
+    "urlaubswelt.com: El Gouna",
+    "schauinsland-reisen.de: El Gouna",
+    "ab-ins-blaue.de: El Gouna - Das „Venedig des Orients“"
+   ],
+   "topic_words": [
+    "gouna"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.283,
+   "own_best_sim": 0.3,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "und keine Reiseangebote verpassen",
+   "competitors": 3,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de",
+    "lmx.de",
+    "urlaubswelt.com"
+   ],
+   "headings": [
+    "urlaubswelt.com: und keine Reiseangebote verpassen",
+    "lidl-reisen.de: Weitere Reiseangebote für Ägypten",
+    "lmx.de: Ägypten Urlaub: Last Minute & Pauschalreisen"
+   ],
+   "topic_words": [
+    "reiseangebot"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.466,
+   "own_best_sim": 0.81,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": true,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "лише заголовок або блок посилань, тексту немає",
+   "gap": false
+  },
+  {
+   "subtopic": "TOP-Sehenswürdigkeiten im Ägypten Urlaub",
+   "competitors": 3,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de",
+    "schauinsland-reisen.de",
+    "tui.com"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Sehenswürdigkeiten in Ägypten",
+    "tui.com: TOP-Sehenswürdigkeiten im Ägypten Urlaub",
+    "ab-ins-blaue.de: Die Top-Highlights & Geheimtipps in Ägypten"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.228,
+   "own_best_sim": 0.616,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Das Land der Pharaonen entdecken",
+   "competitors": 3,
+   "of": 11,
+   "hosts": [
+    "aldi-reisen.de",
+    "dertour-reisebuero.de",
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Urlaub in Ägypten – Entdecke das Land der Pharaonen!",
+    "aldi-reisen.de: Das Land der Pharaonen entdecken",
+    "dertour-reisebuero.de: Entdecke das Land der Pyramiden"
+   ],
+   "topic_words": [
+    "pharaon"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.529,
+   "own_best_sim": 0.558,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ägypten für Erwachsene – Exklusivität, spannende Erlebnisse und totale Erholung",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Die perfekte Kombination aus Entspannung und Abenteuer",
+    "ab-ins-blaue.de: Aktiv- und Erlebnisreisen – Ägypten als Paradies für Abenteuerlustige",
+    "schauinsland-reisen.de: Ägypten erleben: Entspannung, Familienspaß und Komfort",
+    "ab-ins-blaue.de: Ägypten für Erwachsene – Exklusivität, spannende Erlebnisse und totale Erholung"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.437,
+   "own_best_sim": 0.512,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Adults-only-Hotels in Ägypten: Luxus und Ruhe für den besonderen Urlaub",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Adults-only-Hotels in Ägypten: Luxus und Ruhe für den besonderen Urlaub",
+    "restplatzboerse.com: Adults only Hotels Ägypten",
+    "restplatzboerse.com: Luxushotels Ägypten"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.327,
+   "own_best_sim": 0.37,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wann ist Ägypten-Urlaub am günstigsten?",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de",
+    "tui.com"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Was kostet ein Ägypten-Urlaub? Budget von Schnäppchen bis Luxus",
+    "tui.com: Wann ist Ägypten-Urlaub am günstigsten?",
+    "tui.com: Wann ist die beste Zeit für meinen Ägypten-Urlaub?"
+   ],
+   "topic_words": [
+    "ägypten-urlaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.753,
+   "own_best_sim": 0.624,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Makadi Bay",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com",
+    "urlaubswelt.com"
+   ],
+   "headings": [
+    "urlaubswelt.com: Makadi Bay",
+    "restplatzboerse.com: Siva Golden Bay Makadi"
+   ],
+   "topic_words": [
+    "makadi"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.233,
+   "own_best_sim": 0.268,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Marsa Alam",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de",
+    "urlaubswelt.com"
+   ],
+   "headings": [
+    "urlaubswelt.com: Marsa Alam und Port Ghalib",
+    "schauinsland-reisen.de: Marsa Alam"
+   ],
+   "topic_words": [
+    "alam",
+    "marsa"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.257,
+   "own_best_sim": 0.359,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Sharm el Sheikh",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de",
+    "urlaubswelt.com"
+   ],
+   "headings": [
+    "urlaubswelt.com: Sharm El Sheikh",
+    "schauinsland-reisen.de: Sharm el Sheikh"
+   ],
+   "topic_words": [
+    "sharm",
+    "sheikh"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.251,
+   "own_best_sim": 0.273,
+   "own_best_heading": "Unsere Favoriten in Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ägypten – das Land der Pharaonen und ein Traum aus Kultur, Natur und Abenteuer",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de",
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Sagenumwobenes Ägypten: Zwischen Pharaonen-Gräbern und Strand-Paradies",
+    "ab-ins-blaue.de: Ägypten – das Land der Pharaonen und ein Traum aus Kultur, Natur und Abenteuer"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.537,
+   "own_best_sim": 0.531,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ägypten in allen Facetten",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de",
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "lidl-reisen.de: Ägypten in allen Facetten",
+    "restplatzboerse.com: All Inclusive Ägypten"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.168,
+   "own_best_sim": 0.255,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die Top-Ziele im Ägypten Urlaub",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "coraltravel.de",
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Die Top-Ziele im Ägypten Urlaub",
+    "coraltravel.de: Unsere beliebtesten Ziele für deinen Ägypten Urlaub"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.17,
+   "own_best_sim": 0.589,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die wichtigsten Fragen rund um Ihren Ägypten Urlaub",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "coraltravel.de",
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Die wichtigsten Fragen rund um Ihren Ägypten Urlaub",
+    "coraltravel.de: Fragen rund um deinen Ägypten Urlaub - FAQ"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.024,
+   "own_best_sim": 0.114,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wo ist es am schönsten, Urlaub zu machen in Ägypten?",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de",
+    "tui.com"
+   ],
+   "headings": [
+    "lidl-reisen.de: Wo ist es in Ägypten am schönsten?",
+    "tui.com: Wo ist es am schönsten, Urlaub zu machen in Ägypten?"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.221,
+   "own_best_sim": 0.512,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Unsere Top-Hotels in Ägypten",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Unsere Top-Hotels in Ägypten",
+    "ab-ins-blaue.de: Unsere TOP Hotels für Euren Urlaub in Ägypten 2026/2027"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.304,
+   "own_best_sim": 0.457,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Erfrischende Auszeit – Hotels mit Aquapark für den perfekten Urlaub",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Hotels mit Wasserparks in Ägypten: Urlaub mit Action und Abwechslung",
+    "ab-ins-blaue.de: Erfrischende Auszeit – Hotels mit Aquapark für den perfekten Urlaub"
+   ],
+   "topic_words": [
+    "hotel"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.359,
+   "own_best_sim": 0.4,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Luxor-Museum",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Luxor-Museum",
+    "ab-ins-blaue.de: Luxor - Das Freilichtmuseum der Welt"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.172,
+   "own_best_sim": 0.145,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Pyramiden von Gizeh",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "aldi-reisen.de",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Pyramiden von Gizeh",
+    "aldi-reisen.de: Die Sphinx und die Pyramiden von Gizeh bestaunen"
+   ],
+   "topic_words": [
+    "gizeh",
+    "pyramid"
+   ],
+   "topic_words_in_own_text": [
+    "pyramid"
+   ],
+   "sim_main": 0.406,
+   "own_best_sim": 0.445,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Tal der Könige",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "aldi-reisen.de",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Tal der Könige",
+    "aldi-reisen.de: Das Tal der Könige – Ägyptens Tal mit Geschichte"
+   ],
+   "topic_words": [
+    "könig"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.307,
+   "own_best_sim": 0.544,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wähle dein Ziel und beginne jetzt dein Ägypten-Erlebnis",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "coraltravel.de",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Dein Ägypten-Abenteuer: Zwischen Tradition und Moderne",
+    "coraltravel.de: Wähle dein Ziel und beginne jetzt dein Ägypten-Erlebnis"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.639,
+   "own_best_sim": 0.645,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Was muss ich wissen für meinen Ägypten-Urlaub?",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de",
+    "tui.com"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Ägypten-Guide: Wissenswertes über Ägypten",
+    "tui.com: Was muss ich wissen für meinen Ägypten-Urlaub?"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.73,
+   "own_best_sim": 0.655,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": true,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "заголовок схожий, слів теми для перевірки тексту немає",
+   "gap": false
+  },
+  {
+   "subtopic": "Menaville Safaga",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "lmx.de",
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "lmx.de: Menaville Safaga",
+    "restplatzboerse.com: Menaville Safaga"
+   ],
+   "topic_words": [
+    "menavill",
+    "safaga"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.112,
+   "own_best_sim": 0.189,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Essen & Kulinarik in Ägypten",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "lmx.de",
+    "tui.com"
+   ],
+   "headings": [
+    "lmx.de: Essen & Kulinarik in Ägypten",
+    "tui.com: Welche kulinarischen Spezialitäten gibt es in Ägypten?"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.096,
+   "own_best_sim": 0.343,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Übernachten & Hotels in Ägypten",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "coraltravel.de",
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Übernachten & Hotels in Ägypten",
+    "coraltravel.de: Hochwertige Unterkünfte und herausragende Aktivitäten in Ägypten buchen"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.363,
+   "own_best_sim": 0.579,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Entspannung genießen in ausgewählten Sternehotels",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de",
+    "tui.com"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Entspannung pur – Wellnessurlaub in Ägypten",
+    "tui.com: Entspannung genießen in ausgewählten Sternehotels"
+   ],
+   "topic_words": [
+    "entspannung"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.434,
+   "own_best_sim": 0.386,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ägypten Urlaub – Kultur, Sonne und Abenteuer erleben",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "coraltravel.de",
+    "dertour-reisebuero.de"
+   ],
+   "headings": [
+    "coraltravel.de: Ägypten Urlaub – Kultur, Sonne und Abenteuer erleben",
+    "dertour-reisebuero.de: Ägypten hautnah: Sonne tanken, Kultur erleben"
+   ],
+   "topic_words": [
+    "kultur",
+    "sonne"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.361,
+   "own_best_sim": 0.404,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Günstige Ägypten Angebote mit Flug und Hotel",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "coraltravel.de",
+    "tui.com"
+   ],
+   "headings": [
+    "coraltravel.de: Günstige Ägypten Angebote mit Flug und Hotel",
+    "tui.com: 1 Woche Ägypten Urlaub inkl. Flug - Unsere TOP Angebote"
+   ],
+   "topic_words": [
+    "flug"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.358,
+   "own_best_sim": 0.581,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Alle Angebote für Ägypten",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "aldi-reisen.de",
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Alle Angebote für Ägypten",
+    "aldi-reisen.de: Ägypten Urlaub: Unsere Angebote"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.241,
+   "own_best_sim": 0.563,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  }
+ ],
+ "subtopic_singletons": [
+  {
+   "subtopic": "Von Kairo mit dem Zug nach Luxor und Assuan & All Inclusive Marsa Alam ab 1714 € p. P.",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Alexandria nach Kairo per Zug & All-Inclusive Hurghada ab 1292 € p. P.",
+    "lmx.de: Kairo (inkl. Oasis Tour) & Mittelmeer mit El Alamein + Alexandria ab 1876 € p. P.",
+    "lmx.de: Ägypten individuell: Kairo, Siwa Oase, Marsa Matruh & Alexandria ab 2214 € p. P.",
+    "lmx.de: Von Kairo mit dem Zug nach Luxor und Assuan & All Inclusive Marsa Alam ab 1714 € p. P.",
+    "lmx.de: Kairo, Nilkreuzfahrt Luxor nach Assuan & Baden Marsa Alam ab 2355 € p. P.",
+    "lmx.de: Hurghada, Nilkreuzfahrt (Luxor nach Assuan) & Baden Marsa Alam ab 2493 € p. P.",
+    "lmx.de: Ägypten pur! Kairo, Assuan, Luxor & All Inclusive Hurghada ab 1915 € p. P."
+   ],
+   "topic_words": [
+    "alam",
+    "alamei",
+    "alexandria",
+    "all-inclusiv",
+    "assua",
+    "baden"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.527,
+   "own_best_sim": 0.577,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Gizeh mit Grand Egyptian Museum, Pyramiden Tour & All Inclusive Strandurlaub Sharm El Sheikh ab 1600 € p. P.",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Gizeh & Baden am Golf von Aqaba inkl. Ausflug Mosesberg ab 856 € p. P.",
+    "lmx.de: Gizeh mit Grand Egyptian Museum, Pyramiden Tour & All Inclusive Strandurlaub Sharm El Sheikh ab 1600 € p. P.",
+    "lmx.de: Kairo mit Pyramiden und Grand Egyptian Museum Tour & All-Inclusive Hurghada ab 1741 € p. P.",
+    "lmx.de: Kairo mit Grand Egyption Museum, Dubai & Baden Ras al-Khaimah ab 1865 € p. P.",
+    "lmx.de: Kairo, Private Kurztour \"Oase und Wüste\" & All Inclusive Sharm el-Sheikh ab 1915 € p. P."
+   ],
+   "topic_words": [
+    "al-khaimah",
+    "all-inclusiv",
+    "aqaba",
+    "ausflug",
+    "baden",
+    "dubai"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.584,
+   "own_best_sim": 0.573,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Three Corners Sunny Beach Resort",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Three Corners Sea Beach Resort",
+    "lmx.de: Three Corners Sunny Beach Resort",
+    "lmx.de: Three Corners Equinox Beach Resort"
+   ],
+   "topic_words": [
+    "beach",
+    "corner",
+    "equinox",
+    "resort",
+    "sunny",
+    "three"
+   ],
+   "topic_words_in_own_text": [
+    "resort"
+   ],
+   "sim_main": 0.163,
+   "own_best_sim": 0.258,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Nilkreuzfahrten in Ägypten: Erlebe die Magie des Nils",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Eintauchen ins Abenteuer: Nilkreuzfahrten, Wassersport und besondere Hotelwelten in Ägypten",
+    "schauinsland-reisen.de: Nilkreuzfahrten in Ägypten: Erlebe die Magie des Nils"
+   ],
+   "topic_words": [
+    "abenteu",
+    "besonder",
+    "eintauch",
+    "erleb",
+    "hotelwelt",
+    "nilkreuzfahrt"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.448,
+   "own_best_sim": 0.5,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Marina Resort Port Ghalib, a member of Radisson Individuals",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Marina Resort Port Ghalib, a member of Radisson Individuals",
+    "lmx.de: Marina Lodge At Port Ghalib"
+   ],
+   "topic_words": [
+    "ghalib",
+    "individual",
+    "lodge",
+    "marina",
+    "memb",
+    "port"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.289,
+   "own_best_sim": 0.27,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Urlaub in Ägypten erleben",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Urlaub in Ägypten erleben",
+    "lmx.de: Was gibt es in Ägypten zu sehen?"
+   ],
+   "topic_words": [
+    "sehen"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.259,
+   "own_best_sim": 0.371,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Marsa Alam Urlaub - Ein Paradies für Taucher und Naturliebhaber",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Sharm El-Sheikh - Ein Paradies für Taucher und Genießer",
+    "ab-ins-blaue.de: Marsa Alam Urlaub - Ein Paradies für Taucher und Naturliebhaber"
+   ],
+   "topic_words": [
+    "alam",
+    "el-sheikh",
+    "genieß",
+    "marsa",
+    "naturliebhab",
+    "sharm"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.416,
+   "own_best_sim": 0.464,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Strandurlaub – Traumstrände, die keine Wünschen offenlassen",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Strandurlaub – Traumstrände, die keine Wünschen offenlassen",
+    "ab-ins-blaue.de: Die schönsten Strände & Küstenorte in Ägypten"
+   ],
+   "topic_words": [
+    "küstenort",
+    "offenlass",
+    "strandurlaub",
+    "stränd",
+    "traumstränd",
+    "wünsch"
+   ],
+   "topic_words_in_own_text": [
+    "strandurlaub"
+   ],
+   "sim_main": 0.311,
+   "own_best_sim": 0.462,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Warum sollte man einen Urlaub in Ägypten mit Coral Travel buchen?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "coraltravel.de"
+   ],
+   "headings": [
+    "coraltravel.de: Warum sollte man einen Urlaub in Ägypten mit Coral Travel buchen?",
+    "coraltravel.de: Unterwegs mit dem Coral Travel Reiseblog"
+   ],
+   "topic_words": [
+    "reiseblog",
+    "travel",
+    "unterweg"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.336,
+   "own_best_sim": 0.422,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Strandhotels Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Golden Beach Resort",
+    "restplatzboerse.com: Strandhotels Ägypten"
+   ],
+   "topic_words": [
+    "beach",
+    "gold",
+    "resort",
+    "strandhotel"
+   ],
+   "topic_words_in_own_text": [
+    "resort"
+   ],
+   "sim_main": 0.314,
+   "own_best_sim": 0.287,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Baden & Tauchen",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaubswelt.com"
+   ],
+   "headings": [
+    "urlaubswelt.com: Baden & Tauchen"
+   ],
+   "topic_words": [
+    "baden",
+    "tauch"
+   ],
+   "topic_words_in_own_text": [
+    "tauch"
+   ],
+   "sim_main": 0.338,
+   "own_best_sim": 0.355,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Buchen Sie Ihren Urlaub in Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Buchen Sie Ihren Urlaub in Ägypten"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.201,
+   "own_best_sim": 0.381,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Urlaub bei den Pharaonen: All-Inclusive-Strandurlaub, Kultur- oder Aktiv-Urlaub",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Urlaub bei den Pharaonen: All-Inclusive-Strandurlaub, Kultur- oder Aktiv-Urlaub"
+   ],
+   "topic_words": [
+    "aktiv-urlaub",
+    "all-inclusive-strandurlaub",
+    "kultur",
+    "pharaon"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.617,
+   "own_best_sim": 0.549,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Brauche ich ein Visum für Ägypten Urlaub?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Brauche ich ein Visum für Ägypten Urlaub?"
+   ],
+   "topic_words": [
+    "brauch",
+    "visum"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.194,
+   "own_best_sim": 0.227,
+   "own_best_heading": "Ägypten Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Worauf sollte ich vor Ort achten?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Worauf sollte ich vor Ort achten?"
+   ],
+   "topic_words": [
+    "acht",
+    "worauf"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.02,
+   "own_best_sim": 0.269,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wie sicher ist ein Urlaub in Ägypten?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Wie sicher ist ein Urlaub in Ägypten?"
+   ],
+   "topic_words": [
+    "sich"
+   ],
+   "topic_words_in_own_text": [
+    "sich"
+   ],
+   "sim_main": 0.071,
+   "own_best_sim": 0.064,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Wo kann man in Ägypten Urlaub machen?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Wo kann man in Ägypten Urlaub machen?"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.147,
+   "own_best_sim": 0.327,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Hier geht es direkt zu dem Abschnitt, der dich interessiert",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Hier geht es direkt zu dem Abschnitt, der dich interessiert"
+   ],
+   "topic_words": [
+    "abschnitt",
+    "direkt",
+    "interessiert"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.023,
+   "own_best_sim": 0.257,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wassersportparadies Ägypten: Tauchsafari, Schnorcheln und Meer",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Wassersportparadies Ägypten: Tauchsafari, Schnorcheln und Meer"
+   ],
+   "topic_words": [
+    "meer",
+    "schnorchel",
+    "tauchsafari",
+    "wassersportparadi"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.301,
+   "own_best_sim": 0.337,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Hotels mit Hausriff in Ägypten: Die Unterwasserwelt direkt vor der Tür",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Hotels mit Hausriff in Ägypten: Die Unterwasserwelt direkt vor der Tür"
+   ],
+   "topic_words": [
+    "direkt",
+    "hausriff",
+    "hotel",
+    "unterwasserwelt"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.187,
+   "own_best_sim": 0.225,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Swim-up-Hotels in Ägypten: Entspannung direkt vom Zimmer aus",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Swim-up-Hotels in Ägypten: Entspannung direkt vom Zimmer aus"
+   ],
+   "topic_words": [
+    "direkt",
+    "entspannung",
+    "swim-up-hotel",
+    "zimm"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.245,
+   "own_best_sim": 0.231,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Rotes Meer",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Rotes Meer"
+   ],
+   "topic_words": [
+    "meer",
+    "rotes"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.231,
+   "own_best_sim": 0.191,
+   "own_best_heading": "Unsere Favoriten in Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Luxor",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Luxor"
+   ],
+   "topic_words": [
+    "luxor"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.14,
+   "own_best_sim": 0.167,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Safaga",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Safaga"
+   ],
+   "topic_words": [
+    "safaga"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.151,
+   "own_best_sim": 0.219,
+   "own_best_heading": "Unsere Favoriten in Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ägyptens schönste Strände",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Ägyptens schönste Strände"
+   ],
+   "topic_words": [
+    "schönst",
+    "stränd",
+    "ägypten"
+   ],
+   "topic_words_in_own_text": [
+    "ägypten"
+   ],
+   "sim_main": 0.573,
+   "own_best_sim": 0.656,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": true,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "лише заголовок або блок посилань, тексту немає",
+   "gap": false
+  },
+  {
+   "subtopic": "Klima und Wetter in Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Klima und Wetter in Ägypten"
+   ],
+   "topic_words": [
+    "klima",
+    "wett"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.084,
+   "own_best_sim": 0.117,
+   "own_best_heading": "Ägypten Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ägyptisches Museum",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Ägyptisches Museum"
+   ],
+   "topic_words": [
+    "museum",
+    "ägyptisch"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.507,
+   "own_best_sim": 0.496,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Aldahaar Moschee",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Aldahaar Moschee"
+   ],
+   "topic_words": [
+    "aldahaar",
+    "mosche"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.232,
+   "own_best_sim": 0.27,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Berg Sinai",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Berg Sinai"
+   ],
+   "topic_words": [
+    "berg",
+    "sinai"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.251,
+   "own_best_sim": 0.299,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Gebel-Elba-Nationalpark",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Gebel-Elba-Nationalpark"
+   ],
+   "topic_words": [
+    "gebel-elba-nationalpark"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.204,
+   "own_best_sim": 0.198,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ibn-Tulun-Moschee",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Ibn-Tulun-Moschee"
+   ],
+   "topic_words": [
+    "ibn-tulun-mosche"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.286,
+   "own_best_sim": 0.309,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Kloster des Heiligen Antonius",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Kloster des Heiligen Antonius"
+   ],
+   "topic_words": [
+    "antoniu",
+    "heilig",
+    "klost"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.029,
+   "own_best_sim": 0.076,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Kolossalstatuen von Ramses II.",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Kolossalstatuen von Ramses II."
+   ],
+   "topic_words": [
+    "kolossalstatu",
+    "rams"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.122,
+   "own_best_sim": 0.197,
+   "own_best_heading": "Unsere Favoriten in Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Marina (Jachthafen)",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Marina (Jachthafen)"
+   ],
+   "topic_words": [
+    "jachthaf",
+    "marina"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.019,
+   "own_best_sim": 0.163,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Marsa Murena",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Marsa Murena"
+   ],
+   "topic_words": [
+    "marsa",
+    "murena"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.066,
+   "own_best_sim": 0.048,
+   "own_best_heading": "Unsere Favoriten in Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Nationalpark Wadi al-Gimal–Hamata",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Nationalpark Wadi al-Gimal–Hamata"
+   ],
+   "topic_words": [
+    "al-gimal",
+    "hamata",
+    "nationalpark",
+    "wadi"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.231,
+   "own_best_sim": 0.274,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ras-Mohammed-Nationalpark",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Ras-Mohammed-Nationalpark"
+   ],
+   "topic_words": [
+    "ras-mohammed-nationalpark"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.334,
+   "own_best_sim": 0.31,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Tempelanlagen von Karnak",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Tempelanlagen von Karnak"
+   ],
+   "topic_words": [
+    "karnak",
+    "tempelanlag"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.262,
+   "own_best_sim": 0.318,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die Kultur in Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Die Kultur in Ägypten"
+   ],
+   "topic_words": [
+    "kultur"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.169,
+   "own_best_sim": 0.273,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Währung in Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Währung in Ägypten"
+   ],
+   "topic_words": [
+    "währung"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.175,
+   "own_best_sim": 0.086,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Einreisebestimmungen in Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Einreisebestimmungen in Ägypten"
+   ],
+   "topic_words": [
+    "einreisebestimmung"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.285,
+   "own_best_sim": 0.341,
+   "own_best_heading": "Ägypten Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ägypten – FAQ und praktische Informationen",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Ägypten – FAQ und praktische Informationen"
+   ],
+   "topic_words": [
+    "praktisch"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.129,
+   "own_best_sim": 0.1,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "AJIRA Boutique Hotel Hurghada Marina",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: AJIRA Boutique Hotel Hurghada Marina"
+   ],
+   "topic_words": [
+    "ajira",
+    "boutiqu",
+    "hotel",
+    "hurghada",
+    "marina"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.3,
+   "own_best_sim": 0.258,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Tropitel Dahab Oasis",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Tropitel Dahab Oasis"
+   ],
+   "topic_words": [
+    "dahab",
+    "oasis",
+    "tropitel"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.441,
+   "own_best_sim": 0.412,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Dahab Lagoon Club & Resort",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Dahab Lagoon Club & Resort"
+   ],
+   "topic_words": [
+    "club",
+    "dahab",
+    "lagoo",
+    "resort"
+   ],
+   "topic_words_in_own_text": [
+    "resort"
+   ],
+   "sim_main": 0.426,
+   "own_best_sim": 0.337,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Aurora Oriental Resort Sharm El Sheikh",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Aurora Oriental Resort Sharm El Sheikh"
+   ],
+   "topic_words": [
+    "aurora",
+    "oriental",
+    "resort",
+    "sharm",
+    "sheikh"
+   ],
+   "topic_words_in_own_text": [
+    "resort"
+   ],
+   "sim_main": 0.4,
+   "own_best_sim": 0.366,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Lazuli Hotel Marsa Alam",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Lazuli Hotel Marsa Alam"
+   ],
+   "topic_words": [
+    "alam",
+    "hotel",
+    "lazuli",
+    "marsa"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.296,
+   "own_best_sim": 0.251,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Coral Sun Beach",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Coral Sun Beach"
+   ],
+   "topic_words": [
+    "beach"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.129,
+   "own_best_sim": 0.146,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Casa Mare Resort",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Casa Mare Resort"
+   ],
+   "topic_words": [
+    "casa",
+    "mare",
+    "resort"
+   ],
+   "topic_words_in_own_text": [
+    "resort"
+   ],
+   "sim_main": 0.248,
+   "own_best_sim": 0.209,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Xperience St. George Homestay",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Xperience St. George Homestay"
+   ],
+   "topic_words": [
+    "georg",
+    "homestay",
+    "xperienc"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.201,
+   "own_best_sim": 0.274,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Prima Life Hotels & Resort",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Prima Life Hotels & Resort"
+   ],
+   "topic_words": [
+    "hotel",
+    "life",
+    "prima",
+    "resort"
+   ],
+   "topic_words_in_own_text": [
+    "hotel",
+    "resort"
+   ],
+   "sim_main": 0.274,
+   "own_best_sim": 0.316,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Rund- und Kombireisen nach Ägypten von SunTrips",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Rund- und Kombireisen nach Ägypten von SunTrips"
+   ],
+   "topic_words": [
+    "kombireis",
+    "suntrip"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.463,
+   "own_best_sim": 0.44,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Kairo, 4 Tage Nilkreuzfahrt & All Inclusive Badeurlaub Soma Bay ab 2456 € p. P.",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Kairo, 4 Tage Nilkreuzfahrt & All Inclusive Badeurlaub Soma Bay ab 2456 € p. P."
+   ],
+   "topic_words": [
+    "badeurlaub",
+    "inclusiv",
+    "kairo",
+    "nilkreuzfahrt",
+    "soma"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.506,
+   "own_best_sim": 0.502,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Luxus pur: Exklusive Hotels in Kairo und Marsa Alam & Nilkreuzfahrt mit der Steigenberger Legacy ab 4222 € p. P.",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Luxus pur: Exklusive Hotels in Kairo und Marsa Alam & Nilkreuzfahrt mit der Steigenberger Legacy ab 4222 € p. P."
+   ],
+   "topic_words": [
+    "alam",
+    "exklusiv",
+    "hotel",
+    "kairo",
+    "legacy",
+    "luxus"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.501,
+   "own_best_sim": 0.535,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Amman nach Aqaba mit dem Mietwagen & Ägypten mit Kairo ab 1363 € p. P.",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Amman nach Aqaba mit dem Mietwagen & Ägypten mit Kairo ab 1363 € p. P."
+   ],
+   "topic_words": [
+    "amman",
+    "aqaba",
+    "kairo",
+    "mietwag"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.406,
+   "own_best_sim": 0.416,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Städtekombination Kairo und Muscat & Baden As Sifah ab 2094 € p. P.",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Städtekombination Kairo und Muscat & Baden As Sifah ab 2094 € p. P."
+   ],
+   "topic_words": [
+    "baden",
+    "kairo",
+    "muscat",
+    "sifah",
+    "städtekombinatio"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.481,
+   "own_best_sim": 0.507,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Inhaltsverzeichnis (einblenden)",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Inhaltsverzeichnis (einblenden)"
+   ],
+   "topic_words": [
+    "einblend",
+    "inhaltsverzeichni"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.138,
+   "own_best_sim": 0.117,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Was man im Ägypten Urlaub unternehmen kann",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Was man im Ägypten Urlaub unternehmen kann"
+   ],
+   "topic_words": [
+    "unternehm"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.028,
+   "own_best_sim": 0.123,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Länderinformationen Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lmx.de"
+   ],
+   "headings": [
+    "lmx.de: Länderinformationen Ägypten"
+   ],
+   "topic_words": [
+    "länderinformation"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.146,
+   "own_best_sim": 0.214,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Hurghada - Sonne, Strand und faszinierende Unterwasserwelten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Hurghada - Sonne, Strand und faszinierende Unterwasserwelten"
+   ],
+   "topic_words": [
+    "faszinierend",
+    "hurghada",
+    "sonne",
+    "strand",
+    "unterwasserwelt"
+   ],
+   "topic_words_in_own_text": [
+    "strand"
+   ],
+   "sim_main": 0.433,
+   "own_best_sim": 0.415,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Tipp von Leonie",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Tipp von Leonie"
+   ],
+   "topic_words": [
+    "leoni",
+    "tipp"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.096,
+   "own_best_sim": 0.198,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Frühbucher oder Last Minute – Dein perfekter Urlaub nach Ägypten wartet",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Frühbucher oder Last Minute – Dein perfekter Urlaub nach Ägypten wartet"
+   ],
+   "topic_words": [
+    "frühbuch",
+    "last",
+    "minut",
+    "perfekt",
+    "wartet"
+   ],
+   "topic_words_in_own_text": [
+    "frühbuch",
+    "last",
+    "minut"
+   ],
+   "sim_main": 0.17,
+   "own_best_sim": 0.671,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": true,
+   "own_text_match": true,
+   "on_own_page": true,
+   "own_status": "так",
+   "gap": false
+  },
+  {
+   "subtopic": "Tipp von Jana",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Tipp von Jana"
+   ],
+   "topic_words": [
+    "jana",
+    "tipp"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.048,
+   "own_best_sim": 0.207,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Pauschalreise, Rundreise oder Badeurlaub: Welche Reiseart passt zu mir?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Pauschalreise, Rundreise oder Badeurlaub: Welche Reiseart passt zu mir?"
+   ],
+   "topic_words": [
+    "badeurlaub",
+    "passt",
+    "pauschalreis",
+    "reiseart",
+    "rundreis"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.463,
+   "own_best_sim": 0.443,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Reisetypen – Zu welchen Reisetypen passt Ägypten am besten?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Reisetypen – Zu welchen Reisetypen passt Ägypten am besten?"
+   ],
+   "topic_words": [
+    "passt",
+    "reisetyp",
+    "welch"
+   ],
+   "topic_words_in_own_text": [
+    "welch"
+   ],
+   "sim_main": 0.283,
+   "own_best_sim": 0.433,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Tipp von Tobias",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Tipp von Tobias"
+   ],
+   "topic_words": [
+    "tipp",
+    "tobia"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.119,
+   "own_best_sim": 0.266,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Flitterwochen in Ägypten – Romantische Erlebnisse für unvergessliche Momente zu zweit",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Flitterwochen in Ägypten – Romantische Erlebnisse für unvergessliche Momente zu zweit"
+   ],
+   "topic_words": [
+    "erlebniss",
+    "flitterwoch",
+    "moment",
+    "romantisch",
+    "unvergesslich",
+    "zweit"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.298,
+   "own_best_sim": 0.344,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Budget freundlich/Gutes Preis-Leistungs-Verhältnis",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Budget freundlich/Gutes Preis-Leistungs-Verhältnis"
+   ],
+   "topic_words": [
+    "budget",
+    "freundlich",
+    "gutes",
+    "preis-leistungs-verhältni"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.087,
+   "own_best_sim": 0.375,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Purer Luxus und Extravaganz",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Purer Luxus und Extravaganz"
+   ],
+   "topic_words": [
+    "extravaganz",
+    "luxus",
+    "purer"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.217,
+   "own_best_sim": 0.285,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Reisen für einen kleinen Geldbeutel",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Reisen für einen kleinen Geldbeutel"
+   ],
+   "topic_words": [
+    "geldbeutel",
+    "klein",
+    "reis"
+   ],
+   "topic_words_in_own_text": [
+    "reis"
+   ],
+   "sim_main": 0.419,
+   "own_best_sim": 0.431,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die Jahreszeiten in Ägypten im Überblick",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Die Jahreszeiten in Ägypten im Überblick"
+   ],
+   "topic_words": [
+    "jahreszeit",
+    "überblick"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.102,
+   "own_best_sim": 0.41,
+   "own_best_heading": "Ägypten Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Urlaub zu Weihnachten in Ägypten: Sonne statt Schnee",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Urlaub zu Weihnachten in Ägypten: Sonne statt Schnee"
+   ],
+   "topic_words": [
+    "schne",
+    "sonne",
+    "statt",
+    "weihnacht"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.045,
+   "own_best_sim": 0.257,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Silvester in Ägypten feiern: Das neue Jahr am Roten Meer begrüßen",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Silvester in Ägypten feiern: Das neue Jahr am Roten Meer begrüßen"
+   ],
+   "topic_words": [
+    "begrüß",
+    "feier",
+    "meer",
+    "neue",
+    "roten",
+    "silvest"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.211,
+   "own_best_sim": 0.246,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die Top 5 Sehenswürdigkeiten in Ägypten: Pyramiden, Tempel & Co.",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Die Top 5 Sehenswürdigkeiten in Ägypten: Pyramiden, Tempel & Co."
+   ],
+   "topic_words": [
+    "pyramid",
+    "sehenswürdigkeit",
+    "tempel"
+   ],
+   "topic_words_in_own_text": [
+    "pyramid"
+   ],
+   "sim_main": 0.252,
+   "own_best_sim": 0.495,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Weitere empfehlenswerte Reiseziele für einen wundervollen Urlaub 2026/2027",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Weitere empfehlenswerte Reiseziele für einen wundervollen Urlaub 2026/2027"
+   ],
+   "topic_words": [
+    "empfehlenswert",
+    "reiseziel",
+    "wundervoll"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.399,
+   "own_best_sim": 0.625,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ägypten Urlaub 2026/2027: Häufig gestellte Fragen & Antworten (FAQ)",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "ab-ins-blaue.de"
+   ],
+   "headings": [
+    "ab-ins-blaue.de: Ägypten Urlaub 2026/2027: Häufig gestellte Fragen & Antworten (FAQ)"
+   ],
+   "topic_words": [
+    "antwort",
+    "gestellt",
+    "häufig"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.14,
+   "own_best_sim": 0.151,
+   "own_best_heading": "Ägypten Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Unser Service für dein Urlaub in Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "coraltravel.de"
+   ],
+   "headings": [
+    "coraltravel.de: Unser Service für dein Urlaub in Ägypten"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.13,
+   "own_best_sim": 0.241,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Melde dich hier zu unserem Newsletter an!",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "coraltravel.de"
+   ],
+   "headings": [
+    "coraltravel.de: Melde dich hier zu unserem Newsletter an!"
+   ],
+   "topic_words": [
+    "melde"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.031,
+   "own_best_sim": 0.217,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Urlaub in Ägypten 2027 - für jeden Reisetypen das perfekte Angebot",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Urlaub in Ägypten 2027 - für jeden Reisetypen das perfekte Angebot"
+   ],
+   "topic_words": [
+    "reisetyp"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.362,
+   "own_best_sim": 0.484,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Was du in Ägypten gesehen haben solltest - unsere TOP Tipps",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Was du in Ägypten gesehen haben solltest - unsere TOP Tipps"
+   ],
+   "topic_words": [
+    "geseh",
+    "solltest"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.071,
+   "own_best_sim": 0.329,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die Himmlische Kathedrale",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Die Himmlische Kathedrale"
+   ],
+   "topic_words": [
+    "himmlisch",
+    "kathedral"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.116,
+   "own_best_sim": 0.179,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Der Fischmarkt in Hurghada",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Der Fischmarkt in Hurghada"
+   ],
+   "topic_words": [
+    "fischmarkt",
+    "hurghada"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.325,
+   "own_best_sim": 0.319,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die Korallenriffe in Sharm El Sheik",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Die Korallenriffe in Sharm El Sheik"
+   ],
+   "topic_words": [
+    "korallenriff",
+    "sharm",
+    "sheik"
+   ],
+   "topic_words_in_own_text": [
+    "korallenriff"
+   ],
+   "sim_main": 0.299,
+   "own_best_sim": 0.333,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die El Mina Moschee",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Die El Mina Moschee"
+   ],
+   "topic_words": [
+    "mina",
+    "mosche"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.241,
+   "own_best_sim": 0.278,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Das Sharm Papyrus Museum",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Das Sharm Papyrus Museum"
+   ],
+   "topic_words": [
+    "museum",
+    "papyru",
+    "sharm"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.245,
+   "own_best_sim": 0.23,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Typisch Urlaub in Ägypten – Was du sonst noch wissen solltest",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Typisch Urlaub in Ägypten – Was du sonst noch wissen solltest"
+   ],
+   "topic_words": [
+    "solltest",
+    "sonst",
+    "typisch",
+    "wiss"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": -0.042,
+   "own_best_sim": 0.169,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Shopping in Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Shopping in Ägypten"
+   ],
+   "topic_words": [
+    "shopping"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.216,
+   "own_best_sim": 0.358,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Andere Länder, andere Sitten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Andere Länder, andere Sitten"
+   ],
+   "topic_words": [
+    "länd",
+    "sitt"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.115,
+   "own_best_sim": 0.168,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Aktive und entspannte Urlaubsfreuden rund ums Wasser",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Aktive und entspannte Urlaubsfreuden rund ums Wasser"
+   ],
+   "topic_words": [
+    "aktiv",
+    "entspannt",
+    "urlaubsfreud"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.36,
+   "own_best_sim": 0.398,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Inspiration aus dem TUI Reiseblog für deine Reise nach Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Inspiration aus dem TUI Reiseblog für deine Reise nach Ägypten"
+   ],
+   "topic_words": [
+    "inspiratio",
+    "reise",
+    "reiseblog"
+   ],
+   "topic_words_in_own_text": [
+    "reise"
+   ],
+   "sim_main": 0.385,
+   "own_best_sim": 0.488,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Häufige Fragen zu Urlaub in Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "tui.com"
+   ],
+   "headings": [
+    "tui.com: Häufige Fragen zu Urlaub in Ägypten"
+   ],
+   "topic_words": [
+    "häufig"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.085,
+   "own_best_sim": 0.216,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "269 Angebote für Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "its.de"
+   ],
+   "headings": [
+    "its.de: 269 Angebote für Ägypten"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.198,
+   "own_best_sim": 0.362,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "ITS ermöglicht den schönsten Urlaub in Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "its.de"
+   ],
+   "headings": [
+    "its.de: ITS ermöglicht den schönsten Urlaub in Ägypten"
+   ],
+   "topic_words": [
+    "ermöglicht"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.156,
+   "own_best_sim": 0.265,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Beliebte Reisethemen",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "its.de"
+   ],
+   "headings": [
+    "its.de: Beliebte Reisethemen"
+   ],
+   "topic_words": [
+    "reisethem"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.425,
+   "own_best_sim": 0.779,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": true,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "лише заголовок або блок посилань, тексту немає",
+   "gap": false
+  },
+  {
+   "subtopic": "Unsere TOP Ägypten Empfehlungen",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "dertour-reisebuero.de"
+   ],
+   "headings": [
+    "dertour-reisebuero.de: Unsere TOP Ägypten Empfehlungen"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.105,
+   "own_best_sim": 0.492,
+   "own_best_heading": "Unsere Favoriten in Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Unsere Ägypten Spezialisten beraten Sie gerne:",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "dertour-reisebuero.de"
+   ],
+   "headings": [
+    "dertour-reisebuero.de: Unsere Ägypten Spezialisten beraten Sie gerne:"
+   ],
+   "topic_words": [
+    "berat",
+    "spezialist"
+   ],
+   "topic_words_in_own_text": [
+    "berat"
+   ],
+   "sim_main": 0.012,
+   "own_best_sim": 0.151,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Einmal um den Globus - Der Reisepodcast",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "dertour-reisebuero.de"
+   ],
+   "headings": [
+    "dertour-reisebuero.de: Einmal um den Globus - Der Reisepodcast"
+   ],
+   "topic_words": [
+    "einmal",
+    "globu",
+    "reisepodcast"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.243,
+   "own_best_sim": 0.339,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Mehr Inspiration",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "dertour-reisebuero.de"
+   ],
+   "headings": [
+    "dertour-reisebuero.de: Mehr Inspiration"
+   ],
+   "topic_words": [
+    "inspiratio"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.085,
+   "own_best_sim": 0.147,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Service & Beratung",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "dertour-reisebuero.de"
+   ],
+   "headings": [
+    "dertour-reisebuero.de: Service & Beratung"
+   ],
+   "topic_words": [
+    "beratung"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.094,
+   "own_best_sim": 0.231,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "The Grand Resort",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: The Grand Resort"
+   ],
+   "topic_words": [
+    "grand",
+    "resort"
+   ],
+   "topic_words_in_own_text": [
+    "resort"
+   ],
+   "sim_main": 0.342,
+   "own_best_sim": 0.322,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Familienhotels Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Familienhotels Ägypten"
+   ],
+   "topic_words": [
+    "familienhotel"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.264,
+   "own_best_sim": 0.327,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Last Minute Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Last Minute Ägypten"
+   ],
+   "topic_words": [
+    "last",
+    "minut"
+   ],
+   "topic_words_in_own_text": [
+    "last",
+    "minut"
+   ],
+   "sim_main": 0.132,
+   "own_best_sim": 0.805,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": true,
+   "own_text_match": true,
+   "on_own_page": true,
+   "own_status": "так",
+   "gap": false
+  },
+  {
+   "subtopic": "Sorgenfrei buchen: Ihr Ägypten Urlaub am Roten Meer",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Sorgenfrei buchen: Ihr Ägypten Urlaub am Roten Meer"
+   ],
+   "topic_words": [
+    "meer",
+    "roten",
+    "sorgenfrei"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.353,
+   "own_best_sim": 0.39,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Unterwasser-Magie am Roten Meer: Schnorcheln in der Abu Dabbab Bucht",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Unterwasser-Magie am Roten Meer: Schnorcheln in der Abu Dabbab Bucht"
+   ],
+   "topic_words": [
+    "bucht",
+    "dabbab",
+    "meer",
+    "roten",
+    "schnorchel",
+    "unterwasser-magi"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.352,
+   "own_best_sim": 0.344,
+   "own_best_heading": "Reiseziele Ägyptens",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Kurzinfos",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Kurzinfos"
+   ],
+   "topic_words": [
+    "kurzinfo"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.14,
+   "own_best_sim": 0.329,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Bilder Ägypten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Bilder Ägypten"
+   ],
+   "topic_words": [
+    "bild"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.17,
+   "own_best_sim": 0.128,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Kann man das Leitungswasser in Ägypten bedenkenlos trinken?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Kann man das Leitungswasser in Ägypten bedenkenlos trinken?"
+   ],
+   "topic_words": [
+    "bedenkenlo",
+    "leitungswass",
+    "trink"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": -0.061,
+   "own_best_sim": 0.015,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Welche Dokumente werden für die Einreise benötigt?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Welche Dokumente werden für die Einreise benötigt?"
+   ],
+   "topic_words": [
+    "benötigt",
+    "dokument",
+    "einreis"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.115,
+   "own_best_sim": 0.174,
+   "own_best_heading": "Ägypten Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Welche Währung nutzt man vor Ort und wie bezahlt man am besten?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Welche Währung nutzt man vor Ort und wie bezahlt man am besten?"
+   ],
+   "topic_words": [
+    "bezahlt",
+    "nutzt",
+    "währung"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.081,
+   "own_best_sim": 0.224,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Warum sollte ich eine Pauschalreise bei der Restplatzbörse buchen?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Warum sollte ich eine Pauschalreise bei der Restplatzbörse buchen?"
+   ],
+   "topic_words": [
+    "pauschalreis",
+    "restplatzbörs"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.299,
+   "own_best_sim": 0.49,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Hast du Fragen zu unseren Angeboten?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "aldi-reisen.de"
+   ],
+   "headings": [
+    "aldi-reisen.de: Hast du Fragen zu unseren Angeboten?"
+   ],
+   "topic_words": [
+    "hast"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.119,
+   "own_best_sim": 0.327,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Hier findest du noch mehr Reise-Inspirationen",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "aldi-reisen.de"
+   ],
+   "headings": [
+    "aldi-reisen.de: Hier findest du noch mehr Reise-Inspirationen"
+   ],
+   "topic_words": [
+    "reise-inspiration"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.301,
+   "own_best_sim": 0.506,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  }
+ ],
+ "headings_total": 225,
+ "own_headings": [
+  "Last-Minute-Angebote",
+  "Unsere Favoriten in Ägyptens",
+  "Beliebte Reiseziele",
+  "Reiseziele Ägyptens",
+  "Ägypten Reisen nach Monaten"
+ ]
+}
