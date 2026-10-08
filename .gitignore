@@ -6,6 +6,7 @@ _backup/
 *.locked.*
 *.new.*
 *.check.*
+*.draft.json
 
 # Python
 __pycache__/
