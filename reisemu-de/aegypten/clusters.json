@@ -44,9 +44,6 @@
     "urlaub in aegypten",
     "ägypten urlaub 2026",
     "urlaub ägypten buchen",
-    "pyramiden urlaub ägypten",
-    "pyramide ägypten urlaub",
-    "ägypten urlaub was beachten",
     "ägypten buchen",
     "ägypten kurzurlaub",
     "ägypten ferien",
@@ -56,17 +53,17 @@
     "wann sind ferien in ägypten 2026"
    ],
    "head": "ägypten urlaub",
-   "total": 71780,
+   "total": 70120,
    "intent": "informational",
    "page": "/tour/agypten",
    "top_type": "хаб країни",
-   "top_share": 0.2764227642276423,
-   "top_count": "34/123",
+   "top_share": 0.35051546391752575,
+   "top_count": "34/97",
    "statuses": {
     "рекомендовано": 4,
     "окрема сторінка не потрібна": 1,
-    "спірно (SERP не підтверджено)": 6,
-    "спірно (не перевірено)": 3
+    "спірно (SERP не підтверджено)": 4,
+    "спірно (не перевірено)": 2
    },
    "split": true,
    "base": "K02",
@@ -106,7 +103,7 @@
    "label": "K03 · visum ägypten"
   },
   {
-   "id": "K04",
+   "id": "K04a",
    "key": "pauschal",
    "name": "Pauschalreise Ägypten",
    "members": [
@@ -118,24 +115,23 @@
     "pauschalreise ägypten günstig",
     "ägypten urlaub pauschalreise",
     "ägypten pauschalreise direktflug",
-    "pauschalreise ägypten pyramiden",
     "pauschalreise ägypten märz 2026"
    ],
    "head": "pauschalreise ägypten",
-   "total": 8070,
+   "total": 8030,
    "intent": "commercial",
    "page": "/tour/agypten/pauschalreise",
    "top_type": "pauschalreise (країна)",
-   "top_share": 0.37209302325581395,
-   "top_count": "32/86",
+   "top_share": 0.4025974025974026,
+   "top_count": "31/77",
    "statuses": {
     "рекомендовано": 3,
-    "за бізнес-правилом": 6,
+    "за бізнес-правилом": 5,
     "спірно (SERP не підтверджено)": 1
    },
-   "split": false,
+   "split": true,
    "base": "K04",
-   "label": "K04 · pauschalreise ägypten"
+   "label": "K04a · pauschalreise ägypten"
   },
   {
    "id": "K05a",
@@ -168,19 +164,21 @@
    "members": [
     "reise nach ägypten",
     "reise ägypten tipps",
+    "reise nach ägypten was beachten",
     "schwanger nach ägypten reisen",
     "kann man als frau alleine nach ägypten reisen",
+    "was kostet eine reise nach ägypten",
     "ägypten reise stornieren"
    ],
    "head": "reise nach ägypten",
-   "total": 3860,
+   "total": 3990,
    "intent": "informational",
-   "page": "/tour/agypten/ratgeber",
+   "page": "/tour/agypten/reisehinweise",
    "top_type": "інформаційна",
-   "top_share": 0.7111111111111111,
-   "top_count": "32/45",
+   "top_share": 0.6825396825396826,
+   "top_count": "43/63",
    "statuses": {
-    "рекомендовано": 5
+    "за рішенням власника": 7
    },
    "split": true,
    "base": "K06",
@@ -314,6 +312,28 @@
    "label": "K02b · urlaub mit kindern ägypten"
   },
   {
+   "id": "K02c",
+   "key": "urlaub_core",
+   "name": "Ägypten Urlaub: бронювання, рік, з перельотом",
+   "members": [
+    "pyramiden urlaub ägypten",
+    "pyramide ägypten urlaub"
+   ],
+   "head": "pyramiden urlaub ägypten",
+   "total": 1180,
+   "intent": "informational",
+   "page": "/tour/agypten/kairo",
+   "top_type": "хаб регіону",
+   "top_share": 0.4117647058823529,
+   "top_count": "7/17",
+   "statuses": {
+    "за рішенням власника": 2
+   },
+   "split": true,
+   "base": "K02",
+   "label": "K02c · pyramiden urlaub ägypten"
+  },
+  {
    "id": "K08a",
    "key": "urlaub_season",
    "name": "Ägypten Urlaub за місяцями",
@@ -358,35 +378,6 @@
    "label": "K11 · urlaub last minute ägypten"
   },
   {
-   "id": "K06b",
-   "key": "reise",
-   "name": "Ägypten Reise / Reisen: buchen, nach",
-   "members": [
-    "ägypten reise buchen",
-    "ägypten reise pyramiden",
-    "ägypten reise 2026",
-    "reise nach ägypten was beachten",
-    "ägypten neues museum reise",
-    "was kostet eine reise nach ägypten",
-    "ägypten reise spezialist"
-   ],
-   "head": "ägypten reise buchen",
-   "total": 860,
-   "intent": "informational",
-   "page": "/tour/agypten",
-   "top_type": "інформаційна",
-   "top_share": 0.2222222222222222,
-   "top_count": "14/63",
-   "statuses": {
-    "спірно (SERP не підтверджено)": 4,
-    "рекомендовано": 2,
-    "спірно (не перевірено)": 1
-   },
-   "split": true,
-   "base": "K06",
-   "label": "K06b · ägypten reise buchen"
-  },
-  {
    "id": "K08b",
    "key": "urlaub_season",
    "name": "Ägypten Urlaub за місяцями",
@@ -429,6 +420,52 @@
    "label": "K08c · ägypten urlaub im oktober"
   },
   {
+   "id": "K02d",
+   "key": "urlaub_core",
+   "name": "Ägypten Urlaub: бронювання, рік, з перельотом",
+   "members": [
+    "ägypten urlaub was beachten"
+   ],
+   "head": "ägypten urlaub was beachten",
+   "total": 480,
+   "intent": "informational",
+   "page": "/tour/agypten/reisehinweise",
+   "top_type": "інформаційна",
+   "top_share": 0.7777777777777778,
+   "top_count": "7/9",
+   "statuses": {
+    "за рішенням власника": 1
+   },
+   "split": true,
+   "base": "K02",
+   "label": "K02d · ägypten urlaub was beachten"
+  },
+  {
+   "id": "K06b",
+   "key": "reise",
+   "name": "Ägypten Reise / Reisen: buchen, nach",
+   "members": [
+    "ägypten reise buchen",
+    "ägypten reise 2026",
+    "ägypten reise spezialist"
+   ],
+   "head": "ägypten reise buchen",
+   "total": 470,
+   "intent": "transactional",
+   "page": "/tour/agypten",
+   "top_type": "інше",
+   "top_share": 0.25925925925925924,
+   "top_count": "7/27",
+   "statuses": {
+    "спірно (SERP не підтверджено)": 1,
+    "рекомендовано": 1,
+    "спірно (не перевірено)": 1
+   },
+   "split": true,
+   "base": "K06",
+   "label": "K06b · ägypten reise buchen"
+  },
+  {
    "id": "K12",
    "key": "region_el-gouna",
    "name": "Регіон: El-Gouna",
@@ -449,6 +486,28 @@
    "split": false,
    "base": "K12",
    "label": "K12 · ägypten urlaub el gouna"
+  },
+  {
+   "id": "K06c",
+   "key": "reise",
+   "name": "Ägypten Reise / Reisen: buchen, nach",
+   "members": [
+    "ägypten reise pyramiden",
+    "ägypten neues museum reise"
+   ],
+   "head": "ägypten reise pyramiden",
+   "total": 260,
+   "intent": "informational",
+   "page": "/tour/agypten/kairo",
+   "top_type": "хаб регіону",
+   "top_share": 0.6111111111111112,
+   "top_count": "11/18",
+   "statuses": {
+    "за рішенням власника": 2
+   },
+   "split": true,
+   "base": "K06",
+   "label": "K06c · ägypten reise pyramiden"
   },
   {
    "id": "K13",
@@ -472,7 +531,28 @@
    "label": "K13 · pauschalreise ägypten makadi bay"
   },
   {
-   "id": "K06c",
+   "id": "K04b",
+   "key": "pauschal",
+   "name": "Pauschalreise Ägypten",
+   "members": [
+    "pauschalreise ägypten pyramiden"
+   ],
+   "head": "pauschalreise ägypten pyramiden",
+   "total": 40,
+   "intent": "commercial",
+   "page": "/tour/agypten/kairo",
+   "top_type": "хаб регіону",
+   "top_share": 0.6666666666666666,
+   "top_count": "6/9",
+   "statuses": {
+    "за рішенням власника": 1
+   },
+   "split": true,
+   "base": "K04",
+   "label": "K04b · pauschalreise ägypten pyramiden"
+  },
+  {
+   "id": "K06d",
    "key": "reise",
    "name": "Ägypten Reise / Reisen: buchen, nach",
    "members": [
@@ -490,7 +570,7 @@
    },
    "split": true,
    "base": "K06",
-   "label": "K06c · ägypten reise mit kindern"
+   "label": "K06d · ägypten reise mit kindern"
   },
   {
    "id": "K14",
@@ -502,12 +582,12 @@
    "head": "pauschalreise luxor ägypten",
    "total": 40,
    "intent": "commercial",
-   "page": "/tour/agypten/luxor",
+   "page": "/tour/agypten",
    "top_type": "хаб регіону",
    "top_share": 0.5555555555555556,
    "top_count": "5/9",
    "statuses": {
-    "рекомендовано": 1
+    "за рішенням власника": 1
    },
    "split": false,
    "base": "K14",
@@ -523,12 +603,12 @@
    "head": "pauschalreise ägypten sharm el sheikh",
    "total": 40,
    "intent": "commercial",
-   "page": "/tour/agypten/sharm-el-sheikh/pauschalreise",
+   "page": "/tour/agypten/sharm-el-sheikh",
    "top_type": "pauschalreise (регіон)",
    "top_share": 0.7777777777777778,
    "top_count": "7/9",
    "statuses": {
-    "рекомендовано": 1
+    "за рішенням власника": 1
    },
    "split": false,
    "base": "K15",
@@ -551,14 +631,14 @@
    "обидва кластери на одній сторінці"
   ],
   [
-   "K04 · pauschalreise ägypten",
+   "K04a · pauschalreise ägypten",
    "K05a · urlaub ägypten all inclusive",
    7,
    "ägypten pauschalreise all inclusive direktflug  ↔  urlaub buchen ägypten all inclusive",
    "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten/pauschalreise і /tour/agypten/all-inclusive): ризик канібалізації, розвести інтент"
   ],
   [
-   "K04 · pauschalreise ägypten",
+   "K04a · pauschalreise ägypten",
    "K05b · ägypten urlaub all inclusive mit flug und hotel",
    7,
    "ägypten pauschalreise all inclusive direktflug  ↔  ägypten reise all inclusive",
@@ -566,7 +646,7 @@
   ],
   [
    "K02b · urlaub mit kindern ägypten",
-   "K06c · ägypten reise mit kindern",
+   "K06d · ägypten reise mit kindern",
    7,
    "ägypten mit kindern  ↔  ägypten reise mit kindern",
    "обидва кластери на одній сторінці"
@@ -587,7 +667,7 @@
   ],
   [
    "K02a · ägypten urlaub",
-   "K04 · pauschalreise ägypten",
+   "K04a · pauschalreise ägypten",
    4,
    "ägypten urlaub mit flug  ↔  ägypten urlaub pauschalreise",
    "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten і /tour/agypten/pauschalreise): ризик канібалізації, розвести інтент"
@@ -614,7 +694,7 @@
    "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten і /tour/agypten/december): ризик канібалізації, розвести інтент"
   ],
   [
-   "K04 · pauschalreise ägypten",
+   "K04a · pauschalreise ägypten",
    "K09 · günstiger urlaub ägypten",
    4,
    "pauschalreise ägypten  ↔  günstig ägypten urlaub buchen",
@@ -642,18 +722,18 @@
    "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten/december і /tour/agypten/october): ризик канібалізації, розвести інтент"
   ],
   [
-   "K06b · ägypten reise buchen",
    "K08c · ägypten urlaub im oktober",
+   "K06b · ägypten reise buchen",
    4,
-   "ägypten reise 2026  ↔  ägypten urlaub im oktober",
-   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten і /tour/agypten/october): ризик канібалізації, розвести інтент"
+   "ägypten urlaub im oktober  ↔  ägypten reise 2026",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten/october і /tour/agypten): ризик канібалізації, розвести інтент"
   ],
   [
    "K01 · reise ägypten warnung",
    "K06a · reise nach ägypten",
    3,
    "reise ägypten warnung  ↔  ägypten reise stornieren",
-   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten/reisehinweise і /tour/agypten/ratgeber): ризик канібалізації, розвести інтент"
+   "обидва кластери на одній сторінці"
   ],
   [
    "K02a · ägypten urlaub",
@@ -835,13 +915,13 @@
    ]
   },
   "reise nach ägypten": {
-   "page": "/tour/agypten/ratgeber",
+   "page": "/tour/agypten/reisehinweise",
    "cand": "/tour/agypten/ratgeber",
    "count": 5,
    "family": "info",
    "fam_count": 5,
-   "status": "рекомендовано",
-   "note": "",
+   "status": "за рішенням власника",
+   "note": "Звірка в браузері 2026-10-08: видача змішана (auswaertiges-amt, adac, kairo.diplo.de, ecco-reisen, два Rundreise-оператори, три хаби), блок «Wird auch oft gesucht» про Reisewarnung, Reisepass, Dokumente, Kosten; інтент інформаційний, вступний ключ сторінки. За ТОП було б: /tour/agypten/ratgeber (рекомендовано).",
    "ranked": [
     [
      "/tour/agypten/ratgeber",
@@ -855,7 +935,9 @@
      "/tour/agypten/rundreisen",
      1
     ]
-   ]
+   ],
+   "serp_page": "/tour/agypten/ratgeber",
+   "serp_status": "рекомендовано"
   },
   "ägypten urlaub 2026": {
    "page": "/tour/agypten",
@@ -1224,13 +1306,13 @@
    "serp_status": "рекомендовано"
   },
   "pyramiden urlaub ägypten": {
-   "page": "/tour/agypten",
+   "page": "/tour/agypten/kairo",
    "cand": "/tour/agypten",
    "count": 4,
    "family": "hub",
    "fam_count": 4,
-   "status": "спірно (не перевірено)",
-   "note": "",
+   "status": "за рішенням власника",
+   "note": "Піраміди й музей — тема наявної сторінки Каїра. За ТОП було б: /tour/agypten (спірно (не перевірено)).",
    "ranked": [
     [
      "/tour/agypten/kairo",
@@ -1244,7 +1326,9 @@
      "/tour/agypten/ratgeber",
      1
     ]
-   ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "спірно (не перевірено)"
   },
   "ägypten urlaub im oktober": {
    "page": "/tour/agypten/october",
@@ -1354,13 +1438,13 @@
    ]
   },
   "pyramide ägypten urlaub": {
-   "page": "/tour/agypten",
+   "page": "/tour/agypten/kairo",
    "cand": "/tour/agypten",
    "count": 0,
    "family": "hub",
    "fam_count": 3,
-   "status": "спірно (SERP не підтверджено)",
-   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "status": "за рішенням власника",
+   "note": "Піраміди й музей — тема наявної сторінки Каїра. За ТОП було б: /tour/agypten (спірно (не перевірено)).",
    "ranked": [
     [
      "/tour/agypten/hurghada",
@@ -1424,20 +1508,20 @@
    "business": "pauschalreise"
   },
   "ägypten urlaub was beachten": {
-   "page": "/tour/agypten",
+   "page": "/tour/agypten/reisehinweise",
    "cand": "/tour/agypten/ratgeber",
    "count": 0,
    "family": "info",
    "fam_count": 7,
-   "status": "спірно (SERP не підтверджено)",
-   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "status": "за рішенням власника",
+   "note": "Питання для блоку FAQ на /reisehinweise; окрему сторінку /ratgeber не створюємо. За ТОП було б: /tour/agypten (рекомендовано).",
    "ranked": [
     [
      "/tour/agypten/ratgeber",
      7
     ]
    ],
-   "serp_page": "/tour/agypten/ratgeber",
+   "serp_page": "/tour/agypten",
    "serp_status": "рекомендовано"
   },
   "ägypten urlaub: marsa alam": {
@@ -1619,13 +1703,13 @@
    ]
   },
   "ägypten reise pyramiden": {
-   "page": "/tour/agypten",
+   "page": "/tour/agypten/kairo",
    "cand": "/tour/agypten",
    "count": 0,
    "family": "hub",
    "fam_count": 4,
-   "status": "спірно (SERP не підтверджено)",
-   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "status": "за рішенням власника",
+   "note": "Піраміди й музей — тема наявної сторінки Каїра. За ТОП було б: /tour/agypten (спірно (не перевірено)).",
    "ranked": [
     [
      "/tour/agypten/kairo",
@@ -1933,13 +2017,13 @@
    ]
   },
   "reise ägypten tipps": {
-   "page": "/tour/agypten/ratgeber",
+   "page": "/tour/agypten/reisehinweise",
    "cand": "/tour/agypten/ratgeber",
    "count": 6,
    "family": "info",
    "fam_count": 6,
-   "status": "рекомендовано",
-   "note": "",
+   "status": "за рішенням власника",
+   "note": "Питання для блоку FAQ на /reisehinweise; окрему сторінку /ratgeber не створюємо. За ТОП було б: /tour/agypten/ratgeber (рекомендовано).",
    "ranked": [
     [
      "/tour/agypten/ratgeber",
@@ -1949,7 +2033,9 @@
      "/tour/agypten",
      2
     ]
-   ]
+   ],
+   "serp_page": "/tour/agypten/ratgeber",
+   "serp_status": "рекомендовано"
   },
   "reise ägypten hurghada": {
    "page": "/tour/agypten/hurghada",
@@ -2183,13 +2269,30 @@
    ]
   },
   "reise nach ägypten was beachten": {
-   "page": "/tour/agypten",
+   "page": "/tour/agypten/reisehinweise",
    "cand": "/tour/agypten/ratgeber",
    "count": 0,
    "family": "info",
    "fam_count": 6,
-   "status": "спірно (SERP не підтверджено)",
-   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "status": "за рішенням власника",
+   "note": "Питання для блоку FAQ на /reisehinweise; окрему сторінку /ratgeber не створюємо. За ТОП було б: /tour/agypten (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/agypten/ratgeber",
+     6
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "рекомендовано"
+  },
+  "schwanger nach ägypten reisen": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/ratgeber",
+   "count": 6,
+   "family": "info",
+   "fam_count": 6,
+   "status": "за рішенням власника",
+   "note": "Питання для блоку FAQ на /reisehinweise; окрему сторінку /ratgeber не створюємо. За ТОП було б: /tour/agypten/ratgeber (рекомендовано).",
    "ranked": [
     [
      "/tour/agypten/ratgeber",
@@ -2198,21 +2301,6 @@
    ],
    "serp_page": "/tour/agypten/ratgeber",
    "serp_status": "рекомендовано"
-  },
-  "schwanger nach ägypten reisen": {
-   "page": "/tour/agypten/ratgeber",
-   "cand": "/tour/agypten/ratgeber",
-   "count": 6,
-   "family": "info",
-   "fam_count": 6,
-   "status": "рекомендовано",
-   "note": "",
-   "ranked": [
-    [
-     "/tour/agypten/ratgeber",
-     6
-    ]
-   ]
   },
   "pauschalreise ägypten makadi bay": {
    "page": "/tour/agypten/makadi-bay",
@@ -2353,13 +2441,13 @@
    ]
   },
   "ägypten neues museum reise": {
-   "page": "/tour/agypten",
+   "page": "/tour/agypten/kairo",
    "cand": "/tour/agypten",
    "count": 7,
    "family": "hub",
    "fam_count": 7,
-   "status": "рекомендовано",
-   "note": "",
+   "status": "за рішенням власника",
+   "note": "Піраміди й музей — тема наявної сторінки Каїра. За ТОП було б: /tour/agypten (рекомендовано).",
    "ranked": [
     [
      "/tour/agypten/kairo",
@@ -2373,7 +2461,9 @@
      "/tour/agypten/rundreisen",
      1
     ]
-   ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "рекомендовано"
   },
   "ägypten reise visum": {
    "page": "/tour/agypten/reisehinweise",
@@ -2485,13 +2575,13 @@
    ]
   },
   "kann man als frau alleine nach ägypten reisen": {
-   "page": "/tour/agypten/ratgeber",
+   "page": "/tour/agypten/reisehinweise",
    "cand": "/tour/agypten/ratgeber",
    "count": 7,
    "family": "info",
    "fam_count": 7,
-   "status": "рекомендовано",
-   "note": "",
+   "status": "за рішенням власника",
+   "note": "Питання для блоку FAQ на /reisehinweise; окрему сторінку /ratgeber не створюємо. За ТОП було б: /tour/agypten/ratgeber (рекомендовано).",
    "ranked": [
     [
      "/tour/agypten/ratgeber",
@@ -2501,7 +2591,9 @@
      "/tour/agypten",
      1
     ]
-   ]
+   ],
+   "serp_page": "/tour/agypten/ratgeber",
+   "serp_status": "рекомендовано"
   },
   "ägypten pauschalreise direktflug": {
    "page": "/tour/agypten/pauschalreise",
@@ -2530,13 +2622,13 @@
    "business": "pauschalreise"
   },
   "was kostet eine reise nach ägypten": {
-   "page": "/tour/agypten",
+   "page": "/tour/agypten/reisehinweise",
    "cand": "/tour/agypten/ratgeber",
    "count": 0,
    "family": "info",
    "fam_count": 5,
-   "status": "спірно (SERP не підтверджено)",
-   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "status": "за рішенням власника",
+   "note": "Питання для блоку FAQ на /reisehinweise; окрему сторінку /ratgeber не створюємо. За ТОП було б: /tour/agypten (рекомендовано).",
    "ranked": [
     [
      "/tour/agypten/ratgeber",
@@ -2551,7 +2643,7 @@
      1
     ]
    ],
-   "serp_page": "/tour/agypten/ratgeber",
+   "serp_page": "/tour/agypten",
    "serp_status": "рекомендовано"
   },
   "ägypten reise und sicherheitshinweise": {
@@ -2651,13 +2743,13 @@
    "business": "reisehinweise"
   },
   "pauschalreise ägypten pyramiden": {
-   "page": "/tour/agypten/pauschalreise",
+   "page": "/tour/agypten/kairo",
    "cand": "/tour/agypten",
    "count": 7,
    "family": "hub",
    "fam_count": 7,
-   "status": "за бізнес-правилом",
-   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschal/Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/agypten/pauschalreise. У ТОП pauschal-сторінок 1/9; за ТОП було б: /tour/agypten (рекомендовано).",
+   "status": "за рішенням власника",
+   "note": "Піраміди й музей — тема наявної сторінки Каїра. За ТОП було б: /tour/agypten (рекомендовано).",
    "ranked": [
     [
      "/tour/agypten/kairo",
@@ -2673,17 +2765,16 @@
     ]
    ],
    "serp_page": "/tour/agypten",
-   "serp_status": "рекомендовано",
-   "business": "pauschalreise"
+   "serp_status": "рекомендовано"
   },
   "pauschalreise luxor ägypten": {
-   "page": "/tour/agypten/luxor",
+   "page": "/tour/agypten",
    "cand": "/tour/agypten/luxor",
    "count": 5,
    "family": "hub",
    "fam_count": 5,
-   "status": "рекомендовано",
-   "note": "",
+   "status": "за рішенням власника",
+   "note": "Окрема сторінка пізніше: поки на хаб, /luxor — після збору по курортах. За ТОП було б: /tour/agypten/luxor (рекомендовано).",
    "ranked": [
     [
      "/tour/agypten/luxor",
@@ -2693,16 +2784,18 @@
      "/tour/agypten/luxor/pauschalreise",
      4
     ]
-   ]
+   ],
+   "serp_page": "/tour/agypten/luxor",
+   "serp_status": "рекомендовано"
   },
   "pauschalreise ägypten sharm el sheikh": {
-   "page": "/tour/agypten/sharm-el-sheikh/pauschalreise",
+   "page": "/tour/agypten/sharm-el-sheikh",
    "cand": "/tour/agypten/sharm-el-sheikh/pauschalreise",
    "count": 7,
    "family": "pauschal",
    "fam_count": 7,
-   "status": "рекомендовано",
-   "note": "",
+   "status": "за рішенням власника",
+   "note": "Наявна сторінка курорту; окрему /sharm-el-sheikh/pauschalreise не створюємо. За ТОП було б: /tour/agypten/sharm-el-sheikh/pauschalreise (рекомендовано).",
    "ranked": [
     [
      "/tour/agypten/sharm-el-sheikh/pauschalreise",
@@ -2716,7 +2809,9 @@
      "/tour/agypten/sharm-el-sheikh/all-inclusive",
      1
     ]
-   ]
+   ],
+   "serp_page": "/tour/agypten/sharm-el-sheikh/pauschalreise",
+   "serp_status": "рекомендовано"
   },
   "pauschalreise ägypten märz 2026": {
    "page": "/tour/agypten/pauschalreise",
@@ -2789,19 +2884,21 @@
    ]
   },
   "ägypten reise stornieren": {
-   "page": "/tour/agypten/ratgeber",
+   "page": "/tour/agypten/reisehinweise",
    "cand": "/tour/agypten/ratgeber",
    "count": 8,
    "family": "info",
    "fam_count": 8,
-   "status": "рекомендовано",
-   "note": "",
+   "status": "за рішенням власника",
+   "note": "Питання для блоку FAQ на /reisehinweise; окрему сторінку /ratgeber не створюємо. За ТОП було б: /tour/agypten/ratgeber (рекомендовано).",
    "ranked": [
     [
      "/tour/agypten/ratgeber",
      8
     ]
-   ]
+   ],
+   "serp_page": "/tour/agypten/ratgeber",
+   "serp_status": "рекомендовано"
   },
   "wie sicher ist eine reise nach ägypten": {
    "page": "/tour/agypten/reisehinweise",

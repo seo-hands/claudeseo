@@ -1,6 +1,67 @@
 {
  "business_rules": [],
- "keyword_overrides": {},
+ "keyword_overrides": {
+  "reise nach ägypten": {
+   "page": "/tour/agypten/reisehinweise",
+   "reason": "Звірка в браузері 2026-10-08: видача змішана (auswaertiges-amt, adac, kairo.diplo.de, ecco-reisen, два Rundreise-оператори, три хаби), блок «Wird auch oft gesucht» про Reisewarnung, Reisepass, Dokumente, Kosten; інтент інформаційний, вступний ключ сторінки."
+  },
+  "reise ägypten tipps": {
+   "page": "/tour/agypten/reisehinweise",
+   "reason": "Питання для блоку FAQ на /reisehinweise; окрему сторінку /ratgeber не створюємо."
+  },
+  "schwanger nach ägypten reisen": {
+   "page": "/tour/agypten/reisehinweise",
+   "reason": "Питання для блоку FAQ на /reisehinweise; окрему сторінку /ratgeber не створюємо."
+  },
+  "kann man als frau alleine nach ägypten reisen": {
+   "page": "/tour/agypten/reisehinweise",
+   "reason": "Питання для блоку FAQ на /reisehinweise; окрему сторінку /ratgeber не створюємо."
+  },
+  "ägypten reise stornieren": {
+   "page": "/tour/agypten/reisehinweise",
+   "reason": "Питання для блоку FAQ на /reisehinweise; окрему сторінку /ratgeber не створюємо."
+  },
+  "ägypten urlaub was beachten": {
+   "page": "/tour/agypten/reisehinweise",
+   "reason": "Питання для блоку FAQ на /reisehinweise; окрему сторінку /ratgeber не створюємо."
+  },
+  "reise nach ägypten was beachten": {
+   "page": "/tour/agypten/reisehinweise",
+   "reason": "Питання для блоку FAQ на /reisehinweise; окрему сторінку /ratgeber не створюємо."
+  },
+  "was kostet eine reise nach ägypten": {
+   "page": "/tour/agypten/reisehinweise",
+   "reason": "Питання для блоку FAQ на /reisehinweise; окрему сторінку /ratgeber не створюємо."
+  },
+  "pyramiden urlaub ägypten": {
+   "page": "/tour/agypten/kairo",
+   "reason": "Піраміди й музей — тема наявної сторінки Каїра."
+  },
+  "pyramide ägypten urlaub": {
+   "page": "/tour/agypten/kairo",
+   "reason": "Піраміди й музей — тема наявної сторінки Каїра."
+  },
+  "ägypten reise pyramiden": {
+   "page": "/tour/agypten/kairo",
+   "reason": "Піраміди й музей — тема наявної сторінки Каїра."
+  },
+  "pauschalreise ägypten pyramiden": {
+   "page": "/tour/agypten/kairo",
+   "reason": "Піраміди й музей — тема наявної сторінки Каїра."
+  },
+  "ägypten neues museum reise": {
+   "page": "/tour/agypten/kairo",
+   "reason": "Піраміди й музей — тема наявної сторінки Каїра."
+  },
+  "pauschalreise ägypten sharm el sheikh": {
+   "page": "/tour/agypten/sharm-el-sheikh",
+   "reason": "Наявна сторінка курорту; окрему /sharm-el-sheikh/pauschalreise не створюємо."
+  },
+  "pauschalreise luxor ägypten": {
+   "page": "/tour/agypten",
+   "reason": "Окрема сторінка пізніше: поки на хаб, /luxor — після збору по курортах."
+  }
+ },
  "contested_verdicts": {},
  "manual_check": {},
  "page_notes": {},

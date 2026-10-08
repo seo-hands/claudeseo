@@ -81,6 +81,7 @@
 - existing_page: /tour/agypten/from-stuttgart
 - existing_page: /tour/agypten/from-wien
 - existing_page: /tour/agypten/from-zurich
+- modifier_page: pyramiden|pyramide|kairo|gizeh|museum = /tour/agypten/kairo
 - modifier_page: januar = /tour/agypten/january
 - modifier_page: februar = /tour/agypten/february
 - modifier_page: märz|maerz = /tour/agypten/march
@@ -132,7 +133,8 @@
 - відбір SERP — 2026-10-08; у serp-raw-regular покладено версію, що пройшла перевірку ознак (serp-selection.json; перший збір — serp-raw-regular-run1): 60 ключів підтверджено, 14 мають дві різні «нормальні» версії, 26 — «SERP не підтверджено» (8 550 запитів, розподілено за типом ключа, статус «спірно»)
 - **повторний SERP для непідтверджених ключів через 7–10 днів** (15–18 жовтня 2026): видалити з serp-raw-regular файли 26 непідтверджених і 14 ключів із різними версіями, запустити fetch_serp.py, потім analyze.py
 - лист у підтримку DataForSEO — dataforseo-support.md (не надіслано)
-- analyze — 2026-10-08; semantics-aegypten.xlsx; ключів 100, кластерів 21, сторінок 17
+- рішення власника — 2026-10-08; semantics-decisions.json, 15 ключів: «reise nach ägypten» і 7 питань (FAQ) → /reisehinweise, /ratgeber не створюємо; піраміди й музей (5 ключів) → /tour/agypten/kairo; «pauschalreise ägypten sharm el sheikh» → /sharm-el-sheikh; «pauschalreise luxor ägypten» → хаб, окрема сторінка пізніше
+- analyze — 2026-10-08; semantics-aegypten.xlsx; ключів 100, кластерів 25, сторінок 16
 
 ## tz-travel
 
