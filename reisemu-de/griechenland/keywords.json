@@ -673,17 +673,6 @@
    "translation_uk": "відпочинок у Греції з напівпансіоном і перельотом"
   },
   {
-   "keyword": "attika griechenland reisen",
-   "volume": 50,
-   "cpc": 0.65,
-   "intent": "informational",
-   "kd": 0,
-   "source": "suggestions:griechenland reisen",
-   "label": "ядро",
-   "translation_uk": "тури до Аттики (Греція) / Attika Reisen",
-   "translation_note_uk": "неоднозначно: регіон Аттика або бренд туроператора Attika Reisen"
-  },
-  {
    "keyword": "pauschalreise griechenland festland",
    "volume": 50,
    "cpc": 1.31,
@@ -934,61 +923,6 @@
    "translation_note_uk": "безпека; сторінка Reisehinweise"
   },
   {
-   "keyword": "leitner reisen griechenland",
-   "volume": 30,
-   "cpc": 0.11,
-   "intent": "commercial",
-   "kd": null,
-   "source": "suggestions:griechenland reisen",
-   "label": "ядро",
-   "translation_uk": "Leitner Reisen, тури до Греції",
-   "translation_note_uk": "бренд: автобусний туроператор Leitner Reisen"
-  },
-  {
-   "keyword": "vamos reisen griechenland",
-   "volume": 30,
-   "cpc": 0.61,
-   "intent": "informational",
-   "kd": 0,
-   "source": "suggestions:griechenland reisen",
-   "label": "ядро",
-   "translation_uk": "Vamos Reisen, тури до Греції",
-   "translation_note_uk": "бренд: туроператор Vamos Eltern-Kind-Reisen"
-  },
-  {
-   "keyword": "kritisch reisen: griechenland",
-   "volume": 30,
-   "cpc": null,
-   "intent": "informational",
-   "kd": null,
-   "source": "suggestions:griechenland reisen",
-   "label": "ядро",
-   "translation_uk": "«Kritisch reisen: Griechenland»",
-   "translation_note_uk": "назва телепередачі (WDR), не туристичний запит"
-  },
-  {
-   "keyword": "kritisch reisen griechenland",
-   "volume": 30,
-   "cpc": null,
-   "intent": "informational",
-   "kd": null,
-   "source": "suggestions:griechenland reisen",
-   "label": "ядро",
-   "translation_uk": "«Kritisch reisen: Griechenland»",
-   "translation_note_uk": "назва телепередачі (WDR), не туристичний запит"
-  },
-  {
-   "keyword": "hauser reisen griechenland",
-   "volume": 30,
-   "cpc": 0.49,
-   "intent": "commercial",
-   "kd": null,
-   "source": "suggestions:griechenland reisen",
-   "label": "ядро",
-   "translation_uk": "Hauser Reisen, тури до Греції",
-   "translation_note_uk": "бренд: туроператор Hauser Exkursionen (трекінг)"
-  },
-  {
    "keyword": "urlaub in griechenland wo am besten",
    "volume": 30,
    "cpc": 0.56,
@@ -1007,11 +941,8 @@
    "kd": null,
    "source": "suggestions:griechenland pauschalreise",
    "label": "ядро",
-   "translation_uk": "пакетний тур на Тасос (Греція)",
-   "translation_note_uk": ""
-  }
- ],
- "longtail": [
+   "translation_uk": "пакетний тур на Тасос (Греція)"
+  },
   {
    "keyword": "pauschalreise hydra griechenland",
    "volume": 30,
@@ -1019,7 +950,9 @@
    "intent": "commercial",
    "kd": null,
    "source": "suggestions:griechenland pauschalreise",
-   "label": "ядро"
+   "label": "ядро",
+   "translation_uk": "пакетний тур на Гідру (Греція)",
+   "translation_note_uk": ""
   },
   {
    "keyword": "pauschalreise buchen griechenland",
@@ -1028,7 +961,9 @@
    "intent": "transactional",
    "kd": null,
    "source": "suggestions:griechenland pauschalreise",
-   "label": "ядро"
+   "label": "ядро",
+   "translation_uk": "забронювати пакетний тур до Греції",
+   "translation_note_uk": ""
   },
   {
    "keyword": "pauschalreise griechenland korfu",
@@ -1037,7 +972,9 @@
    "intent": "commercial",
    "kd": null,
    "source": "suggestions:griechenland pauschalreise",
-   "label": "ядро"
+   "label": "ядро",
+   "translation_uk": "пакетний тур на Корфу (Греція)",
+   "translation_note_uk": ""
   },
   {
    "keyword": "schönste orte griechenland festland",
@@ -1046,7 +983,9 @@
    "intent": "informational",
    "kd": 0,
    "source": "suggestions:griechenland festland",
-   "label": "ядро"
+   "label": "ядро",
+   "translation_uk": "найгарніші місця материкової Греції",
+   "translation_note_uk": "інформаційний запит"
   },
   {
    "keyword": "griechenland festland chalkidiki",
@@ -1055,7 +994,9 @@
    "intent": "informational",
    "kd": 5,
    "source": "suggestions:griechenland festland",
-   "label": "ядро"
+   "label": "ядро",
+   "translation_uk": "Халкідіки, материкова Греція",
+   "translation_note_uk": ""
   },
   {
    "keyword": "wandern in griechenland festland",
@@ -1064,8 +1005,12 @@
    "intent": "informational",
    "kd": null,
    "source": "suggestions:griechenland festland",
-   "label": "ядро"
-  },
+   "label": "ядро",
+   "translation_uk": "піші походи материковою Грецією",
+   "translation_note_uk": "активний відпочинок, трекінг"
+  }
+ ],
+ "longtail": [
   {
    "keyword": "yoga reise griechenland",
    "volume": 20,
@@ -3575,6 +3520,11 @@
    "reason": "бренд конкурента / навігаційний"
   },
   {
+   "keyword": "attika griechenland reisen",
+   "volume": 50,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
    "keyword": "aida reisen griechenland",
    "volume": 50,
    "reason": "бренд конкурента / навігаційний"
@@ -3715,9 +3665,19 @@
    "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
   },
   {
+   "keyword": "leitner reisen griechenland",
+   "volume": 30,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
    "keyword": "reisen nach griechenland aktuell",
    "volume": 30,
    "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "vamos reisen griechenland",
+   "volume": 30,
+   "reason": "бренд конкурента / навігаційний"
   },
   {
    "keyword": "lidl reisen griechenland kreta",
@@ -3726,6 +3686,11 @@
   },
   {
    "keyword": "wikinger reisen griechenland 2026",
+   "volume": 30,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "kritisch reisen: griechenland",
    "volume": 30,
    "reason": "бренд конкурента / навігаційний"
   },
@@ -3741,6 +3706,16 @@
   },
   {
    "keyword": "lidl-reisen griechenland kreta",
+   "volume": 30,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "kritisch reisen griechenland",
+   "volume": 30,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "hauser reisen griechenland",
    "volume": 30,
    "reason": "бренд конкурента / навігаційний"
   },
@@ -4501,7 +4476,7 @@
   ],
   "snowball_seeds": [],
   "collected": "2026-10-08",
-  "cost_usd": 0.3224,
+  "cost_usd": 0.3462,
   "max_keywords": 100
  }
 }
