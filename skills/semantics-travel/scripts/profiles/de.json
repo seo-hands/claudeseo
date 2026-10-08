@@ -1,0 +1,659 @@
+{
+ "_about": "Профіль ринку DE (німецькомовний пошук: Німеччина, Австрія, Швейцарія). Усе, що залежить від мови: слова для лем, класифікація посадкових, інформаційні домени, стоп-бренди, модифікатори, регіони/курорти. Новий ринок: скопіюйте цей файл у <код>.json (код = TLD se_domain або мова), перекладіть слова/regex і перевірте на ТОП-ах. hub_listing = підбірки пропозицій туроператора («Flug+Hotel», сторінки місць /ort/): це хаб країни/регіону, а не сторінка готелю. Hotel за title - лише якщо в title немає urlaub/pauschal/last minute/flug (інакше це підбірка туроператора = хаб).",
+ "code": "de",
+ "language": "de",
+ "modifiers": {
+  "price": [
+   "günstig",
+   "billig",
+   "schnäppchen"
+  ],
+  "months": [
+   "september",
+   "oktober",
+   "november",
+   "dezember",
+   "\\bmai\\b"
+  ]
+ },
+ "lemma_rules": [
+  {
+   "key": "info_warnung",
+   "match": "warnung|aktuell|sicher"
+  },
+  {
+   "key": "info_einreise",
+   "match": "personalausweis|reisepass|visum|einreise"
+  },
+  {
+   "key": "hotel",
+   "startswith": "hotel"
+  },
+  {
+   "key": "rundreise",
+   "match": "rundreise",
+   "sub": [
+    {
+     "key": "rundreise_baden",
+     "match": "baden|badeurlaub"
+    },
+    {
+     "key": "rundreise_dauer",
+     "match": "\\d+ tage|wochen"
+    },
+    {
+     "key": "rundreise_region",
+     "region": true
+    },
+    {
+     "key": "rundreise_core",
+     "default": true
+    }
+   ]
+  },
+  {
+   "key": "lastminute",
+   "match": "last ?minute"
+  },
+  {
+   "key": "pauschal",
+   "match": "pauschal"
+  },
+  {
+   "key": "allinclusive",
+   "match": "all ?inclusive|all inklusiv|alles inklusive"
+  },
+  {
+   "key": "urlaub_season",
+   "match": "{months}"
+  },
+  {
+   "key": "urlaub_price",
+   "match": "{price}"
+  },
+  {
+   "key": "reise",
+   "match": "reise",
+   "not": "urlaub|flug"
+  },
+  {
+   "key": "urlaub_core",
+   "default": true
+  }
+ ],
+ "cluster_names": {
+  "urlaub_core": [
+   "{country} Urlaub: бронювання, рік, з перельотом",
+   null
+  ],
+  "urlaub_price": [
+   "{country} Urlaub: günstig / billig / Schnäppchen",
+   null
+  ],
+  "urlaub_season": [
+   "{country} Urlaub за місяцями (Mai, September, Oktober, November, Dezember)",
+   null
+  ],
+  "reise": [
+   "{country} Reise / Reisen: buchen, nach",
+   null
+  ],
+  "allinclusive": [
+   "{country} All Inclusive",
+   null
+  ],
+  "pauschal": [
+   "Pauschalreise {country}",
+   null
+  ],
+  "lastminute": [
+   "Last Minute {country}",
+   null
+  ],
+  "rundreise_core": [
+   "{country} Rundreise: загальні, ціна, на власний розсуд",
+   null
+  ],
+  "rundreise_dauer": [
+   "{country} Rundreise за тривалістю (7/10/14 днів, 2 тижні)",
+   null
+  ],
+  "rundreise_region": [
+   "{country} Rundreise: регіони й міста",
+   null
+  ],
+  "rundreise_baden": [
+   "{country} Rundreise + Badeurlaub",
+   null
+  ],
+  "hotel": [
+   "Hotels {country}",
+   null
+  ],
+  "info_warnung": [
+   "{country}: Reisewarnung, aktuelle Lage, Sicherheit",
+   "informational"
+  ],
+  "info_einreise": [
+   "{country}: Einreise, Personalausweis, Visum",
+   "informational"
+  ]
+ },
+ "landing": {
+  "info_domains": "reddit\\.|facebook\\.|youtube\\.|tiktok\\.|instagram\\.|pinterest\\.|wikipedia\\.|auswaertiges-amt|diplo\\.de|urlaubspiraten|tagesschau|spiegel\\.de|focus\\.de|bild\\.de|stern\\.de|merkur\\.de|n-tv\\.|chip\\.de|gutefrage\\.|reisefrage\\.|forum\\.|urbia\\.|juraforum|faz\\.net|zeit\\.de|taz\\.de|dw\\.com|rtl\\.de|deutschlandfunk|bundesregierung|wko\\.at|mfa\\.gov|eda\\.admin|ergo\\.de|adac\\.de/reise|hna\\.de|airliners|iww\\.de|reisevor9|swp\\.de|dtj-online|znaki\\.fm|kleinanzeigen|airbnb|ris\\.bka",
+  "tour_domains": "tourradar|marco-polo-reisen|studienreisen|gebeco|ijo-reisen|trendtours|traveloptimizer|rundreisen\\.de|dimsumreisen|berge-meer|vivido|desired\\.de",
+  "path_rules": [
+   [
+    "info",
+    "warnung|sicherheit|einreise|reisehinweis|reisetipps|ratgeber|magazin|/blog|forum|/foren/|reisebericht|inspiration|/wetter|klima|reisezeit|/faq|visum|personalausweis|reisepass|/news|reise-glossar|/thema/"
+   ],
+   [
+    "lastminute",
+    "last-?minute|lastminute"
+   ],
+   [
+    "pauschal",
+    "pauschal"
+   ],
+   [
+    "allinclusive",
+    "all-?inclusive|allinclusive|all-inklusive"
+   ],
+   [
+    "rundreise",
+    "rundreise"
+   ],
+   [
+    "fruehbucher",
+    "fruehbucher|frühbucher|fruhbucher"
+   ],
+   [
+    "hub_listing",
+    "flug[-_ +]*(und|plus|\\+)?[-_ +]*hotel|/ort/|/orte/"
+   ],
+   [
+    "hotel",
+    "/(hotel|hotels|hi|ho|hrd|dh|beschreibung|hotelbewertung|hotelbewertungen|hotelangebote|unterkunft|resorts?)(/|$)|-\\d{5,}$|_hid-\\d+|hotel-resort|hotelslist|[-/]hotels?([-/]|$)"
+   ]
+  ],
+  "title_rules": [
+   [
+    "lastminute",
+    "^(super[ -])?last[ -]?minute"
+   ],
+   [
+    "pauschal",
+    "^pauschalreisen?"
+   ],
+   [
+    "allinclusive",
+    "^(?:{country_lc} )?all[ -]?inclusive"
+   ],
+   [
+    "rundreise",
+    "rundreis|studienreise|kombi-?reise|\\d+-tage-route"
+   ],
+   [
+    "hotel",
+    "^(?!.*(?:urlaub|pauschal|last.?minute|flug)).*\\b(hotel|hotels|resort|suites?|palace|beach club|residence|boutique)\\b"
+   ]
+  ],
+  "hub_roots": "urlaub|reisen|reiseziele|urlaubsziele|badereisen|reiseland|laender|europa|land|ferienreisen|strandurlaub|ferien"
+ },
+ "page_slugs": {
+  "lastminute": "last-minute",
+  "allinclusive": "all-inclusive",
+  "pauschal": "pauschalreise",
+  "rundreise": "rundreisen",
+  "info_hinweise": "reisehinweise",
+  "info_zeit": "reisezeit",
+  "info_ratgeber": "ratgeber"
+ },
+ "topic": {
+  "season_keys": [
+   "urlaub_season"
+  ],
+  "info_prefix": "info_"
+ },
+ "keyword_family": [
+  {
+   "family": "lastminute",
+   "match": "last ?minute"
+  },
+  {
+   "family": "pauschal",
+   "match": "pauschal"
+  },
+  {
+   "family": "allinclusive",
+   "match": "all[ -]?inclusive|all[ -]?inklusiv|alles inklusive"
+  },
+  {
+   "family": "hotel",
+   "startswith": "hotel"
+  },
+  {
+   "family": "rundreise",
+   "match": "rundreise"
+  }
+ ],
+ "tokens": {
+  "stop": [
+   "in",
+   "die",
+   "der",
+   "den",
+   "nach",
+   "und",
+   "im",
+   "am",
+   "mit",
+   "für",
+   "zu"
+  ],
+  "plural": {
+   "reisen": "reise",
+   "hotels": "hotel",
+   "pauschalreisen": "pauschalreise",
+   "günstige": "günstig",
+   "günstiger": "günstig",
+   "günstigen": "günstig",
+   "rundreisen": "rundreise"
+  },
+  "generic": [
+   "urlaub",
+   "reise",
+   "reisen",
+   "hotel",
+   "hotels",
+   "hotelbewertung",
+   "günstig",
+   "günstige",
+   "billig",
+   "all",
+   "inclusive",
+   "inklusive",
+   "2026",
+   "2027",
+   "2025",
+   "sterne",
+   "stern",
+   "mit",
+   "flug",
+   "und",
+   "in",
+   "der",
+   "die",
+   "den",
+   "für",
+   "am",
+   "strand",
+   "familie",
+   "familienurlaub",
+   "kinder",
+   "last",
+   "minute",
+   "pauschalreise",
+   "pauschalreisen",
+   "buchen",
+   "angebote",
+   "beach",
+   "kurzurlaub",
+   "wochen",
+   "woche",
+   "tage",
+   "deutsch",
+   "ab",
+   "nach",
+   "von",
+   "bei",
+   "zu",
+   "im",
+   "oder",
+   "bewertung",
+   "erfahrungen",
+   "luxus",
+   "spa",
+   "wellness",
+   "ultra",
+   "premium",
+   "5",
+   "4",
+   "3",
+   "7",
+   "14",
+   "ai",
+   "deluxe",
+   "resort",
+   "club"
+  ],
+  "info": [
+   "wetter",
+   "karte",
+   "klima",
+   "temperatur",
+   "flughafen",
+   "anreise",
+   "entfernung",
+   "webcam"
+  ],
+  "hotel_list": [
+   "hotels",
+   "hotel",
+   "sterne",
+   "besten",
+   "beste"
+  ],
+  "brand_noise": [
+   "hotel",
+   "hotels",
+   "resort",
+   "spa",
+   "beach",
+   "residence",
+   "palace"
+  ],
+  "region_seed_word": "urlaub"
+ },
+ "stop_brands": [
+  "tui",
+  "check24",
+  "holidaycheck",
+  "ab[ -]?in[ -]?den[ -]?urlaub",
+  "weg\\.de",
+  "lidl",
+  "aldi",
+  "sonnenklar",
+  "alltours",
+  "dertour",
+  "neckermann",
+  "schauinsland",
+  "anex",
+  "ltur",
+  "l'tur",
+  "fti",
+  "jahn",
+  "urlaubsguru",
+  "urlaubspiraten",
+  "expedia",
+  "booking",
+  "trivago",
+  "opodo",
+  "eurowings",
+  "easyjet",
+  "coral",
+  "öger|oeger",
+  "rewe",
+  "restplatz",
+  "berge ?(&|und)? ?meer",
+  "trendtours"
+ ],
+ "notes": {
+  "hub": "Хаб країни «{country}»: у ТОП домінують хаби країни.",
+  "info_hinweise": "Інформаційний інтент; низький пріоритет.",
+  "info_zeit": "Інформаційний гайд «Beste Reisezeit / у місяць…»: у ТОП для місяців переважають інформаційні сторінки, а не комерційні.",
+  "info_ratgeber": "Інформаційний гайд (Strand, Meer, Tipps): у ТОП переважають інформаційні сторінки.",
+  "rundreise": "Rundreise — інший продукт (тури з маршрутом).",
+  "pauschal": "Окремий тип сторінки конкурентів (pauschalreise).",
+  "hotels": "Хаб готелів."
+ },
+ "destinations": {
+  "tuerkei": {
+   "regions": {
+    "antalya": "(?<![a-z])(antalya|lara|kundu|belek)(?![a-z])",
+    "side": "(?<![a-z])(side|manavgat|colakli)(?![a-z])",
+    "alanya": "(?<![a-z])(alanya|avsallar|konakli|okurcalar|mahmutlar|incekum)(?![a-z])",
+    "kemer": "(?<![a-z])(kemer|tekirova|goynuk)(?![a-z])",
+    "bodrum": "(?<![a-z])(bodrum|turgutreis|gumbet)(?![a-z])",
+    "marmaris": "(?<![a-z])(marmaris|icmeler)(?![a-z])",
+    "fethiye": "(?<![a-z])(fethiye|oeluedeniz|oludeniz|calis)(?![a-z])",
+    "istanbul": "(?<![a-z])istanbul(?![a-z])",
+    "kappadokien": "kappadok|cappadoc",
+    "didim": "(?<![a-z])didim(?![a-z])",
+    "kusadasi": "(?<![a-z])kusadasi(?![a-z])",
+    "izmir": "(?<![a-z])izmir(?![a-z])",
+    "schwarzmeer": "schwarzmeer"
+   }
+  }
+ },
+ "scope": {
+  "_about": "Межі теми сторінки «країна + продукт-ядро (відпочинок/тур/пакетний тур) + модифікатори»: ядро / суміжне / сміття. Модифікатори (ціна, buchen, all inclusive, mit flug, рік, сезон, Kinder...) лишаються в ядрі. Суміжне = район/регіон або ІНШИЙ продукт.",
+  "products": {
+   "lastminute": {
+    "match": "last ?minute|lastminute|restplätze|restplatz|kurzfristig",
+    "name": "last minute (гарячі тури)",
+    "sells": true
+   },
+   "hotel": {
+    "match": "\\bhotels?\\b",
+    "exclude": "(flug|transfer)\\s*(und|\\+|&)?\\s*hotel|hotel\\s*(und|\\+|&)\\s*flug|mit flug und hotel|flug \\+ hotel",
+    "name": "готелі",
+    "sells": true
+   },
+   "rundreise": {
+    "match": "rundreise|studienreise|kombireise|rundfahrt|tagesausflug|ausflug|exkursion|mietwagenrundreise",
+    "name": "екскурсійні тури (Rundreise)",
+    "sells": true
+   },
+   "flug": {
+    "match": "flüge|flugtickets?|billigflug|flug (nach|in)|fliegen|flugzeit|flugdauer|flugpreise|flugvergleich",
+    "exclude": "mit flug|inkl\\.? flug|und flug",
+    "name": "авіаквитки",
+    "sells": false
+   },
+   "kreuzfahrt": {
+    "match": "kreuzfahrt|kreuzfahrten|schiffsreise",
+    "name": "круїзи",
+    "sells": false
+   },
+   "ferienhaus": {
+    "match": "ferienhaus|ferienwohnung|apartment|appartement|villa mieten",
+    "name": "оренда житла (Ferienhaus)",
+    "sells": false
+   },
+   "mietwagen": {
+    "match": "mietwagen|autovermietung|auto mieten",
+    "name": "оренда авто",
+    "sells": false
+   },
+   "staedtereise": {
+    "match": "städtereise|städtetrip|citytrip|city trip",
+    "name": "міські поїздки (Städtereise)",
+    "sells": true
+   }
+  },
+  "junk": {
+   "погода": "wetter|klima\\b|klimatabelle|temperatur|wassertemperatur|webcam|regenzeit",
+   "віза/в'їзд": "visum|\\bvisa\\b|einreise|personalausweis|reisepass|zollbestimmungen|impfung|impfpflicht",
+   "новини/безпека": "reisewarnung|\\bwarnung|nachricht|\\bnews\\b|erdbeben|streik|anschlag|corona|\\bsicher\\b|sicherheit|gefährlich|\\baktuell|krise|inflation",
+   "карта/довідка": "\\bkarte\\b|landkarte|wikipedia|sehenswürdigkeit|geschichte|einwohner|hauptstadt|währung|zeitverschiebung|vorwahl|flagge",
+   "не туризм": "\\bjobs?\\b|stellenangebote|auswandern|immobilien|einbürgerung|staatsangehörigkeit|rezept|übersetzer|übersetzung",
+   "форум/відгуки": "forum|reddit|erfahrungsbericht|erfahrungen"
+  }
+ },
+ "seed_templates": {
+  "_about": "{t} = тема (країна/напрямок мовою ринку). Групи пропонуються користувачу перед збором; підтверджений список іде в collect.py --seeds.",
+  "main": [
+   "{t} urlaub"
+  ],
+  "product_synonyms": [
+   "{t} reise",
+   "{t} reisen",
+   "{t} pauschalreise",
+   "{t} urlaub buchen",
+   "{t} urlaubsreise",
+   "{t} reiseangebote",
+   "{t} ferien"
+  ],
+  "word_order": [
+   "urlaub {t}",
+   "reise {t}",
+   "reisen {t}",
+   "pauschalreise {t}",
+   "{t} urlaub günstig"
+  ],
+  "adjacent_optional": [
+   "{t} last minute",
+   "{t} hotels",
+   "{t} rundreise",
+   "{t} all inclusive"
+  ]
+ },
+ "tz": {
+  "_about": "Розділ скіла tz-travel (етап 2: мета-теги + ТЗ для копірайтера). Усе, що залежить від ринку й мови: ліміти мета-тегів, дозволені символи, головні слова типів сторінок, теми інформаційних сторінок, регулярні вирази для розбору сторінок конкурентів, модель ембедінгів. Для іншого ринку скопіюйте розділ у profiles/<код>.json і перекладіть слова.",
+  "title_max": 60,
+  "description_max": 155,
+  "intro_max": 250,
+  "exact_limit": 8,
+  "exact_in_headings": 2,
+  "exact_in_faq": 1,
+  "description_symbols": {
+   "allowed": "✈✓☀",
+   "max_distinct": 2,
+   "max_each": 2
+  },
+  "symbol_names": {
+   "✓": "галочка",
+   "✔": "галочка",
+   "✈": "літачок",
+   "☀": "сонце",
+   "☼": "сонце"
+  },
+  "head_words": [
+   {
+    "family": "lastminute",
+    "match": "last[ -]?minute|lastminute",
+    "label": "Last-Minute"
+   },
+   {
+    "family": "pauschal",
+    "match": "pauschal(reise|urlaub)\\w*",
+    "label": "Pauschalreise"
+   },
+   {
+    "family": "allinclusive",
+    "match": "all[ -]?inclusive|all[ -]?inklusiv|alles inklusive",
+    "label": "All Inclusive"
+   },
+   {
+    "family": "rundreise",
+    "match": "rundreise\\w*",
+    "label": "Rundreise"
+   }
+  ],
+  "info_topics": [
+   {
+    "slug": "reisehinweise",
+    "match": "einreise|sicherheit|reisewarnung|reisehinweis|visum|personalausweis",
+    "label": "Reisehinweise"
+   },
+   {
+    "slug": "reisezeit",
+    "match": "reisezeit|klima|wetter",
+    "label": "Reisezeit"
+   },
+   {
+    "slug": "ratgeber",
+    "match": "ratgeber|reisetipps",
+    "label": "Ratgeber"
+   }
+  ],
+  "months": [
+   "Januar",
+   "Februar",
+   "März",
+   "April",
+   "Mai",
+   "Juni",
+   "Juli",
+   "August",
+   "September",
+   "Oktober",
+   "November",
+   "Dezember"
+  ],
+  "entities": {
+   "turkei": [
+    "Antalya",
+    "Side",
+    "Alanya",
+    "Belek",
+    "Kemer",
+    "Lara",
+    "Bodrum",
+    "Marmaris",
+    "Fethiye",
+    "Dalaman",
+    "Izmir",
+    "Kusadasi",
+    "Didim",
+    "Cesme",
+    "Istanbul",
+    "Kappadokien",
+    "Pamukkale",
+    "Ephesus",
+    "Ephesos",
+    "Ölüdeniz",
+    "Dalyan",
+    "Türkische Riviera",
+    "Türkische Ägäis",
+    "Lykische Küste",
+    "Schwarzmeer",
+    "Taurusgebirge",
+    "Mittelmeer",
+    "Ägäis",
+    "Bosporus",
+    "Hagia Sophia",
+    "Blaue Moschee",
+    "Aspendos",
+    "Perge",
+    "Troja",
+    "Konyaalti",
+    "Kleopatra Strand",
+    "Manavgat",
+    "Türkische Lira",
+    "Schwarzes Meer",
+    "Schwarzmeerküste"
+   ]
+  },
+  "region_block_entities": 24,
+  "patterns": {
+   "season": "reisezeit|klima|wetter|temperatur|saison|jahreszeit|wann .*(reise|urlaub)",
+   "faq": "\\bfaq\\b|häufig|fragen",
+   "cta": "buchen|angebot|jetzt|suchen|finden|anzeigen|entdecken|ansehen|vergleichen|sichern|zum hotel|zur reise|mehr erfahren",
+   "price": "(?:ab\\s*)?(?:\\d{1,3}(?:\\.\\d{3})+|\\d{2,5})(?:,\\d{1,2})?(?:,-)?\\s?(?:€|eur\\b)|(?:ab\\s*)?€\\s?(?:\\d{1,3}(?:\\.\\d{3})+|\\d{2,5})",
+   "review": "bewertung|weiterempfehlung|trustpilot|trusted shops|rezension|erfahrungsbericht|holidaycheck award",
+   "search_form": "reisezeitraum|abflughafen|reisedauer|reisende|wohin|hin- und rückreise|anreise|verpflegung|hotelkategorie",
+   "facets": "filter\\w*|sortier\\w*|sterne|hotelkategorie|verpflegung|preis bis|budget",
+   "consent": "cookie|consent|datenschutz-einstellungen|access denied|forbidden|just a moment|captcha",
+   "boilerplate": "cookie|consent|onetrust|usercentrics|newsletter|breadcrumb|navigation|navbar|nav-|-nav|menu|footer|header|modal|overlay|offcanvas|skip",
+   "question_ignore": "passwort|registriert|newsletter|online-buchung|unseren angeboten|verreisen sie"
+  },
+  "term_glue": [
+   "in",
+   "der",
+   "die",
+   "das",
+   "und",
+   "für",
+   "am",
+   "an",
+   "mit",
+   "im",
+   "zur",
+   "zum"
+  ],
+  "stoplist": "stoplist_de.txt",
+  "embed": {
+   "model": "jinaai/jina-embeddings-v2-base-de",
+   "fallback": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  },
+  "climate": {
+   "match": "temperatur|klima",
+   "sources": [
+    "climate-data.org",
+    "seatemperature.info"
+   ]
+  }
+ }
+}

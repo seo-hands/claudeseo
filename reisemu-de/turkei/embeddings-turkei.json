@@ -1,0 +1,5362 @@
+{
+ "page": "https://reisemu.de/tour/turkei",
+ "model": "jinaai/jina-embeddings-v2-base-de",
+ "model_info": {
+  "cache_dir": "E:/Work/claudeseo/models",
+  "fallback_used": false,
+  "downloaded": false,
+  "errors": [],
+  "model": "jinaai/jina-embeddings-v2-base-de"
+ },
+ "note": "Близькість рахує відкрита модель, а не Google: орієнтир поруч із частотністю й аналізом ТОП, а не замість них.",
+ "thresholds": {
+  "core": 0.8,
+  "mid": 0.65,
+  "term_min_competitors": 3,
+  "topic": 0.65,
+  "gap_min_competitors": 5,
+  "topic_text_share": 0.5
+ },
+ "references": [
+  "türkei urlaub",
+  "urlaub türkei buchen",
+  "türkei urlaub 2026",
+  "türkei urlaub 2026 all inclusive mit flug und hotel",
+  "türkei urlaub günstiger"
+ ],
+ "competitors_used": [
+  "https://www.schauinsland-reisen.de/urlaubsziele/tuerkei/tuerkische-riviera",
+  "https://www.neckermann-reisen.de/urlaub/tuerkei/",
+  "https://www.sonnenklar.tv/urlaub/tuerkei.html",
+  "https://www.anextour.de/urlaub/tuerkei/",
+  "https://www.aldi-reisen.de/badereisen/tuerkei",
+  "https://www.restplatzboerse.com/urlaub/tuerkei/",
+  "https://urlaub.check24.de/urlaub/land/tuerkei-co4",
+  "https://www.holidayplatz.de/urlaub/tuerkei",
+  "https://www.oeger.de/urlaub/tuerkei/",
+  "https://www.travelantis.de/ferienreisen-tuerkei.html",
+  "https://www.lidl-reisen.de/urlaub/tuerkei"
+ ],
+ "keywords": [
+  {
+   "keyword": "türkei urlaub",
+   "translation": "відпочинок у Туреччині",
+   "volume": 60500,
+   "sim_main": 1.0,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.808,
+    "türkei urlaub 2026": 0.764,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.673,
+    "türkei urlaub günstiger": 0.731
+   },
+   "closest_adjacent": "urlaub türkei buchen",
+   "sim_closest_adjacent": 0.808,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "urlaub türkei buchen",
+   "translation": "забронювати відпочинок у Туреччині",
+   "volume": 6600,
+   "sim_main": 0.808,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 1.0,
+    "türkei urlaub 2026": 0.697,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.705,
+    "türkei urlaub günstiger": 0.799
+   },
+   "closest_adjacent": "urlaub türkei buchen",
+   "sim_closest_adjacent": 1.0,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "türkei urlaub 2026",
+   "translation": "відпочинок у Туреччині 2026",
+   "volume": 5400,
+   "sim_main": 0.764,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.697,
+    "türkei urlaub 2026": 1.0,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.813,
+    "türkei urlaub günstiger": 0.67
+   },
+   "closest_adjacent": "türkei urlaub 2026",
+   "sim_closest_adjacent": 1.0,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "translation": "відпочинок у Туреччині 2026 «все включено», з перельотом і готелем",
+   "volume": 4400,
+   "sim_main": 0.673,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.705,
+    "türkei urlaub 2026": 0.813,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 1.0,
+    "türkei urlaub günstiger": 0.679
+   },
+   "closest_adjacent": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "sim_closest_adjacent": 1.0,
+   "tier": "H2/текст",
+   "head_word_of_other_page": "All Inclusive"
+  },
+  {
+   "keyword": "türkei urlaub günstiger",
+   "translation": "дешевший відпочинок у Туреччині",
+   "volume": 3600,
+   "sim_main": 0.731,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.799,
+    "türkei urlaub 2026": 0.67,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.679,
+    "türkei urlaub günstiger": 1.0
+   },
+   "closest_adjacent": "türkei urlaub günstiger",
+   "sim_closest_adjacent": 1.0,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "türkei reise",
+   "translation": "подорож до Туреччини",
+   "volume": 2400,
+   "sim_main": 0.862,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.737,
+    "türkei urlaub 2026": 0.653,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.6,
+    "türkei urlaub günstiger": 0.679
+   },
+   "closest_adjacent": "urlaub türkei buchen",
+   "sim_closest_adjacent": 0.737,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "türkei urlaub all inclusive günstig",
+   "translation": "недорогий відпочинок у Туреччині «все включено»",
+   "volume": 1600,
+   "sim_main": 0.679,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.7,
+    "türkei urlaub 2026": 0.593,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.817,
+    "türkei urlaub günstiger": 0.828
+   },
+   "closest_adjacent": "türkei urlaub günstiger",
+   "sim_closest_adjacent": 0.828,
+   "tier": "H2/текст",
+   "head_word_of_other_page": "All Inclusive"
+  },
+  {
+   "keyword": "türkei urlaub günstig all inclusive mit flug",
+   "translation": "недорогий відпочинок у Туреччині «все включено», з перельотом",
+   "volume": 1600,
+   "sim_main": 0.662,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.713,
+    "türkei urlaub 2026": 0.579,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.83,
+    "türkei urlaub günstiger": 0.814
+   },
+   "closest_adjacent": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "sim_closest_adjacent": 0.83,
+   "tier": "H2/текст",
+   "head_word_of_other_page": "All Inclusive"
+  },
+  {
+   "keyword": "urlaub türkei 2026 all inclusive",
+   "translation": "відпочинок у Туреччині 2026 «все включено»",
+   "volume": 1000,
+   "sim_main": 0.631,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.654,
+    "türkei urlaub 2026": 0.825,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.929,
+    "türkei urlaub günstiger": 0.626
+   },
+   "closest_adjacent": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "sim_closest_adjacent": 0.929,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": "All Inclusive"
+  },
+  {
+   "keyword": "türkei im oktober urlaub",
+   "translation": "відпочинок у Туреччині в жовтні",
+   "volume": 1000,
+   "sim_main": 0.803,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.635,
+    "türkei urlaub 2026": 0.648,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.563,
+    "türkei urlaub günstiger": 0.639
+   },
+   "closest_adjacent": "türkei urlaub 2026",
+   "sim_closest_adjacent": 0.648,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "türkei buchen",
+   "translation": "забронювати поїздку до Туреччини",
+   "volume": 590,
+   "sim_main": 0.78,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.89,
+    "türkei urlaub 2026": 0.653,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.676,
+    "türkei urlaub günstiger": 0.795
+   },
+   "closest_adjacent": "urlaub türkei buchen",
+   "sim_closest_adjacent": 0.89,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "türkei urlaub 2027",
+   "translation": "відпочинок у Туреччині 2027",
+   "volume": 590,
+   "sim_main": 0.784,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.703,
+    "türkei urlaub 2026": 0.948,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.768,
+    "türkei urlaub günstiger": 0.665
+   },
+   "closest_adjacent": "türkei urlaub 2026",
+   "sim_closest_adjacent": 0.948,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "türkei urlaub 2026 all inclusive mit flug und hotel side",
+   "translation": "відпочинок у Сіде 2026 «все включено», з перельотом і готелем",
+   "volume": 590,
+   "sim_main": 0.674,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.687,
+    "türkei urlaub 2026": 0.79,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.965,
+    "türkei urlaub günstiger": 0.687
+   },
+   "closest_adjacent": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "sim_closest_adjacent": 0.965,
+   "tier": "H2/текст",
+   "head_word_of_other_page": "All Inclusive"
+  },
+  {
+   "keyword": "türkei strandurlaub",
+   "translation": "пляжний відпочинок у Туреччині",
+   "volume": 480,
+   "sim_main": 0.783,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.713,
+    "türkei urlaub 2026": 0.63,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.558,
+    "türkei urlaub günstiger": 0.659
+   },
+   "closest_adjacent": "urlaub türkei buchen",
+   "sim_closest_adjacent": 0.713,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "türkei urlaub mit flug",
+   "translation": "відпочинок у Туреччині з перельотом",
+   "volume": 480,
+   "sim_main": 0.812,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.802,
+    "türkei urlaub 2026": 0.674,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.731,
+    "türkei urlaub günstiger": 0.785
+   },
+   "closest_adjacent": "urlaub türkei buchen",
+   "sim_closest_adjacent": 0.802,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "türkei urlaub buchen günstig",
+   "translation": "забронювати недорогий відпочинок у Туреччині",
+   "volume": 480,
+   "sim_main": 0.725,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.896,
+    "türkei urlaub 2026": 0.64,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.681,
+    "türkei urlaub günstiger": 0.926
+   },
+   "closest_adjacent": "türkei urlaub günstiger",
+   "sim_closest_adjacent": 0.926,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "reise türkei buchen",
+   "translation": "забронювати поїздку до Туреччини",
+   "volume": 480,
+   "sim_main": 0.736,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.95,
+    "türkei urlaub 2026": 0.635,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.668,
+    "türkei urlaub günstiger": 0.77
+   },
+   "closest_adjacent": "urlaub türkei buchen",
+   "sim_closest_adjacent": 0.95,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "türkei reise günstig",
+   "translation": "недорога подорож до Туреччини",
+   "volume": 390,
+   "sim_main": 0.703,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.774,
+    "türkei urlaub 2026": 0.592,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.636,
+    "türkei urlaub günstiger": 0.917
+   },
+   "closest_adjacent": "türkei urlaub günstiger",
+   "sim_closest_adjacent": 0.917,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "september türkei urlaub",
+   "translation": "відпочинок у Туреччині у вересні",
+   "volume": 390,
+   "sim_main": 0.787,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.642,
+    "türkei urlaub 2026": 0.664,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.559,
+    "türkei urlaub günstiger": 0.608
+   },
+   "closest_adjacent": "türkei urlaub 2026",
+   "sim_closest_adjacent": 0.664,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "kurzurlaub türkei",
+   "translation": "короткий відпочинок у Туреччині (на кілька днів)",
+   "volume": 320,
+   "sim_main": 0.878,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.799,
+    "türkei urlaub 2026": 0.701,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.67,
+    "türkei urlaub günstiger": 0.704
+   },
+   "closest_adjacent": "urlaub türkei buchen",
+   "sim_closest_adjacent": 0.799,
+   "tier": "ядро",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "mai urlaub türkei",
+   "translation": "відпочинок у Туреччині в травні",
+   "volume": 260,
+   "sim_main": 0.738,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.64,
+    "türkei urlaub 2026": 0.607,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.527,
+    "türkei urlaub günstiger": 0.563
+   },
+   "closest_adjacent": "urlaub türkei buchen",
+   "sim_closest_adjacent": 0.64,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "türkei reise billig",
+   "translation": "дешева поїздка до Туреччини",
+   "volume": 210,
+   "sim_main": 0.691,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.765,
+    "türkei urlaub 2026": 0.573,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.623,
+    "türkei urlaub günstiger": 0.884
+   },
+   "closest_adjacent": "türkei urlaub günstiger",
+   "sim_closest_adjacent": 0.884,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "günstig türkei",
+   "translation": "вигідні тури до Туреччини",
+   "volume": 210,
+   "sim_main": 0.588,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.663,
+    "türkei urlaub 2026": 0.52,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.531,
+    "türkei urlaub günstiger": 0.834
+   },
+   "closest_adjacent": "türkei urlaub günstiger",
+   "sim_closest_adjacent": 0.834,
+   "tier": "FAQ/довгий хвіст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "billig türkei urlaub",
+   "translation": "дешевий відпочинок у Туреччині",
+   "volume": 170,
+   "sim_main": 0.697,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.774,
+    "türkei urlaub 2026": 0.603,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.64,
+    "türkei urlaub günstiger": 0.908
+   },
+   "closest_adjacent": "türkei urlaub günstiger",
+   "sim_closest_adjacent": 0.908,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  },
+  {
+   "keyword": "schnäppchen türkei urlaub",
+   "translation": "відпочинок у Туреччині за акційною ціною",
+   "volume": 140,
+   "sim_main": 0.799,
+   "sim_adjacent": {
+    "urlaub türkei buchen": 0.787,
+    "türkei urlaub 2026": 0.682,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 0.672,
+    "türkei urlaub günstiger": 0.813
+   },
+   "closest_adjacent": "türkei urlaub günstiger",
+   "sim_closest_adjacent": 0.813,
+   "tier": "H2/текст",
+   "head_word_of_other_page": null
+  }
+ ],
+ "terms": [
+  {
+   "term": "Türkei",
+   "competitors": 11,
+   "of": 11,
+   "occurrences": 242,
+   "variants": [],
+   "sim_main": 0.681,
+   "sim_best": 0.681,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": true,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Alanya",
+   "competitors": 10,
+   "of": 11,
+   "occurrences": 49,
+   "variants": [],
+   "sim_main": 0.207,
+   "sim_best": 0.207,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Riviera",
+   "competitors": 10,
+   "of": 11,
+   "occurrences": 86,
+   "variants": [],
+   "sim_main": 0.192,
+   "sim_best": 0.192,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Türkischen Riviera",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 42,
+   "variants": [
+    "türkische riviera"
+   ],
+   "sim_main": 0.601,
+   "sim_best": 0.601,
+   "closest_ref": "türkei urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Hotels",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 45,
+   "variants": [
+    "hotel"
+   ],
+   "sim_main": 0.319,
+   "sim_best": 0.385,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Antalya",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 53,
+   "variants": [],
+   "sim_main": 0.356,
+   "sim_best": 0.356,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ägäis",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 47,
+   "variants": [],
+   "sim_main": 0.29,
+   "sim_best": 0.29,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Meer",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 29,
+   "variants": [],
+   "sim_main": 0.218,
+   "sim_best": 0.218,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Küste",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 17,
+   "variants": [
+    "küsten"
+   ],
+   "sim_main": 0.207,
+   "sim_best": 0.207,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kemer",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 30,
+   "variants": [],
+   "sim_main": 0.105,
+   "sim_best": 0.155,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Side",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 67,
+   "variants": [],
+   "sim_main": 0.093,
+   "sim_best": 0.093,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Bodrum",
+   "competitors": 9,
+   "of": 11,
+   "occurrences": 49,
+   "variants": [],
+   "sim_main": 0.075,
+   "sim_best": 0.075,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Türkei Urlaub",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 26,
+   "variants": [],
+   "sim_main": 0.945,
+   "sim_best": 0.945,
+   "closest_ref": "türkei urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": true,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kusadasi",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 23,
+   "variants": [],
+   "sim_main": 0.232,
+   "sim_best": 0.232,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Oktober",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 17,
+   "variants": [],
+   "sim_main": 0.206,
+   "sim_best": 0.206,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Strand",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 22,
+   "variants": [],
+   "sim_main": 0.191,
+   "sim_best": 0.191,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sonne",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 22,
+   "variants": [],
+   "sim_main": 0.159,
+   "sim_best": 0.159,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Marmaris",
+   "competitors": 8,
+   "of": 11,
+   "occurrences": 20,
+   "variants": [],
+   "sim_main": 0.083,
+   "sim_best": 0.101,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Istanbul",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 44,
+   "variants": [],
+   "sim_main": 0.498,
+   "sim_best": 0.498,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Buchten",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 16,
+   "variants": [],
+   "sim_main": 0.286,
+   "sim_best": 0.35,
+   "closest_ref": "urlaub türkei buchen",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Reisezeit",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 13,
+   "variants": [],
+   "sim_main": 0.332,
+   "sim_best": 0.332,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Mittelmeer",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 16,
+   "variants": [],
+   "sim_main": 0.27,
+   "sim_best": 0.27,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Strände",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 29,
+   "variants": [
+    "stränden"
+   ],
+   "sim_main": 0.255,
+   "sim_best": 0.255,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kultur",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 30,
+   "variants": [],
+   "sim_main": 0.253,
+   "sim_best": 0.253,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Belek",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 45,
+   "variants": [],
+   "sim_main": 0.171,
+   "sim_best": 0.171,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sandstränden",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 11,
+   "variants": [
+    "sandstrände"
+   ],
+   "sim_main": 0.159,
+   "sim_best": 0.159,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Fethiye",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 18,
+   "variants": [],
+   "sim_main": 0.142,
+   "sim_best": 0.142,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Familien",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 23,
+   "variants": [
+    "familie"
+   ],
+   "sim_main": 0.141,
+   "sim_best": 0.141,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kappadokien",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 29,
+   "variants": [],
+   "sim_main": 0.119,
+   "sim_best": 0.134,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Geschichte",
+   "competitors": 7,
+   "of": 11,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.104,
+   "sim_best": 0.104,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Badeurlaub",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 18,
+   "variants": [],
+   "sim_main": 0.484,
+   "sim_best": 0.484,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Reiseziele",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [
+    "reiseziel"
+   ],
+   "sim_main": 0.469,
+   "sim_best": 0.469,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Urlauber",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.468,
+   "sim_best": 0.468,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Europa",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.237,
+   "sim_best": 0.237,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Herbst",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.206,
+   "sim_best": 0.206,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Temperaturen",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 9,
+   "variants": [],
+   "sim_main": 0.177,
+   "sim_best": 0.177,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Pamukkale",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 13,
+   "variants": [],
+   "sim_main": 0.106,
+   "sim_best": 0.151,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Landschaften",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 13,
+   "variants": [
+    "landschaft"
+   ],
+   "sim_main": 0.109,
+   "sim_best": 0.109,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Natur",
+   "competitors": 6,
+   "of": 11,
+   "occurrences": 20,
+   "variants": [],
+   "sim_main": 0.083,
+   "sim_best": 0.083,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Türkischen Ägäis",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 9,
+   "variants": [
+    "türkische ägäis"
+   ],
+   "sim_main": 0.62,
+   "sim_best": 0.62,
+   "closest_ref": "türkei urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Urlaubsangebote",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [
+    "urlaubsangeboten"
+   ],
+   "sim_main": 0.575,
+   "sim_best": 0.581,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Strandurlaub",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.487,
+   "sim_best": 0.487,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Preisen",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [
+    "preise",
+    "preis"
+   ],
+   "sim_main": 0.196,
+   "sim_best": 0.336,
+   "closest_ref": "türkei urlaub günstiger",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sommer",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.3,
+   "sim_best": 0.3,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Last Minute",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.187,
+   "sim_best": 0.258,
+   "closest_ref": "türkei urlaub günstiger",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": "Last-Minute",
+   "other_page": "/tour/turkei/last-minute"
+  },
+  {
+   "term": "Sehenswürdigkeiten",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 16,
+   "variants": [],
+   "sim_main": 0.239,
+   "sim_best": 0.239,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Beach",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 15,
+   "variants": [],
+   "sim_main": 0.211,
+   "sim_best": 0.211,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "antiken Stätten",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.195,
+   "sim_best": 0.195,
+   "closest_ref": "türkei urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Restaurants",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.189,
+   "sim_best": 0.189,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "September",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.177,
+   "sim_best": 0.177,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Winter",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.17,
+   "sim_best": 0.17,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Nachtleben",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 12,
+   "variants": [],
+   "sim_main": 0.155,
+   "sim_best": 0.155,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Klima",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.136,
+   "sim_best": 0.136,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Lara",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 18,
+   "variants": [],
+   "sim_main": 0.103,
+   "sim_best": 0.103,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Südküste",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.071,
+   "sim_best": 0.071,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ruinen",
+   "competitors": 5,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.006,
+   "sim_best": 0.006,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Urlaubsorte",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.591,
+   "sim_best": 0.591,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Pauschalreise",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [
+    "pauschalreisen"
+   ],
+   "sim_main": 0.451,
+   "sim_best": 0.562,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": "Pauschalreise",
+   "other_page": "/tour/turkei/pauschalreise"
+  },
+  {
+   "term": "Ausflugsziele",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.492,
+   "sim_best": 0.492,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "All Inclusive",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 24,
+   "variants": [],
+   "sim_main": 0.156,
+   "sim_best": 0.408,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": "All Inclusive",
+   "other_page": "/tour/turkei/all-inclusive"
+  },
+  {
+   "term": "Resort",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 17,
+   "variants": [
+    "resorts"
+   ],
+   "sim_main": 0.36,
+   "sim_best": 0.36,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Hotel Spa",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.253,
+   "sim_best": 0.327,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Wellness",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.32,
+   "sim_best": 0.32,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Flug",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 12,
+   "variants": [],
+   "sim_main": 0.27,
+   "sim_best": 0.27,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Europa und Asien",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.266,
+   "sim_best": 0.266,
+   "closest_ref": "türkei urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Moscheen",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [
+    "moschee"
+   ],
+   "sim_main": 0.229,
+   "sim_best": 0.229,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Baden",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.219,
+   "sim_best": 0.219,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "direkt am Meer",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.194,
+   "sim_best": 0.215,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Wetter",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.186,
+   "sim_best": 0.186,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Frühling",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.184,
+   "sim_best": 0.184,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Städten",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.177,
+   "sim_best": 0.177,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "April",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.149,
+   "sim_best": 0.167,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Orient und Okzident",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.165,
+   "sim_best": 0.165,
+   "closest_ref": "türkei urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sonne Strand",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.143,
+   "sim_best": 0.159,
+   "closest_ref": "urlaub türkei buchen",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Taurusgebirge",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.156,
+   "sim_best": 0.156,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Antike",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.138,
+   "sim_best": 0.138,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Küche",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.127,
+   "sim_best": 0.127,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ölüdeniz",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.115,
+   "sim_best": 0.115,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Bosporus",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 11,
+   "variants": [],
+   "sim_main": 0.082,
+   "sim_best": 0.112,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Basar",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.09,
+   "sim_best": 0.09,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Altstadt",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.089,
+   "sim_best": 0.089,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ephesos",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 12,
+   "variants": [],
+   "sim_main": 0.013,
+   "sim_best": 0.081,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ephesus",
+   "competitors": 4,
+   "of": 11,
+   "occurrences": 8,
+   "variants": [],
+   "sim_main": 0.001,
+   "sim_best": 0.026,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Türkei reisen",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.841,
+   "sim_best": 0.841,
+   "closest_ref": "türkei urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": true,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Pauschalurlaub",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.545,
+   "sim_best": 0.602,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": "Pauschalreise",
+   "other_page": "/tour/turkei/pauschalreise"
+  },
+  {
+   "term": "Reiseangebote",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.494,
+   "sim_best": 0.553,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Aktuelle Urlaubsangebote",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.507,
+   "sim_best": 0.543,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Türkische Lira",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.532,
+   "sim_best": 0.532,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Urlaubsregionen",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.528,
+   "sim_best": 0.528,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Urlaubsangeboten für Sonnenhungrige",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.48,
+   "sim_best": 0.51,
+   "closest_ref": "türkei urlaub günstiger",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "türkische Küche",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.504,
+   "sim_best": 0.504,
+   "closest_ref": "türkei urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Familienurlaub",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.503,
+   "sim_best": 0.503,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Aktivurlauber",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.451,
+   "sim_best": 0.451,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "erstklassigen Hotels",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.185,
+   "sim_best": 0.388,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sightseeing",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.372,
+   "sim_best": 0.372,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Strandhotels",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.251,
+   "sim_best": 0.341,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Reisepass",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.33,
+   "sim_best": 0.33,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Bootstouren",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.326,
+   "sim_best": 0.326,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Visum",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.31,
+   "sim_best": 0.31,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Traumstränden",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.295,
+   "sim_best": 0.295,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Attraktionen",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.289,
+   "sim_best": 0.289,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Städtetrip",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.284,
+   "sim_best": 0.284,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Ägäisküste",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.265,
+   "sim_best": 0.265,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Flugzeit",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.17,
+   "sim_best": 0.255,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "traumhaften Stränden",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.228,
+   "sim_best": 0.253,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Anreise",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.227,
+   "sim_best": 0.246,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Erholung",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 10,
+   "variants": [],
+   "sim_main": 0.233,
+   "sim_best": 0.233,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Dalyan",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.207,
+   "sim_best": 0.229,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Entspannung",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.224,
+   "sim_best": 0.224,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Essen",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.221,
+   "sim_best": 0.221,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "August",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.217,
+   "sim_best": 0.217,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Badeorte",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.214,
+   "sim_best": 0.214,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Gastfreundschaft",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.208,
+   "sim_best": 0.208,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "entlang der Küste",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.191,
+   "sim_best": 0.191,
+   "closest_ref": "türkei urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Mittelmeerküste",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.185,
+   "sim_best": 0.185,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kemer Beldibi",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.101,
+   "sim_best": 0.184,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Theater",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.182,
+   "sim_best": 0.182,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Sommerhitze",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.176,
+   "sim_best": 0.176,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Lara Beach",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 6,
+   "variants": [],
+   "sim_main": 0.172,
+   "sim_best": 0.172,
+   "closest_ref": "türkei urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Manavgat",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.171,
+   "sim_best": 0.171,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Juni",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.138,
+   "sim_best": 0.168,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Golfplätze",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.15,
+   "sim_best": 0.163,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Thermalquellen",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.124,
+   "sim_best": 0.159,
+   "closest_ref": "urlaub türkei buchen",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Hagia Sophia",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.152,
+   "sim_best": 0.158,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Mai und Oktober",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.155,
+   "sim_best": 0.155,
+   "closest_ref": "türkei urlaub",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Golf",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.145,
+   "sim_best": 0.145,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Aquaparks",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.136,
+   "sim_best": 0.139,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Strände kristallklares",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.088,
+   "sim_best": 0.137,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Bergen",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.129,
+   "sim_best": 0.129,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Landesinneren",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 5,
+   "variants": [],
+   "sim_main": 0.118,
+   "sim_best": 0.128,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "langen Sandstränden",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.126,
+   "sim_best": 0.126,
+   "closest_ref": "türkei urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "flach abfallenden Sandstränden",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.049,
+   "sim_best": 0.118,
+   "closest_ref": "türkei urlaub günstiger",
+   "kind": "3-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Lykischen Küste",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.117,
+   "sim_best": 0.117,
+   "closest_ref": "türkei urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Metropole",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.114,
+   "sim_best": 0.114,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Aspendos",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.112,
+   "sim_best": 0.112,
+   "closest_ref": "türkei urlaub",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Burg",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.111,
+   "sim_best": 0.111,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Küstenabschnitt",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.104,
+   "sim_best": 0.111,
+   "closest_ref": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Dalaman",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 7,
+   "variants": [],
+   "sim_main": 0.077,
+   "sim_best": 0.096,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "сутність",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Apollon-Tempel",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.071,
+   "sim_best": 0.092,
+   "closest_ref": "türkei urlaub 2026",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Kindern",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.088,
+   "sim_best": 0.088,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Blaue Lagune",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 4,
+   "variants": [],
+   "sim_main": 0.087,
+   "sim_best": 0.087,
+   "closest_ref": "türkei urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Naturwunder",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.074,
+   "sim_best": 0.074,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "Gassen",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.073,
+   "sim_best": 0.073,
+   "closest_ref": "türkei urlaub",
+   "kind": "слово",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  },
+  {
+   "term": "antike Ruinen",
+   "competitors": 3,
+   "of": 11,
+   "occurrences": 3,
+   "variants": [],
+   "sim_main": 0.071,
+   "sim_best": 0.071,
+   "closest_ref": "türkei urlaub",
+   "kind": "2-грама",
+   "contains_page_keyword": false,
+   "head_word_of_other_page": null,
+   "other_page": null
+  }
+ ],
+ "subtopics": [
+  {
+   "subtopic": "Beliebte Ausflugsziele im Türkei Urlaub",
+   "competitors": 5,
+   "of": 11,
+   "hosts": [
+    "anextour.de",
+    "holidayplatz.de",
+    "lidl-reisen.de",
+    "oeger.de",
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "anextour.de: Beliebte Reiseziele für Ihren Pauschalurlaub in der Türkei",
+    "urlaub.check24.de: Unsere beliebtesten Urlaubsziele",
+    "anextour.de: Beliebte Ausflugsziele im Türkei Urlaub",
+    "oeger.de: Beliebte Reiseziele für Ihren Urlaub in der Türkei",
+    "holidayplatz.de: Beliebte Orte in Türkei",
+    "lidl-reisen.de: Die schönsten Reiseziele in der Türkei"
+   ],
+   "topic_words": [
+    "reiseziel"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.413,
+   "own_best_sim": 0.898,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": true,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "лише заголовок або блок посилань, тексту немає",
+   "gap": true
+  },
+  {
+   "subtopic": "Wann ist die beste Reisezeit für einen Türkei Urlaub?",
+   "competitors": 5,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de",
+    "lidl-reisen.de",
+    "neckermann-reisen.de",
+    "restplatzboerse.com",
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "neckermann-reisen.de: Wann ist die beste Reisezeit für einen Türkei Urlaub?",
+    "restplatzboerse.com: Wann ist die beste Reisezeit für einen Türkei Urlaub?",
+    "holidayplatz.de: Beste Reisezeit für Türkei Urlaub",
+    "lidl-reisen.de: Wann ist die beste Reisezeit für einen Urlaub in der Türkei?",
+    "urlaub.check24.de: Klima und beste Reisezeit für einen Türkei Urlaub"
+   ],
+   "topic_words": [
+    "reisezeit"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.274,
+   "own_best_sim": 0.485,
+   "own_best_heading": "Türkei Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": true
+  },
+  {
+   "subtopic": "Türkische Riviera",
+   "competitors": 4,
+   "of": 11,
+   "hosts": [
+    "anextour.de",
+    "lidl-reisen.de",
+    "neckermann-reisen.de",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Türkische Riviera: Urlaub zwischen Sonne, Strand und Kultur",
+    "neckermann-reisen.de: Urlaub an der türkischen Riviera",
+    "anextour.de: Türkische Riviera",
+    "schauinsland-reisen.de: FAQ – Entdecke die Türkische Riviera in deinem Urlaub: Türkeis beliebte Küste",
+    "schauinsland-reisen.de: Türkische Ägäis",
+    "anextour.de: Türkische Ägäis",
+    "neckermann-reisen.de: Urlaub an der türkischen Ägäis",
+    "lidl-reisen.de: Badeurlaub Türkei: Zwischen Türkischer Riviera und Türkischer Ägäis"
+   ],
+   "topic_words": [
+    "riviera",
+    "türkisch",
+    "ägäis"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.678,
+   "own_best_sim": 0.437,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Aktuelle Urlaubsangebote für die Türkei",
+   "competitors": 3,
+   "of": 11,
+   "hosts": [
+    "anextour.de",
+    "neckermann-reisen.de",
+    "oeger.de"
+   ],
+   "headings": [
+    "neckermann-reisen.de: Ganzjährig günstig Türkei Urlaub buchen!",
+    "neckermann-reisen.de: Aktuelle Urlaubsangebote für die Türkei",
+    "anextour.de: Aktuelle Urlaubsangebote für die Türkei",
+    "oeger.de: Aktuelle Urlaubsangebote in der Türkei - Zum Bestpreis"
+   ],
+   "topic_words": [
+    "aktuell",
+    "urlaubsangebot"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.488,
+   "own_best_sim": 0.663,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": true,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "лише заголовок або блок посилань, тексту немає",
+   "gap": false
+  },
+  {
+   "subtopic": "Familienhotels Türkei",
+   "competitors": 3,
+   "of": 11,
+   "hosts": [
+    "neckermann-reisen.de",
+    "restplatzboerse.com",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Familienurlaub in der Türkei",
+    "neckermann-reisen.de: Beliebte Strandhotels für Familien",
+    "restplatzboerse.com: Familienhotels Türkei"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.371,
+   "own_best_sim": 0.484,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "FAQ: Häufige Fragen zu Ihrem Türkei Urlaub",
+   "competitors": 3,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de",
+    "lidl-reisen.de",
+    "sonnenklar.tv"
+   ],
+   "headings": [
+    "sonnenklar.tv: FAQ: Häufige Fragen zu Ihrem Türkei Urlaub",
+    "holidayplatz.de: Häufige Fragen zum Türkei Urlaub",
+    "lidl-reisen.de: Türkei Urlaub: FAQ"
+   ],
+   "topic_words": [
+    "häufig"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.154,
+   "own_best_sim": 0.19,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die besten Hotels an der Türkischen Riviera",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Urlaub an der türkischen Riviera günstig buchen",
+    "schauinsland-reisen.de: Die besten Hotels an der Türkischen Riviera",
+    "schauinsland-reisen.de: Die beliebtesten Urlaubsorte an der Türkischen Riviera",
+    "holidayplatz.de: Bestbewertete All-Inclusive-Hotels an der Türkischen Riviera 2026/2027",
+    "holidayplatz.de: Drei gute Gründe für einen Türkei Urlaub an der Türkischen Riviera"
+   ],
+   "topic_words": [
+    "riviera",
+    "türkisch"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.633,
+   "own_best_sim": 0.573,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Badeurlaub in der Türkei",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "aldi-reisen.de",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Badeurlaub in der Türkei",
+    "aldi-reisen.de: Badeurlaub Türkei: Unsere Angebote",
+    "schauinsland-reisen.de: Wellnessurlaub in der Türkei"
+   ],
+   "topic_words": [
+    "badeurlaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.505,
+   "own_best_sim": 0.448,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Erwachsenenhotel Türkei – Adults Only All Inclusive 2026/2027",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de",
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Adults only Hotels",
+    "holidayplatz.de: Familienhotel Türkei – Familienurlaub All Inclusive 2026/2027",
+    "holidayplatz.de: Erwachsenenhotel Türkei – Adults Only All Inclusive 2026/2027"
+   ],
+   "topic_words": [
+    "adult",
+    "only"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.301,
+   "own_best_sim": 0.312,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Alanya oder Side?",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de",
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Side & Alanya",
+    "holidayplatz.de: Alanya oder Side?",
+    "holidayplatz.de: Antalya oder Side?"
+   ],
+   "topic_words": [
+    "alanya",
+    "side"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.208,
+   "own_best_sim": 0.245,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Klima & beste Reisezeit Türkische Riviera",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de",
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Wetter an der Türkischen Riviera",
+    "holidayplatz.de: Klima & beste Reisezeit Türkische Riviera"
+   ],
+   "topic_words": [
+    "riviera",
+    "türkisch"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.488,
+   "own_best_sim": 0.27,
+   "own_best_heading": "Türkei Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Aktivitäten und Urlaubsarten für deine Pauschalreise: Türkei erleben",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de",
+    "sonnenklar.tv"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Aktivitäten und Urlaubsarten für deine Pauschalreise: Türkei erleben",
+    "sonnenklar.tv: Urlaubs-Check: Vielfältige Reiseformen in der Türkei"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.516,
+   "own_best_sim": 0.551,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Kemer & Beldibi",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "neckermann-reisen.de",
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "neckermann-reisen.de: Beliebte Hotels in Kemer & Beldibi",
+    "urlaub.check24.de: Kemer & Beldibi"
+   ],
+   "topic_words": [
+    "beldibi",
+    "kemer"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.172,
+   "own_best_sim": 0.402,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Bodrum",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "anextour.de",
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "anextour.de: Bodrum",
+    "urlaub.check24.de: Bodrum"
+   ],
+   "topic_words": [
+    "bodrum"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.075,
+   "own_best_sim": 0.031,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Inspirationen für Ihren nächsten Urlaub aus unserem Reiseblog",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "aldi-reisen.de",
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "aldi-reisen.de: Hier findest du noch mehr Reise-Inspirationen",
+    "urlaub.check24.de: Inspirationen für Ihren nächsten Urlaub aus unserem Reiseblog"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.268,
+   "own_best_sim": 0.522,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Istanbul & Umgebung",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de",
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Istanbul & Umgebung",
+    "lidl-reisen.de: Istanbul: Ein Tag in der türkischen Welt-Metropole"
+   ],
+   "topic_words": [
+    "istanbul"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.519,
+   "own_best_sim": 0.27,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Türkei Urlaub 2026/2027 günstig buchen – Tipps & Angebote",
+   "competitors": 2,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de",
+    "oeger.de"
+   ],
+   "headings": [
+    "holidayplatz.de: Türkei Urlaub 2026/2027 günstig buchen – Tipps & Angebote",
+    "oeger.de: Die Türkei entdecken - Beim Spezialisten ganzjährig günstigen Urlaub 2026 buchen"
+   ],
+   "topic_words": [
+    "günstig"
+   ],
+   "topic_words_in_own_text": [
+    "günstig"
+   ],
+   "sim_main": 0.342,
+   "own_best_sim": 0.595,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  }
+ ],
+ "subtopic_singletons": [
+  {
+   "subtopic": "Alanya-Urlaub",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Antalya-Urlaub",
+    "schauinsland-reisen.de: Alanya-Urlaub"
+   ],
+   "topic_words": [
+    "alanya-urlaub",
+    "antalya-urlaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.641,
+   "own_best_sim": 0.415,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Was muss ich bei einem Türkei Urlaub beachten?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "neckermann-reisen.de"
+   ],
+   "headings": [
+    "neckermann-reisen.de: Wissenswertes für einen Urlaub in der Türkei – FAQ und Tipps",
+    "neckermann-reisen.de: Was muss ich bei einem Türkei Urlaub beachten?"
+   ],
+   "topic_words": [
+    "beacht",
+    "wissenswert"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.094,
+   "own_best_sim": 0.15,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Mit ANEX Tour in die Türkei fliegen!",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "anextour.de"
+   ],
+   "headings": [
+    "anextour.de: Günstige Reisen mit ANEX Tour buchen!",
+    "anextour.de: Mit ANEX Tour in die Türkei fliegen!"
+   ],
+   "topic_words": [
+    "flieg",
+    "günstig",
+    "reis",
+    "tour"
+   ],
+   "topic_words_in_own_text": [
+    "günstig",
+    "reis",
+    "tour"
+   ],
+   "sim_main": 0.366,
+   "own_best_sim": 0.442,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Beliebte Unterkünfte",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Türkei – Die 10 beliebtesten Unterkünfte",
+    "urlaub.check24.de: Beliebte Unterkünfte"
+   ],
+   "topic_words": [
+    "unterkünft"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.266,
+   "own_best_sim": 0.744,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": true,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "лише заголовок або блок посилань, тексту немає",
+   "gap": false
+  },
+  {
+   "subtopic": "Blue Mudanya Hotel",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Blue Mudanya Hotel",
+    "urlaub.check24.de: Tui Blue Hotels Türkei"
+   ],
+   "topic_words": [
+    "blue",
+    "hotel",
+    "mudanya"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.266,
+   "own_best_sim": 0.276,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Hier geht es direkt zu dem Abschnitt, der dich interessiert",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Hier geht es direkt zu dem Abschnitt, der dich interessiert"
+   ],
+   "topic_words": [
+    "abschnitt",
+    "direkt",
+    "interessiert"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.058,
+   "own_best_sim": 0.257,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Belek-Urlaub",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Belek-Urlaub"
+   ],
+   "topic_words": [
+    "belek-urlaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.529,
+   "own_best_sim": 0.408,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Side-Urlaub",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Side-Urlaub"
+   ],
+   "topic_words": [
+    "side-urlaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.452,
+   "own_best_sim": 0.409,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Kemer-Urlaub",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Kemer-Urlaub"
+   ],
+   "topic_words": [
+    "kemer-urlaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.49,
+   "own_best_sim": 0.433,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Sehenswürdigkeiten in der Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Sehenswürdigkeiten in der Türkei"
+   ],
+   "topic_words": [
+    "sehenswürdigkeit"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.166,
+   "own_best_sim": 0.595,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Langzeiturlaub in der Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Langzeiturlaub in der Türkei"
+   ],
+   "topic_words": [
+    "langzeiturlaub"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.525,
+   "own_best_sim": 0.554,
+   "own_best_heading": "Türkei Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Einkaufen in der Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Einkaufen in der Türkei"
+   ],
+   "topic_words": [
+    "einkauf"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.163,
+   "own_best_sim": 0.339,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die türkische Küche",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Die türkische Küche"
+   ],
+   "topic_words": [
+    "küche",
+    "türkisch"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.504,
+   "own_best_sim": 0.137,
+   "own_best_heading": "Unsere Favoriten in der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die Vielfalt der Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Die Vielfalt der Türkei"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.075,
+   "own_best_sim": 0.154,
+   "own_best_heading": "Unsere Favoriten in der Türkei",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Rundum sorglos dank Pauschalreisen: Türkei-Urlaub günstig buchen",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "schauinsland-reisen.de"
+   ],
+   "headings": [
+    "schauinsland-reisen.de: Rundum sorglos dank Pauschalreisen: Türkei-Urlaub günstig buchen"
+   ],
+   "topic_words": [
+    "günstig",
+    "pauschalreis",
+    "rundum",
+    "sorglo",
+    "türkei-urlaub"
+   ],
+   "topic_words_in_own_text": [
+    "günstig"
+   ],
+   "sim_main": 0.645,
+   "own_best_sim": 0.392,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wie ist das Wetter in der Türkei?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "neckermann-reisen.de"
+   ],
+   "headings": [
+    "neckermann-reisen.de: Wie ist das Wetter in der Türkei?"
+   ],
+   "topic_words": [
+    "wett"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.117,
+   "own_best_sim": 0.146,
+   "own_best_heading": "Unsere Favoriten in der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Welche Währung hat die Türkei?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "neckermann-reisen.de"
+   ],
+   "headings": [
+    "neckermann-reisen.de: Welche Währung hat die Türkei?"
+   ],
+   "topic_words": [
+    "währung"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.078,
+   "own_best_sim": 0.16,
+   "own_best_heading": "Unsere Favoriten in der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "5 gute Gründe für einen Türkei Urlaub",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "sonnenklar.tv"
+   ],
+   "headings": [
+    "sonnenklar.tv: 5 gute Gründe für einen Türkei Urlaub"
+   ],
+   "topic_words": [
+    "gute"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.028,
+   "own_best_sim": 0.154,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Urlaub in der Türkei: Ein Land für mehr als eine Reise",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "sonnenklar.tv"
+   ],
+   "headings": [
+    "sonnenklar.tv: Urlaub in der Türkei: Ein Land für mehr als eine Reise"
+   ],
+   "topic_words": [
+    "reise"
+   ],
+   "topic_words_in_own_text": [
+    "reise"
+   ],
+   "sim_main": 0.398,
+   "own_best_sim": 0.522,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Bewertung für sonnenklar.TV – EUVIA Travel GmbH",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "sonnenklar.tv"
+   ],
+   "headings": [
+    "sonnenklar.tv: Bewertung für sonnenklar.TV – EUVIA Travel GmbH"
+   ],
+   "topic_words": [
+    "bewertung",
+    "euvia",
+    "travel"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.253,
+   "own_best_sim": 0.242,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Für die Türkei Reise zu zweit",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "anextour.de"
+   ],
+   "headings": [
+    "anextour.de: Für die Türkei Reise zu zweit"
+   ],
+   "topic_words": [
+    "reise",
+    "zweit"
+   ],
+   "topic_words_in_own_text": [
+    "reise"
+   ],
+   "sim_main": 0.349,
+   "own_best_sim": 0.413,
+   "own_best_heading": "Türkei Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Entspannte Auszeit am Mittelmeer",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "aldi-reisen.de"
+   ],
+   "headings": [
+    "aldi-reisen.de: Entspannte Auszeit am Mittelmeer"
+   ],
+   "topic_words": [
+    "entspannt",
+    "mittelme"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.479,
+   "own_best_sim": 0.446,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Hast du Fragen zu unseren Angeboten?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "aldi-reisen.de"
+   ],
+   "headings": [
+    "aldi-reisen.de: Hast du Fragen zu unseren Angeboten?"
+   ],
+   "topic_words": [
+    "hast"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.159,
+   "own_best_sim": 0.327,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Süral Resort",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Süral Resort"
+   ],
+   "topic_words": [
+    "resort",
+    "süral"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.361,
+   "own_best_sim": 0.328,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Grand Park Lara",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Grand Park Lara"
+   ],
+   "topic_words": [
+    "grand",
+    "lara",
+    "park"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.164,
+   "own_best_sim": 0.181,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Yalihan Una",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Yalihan Una"
+   ],
+   "topic_words": [
+    "yaliha"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.136,
+   "own_best_sim": 0.07,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Limak Lara Deluxe Hotel & Resort",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Limak Lara Deluxe Hotel & Resort"
+   ],
+   "topic_words": [
+    "delux",
+    "hotel",
+    "lara",
+    "limak",
+    "resort"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.307,
+   "own_best_sim": 0.185,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Alle Angebote für die Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Alle Angebote für die Türkei"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.245,
+   "own_best_sim": 0.557,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "All Inclusive Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: All Inclusive Türkei"
+   ],
+   "topic_words": [
+    "inclusiv"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.156,
+   "own_best_sim": 0.255,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Luxushotels Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Luxushotels Türkei"
+   ],
+   "topic_words": [
+    "luxushotel"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.253,
+   "own_best_sim": 0.37,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Strandhotels Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Strandhotels Türkei"
+   ],
+   "topic_words": [
+    "strandhotel"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.251,
+   "own_best_sim": 0.286,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Last Minute Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Last Minute Türkei"
+   ],
+   "topic_words": [
+    "last",
+    "minut"
+   ],
+   "topic_words_in_own_text": [
+    "last",
+    "minut"
+   ],
+   "sim_main": 0.187,
+   "own_best_sim": 0.805,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": true,
+   "own_text_match": true,
+   "on_own_page": true,
+   "own_status": "так",
+   "gap": false
+  },
+  {
+   "subtopic": "120 € Gutschein",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: 120 € Gutschein"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.175,
+   "own_best_sim": 0.422,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Türkei Urlaub: Vielfalt erleben von der Riviera bis zur Ägäis",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Türkei Urlaub: Vielfalt erleben von der Riviera bis zur Ägäis"
+   ],
+   "topic_words": [
+    "riviera",
+    "ägäis"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.335,
+   "own_best_sim": 0.474,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Baden im Paradies: Die Blaue Lagune von Ölüdeniz",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Baden im Paradies: Die Blaue Lagune von Ölüdeniz"
+   ],
+   "topic_words": [
+    "baden",
+    "blaue",
+    "lagun",
+    "ölüdeniz"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.238,
+   "own_best_sim": 0.188,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Welche Verpflegung ist in der Türkei am besten?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Welche Verpflegung ist in der Türkei am besten?"
+   ],
+   "topic_words": [
+    "verpflegung"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.201,
+   "own_best_sim": 0.383,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Welche Region in der Türkei eignet sich am besten für Familien?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Welche Region in der Türkei eignet sich am besten für Familien?"
+   ],
+   "topic_words": [
+    "eignet",
+    "famili"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.207,
+   "own_best_sim": 0.48,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Warum sollte ich eine Pauschalreise bei der Restplatzbörse buchen?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "restplatzboerse.com"
+   ],
+   "headings": [
+    "restplatzboerse.com: Warum sollte ich eine Pauschalreise bei der Restplatzbörse buchen?"
+   ],
+   "topic_words": [
+    "pauschalreis",
+    "restplatzbörs"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.268,
+   "own_best_sim": 0.49,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Green Hills Suites",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Green Hills Suites"
+   ],
+   "topic_words": [
+    "green",
+    "hills",
+    "suit"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.227,
+   "own_best_sim": 0.283,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Sofia Corner Hotel",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Sofia Corner Hotel"
+   ],
+   "topic_words": [
+    "corn",
+    "hotel",
+    "sofia"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.138,
+   "own_best_sim": 0.242,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Armel Alacati",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Armel Alacati"
+   ],
+   "topic_words": [
+    "alacati",
+    "armel"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.039,
+   "own_best_sim": 0.059,
+   "own_best_heading": "Unsere Favoriten in der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Yilsam Sultanahmet Hotel",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Yilsam Sultanahmet Hotel"
+   ],
+   "topic_words": [
+    "hotel",
+    "sultanahmet",
+    "yilsam"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.325,
+   "own_best_sim": 0.196,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Holiday Inn Trabzon-East",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Holiday Inn Trabzon-East"
+   ],
+   "topic_words": [
+    "holiday",
+    "trabzon-east"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.473,
+   "own_best_sim": 0.272,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Cappadocia Inn Hotel",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Cappadocia Inn Hotel"
+   ],
+   "topic_words": [
+    "cappadocia",
+    "hotel"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.128,
+   "own_best_sim": 0.164,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Emre & Emre Beach",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Emre & Emre Beach"
+   ],
+   "topic_words": [
+    "beach",
+    "emre"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.163,
+   "own_best_sim": 0.319,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Novum Garden Side",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Novum Garden Side"
+   ],
+   "topic_words": [
+    "gard",
+    "novum",
+    "side"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.039,
+   "own_best_sim": 0.236,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "TUI BLUE Seno",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: TUI BLUE Seno"
+   ],
+   "topic_words": [
+    "blue",
+    "seno"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.188,
+   "own_best_sim": 0.177,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Delphin Diva",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Delphin Diva"
+   ],
+   "topic_words": [
+    "delphi",
+    "diva"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": -0.006,
+   "own_best_sim": 0.06,
+   "own_best_heading": "Unsere Favoriten in der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Lova Hotel Spa",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Lova Hotel Spa"
+   ],
+   "topic_words": [
+    "hotel",
+    "lova"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.22,
+   "own_best_sim": 0.174,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Fesa Business Hotel",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Fesa Business Hotel"
+   ],
+   "topic_words": [
+    "busines",
+    "fesa",
+    "hotel"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.162,
+   "own_best_sim": 0.266,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Mirart Hotel Boutique And Spa",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Mirart Hotel Boutique And Spa"
+   ],
+   "topic_words": [
+    "boutiqu",
+    "hotel",
+    "mirart"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.223,
+   "own_best_sim": 0.207,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Grand Koru Otel Beach",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Grand Koru Otel Beach"
+   ],
+   "topic_words": [
+    "beach",
+    "grand",
+    "koru",
+    "otel"
+   ],
+   "topic_words_in_own_text": [
+    "otel"
+   ],
+   "sim_main": 0.163,
+   "own_best_sim": 0.184,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Paradise Island Bayramoglu",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Paradise Island Bayramoglu"
+   ],
+   "topic_words": [
+    "bayramoglu",
+    "island",
+    "paradis"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.346,
+   "own_best_sim": 0.312,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Hilton Garden Inn Yalova",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Hilton Garden Inn Yalova"
+   ],
+   "topic_words": [
+    "gard",
+    "hilto",
+    "yalova"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.222,
+   "own_best_sim": 0.2,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Wellborn Luxury Hotel",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Wellborn Luxury Hotel"
+   ],
+   "topic_words": [
+    "hotel",
+    "luxury",
+    "wellbor"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.119,
+   "own_best_sim": 0.268,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Maca Otel",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Maca Otel"
+   ],
+   "topic_words": [
+    "maca",
+    "otel"
+   ],
+   "topic_words_in_own_text": [
+    "otel"
+   ],
+   "sim_main": 0.043,
+   "own_best_sim": 0.09,
+   "own_best_heading": "Unsere Favoriten in der Türkei",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Unsere Türkei Urlaubstipps",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Unsere Türkei Urlaubstipps"
+   ],
+   "topic_words": [
+    "urlaubstipp"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.513,
+   "own_best_sim": 0.548,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Weitere Reiseprodukte",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Weitere Reiseprodukte"
+   ],
+   "topic_words": [
+    "reiseprodukt"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.349,
+   "own_best_sim": 0.468,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Türkei Inland",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Türkei Inland"
+   ],
+   "topic_words": [
+    "inland"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.176,
+   "own_best_sim": 0.317,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Dalyan - Dalaman - Fethiye - Ölüdeniz - Kas",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Dalyan - Dalaman - Fethiye - Ölüdeniz - Kas"
+   ],
+   "topic_words": [
+    "dalama",
+    "dalya",
+    "fethiy",
+    "ölüdeniz"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.195,
+   "own_best_sim": 0.312,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Sentido Hotels in der Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Sentido Hotels in der Türkei"
+   ],
+   "topic_words": [
+    "hotel",
+    "sentido"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.204,
+   "own_best_sim": 0.315,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Robinson Hotels in der Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Robinson Hotels in der Türkei"
+   ],
+   "topic_words": [
+    "hotel",
+    "robinso"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.109,
+   "own_best_sim": 0.289,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Kirman Premium Hotels in der Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Kirman Premium Hotels in der Türkei"
+   ],
+   "topic_words": [
+    "hotel",
+    "kirma",
+    "premium"
+   ],
+   "topic_words_in_own_text": [
+    "hotel"
+   ],
+   "sim_main": 0.218,
+   "own_best_sim": 0.299,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "CHECK24 Reise ist Testsieger",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: CHECK24 Reise ist Testsieger"
+   ],
+   "topic_words": [
+    "check",
+    "reise"
+   ],
+   "topic_words_in_own_text": [
+    "reise"
+   ],
+   "sim_main": 0.288,
+   "own_best_sim": 0.379,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Entdecken Sie umliegende Reiseziele",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Entdecken Sie umliegende Reiseziele"
+   ],
+   "topic_words": [
+    "reiseziel",
+    "umliegend"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.335,
+   "own_best_sim": 0.782,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": true,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "лише заголовок або блок посилань, тексту немає",
+   "gap": false
+  },
+  {
+   "subtopic": "Kusadasi & Didyma",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Kusadasi & Didyma"
+   ],
+   "topic_words": [
+    "didyma",
+    "kusadasi"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.207,
+   "own_best_sim": 0.177,
+   "own_best_heading": "Unsere Favoriten in der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Marmaris & Icmeler & Datca",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Marmaris & Icmeler & Datca"
+   ],
+   "topic_words": [
+    "datca",
+    "icmel",
+    "marmari"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.127,
+   "own_best_sim": 0.213,
+   "own_best_heading": "Unsere Favoriten in der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Schwarzmeerküste Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Schwarzmeerküste Türkei"
+   ],
+   "topic_words": [
+    "schwarzmeerküst"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.152,
+   "own_best_sim": 0.21,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Mersin - Adana - Antakya",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Mersin - Adana - Antakya"
+   ],
+   "topic_words": [
+    "adana",
+    "antakya",
+    "mersi"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.15,
+   "own_best_sim": 0.241,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ost-Thrakien & Marmarameer",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Ost-Thrakien & Marmarameer"
+   ],
+   "topic_words": [
+    "marmarame",
+    "ost-thraki"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.249,
+   "own_best_sim": 0.249,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Alle Top Reiseveranstalter im Vergleich",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Alle Top Reiseveranstalter im Vergleich"
+   ],
+   "topic_words": [
+    "reiseveranstalt"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.299,
+   "own_best_sim": 0.462,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ihre Vorteile bei CHECK24",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Ihre Vorteile bei CHECK24"
+   ],
+   "topic_words": [
+    "check",
+    "vorteil"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.138,
+   "own_best_sim": 0.245,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Kostenlose Stornierung",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Kostenlose Stornierung"
+   ],
+   "topic_words": [
+    "kostenlos",
+    "stornierung"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.152,
+   "own_best_sim": 0.438,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Nirgendwo Günstiger Garantie",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Nirgendwo Günstiger Garantie"
+   ],
+   "topic_words": [
+    "garanti",
+    "günstig",
+    "nirgendwo"
+   ],
+   "topic_words_in_own_text": [
+    "günstig"
+   ],
+   "sim_main": 0.067,
+   "own_best_sim": 0.389,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Rund um die Uhr für Sie da",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "urlaub.check24.de"
+   ],
+   "headings": [
+    "urlaub.check24.de: Rund um die Uhr für Sie da"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.093,
+   "own_best_sim": 0.267,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Für wen eignet sich Türkei Urlaub – und wann?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de"
+   ],
+   "headings": [
+    "holidayplatz.de: Für wen eignet sich Türkei Urlaub – und wann?"
+   ],
+   "topic_words": [
+    "eignet"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.229,
+   "own_best_sim": 0.24,
+   "own_best_heading": "Türkei Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Für wen ist die Türkei das richtige Reiseziel?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de"
+   ],
+   "headings": [
+    "holidayplatz.de: Für wen ist die Türkei das richtige Reiseziel?"
+   ],
+   "topic_words": [
+    "reiseziel",
+    "richtig"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.429,
+   "own_best_sim": 0.633,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die wichtigsten Türkei-Regionen im Überblick",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de"
+   ],
+   "headings": [
+    "holidayplatz.de: Die wichtigsten Türkei-Regionen im Überblick"
+   ],
+   "topic_words": [
+    "türkei-region",
+    "wichtigst",
+    "überblick"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.452,
+   "own_best_sim": 0.274,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "1. Traumhafte Strände & kristallklares Wasser 🏖️",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de"
+   ],
+   "headings": [
+    "holidayplatz.de: 1. Traumhafte Strände & kristallklares Wasser 🏖️"
+   ],
+   "topic_words": [
+    "kristallklar",
+    "stränd",
+    "traumhaft"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.174,
+   "own_best_sim": 0.286,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "2. Luxuriöse All-Inclusive-Resorts zum Top-Preis 🏨🍹",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de"
+   ],
+   "headings": [
+    "holidayplatz.de: 2. Luxuriöse All-Inclusive-Resorts zum Top-Preis 🏨🍹"
+   ],
+   "topic_words": [
+    "all-inclusive-resort",
+    "luxuriös",
+    "top-prei"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.32,
+   "own_best_sim": 0.475,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "3. Faszinierende Kultur & unvergessliche Ausflüge 🏛️🚤",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de"
+   ],
+   "headings": [
+    "holidayplatz.de: 3. Faszinierende Kultur & unvergessliche Ausflüge 🏛️🚤"
+   ],
+   "topic_words": [
+    "ausflüg",
+    "faszinierend",
+    "kultur",
+    "unvergesslich"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.336,
+   "own_best_sim": 0.571,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Türkei Urlaubsorte im Vergleich – welche Region passt zu Ihnen?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de"
+   ],
+   "headings": [
+    "holidayplatz.de: Türkei Urlaubsorte im Vergleich – welche Region passt zu Ihnen?"
+   ],
+   "topic_words": [
+    "passt",
+    "urlaubsort"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.418,
+   "own_best_sim": 0.562,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Side oder Belek?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de"
+   ],
+   "headings": [
+    "holidayplatz.de: Side oder Belek?"
+   ],
+   "topic_words": [
+    "belek",
+    "side"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.13,
+   "own_best_sim": 0.145,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Ist die Türkei sicher? Das sollten Urlauber wissen",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de"
+   ],
+   "headings": [
+    "holidayplatz.de: Ist die Türkei sicher? Das sollten Urlauber wissen"
+   ],
+   "topic_words": [
+    "sich",
+    "urlaub",
+    "wiss"
+   ],
+   "topic_words_in_own_text": [
+    "urlaub"
+   ],
+   "sim_main": 0.342,
+   "own_best_sim": 0.311,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Türkei ab Ihrem Flughafen ✈️",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "holidayplatz.de"
+   ],
+   "headings": [
+    "holidayplatz.de: Türkei ab Ihrem Flughafen ✈️"
+   ],
+   "topic_words": [
+    "flughaf"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.2,
+   "own_best_sim": 0.355,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Angebot der Woche",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "oeger.de"
+   ],
+   "headings": [
+    "oeger.de: Angebot der Woche"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.282,
+   "own_best_sim": 0.61,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Riesige Auswahl an Urlaubsangeboten für Sonnenhungrige",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "oeger.de"
+   ],
+   "headings": [
+    "oeger.de: Riesige Auswahl an Urlaubsangeboten für Sonnenhungrige"
+   ],
+   "topic_words": [
+    "sonnenhungrig",
+    "urlaubsangebot"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.424,
+   "own_best_sim": 0.433,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Günstige Angebote für die ganze Familie",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "oeger.de"
+   ],
+   "headings": [
+    "oeger.de: Günstige Angebote für die ganze Familie"
+   ],
+   "topic_words": [
+    "famili",
+    "ganze",
+    "günstig"
+   ],
+   "topic_words_in_own_text": [
+    "günstig"
+   ],
+   "sim_main": 0.252,
+   "own_best_sim": 0.584,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Unser Dankeschön",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "travelantis.de"
+   ],
+   "headings": [
+    "travelantis.de: Unser Dankeschön"
+   ],
+   "topic_words": [
+    "dankeschö"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.113,
+   "own_best_sim": 0.335,
+   "own_best_heading": "Unsere Favoriten in der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Türkei Urlaub: Ein bezauberndes Land voller Kontraste",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Türkei Urlaub: Ein bezauberndes Land voller Kontraste"
+   ],
+   "topic_words": [
+    "bezaubernd",
+    "kontrast",
+    "voll"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.146,
+   "own_best_sim": 0.352,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Die Türkei in allen Facetten",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Die Türkei in allen Facetten"
+   ],
+   "topic_words": [
+    "facett"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.097,
+   "own_best_sim": 0.266,
+   "own_best_heading": "Unsere Favoriten in der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Buchen Sie Ihren Urlaub in der Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Buchen Sie Ihren Urlaub in der Türkei"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.169,
+   "own_best_sim": 0.41,
+   "own_best_heading": "Last-Minute-Angebote",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Urlaub in der Türkei: Entdecken Sie das wunderschöne Kappadokien",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Urlaub in der Türkei: Entdecken Sie das wunderschöne Kappadokien"
+   ],
+   "topic_words": [
+    "kappadoki",
+    "wunderschön"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.245,
+   "own_best_sim": 0.415,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Mit Lidl Reisen zu den schönsten Urlaubszielen der Türkei",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Mit Lidl Reisen zu den schönsten Urlaubszielen der Türkei"
+   ],
+   "topic_words": [
+    "reis",
+    "urlaubsziel"
+   ],
+   "topic_words_in_own_text": [
+    "reis"
+   ],
+   "sim_main": 0.495,
+   "own_best_sim": 0.58,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": true,
+   "on_own_page": false,
+   "own_status": "є в тексті без заголовка",
+   "gap": false
+  },
+  {
+   "subtopic": "Welche Region der Türkei ist am schönsten?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Welche Region der Türkei ist am schönsten?"
+   ],
+   "topic_words": [],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.165,
+   "own_best_sim": 0.507,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": null,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Was muss man in der Türkei gesehen haben?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Was muss man in der Türkei gesehen haben?"
+   ],
+   "topic_words": [
+    "geseh"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.146,
+   "own_best_sim": 0.271,
+   "own_best_heading": "Beliebte Reiseziele",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Welche Einreisebestimmungen gelten für die Türkei?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Welche Einreisebestimmungen gelten für die Türkei?"
+   ],
+   "topic_words": [
+    "einreisebestimmung",
+    "gelt"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.259,
+   "own_best_sim": 0.327,
+   "own_best_heading": "Türkei Reisen nach Monaten",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  },
+  {
+   "subtopic": "Welche Flughäfen gibt es in der Türkei?",
+   "competitors": 1,
+   "of": 11,
+   "hosts": [
+    "lidl-reisen.de"
+   ],
+   "headings": [
+    "lidl-reisen.de: Welche Flughäfen gibt es in der Türkei?"
+   ],
+   "topic_words": [
+    "flughäf"
+   ],
+   "topic_words_in_own_text": [],
+   "sim_main": 0.155,
+   "own_best_sim": 0.405,
+   "own_best_heading": "Reiseziele der Türkei",
+   "own_heading_match": false,
+   "own_text_match": false,
+   "on_own_page": false,
+   "own_status": "ні",
+   "gap": false
+  }
+ ],
+ "headings_total": 160,
+ "own_headings": [
+  "Last-Minute-Angebote",
+  "Unsere Favoriten in der Türkei",
+  "Beliebte Reiseziele",
+  "Reiseziele der Türkei",
+  "Türkei Reisen nach Monaten"
+ ]
+}

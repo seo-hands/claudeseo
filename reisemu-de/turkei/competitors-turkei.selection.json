@@ -1,0 +1,300 @@
+{
+ "page": "https://reisemu.de/tour/turkei",
+ "slug": "turkei",
+ "main_keyword": "türkei urlaub",
+ "landing_types": [
+  "хаб країни"
+ ],
+ "forming_keywords": [
+  {
+   "keyword": "türkei urlaub",
+   "volume": 60500,
+   "role": "головний",
+   "head_word_of_other_page": null,
+   "in_serp_cache": true,
+   "type_pages_in_top": 7
+  },
+  {
+   "keyword": "urlaub türkei buchen",
+   "volume": 6600,
+   "role": "суміжний",
+   "head_word_of_other_page": null,
+   "in_serp_cache": true,
+   "type_pages_in_top": 2
+  },
+  {
+   "keyword": "türkei urlaub 2026",
+   "volume": 5400,
+   "role": "суміжний",
+   "head_word_of_other_page": null,
+   "in_serp_cache": true,
+   "type_pages_in_top": 1
+  },
+  {
+   "keyword": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "volume": 4400,
+   "role": "суміжний",
+   "head_word_of_other_page": "All Inclusive",
+   "in_serp_cache": true,
+   "type_pages_in_top": 4
+  },
+  {
+   "keyword": "türkei urlaub günstiger",
+   "volume": 3600,
+   "role": "суміжний",
+   "head_word_of_other_page": null,
+   "in_serp_cache": true,
+   "type_pages_in_top": 8
+  }
+ ],
+ "selected": [
+  {
+   "url": "https://www.schauinsland-reisen.de/urlaubsziele/tuerkei/tuerkische-riviera",
+   "type": "хаб країни",
+   "positions": {
+    "türkei urlaub": 1,
+    "türkei urlaub günstiger": 2
+   },
+   "other_positions": {
+    "türkei im oktober urlaub": 2,
+    "türkei urlaub mit flug": 1,
+    "türkei urlaub buchen günstig": 1,
+    "reise türkei buchen": 1,
+    "kurzurlaub türkei": 4,
+    "mai urlaub türkei": 4,
+    "türkei reise billig": 3
+   },
+   "serp_title": "Türkische Riviera: Urlaub günstig in der Türkei buchen",
+   "best_position": 1,
+   "only_flagged_keys": false,
+   "note": "сторінка регіону, а не країни (етап 1 зарахував до хабів країни)"
+  },
+  {
+   "url": "https://www.holidaycheck.de/urlaub/tuerkei",
+   "type": "хаб країни",
+   "positions": {
+    "türkei urlaub": 2,
+    "türkei urlaub günstiger": 3
+   },
+   "other_positions": {
+    "türkei im oktober urlaub": 1,
+    "türkei strandurlaub": 3,
+    "türkei urlaub mit flug": 2,
+    "türkei urlaub buchen günstig": 3,
+    "reise türkei buchen": 2,
+    "kurzurlaub türkei": 2,
+    "mai urlaub türkei": 1,
+    "türkei reise billig": 2
+   },
+   "serp_title": "Türkei Urlaub 2026/2027 • Günstig buchen bei ...",
+   "best_position": 2,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.sonnenklar.tv/urlaub/tuerkei.html",
+   "type": "хаб країни",
+   "positions": {
+    "türkei urlaub": 3,
+    "türkei urlaub günstiger": 8
+   },
+   "other_positions": {
+    "türkei im oktober urlaub": 3,
+    "türkei urlaub buchen günstig": 9,
+    "reise türkei buchen": 8,
+    "kurzurlaub türkei": 3,
+    "mai urlaub türkei": 5,
+    "türkei reise billig": 9
+   },
+   "serp_title": "Türkei Urlaub 2026 / 2027 günstig buchen",
+   "best_position": 3,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.anextour.de/urlaub/tuerkei/",
+   "type": "хаб країни",
+   "positions": {
+    "türkei urlaub": 4,
+    "türkei urlaub günstiger": 4
+   },
+   "other_positions": {
+    "türkei urlaub buchen günstig": 2,
+    "reise türkei buchen": 4,
+    "kurzurlaub türkei": 8,
+    "türkei reise billig": 4
+   },
+   "serp_title": "Türkei Urlaub günstig buchen mit ANEX Tour",
+   "best_position": 4,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.aldi-reisen.de/badereisen/tuerkei",
+   "type": "хаб країни",
+   "positions": {
+    "türkei urlaub": 6
+   },
+   "other_positions": {
+    "türkei im oktober urlaub": 6,
+    "türkei strandurlaub": 4,
+    "reise türkei buchen": 3,
+    "türkei reise günstig": 9,
+    "kurzurlaub türkei": 6,
+    "schnäppchen türkei urlaub": 5
+   },
+   "serp_title": "Strandurlaub Türkei: jetzt Reise buchen",
+   "best_position": 6,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.restplatzboerse.com/urlaub/tuerkei/",
+   "type": "хаб країни",
+   "positions": {
+    "türkei urlaub": 7,
+    "türkei urlaub günstiger": 1
+   },
+   "other_positions": {
+    "türkei im oktober urlaub": 7,
+    "türkei strandurlaub": 8,
+    "türkei urlaub buchen günstig": 4,
+    "reise türkei buchen": 9,
+    "türkei reise billig": 1
+   },
+   "serp_title": "Türkei Urlaub | Jetzt Angebote günstig buchen",
+   "best_position": 1,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://urlaub.check24.de/urlaub/land/tuerkei-co4",
+   "type": "хаб країни",
+   "positions": {
+    "türkei urlaub": 8,
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 6
+   },
+   "other_positions": {
+    "türkei urlaub all inclusive günstig": 1
+   },
+   "serp_title": "Türkei Urlaub - Buchen Sie Ihre nächste Reise!",
+   "best_position": 6,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.12-travel.de/reiseziele/T%C3%BCrkei/",
+   "type": "хаб країни",
+   "positions": {
+    "urlaub türkei buchen": 3
+   },
+   "other_positions": {},
+   "serp_title": "Türkei Urlaub 2027: Preise vergleichen & günstige ...",
+   "best_position": 3,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.holidayplatz.de/urlaub/tuerkei",
+   "type": "хаб країни",
+   "positions": {
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 4
+   },
+   "other_positions": {},
+   "serp_title": "Türkei Urlaub 2026/2027 – Top Hotels günstig buchen",
+   "best_position": 4,
+   "only_flagged_keys": true
+  },
+  {
+   "url": "https://www.oeger.de/urlaub/tuerkei/",
+   "type": "хаб країни",
+   "positions": {
+    "türkei urlaub günstiger": 5
+   },
+   "other_positions": {
+    "türkei urlaub all inclusive günstig": 3,
+    "türkei urlaub 2027": 1,
+    "türkei urlaub buchen günstig": 5,
+    "reise türkei buchen": 5,
+    "türkei reise billig": 5
+   },
+   "serp_title": "Urlaub Türkei 2026 ✈ Angebote ✈ Reisen jetzt günstig ...",
+   "best_position": 5,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.travelantis.de/ferienreisen-tuerkei.html",
+   "type": "хаб країни",
+   "positions": {
+    "urlaub türkei buchen": 6
+   },
+   "other_positions": {
+    "türkei buchen": 6
+   },
+   "serp_title": "Ferienreisen Türkei - Preise vergleichen, Urlaub günstig ...",
+   "best_position": 6,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.lidl-reisen.de/urlaub/tuerkei",
+   "type": "хаб країни",
+   "positions": {
+    "türkei urlaub günstiger": 7
+   },
+   "other_positions": {
+    "reise türkei buchen": 7,
+    "kurzurlaub türkei": 5,
+    "mai urlaub türkei": 3,
+    "türkei reise billig": 8
+   },
+   "serp_title": "Türkei Urlaub buchen",
+   "best_position": 7,
+   "only_flagged_keys": false
+  }
+ ],
+ "reserves": [
+  {
+   "url": "https://www.neckermann-reisen.de/urlaub/tuerkei/",
+   "type": "хаб країни",
+   "positions": {
+    "türkei urlaub günstiger": 9
+   },
+   "other_positions": {
+    "türkei urlaub buchen günstig": 6
+   },
+   "serp_title": "Türkei Urlaub günstig buchen mit ...",
+   "best_position": 9,
+   "only_flagged_keys": false
+  },
+  {
+   "url": "https://www.loveholidays.com/de/urlaub/tuerkei/",
+   "type": "хаб країни",
+   "positions": {
+    "türkei urlaub 2026 all inclusive mit flug und hotel": 8
+   },
+   "other_positions": {
+    "türkei reise günstig": 3,
+    "billig türkei urlaub": 2,
+    "schnäppchen türkei urlaub": 7
+   },
+   "serp_title": "Urlaub in der Türkei Kostenlos stornierbare Optionen 2026 ...",
+   "best_position": 8,
+   "only_flagged_keys": true
+  }
+ ],
+ "excluded": [
+  {
+   "url": "https://www.ltur.com/de/urlaub/tuerkei?hotelCategory=4&priceMax=-1&groups=12456551&groupNames=%2812456551%29:%20Tu00fcrkei&adults=2&duration=10700&departureDate=2026-10-03&returnDate=2027-01-11&airportGroups=1000&airports=BSL,SXB,LUX,INN&options=1808,1406&tourOperatorCodes=&page=0&size=10&groupIds=12456551&fromSearch=12456551",
+   "keyword": "türkei urlaub 2026",
+   "position": 6,
+   "reason": "URL результатів пошуку з фільтрами в параметрах"
+  },
+  {
+   "url": "https://www.vtours.com/de/reiseziele/t%C3%BCrkei/?page=9",
+   "keyword": "türkei buchen",
+   "position": 1,
+   "reason": "URL результатів пошуку з фільтрами в параметрах"
+  },
+  {
+   "url": "https://www.vtours.com/de/reiseziele/t%C3%BCrkei/?page=6",
+   "keyword": "günstig türkei",
+   "position": 2,
+   "reason": "URL результатів пошуку з фільтрами в параметрах"
+  }
+ ],
+ "confirmed": true,
+ "_note": "Список і запасні затверджено користувачем 2026-10-08 (neckermann, потім loveholidays). falk.travel та інші запасні прибрано, щоб не рендерити нові URL."
+}

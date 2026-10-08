@@ -1,0 +1,414 @@
+[
+ {
+  "id": "sonnenklar AI vs hub",
+  "why": "all inclusive (країна) vs хаб країни",
+  "a": {
+   "url": "https://www.sonnenklar.tv/urlaub/tuerkei.html",
+   "status": 200,
+   "mode": "raw",
+   "title": "Türkei Urlaub 2026 / 2027 günstig buchen | sonnenklar.TV",
+   "h1": [
+    "Türkei Urlaub günstig buchen"
+   ],
+   "h2_count": 17,
+   "words": 1022,
+   "own_text_words": 891,
+   "own_paragraphs": 16,
+   "price_mentions": 0,
+   "text_head": "Türkei - Türkische Riviera - Kemer 8-tägige Flugreise, DZ seitl. Meerblick inkl. Ultra AI Endlose Sandstrände, türkisblaues Mittelmeer und eine faszinierende Mischung aus Orient und Okzident – ein Urlaub in der Türkei is"
+  },
+  "b": {
+   "url": "https://www.sonnenklar.tv/all-inclusive/tuerkei.html",
+   "status": 200,
+   "mode": "raw",
+   "title": "Türkei All Inclusive Urlaub buchen | sonnenklar.TV",
+   "h1": [
+    "Türkei All Inclusive Urlaub"
+   ],
+   "h2_count": 8,
+   "words": 590,
+   "own_text_words": 616,
+   "own_paragraphs": 7,
+   "price_mentions": 0,
+   "text_head": "Türkei - Türkische Riviera - Alanya - Strand - Familie - Internetzugang - Wellness - Pool - Sport - Sonstiges - +1 Traumhafte Strände, azurblaues Meer und grenzenloser Genuss – ein Türkei All Inclusive Urlaub verspricht "
+  },
+  "text_overlap_6gram": 0.02
+ },
+ {
+  "id": "lidl AI vs hub",
+  "why": "all inclusive (країна) vs хаб країни",
+  "a": {
+   "url": "https://www.lidl-reisen.de/urlaub/tuerkei",
+   "status": 200,
+   "mode": "raw",
+   "title": "Türkei Urlaub buchen: vielfältige Landschaften & reiche Kultur",
+   "h1": [
+    "Urlaub Türkei"
+   ],
+   "h2_count": 8,
+   "words": 1269,
+   "own_text_words": 1073,
+   "own_paragraphs": 18,
+   "price_mentions": 0,
+   "text_head": "Die Türkei zählt aus gutem Grund zu den beliebtesten Reisezielen überhaupt. Von der pulsierenden Metropole Istanbul über die Traumstrände der Türkischen Riviera bis hin zur zauberhaften Landschaft Kappadokiens: Die Türke"
+  },
+  "b": {
+   "url": "https://www.lidl-reisen.de/all-inclusive/tuerkei",
+   "status": 200,
+   "mode": "raw",
+   "title": "All-Inclusive Urlaub Türkei: Top-Deals für Erholung & Sonne",
+   "h1": [
+    "Türkei All Inclusive Urlaub"
+   ],
+   "h2_count": 10,
+   "words": 1024,
+   "own_text_words": 1045,
+   "own_paragraphs": 17,
+   "price_mentions": 0,
+   "text_head": "Baden wie einst Cleopatra in Alanya, im Liegestuhl träumen an der East Side Beach in Belek oder sich am Konyaalti Beach von Antalya in die Fluten werfen? Die Türkische Riviera ist ein beliebtes Reiseziel. Sonnenanbeter, "
+  },
+  "text_overlap_6gram": 0.0
+ },
+ {
+  "id": "sonnenklar pauschal vs hub",
+  "why": "pauschalreise vs хаб країни",
+  "a": {
+   "url": "https://www.sonnenklar.tv/urlaub/tuerkei.html",
+   "status": 200,
+   "mode": "raw",
+   "title": "Türkei Urlaub 2026 / 2027 günstig buchen | sonnenklar.TV",
+   "h1": [
+    "Türkei Urlaub günstig buchen"
+   ],
+   "h2_count": 17,
+   "words": 1022,
+   "own_text_words": 891,
+   "own_paragraphs": 16,
+   "price_mentions": 0,
+   "text_head": "Türkei - Türkische Riviera - Kemer 8-tägige Flugreise, DZ seitl. Meerblick inkl. Ultra AI Endlose Sandstrände, türkisblaues Mittelmeer und eine faszinierende Mischung aus Orient und Okzident – ein Urlaub in der Türkei is"
+  },
+  "b": {
+   "url": "https://www.sonnenklar.tv/pauschalreise/tuerkei.html",
+   "status": 200,
+   "mode": "raw",
+   "title": "Pauschalreise Türkei günstig buchen | sonnenklar.TV",
+   "h1": [
+    "Pauschalreise Türkei"
+   ],
+   "h2_count": 9,
+   "words": 1029,
+   "own_text_words": 379,
+   "own_paragraphs": 6,
+   "price_mentions": 0,
+   "text_head": "Pauschalreise Türkei Eine Pauschalreise in die Türkei verbindet Sonne, Geschichte und orientalischen Charme auf faszinierende Weise. Entspannen Sie an der türkisblauen Riviera in Antalya, Side oder Alanya mit traumhaften"
+  },
+  "text_overlap_6gram": 0.01
+ },
+ {
+  "id": "coral pauschal vs hub",
+  "why": "pauschalreise vs хаб країни",
+  "a": {
+   "url": "https://coraltravel.de/urlaub/tuerkei/",
+   "status": 200,
+   "mode": "raw",
+   "title": "Türkei Urlaub: Reiseziele & Reisetipps | Coral Travel",
+   "h1": [
+    "Türkei Urlaub: Reiseziele, Reisezeit und Erlebnisse"
+   ],
+   "h2_count": 18,
+   "words": 1349,
+   "own_text_words": 1474,
+   "own_paragraphs": 31,
+   "price_mentions": 0,
+   "text_head": "Türkei Urlaub: Reiseziele, Reisezeit und Erlebnisse Ein Türkei Urlaub kann entspannte Strandtage, eindrucksvolle Landschaften und jahrtausendealte Kultur miteinander verbinden. Zwischen der Türkischen Riviera, der Ägäis "
+  },
+  "b": {
+   "url": "https://coraltravel.de/pauschalreisen/tuerkei/",
+   "status": 200,
+   "mode": "raw",
+   "title": "Türkei Urlaub & Pauschalreisen 2026 | Coral Travel",
+   "h1": [
+    "Türkei Urlaub 2026 – Pauschalreisen mit Flug & Hotel"
+   ],
+   "h2_count": 15,
+   "words": 1492,
+   "own_text_words": 1875,
+   "own_paragraphs": 33,
+   "price_mentions": 0,
+   "text_head": "Buche deinen Türkei Urlaub mit Coral Travel bequem als Komplettpaket aus Flug und Hotel. Entdecke attraktive Resorts an der Türkischen Riviera und an der Ägäis – passend für Familien, Paare und Sonnenhungrige. Wähle aus "
+  },
+  "text_overlap_6gram": 0.0
+ },
+ {
+  "id": "tui last-minute vs hub Antalya",
+  "why": "last minute (регіон) vs хаб регіону",
+  "a": {
+   "url": "https://www.tui.com/urlaub/antalya/",
+   "status": 404,
+   "mode": "raw",
+   "title": "404: Die Seite wurde nicht gefunden | TUI",
+   "h1": [
+    "404: Die Seite wurde nicht gefunden | TUI"
+   ],
+   "h2_count": 3,
+   "words": 47,
+   "own_text_words": 0,
+   "own_paragraphs": 0,
+   "price_mentions": 0,
+   "text_head": "Tut uns leid, die gesuchte Seite konnte leider nicht gefunden werden. Trotzdem unterstützen wir dich gerne bei deiner weiteren Urlaubsplanung! Unser Internet Servicecenter steht dir zur Verfügung: täglich von 8-23 Uhr - "
+  },
+  "b": {
+   "url": "https://www.tui.com/last-minute/antalya/",
+   "status": 200,
+   "mode": "raw",
+   "title": "Last Minute Antalya » Antalya Urlaub kurzfristig buchen | TUI",
+   "h1": [
+    "Last Minute Antalya: Flug und Hotel kurzfristig buchen"
+   ],
+   "h2_count": 2,
+   "words": 191,
+   "own_text_words": 169,
+   "own_paragraphs": 2,
+   "price_mentions": 0,
+   "text_head": "Last Minute Antalya: Flug und Hotel kurzfristig buchen Fliege mit TUI Last Minute nach Antalya und genieße einen herrlichen Urlaub am Mittelmeer. Die türkische Großstadt hat für Touristen einiges zu bieten: In den Monate"
+  },
+  "text_overlap_6gram": 0.0
+ },
+ {
+  "id": "sonnenklar last-minute vs hub Antalya",
+  "why": "last minute (регіон) vs хаб регіону",
+  "a": {
+   "url": "https://www.sonnenklar.tv/urlaub/tuerkei/antalya.html",
+   "status": 404,
+   "mode": "raw",
+   "title": "",
+   "h1": [],
+   "h2_count": 0,
+   "words": 0,
+   "own_text_words": 0,
+   "own_paragraphs": 0,
+   "price_mentions": 0,
+   "text_head": ""
+  },
+  "b": {
+   "url": "https://www.sonnenklar.tv/last-minute/tuerkei/antalya.html",
+   "status": 200,
+   "mode": "raw",
+   "title": "Last Minute Antalya jetzt günstig buchen | sonnenklar.TV",
+   "h1": [
+    "Last Minute Antalya buchen"
+   ],
+   "h2_count": 13,
+   "words": 1190,
+   "own_text_words": 667,
+   "own_paragraphs": 15,
+   "price_mentions": 0,
+   "text_head": "Last Minute Antalya buchen Im Last Minute Antalya Urlaub genießen Sie Sonne, Strand und orientalisches Flair direkt an der türkischen Riviera. Erleben Sie moderne Resorts, historische Altstädte und türkisblaues Meer. Ide"
+  },
+  "text_overlap_6gram": 0.0
+ },
+ {
+  "id": "lidl last-minute vs hub Antalya",
+  "why": "last minute (регіон) vs хаб регіону",
+  "a": {
+   "url": "https://www.lidl-reisen.de/urlaub/tuerkei/tuerkische-riviera/antalya",
+   "status": 200,
+   "mode": "raw",
+   "title": "Antalya Urlaub günstig buchen: traumhafte Strände am Mittelmeer",
+   "h1": [
+    "Urlaub Antalya"
+   ],
+   "h2_count": 7,
+   "words": 1146,
+   "own_text_words": 1063,
+   "own_paragraphs": 19,
+   "price_mentions": 0,
+   "text_head": "Ein Urlaub in Antalya bietet Ihnen unvergessliche Eindrücke sowie eine bunte Abwechslung, denn kaum eine andere Metropole verbindet das moderne Stadtleben auf so einzigartige Weise mit dem türkisch-orientalischen Flair. "
+  },
+  "b": {
+   "url": "https://www.lidl-reisen.de/lastminute/tuerkei/tuerkische-riviera/antalya",
+   "status": 200,
+   "mode": "raw",
+   "title": "Last Minute Antalya ▷ Mit Lidl Reisen günstig buchen",
+   "h1": [
+    "Last Minute Urlaub Antalya"
+   ],
+   "h2_count": 7,
+   "words": 1140,
+   "own_text_words": 961,
+   "own_paragraphs": 17,
+   "price_mentions": 0,
+   "text_head": "Antalya, die sonnenverwöhnte Küstenmetropole im Süden der Türkei, hat jedem etwas zu bieten! Allen voran wird die „Perle der Türkischen Riviera“ für ihre kilometerlangen Sandstrände geliebt. Ob Badespaß, Wassersport oder"
+  },
+  "text_overlap_6gram": 0.0
+ },
+ {
+  "id": "anex last-minute vs hub Antalya",
+  "why": "last minute (регіон) vs хаб регіону",
+  "a": {
+   "url": "https://www.anextour.de/urlaub/antalya/",
+   "status": 404,
+   "mode": "raw",
+   "title": "404 - Nicht gefunden",
+   "h1": [],
+   "h2_count": 2,
+   "words": 113,
+   "own_text_words": 0,
+   "own_paragraphs": 0,
+   "price_mentions": 0,
+   "text_head": "+49 (0)211 78 177 444 Newsletter abonnieren +49 (0)211 78 177 444 Urlaub buchen Reiseziele Türkei Spanien Griechenland Zypern Ägypten Vereinigte Arabische Emirate Katar Weitere Reiseziele Reisearten Familienurlaub Fernre"
+  },
+  "b": {
+   "url": "https://www.anextour.de/last-minute-urlaub/antalya/",
+   "status": 200,
+   "mode": "raw",
+   "title": "Antalya Last Minute Urlaub",
+   "h1": [
+    "Antalya Last Minute Deals",
+    "Antalya Last Minute Deals"
+   ],
+   "h2_count": 12,
+   "words": 200,
+   "own_text_words": 0,
+   "own_paragraphs": 0,
+   "price_mentions": 0,
+   "text_head": "Antalya Last Minute Deals Spontan Urlaub mit ANEX Tour buchen! Antalya Last Minute Deals Spontan Urlaub mit ANEX Tour buchen! Last Minute Urlaub in Antalya günstig buchen Jetzt Last-Minute-Angebote für Antalya entdecken "
+  },
+  "text_overlap_6gram": 0.0
+ },
+ {
+  "id": "restplatzboerse last-minute vs hub Antalya-Belek",
+  "why": "last minute (регіон) vs хаб регіону",
+  "a": {
+   "url": "https://www.restplatzboerse.com/urlaub/tuerkei/antalya-belek/",
+   "status": 200,
+   "mode": "raw",
+   "title": "Antalya & Belek Urlaub | Jetzt Angebote günstig buchen | Restplatzbörse",
+   "h1": [
+    "Antalya & Belek Urlaub"
+   ],
+   "h2_count": 7,
+   "words": 614,
+   "own_text_words": 501,
+   "own_paragraphs": 8,
+   "price_mentions": 0,
+   "text_head": "Antalya & Belek Urlaub Ihr Pauschalurlaub an der Türkischen Riviera: Antalya Urlaub und Belek Urlaub bieten feine Sandstrände, große Resortanlagen und familienfreundlichen Service. Wählen Sie Pauschalreise Antalya oder P"
+  },
+  "b": {
+   "url": "https://www.restplatzboerse.com/last-minute/tuerkei/antalya-belek/",
+   "status": 404,
+   "mode": "raw",
+   "title": "Seite nicht gefunden",
+   "h1": [
+    "Die aufgerufene Seite konnten wir nicht finden.",
+    "Zur Startseite"
+   ],
+   "h2_count": 0,
+   "words": 16,
+   "own_text_words": 0,
+   "own_paragraphs": 0,
+   "price_mentions": 0,
+   "text_head": "Suchen Merkzettel Menü Restplatzbörse Seite nicht gefunden Die aufgerufene Seite konnten wir nicht finden. Zur Startseite"
+  },
+  "text_overlap_6gram": 0.0
+ },
+ {
+  "id": "holidaycheck hotels vs hub",
+  "why": "готель (країна) vs хаб країни",
+  "a": {
+   "url": "https://www.holidaycheck.de/urlaub/tuerkei",
+   "status": 400,
+   "mode": "raw",
+   "title": "",
+   "h1": [],
+   "h2_count": 0,
+   "words": 30,
+   "own_text_words": 0,
+   "own_paragraphs": 0,
+   "price_mentions": 0,
+   "text_head": "Diese Funktionalität steht gerade nicht zur Verfügung. Vielen Dank für Ihr Verständnis. Bitte kontaktieren Sie unseren Support mit dieser Referenz: 0.cbcc1202.1791402837.1654314e IP: 185.164.143.155 Zurück"
+  },
+  "b": {
+   "url": "https://www.holidaycheck.de/dh/hotels-tuerkei/4c2c4e51-3aca-3d16-a4f8-1d654884da55",
+   "status": 400,
+   "mode": "raw",
+   "title": "",
+   "h1": [],
+   "h2_count": 0,
+   "words": 30,
+   "own_text_words": 0,
+   "own_paragraphs": 0,
+   "price_mentions": 0,
+   "text_head": "Diese Funktionalität steht gerade nicht zur Verfügung. Vielen Dank für Ihr Verständnis. Bitte kontaktieren Sie unseren Support mit dieser Referenz: 0.cbcc1202.1791402838.16543505 IP: 185.164.143.155 Zurück"
+  },
+  "text_overlap_6gram": 0.72
+ },
+ {
+  "id": "restplatzboerse hotels vs hub",
+  "why": "готель (країна) vs хаб країни",
+  "a": {
+   "url": "https://www.restplatzboerse.com/urlaub/tuerkei/",
+   "status": 200,
+   "mode": "raw",
+   "title": "Türkei Urlaub | Jetzt Angebote günstig buchen | Restplatzbörse",
+   "h1": [
+    "Türkei Urlaub"
+   ],
+   "h2_count": 5,
+   "words": 936,
+   "own_text_words": 789,
+   "own_paragraphs": 11,
+   "price_mentions": 0,
+   "text_head": "Türkei Urlaub Türkei Urlaub bedeutet Strand, Sonne und Komfort. Flach abfallende Strände, All Inclusive Resorts und eine große Auswahl an Badehotels machen die Türkische Riviera und die Ägäis zu Top-Zielen für Strandurla"
+  },
+  "b": {
+   "url": "https://www.restplatzboerse.com/hotels/g/40038/",
+   "status": 200,
+   "mode": "raw",
+   "title": "Türkei Hotels günstig buchen",
+   "h1": [],
+   "h2_count": 0,
+   "words": 7,
+   "own_text_words": 0,
+   "own_paragraphs": 0,
+   "price_mentions": 0,
+   "text_head": "DE Merkzettel Menü Restplatzbörse Alle Reiseziele Türkei"
+  },
+  "text_overlap_6gram": 0.0
+ },
+ {
+  "id": "tui hotels vs hub",
+  "why": "готель (країна) vs хаб країни",
+  "a": {
+   "url": "https://www.tui.com/urlaub/tuerkei/",
+   "status": 200,
+   "mode": "raw",
+   "title": "Türkei Urlaub 2027 » Günstig Urlaub in die Türkei buchen | TUI",
+   "h1": [
+    "Türkei Urlaub"
+   ],
+   "h2_count": 26,
+   "words": 1760,
+   "own_text_words": 1542,
+   "own_paragraphs": 23,
+   "price_mentions": 0,
+   "text_head": "Reiseziel Türkei 2027 ☀ lebendig, vielseitig, aufregend Traumhafte Strände, viel Sonne, Spuren einer langen Geschichte und eine Landschaft zum Verlieben – all das und noch viel mehr erwartet Dich beim Urlaub in der Türke"
+  },
+  "b": {
+   "url": "https://www.tui.com/hotels/tuerkei/",
+   "status": 200,
+   "mode": "raw",
+   "title": "Türkei Hotel » Die besten Türkei Hotels günstig buchen ☀ | TUI",
+   "h1": [
+    "Türkei Hotel"
+   ],
+   "h2_count": 11,
+   "words": 979,
+   "own_text_words": 780,
+   "own_paragraphs": 12,
+   "price_mentions": 0,
+   "text_head": "Istanbul, Istanbul & Umgebung, Türkei Unsere TOP Hotelangebote für 1 Woche Türkei Hotel in der Türkei: Unvergessliche Tage zwischen Orient und Okzident Kilometerlange Strände, geschichtsträchtige Städte und lebendige Bas"
+  },
+  "text_overlap_6gram": 0.0
+ }
+]

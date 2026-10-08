@@ -1,0 +1,1254 @@
+{
+ "page": "https://reisemu.de/tour/turkei",
+ "slug": "turkei",
+ "page_kind": "commercial",
+ "doc_title": "ТЗ для копірайтера: хаб «Türkei Urlaub»",
+ "header": [
+  "Сторінка: https://reisemu.de/tour/turkei · мова тексту: німецька (de-DE), звертання на «Sie» · інструкції українською, заголовки й ключі німецькою.",
+  "Основа: 11 сторінок-хабів із ТОП-10 google.de за ключами «türkei urlaub», «urlaub türkei buchen», «türkei urlaub 2026 all inclusive mit flug und hotel», «türkei urlaub günstiger» (SERP від 7 жовтня 2026), 25 ключів хаба (93 880 запитів на місяць)."
+ ],
+ "goal": [
+  "Мета: головна сторінка напрямку «Туреччина». Вона має ранжуватися за «türkei urlaub» (60 500 запитів) і суміжними запитами та вести відвідувача до лістингу пропозицій і до підсторінок (регіони, Last Minute, Pauschalreise, All Inclusive, довідкові гайди).",
+  "Аудиторія: мешканці Німеччини, які планують пляжний відпочинок у Туреччині з перельотом — сім'ї з дітьми, пари, ті, хто шукає вигідну ціну. Регіон і дати часто ще не обрано.",
+  "Інтент: комерційний з елементом вибору. Людина хоче побачити ціни й пропозиції, а також зрозуміти, який регіон і місяць обрати. Текст не замінює лістинг, а допомагає обрати й переводить на пропозиції.",
+  "Тон: конкретний і корисний — цифри (температура, час перельоту, трансфер), без рекламних штампів на кшталт «Traumurlaub wartet»."
+ ],
+ "volume": {
+  "range": [
+   7000,
+   8500
+  ],
+  "words": "1 100–1 300",
+  "why": [
+   "П'ять хабів із розгорнутим текстом — holidayplatz, lidl-reisen, restplatzboerse, sonnenklar, schauinsland; три сторінки майже без тексту (travelantis, aldi-reisen, check24) тягнуть медіану вниз.",
+   "Тому діапазон узято в 1,6–1,9 раза вище медіани, на нижній межі текстових лідерів. Блоку про в'їзд і безпеку на хабі немає (це тема /tour/turkei/reisehinweise). Зараз на reisemu.de близько 900 символів власного тексту (підпис блоку готелів і чотири абзаци внизу сторінки)."
+  ]
+ },
+ "structure": [
+  {
+   "level": "H1",
+   "heading": "Türkei Urlaub 2026/2027 günstig buchen",
+   "chars": null,
+   "topic": null,
+   "note": "Один H1. Без слів Last-Minute, Pauschalreise, All Inclusive. Точне входження «Türkei Urlaub»."
+  },
+  {
+   "level": "intro",
+   "heading": "(без заголовка, одразу під H1)",
+   "chars": [
+    150,
+    250
+   ],
+   "topic": null,
+   "note": "1–2 речення, до 250 символів. Головний ключ «Türkei Urlaub» у першому реченні (точне входження). Більше нічого: далі одразу лістинг."
+  },
+  {
+   "level": "listing",
+   "heading": "(наявний блок пропозицій, без нового заголовка від копірайтера)",
+   "chars": null,
+   "topic": null,
+   "note": "Тексту немає. Наявний заголовок лістингу «Last-Minute-Angebote» перейменувати на нейтральний «Aktuelle Angebote» (без «Last-Minute» і без «Türkei Urlaub»). Під лістингом — посилання «Last-Minute-Angebote Türkei» на /tour/turkei/last-minute. Увесь текст нижче починається з H2."
+  },
+  {
+   "level": "H2",
+   "heading": "Urlaub in der Türkei: Regionen, Reisezeit und Preise im Überblick",
+   "chars": [
+    400,
+    500
+   ],
+   "topic": null,
+   "note": "Перший блок під лістингом, 2 абзаци: чому Туреччина і що читач знайде нижче (регіони, сезон, ціни). Ключі: «Urlaub in der Türkei buchen», «Türkei Reise», «Türkei buchen»; одне точне входження «Türkei Urlaub».",
+   "clusters": [
+    "K01a"
+   ]
+  },
+  {
+   "level": "H2",
+   "heading": "5 gute Gründe für einen Urlaub in der Türkei",
+   "chars": [
+    400,
+    500
+   ],
+   "topic": null,
+   "note": "Нумерований список із п'яти причин, по одному реченню з фактом (кількість сонячних днів, довжина узбережжя, час перельоту, рівень готелів, пам'ятки). Без загальних фраз."
+  },
+  {
+   "level": "H2",
+   "heading": "Türkei Urlaub günstig buchen: So sparen Sie",
+   "chars": [
+    800,
+    900
+   ],
+   "topic": "subtopic:Türkei Urlaub 2026/2027 günstig buchen – Tipps & Angebote",
+   "note": "Єдиний H2 з точною формою головного ключа. Коли й як бронювати дешевше: Frühbucher проти коротких термінів, міжсезоння, аеропорт вильоту, тривалість. Маркований список із 4–5 порад. У тексті одне точне входження («Türkei Urlaub günstiger buchen»), решта ключів «günstig» — розбавлено. Анкори на /last-minute, /pauschalreise, /all-inclusive.",
+   "clusters": [
+    "K07"
+   ]
+  },
+  {
+   "level": "H2",
+   "heading": "Die beliebtesten Urlaubsregionen in der Türkei",
+   "chars": [
+    1500,
+    1700
+   ],
+   "topic": [
+    "block:regions",
+    "subtopic:Beliebte Ausflugsziele im Türkei Urlaub"
+   ],
+   "note": "Вступ 2 речення + порівняльна таблиця регіонів + п'ять H3 по 280–320 символів. У кожному H3: для кого, пляж, 1–2 пам'ятки, трансфер з аеропорту."
+  },
+  {
+   "level": "H3",
+   "heading": "Antalya & Lara",
+   "chars": [
+    280,
+    320
+   ],
+   "topic": null,
+   "note": "Посилання на /tour/turkei/antalya і /tour/turkei/antalya/lara."
+  },
+  {
+   "level": "H3",
+   "heading": "Side",
+   "chars": [
+    280,
+    320
+   ],
+   "topic": null,
+   "note": "Посилання на /tour/turkei/side; одне речення з формою «Urlaub in Side 2026 mit Flug und Hotel».",
+   "clusters": [
+    "K05c"
+   ]
+  },
+  {
+   "level": "H3",
+   "heading": "Alanya",
+   "chars": [
+    280,
+    320
+   ],
+   "topic": null,
+   "note": "Посилання на наявну /tour/turkei/alanya."
+  },
+  {
+   "level": "H3",
+   "heading": "Belek & Kemer",
+   "chars": [
+    280,
+    320
+   ],
+   "topic": null,
+   "note": "Посилання на наявну /tour/turkei/kemer."
+  },
+  {
+   "level": "H3",
+   "heading": "Bodrum & Türkische Ägäis",
+   "chars": [
+    280,
+    320
+   ],
+   "topic": null,
+   "note": "Посилання на наявну /tour/turkei/bodrum; згадати Marmaris, Fethiye, Kusadasi."
+  },
+  {
+   "level": "H2",
+   "heading": "Beste Reisezeit für die Türkei",
+   "chars": [
+    1000,
+    1200
+   ],
+   "topic": [
+    "subtopic:Wann ist die beste Reisezeit für einen Türkei Urlaub?",
+    "block:seasons"
+   ],
+   "note": "Вступ 2–3 речення + таблиця за місяцями + три H3 по 200–250 символів. Наприкінці — посилання «Beste Reisezeit Türkei» на /tour/turkei/reisezeit (листопад і грудень докладно там).",
+   "clusters": [
+    "K10a"
+   ]
+  },
+  {
+   "level": "H3",
+   "heading": "Türkei im Mai",
+   "chars": [
+    200,
+    250
+   ],
+   "topic": null,
+   "note": "Ключ «mai urlaub türkei» — у тексті, форма «Urlaub in der Türkei im Mai»."
+  },
+  {
+   "level": "H3",
+   "heading": "Türkei im September",
+   "chars": [
+    200,
+    250
+   ],
+   "topic": null,
+   "note": "Ключ «september türkei urlaub» — у тексті, одне точне входження «Türkei Urlaub» («Im September ist ein Türkei Urlaub …»)."
+  },
+  {
+   "level": "H3",
+   "heading": "Türkei im Oktober",
+   "chars": [
+    200,
+    250
+   ],
+   "topic": null,
+   "note": "Ключ «türkei im oktober urlaub» — у тексті, форма «Urlaub in der Türkei im Oktober»; температура води, осінні канікули."
+  },
+  {
+   "level": "H2",
+   "heading": "Urlaubsarten: Strandurlaub, Familienurlaub & Kurzurlaub",
+   "chars": [
+    850,
+    950
+   ],
+   "topic": "subtopic:Aktivitäten und Urlaubsarten für deine Pauschalreise: Türkei erleben",
+   "note": "Три H3 по 250–300 символів. Тут одне речення з анкором «All Inclusive Urlaub Türkei» на /all-inclusive."
+  },
+  {
+   "level": "H3",
+   "heading": "Strandurlaub in der Türkei",
+   "chars": [
+    250,
+    300
+   ],
+   "topic": null,
+   "note": "Ключ «türkei strandurlaub»; Sandstrände, Buchten, Lara Beach, Kleopatra-Strand."
+  },
+  {
+   "level": "H3",
+   "heading": "Familienurlaub in der Türkei",
+   "chars": [
+    250,
+    300
+   ],
+   "topic": null,
+   "note": "Aquaparks, пологий вхід у море, які регіони для сімей."
+  },
+  {
+   "level": "H3",
+   "heading": "Kurzurlaub Türkei",
+   "chars": [
+    250,
+    300
+   ],
+   "topic": null,
+   "note": "Ключ «kurzurlaub türkei»: 3–5 ночей, Antalya або Istanbul, тривалість перельоту."
+  },
+  {
+   "level": "H2",
+   "heading": "Urlaub in der Türkei 2026/2027 mit Flug und Hotel",
+   "chars": [
+    450,
+    550
+   ],
+   "topic": null,
+   "note": "Аеропорти прильоту (Antalya AYT, Dalaman, Bodrum, Izmir), тривалість перельоту з Німеччини, що входить у пакет. Одне точне входження «Türkei Urlaub mit Flug»; ще «Türkei Reise», «Reise in die Türkei buchen». Одне речення з анкором «Pauschalreise Türkei» на /pauschalreise і одне — з анкором на /all-inclusive.",
+   "clusters": [
+    "K03b",
+    "K09"
+   ]
+  },
+  {
+   "level": "H2",
+   "heading": "Sehenswürdigkeiten & Ausflüge in der Türkei",
+   "chars": [
+    450,
+    550
+   ],
+   "topic": null,
+   "note": "Маркований список із 5–6 місць (Pamukkale, Kappadokien, Ephesos, Istanbul, Aspendos, Ölüdeniz) по одному реченню."
+  },
+  {
+   "level": "H2",
+   "heading": "Häufige Fragen zum Urlaub in der Türkei",
+   "chars": [
+    1100,
+    1300
+   ],
+   "topic": [
+    "block:faq",
+    "subtopic:FAQ: Häufige Fragen zu Ihrem Türkei Urlaub"
+   ],
+   "note": "6 питань, відповідь 180–220 символів кожна. Розмітка FAQPage. У відповідях точну форму «Türkei Urlaub» не вживати."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wann ist die beste Reisezeit für die Türkei?",
+   "note": "neckermann, restplatzboerse, lidl, sonnenklar; посилання на /tour/turkei/reisezeit"
+  },
+  {
+   "q": "Wann ist Türkei Urlaub am günstigsten?",
+   "note": "holidayplatz («Wann Türkei Urlaub buchen für günstige Preise?»); ключі «günstig türkei», «türkei reise billig». Єдине питання з точною формою «Türkei Urlaub»"
+  },
+  {
+   "q": "Was kostet ein Urlaub in der Türkei 2026?",
+   "note": "holidayplatz («Was kostet Türkei All Inclusive mit Flug?»); ключ «urlaub türkei 2026 all inclusive» з анкором на /all-inclusive у відповіді"
+  },
+  {
+   "q": "Welche Region in der Türkei eignet sich am besten für Familien?",
+   "note": "restplatzboerse, holidayplatz, sonnenklar"
+  },
+  {
+   "q": "Welche Dokumente brauche ich für die Türkei und ist das Land aktuell sicher?",
+   "note": "lidl, sonnenklar, holidayplatz; коротка відповідь і посилання «Reisehinweise Türkei» на /tour/turkei/reisehinweise — подробиці лише там"
+  },
+  {
+   "q": "Welche Währung hat die Türkei und wie bezahlt man am besten?",
+   "note": "neckermann, sonnenklar"
+  }
+ ],
+ "exact_text": [
+  "короткий вступ під H1 (перше речення)",
+  "перший H2 під лістингом «Urlaub in der Türkei: Regionen, Reisezeit und Preise im Überblick»",
+  "блок «Türkei Urlaub günstig buchen» («Türkei Urlaub günstiger buchen»)",
+  "H3 «Türkei im September» («Im September ist ein Türkei Urlaub …»)",
+  "блок про переліт і готель («Türkei Urlaub mit Flug»)"
+ ],
+ "keywords": {
+  "türkei urlaub": {
+   "place": "title / H1",
+   "count": "8 (максимум, разом на всій сторінці)",
+   "block": "заголовки (2): H1, H2 «Türkei Urlaub günstig buchen: So sparen Sie»; FAQ (1): питання 2; текст (5): короткий вступ під H1, перший H2 під лістингом, блок «günstig buchen», H3 «Türkei im September», блок про переліт і готель. Title рахується окремо",
+   "why": "головний ключ; розподіл входжень — у розділі 5 ТЗ"
+  },
+  "urlaub türkei buchen": {
+   "place": "title",
+   "count": "2",
+   "block": "title (через «Türkei Urlaub … buchen»), перший H2 під лістингом (форма «Urlaub in der Türkei buchen»)",
+   "why": "ядро ≥0.80, найчастотніший суміжний"
+  },
+  "türkei urlaub 2026": {
+   "place": "title / H1",
+   "count": "1 + 1 розбавлене",
+   "block": "title і H1 («Türkei Urlaub 2026/2027» — це те саме точне входження, що й головного ключа); у H2 про переліт — форма «Urlaub in der Türkei 2026/2027»",
+   "why": "близькість 0.76 (H2/текст), але 5 400 запитів і рік у title мають 3 з 11 конкурентів → рік беремо в title"
+  },
+  "türkei urlaub 2027": {
+   "place": "title / H1",
+   "count": "1",
+   "block": "title і H1 («2026/2027»), окремо не повторювати",
+   "why": "закривається тим самим «2026/2027»"
+  },
+  "türkei urlaub günstiger": {
+   "place": "title / H2",
+   "count": "2",
+   "block": "title (слово «günstig»), H2 «Türkei Urlaub günstig buchen: So sparen Sie» і одне речення в тексті цього блоку («Türkei Urlaub günstiger buchen»); обидва входять у ліміт 8",
+   "why": "близькість 0.73 (H2/текст); у ТОП 8 із 9 — хаби країни, «günstig» у title мають 8 з 11 конкурентів → беремо в title і description"
+  },
+  "türkei reise": {
+   "place": "текст / H2",
+   "count": "2–3",
+   "block": "перший H2 під лістингом, блок про переліт і готель",
+   "why": "ядро ≥0.80"
+  },
+  "türkei urlaub mit flug": {
+   "place": "текст / H2",
+   "count": "1",
+   "block": "description («mit Flug & Hotel»); текст блоку «Urlaub in der Türkei 2026/2027 mit Flug und Hotel» — одне точне входження «Türkei Urlaub mit Flug» (входить у ліміт 8)",
+   "why": "ядро ≥0.80"
+  },
+  "kurzurlaub türkei": {
+   "place": "H3",
+   "count": "1–2",
+   "block": "H3 «Kurzurlaub Türkei» у блоці видів відпочинку",
+   "why": "близькість 0.88 (ядро) через спільну основу «Urlaub + Türkei», але 320 запитів і вужчий інтент → не title, а окремий H3"
+  },
+  "türkei im oktober urlaub": {
+   "place": "текст",
+   "count": "1",
+   "block": "текст H3 «Türkei im Oktober» (форма «Urlaub in der Türkei im Oktober»)",
+   "why": "ядро ≥0.80 за близькістю; за змістом — підрозділ сезону. Ключ у тексті H3, не в заголовку"
+  },
+  "september türkei urlaub": {
+   "place": "текст",
+   "count": "1",
+   "block": "текст H3 «Türkei im September» — одне точне входження («Im September ist ein Türkei Urlaub …»), входить у ліміт 8",
+   "why": "H2/текст. Ключ у тексті H3, не в заголовку"
+  },
+  "mai urlaub türkei": {
+   "place": "текст",
+   "count": "1",
+   "block": "текст H3 «Türkei im Mai» (форма «Urlaub in der Türkei im Mai»)",
+   "why": "H2/текст. Ключ у тексті H3, не в заголовку"
+  },
+  "türkei strandurlaub": {
+   "place": "H3",
+   "count": "1–2",
+   "block": "H3 «Strandurlaub in der Türkei» у блоці видів відпочинку",
+   "why": "H2/текст"
+  },
+  "türkei buchen": {
+   "place": "текст",
+   "count": "1–2",
+   "block": "перший H2 під лістингом, CTA-речення наприкінці блоків",
+   "why": "H2/текст"
+  },
+  "reise türkei buchen": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок про переліт і готель («Reise in die Türkei buchen»)",
+   "why": "H2/текст"
+  },
+  "türkei urlaub buchen günstig": {
+   "place": "H2",
+   "count": "1",
+   "block": "H2 «Türkei Urlaub günstig buchen: So sparen Sie» (те саме входження, що й у ключа «…günstiger»)",
+   "why": "H2/текст; точний порядок слів у заголовку"
+  },
+  "türkei reise günstig": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок «günstig buchen»",
+   "why": "H2/текст"
+  },
+  "schnäppchen türkei urlaub": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок «günstig buchen», розбавлена форма «Schnäppchen für den Urlaub in der Türkei»",
+   "why": "H2/текст; точну форму не вписувати, щоб не перевищити ліміт 8"
+  },
+  "billig türkei urlaub": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок «günstig buchen», розбавлена форма «billig in die Türkei reisen»; далі — «günstig»",
+   "why": "H2/текст; «billig» звучить дешево, не повторювати"
+  },
+  "türkei reise billig": {
+   "place": "FAQ",
+   "count": "1",
+   "block": "відповідь на питання 2 FAQ «Wann ist Türkei Urlaub am günstigsten?»",
+   "why": "H2/текст за близькістю; через слово «billig» — лише у відповіді FAQ"
+  },
+  "günstig türkei": {
+   "place": "FAQ",
+   "count": "1",
+   "block": "питання 2 FAQ «Wann ist Türkei Urlaub am günstigsten?»",
+   "why": "<0.65 → FAQ/довгий хвіст"
+  },
+  "türkei urlaub 2026 all inclusive mit flug und hotel": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок про переліт і готель: розбавлена форма «Urlaub in der Türkei 2026 – All Inclusive mit Flug und Hotel» з анкором на /all-inclusive",
+   "why": "обмеження етапу 1: «All Inclusive» не основне слово хаба → 1 входження з посиланням"
+  },
+  "türkei urlaub all inclusive günstig": {
+   "place": "текст",
+   "count": "1",
+   "block": "блок «günstig buchen»: розбавлена форма з анкором на /all-inclusive",
+   "why": "обмеження етапу 1 → 1 входження з посиланням"
+  },
+  "türkei urlaub günstig all inclusive mit flug": {
+   "place": "текст",
+   "count": "0–1",
+   "block": "закривається попередніми двома входженнями (розбавлена форма)",
+   "why": "обмеження етапу 1; точну форму не вписувати"
+  },
+  "urlaub türkei 2026 all inclusive": {
+   "place": "FAQ",
+   "count": "1",
+   "block": "питання 3 FAQ «Was kostet ein Urlaub in der Türkei 2026?» з анкором на /all-inclusive у відповіді",
+   "why": "<0.65 → FAQ; обмеження етапу 1"
+  },
+  "türkei urlaub 2026 all inclusive mit flug und hotel side": {
+   "place": "текст",
+   "count": "1",
+   "block": "H3 Side у блоці регіонів: розбавлена форма «Urlaub in Side 2026 mit Flug und Hotel» з анкором на /side",
+   "why": "ключ із регіоном: розбавлена форма + посилання на /tour/turkei/side"
+  }
+ },
+ "keywords_intro": "Кількість — точні входження або природна форма з тими самими словами («Urlaub in der Türkei buchen» зараховується за «urlaub türkei buchen»). Порядок — за частотністю.",
+ "keywords_note": "Усі інші ключі, що містять слова «türkei urlaub» (schnäppchen, billig, варіанти з All Inclusive, травень і жовтень), вписувати розбавлено — через «Urlaub in der Türkei».",
+ "diluted_forms": [
+  "Urlaub in der Türkei",
+  "Türkei Reise",
+  "Ferien in der Türkei"
+ ],
+ "lists": [
+  "Блок «günstig buchen»: маркований список із 4–5 порад, як заощадити (по одному реченню).",
+  "Блок «Sehenswürdigkeiten & Ausflüge»: маркований список із 5–6 місць, назва жирним + одне речення.",
+  "Блок «5 gute Gründe»: нумерований список із п'яти пунктів."
+ ],
+ "tables": [
+  "Таблиця 1, блок регіонів — порівняння курортів. Колонки: Region | Strand | Ideal für | Transfer ab Flughafen | Preis ab. Рядки: Antalya/Lara, Side, Alanya, Belek, Kemer, Bodrum. Ціни «ab … €» замовник підставляє з лістингу. Схожу таблицю має лише holidayplatz.",
+  "Таблиця 2, блок «Beste Reisezeit» — місяці. Колонки: Monat | Lufttemperatur | Wassertemperatur | Geeignet für. Рядки: April–Oktober (7 рядків) і один рядок «November–März». Кліматичні дані брати з climate-data.org: середні багаторічні значення для Antalya (температура повітря вдень і температура води). Якщо температури води для Antalya там немає — брати її з seatemperature.info для Antalya. Значення округлювати до цілих градусів. Над таблицею одне речення, що дані наведено для Турецької Рив'єри (Antalya); для Ägäis (Bodrum) вода в середньому на 1–2 °C холодніша.",
+  "Таблицю за місяцями не має жоден із 11 конкурентів (таблиці взагалі є у 3), тож це спосіб виділитися."
+ ],
+ "photos": [
+  "Усього 9–10 фото: 1 головне (узбережжя Рив'єри), 5 — по одному на кожен H3 регіонів, 1 — до блоку сезону, 2 — види відпочинку (пляж, сім'я), 1 — пам'ятки (Pamukkale або Kappadokien).",
+  "До кожного фото копірайтер дає унікальний alt німецькою з назвою місця, наприклад «Konyaaltı-Strand in Antalya mit Blick auf das Taurusgebirge». Зараз на сторінці шість зображень з однаковим alt «Türkei Urlaub»."
+ ],
+ "terms": {
+  "türkei": {
+   "uk": "Туреччина",
+   "where": "H2 / текст"
+  },
+  "alanya": {
+   "uk": "Аланія",
+   "where": "H3 / текст"
+  },
+  "türkischen riviera": {
+   "uk": "Турецька Рив'єра",
+   "where": "H2 / текст",
+   "name": "Türkische Riviera"
+  },
+  "hotels": {
+   "uk": "готелі",
+   "where": "текст"
+  },
+  "antalya": {
+   "uk": "Анталія",
+   "where": "H3 / текст"
+  },
+  "ägäis": {
+   "uk": "Егейське море / узбережжя",
+   "where": "H3 / текст"
+  },
+  "meer": {
+   "uk": "море",
+   "where": "текст"
+  },
+  "küste": {
+   "uk": "узбережжя",
+   "where": "текст"
+  },
+  "kemer": {
+   "uk": "Кемер",
+   "where": "H3 / текст"
+  },
+  "side": {
+   "uk": "Сіде",
+   "where": "H3 / текст"
+  },
+  "bodrum": {
+   "uk": "Бодрум",
+   "where": "H3 / текст"
+  },
+  "türkei urlaub": {
+   "uk": "відпочинок у Туреччині",
+   "where": "H2 / текст — у межах ліміту 8 точних входжень на сторінку (розділ 5)"
+  },
+  "kusadasi": {
+   "uk": "Кушадаси",
+   "where": "текст"
+  },
+  "oktober": {
+   "uk": "жовтень",
+   "where": "H3"
+  },
+  "strand": {
+   "uk": "пляж",
+   "where": "текст"
+  },
+  "sonne": {
+   "uk": "сонце",
+   "where": "текст"
+  },
+  "marmaris": {
+   "uk": "Мармарис",
+   "where": "текст"
+  },
+  "istanbul": {
+   "uk": "Стамбул",
+   "where": "текст"
+  },
+  "buchten": {
+   "uk": "бухти",
+   "where": "текст"
+  },
+  "reisezeit": {
+   "uk": "найкращий час для подорожі",
+   "where": "H2",
+   "name": "beste Reisezeit"
+  },
+  "mittelmeer": {
+   "uk": "Середземне море",
+   "where": "текст"
+  },
+  "strände": {
+   "uk": "пляжі",
+   "where": "текст"
+  },
+  "kultur": {
+   "uk": "культура",
+   "where": "текст"
+  },
+  "belek": {
+   "uk": "Белек",
+   "where": "H3 / текст"
+  },
+  "sandstränden": {
+   "uk": "піщані пляжі",
+   "where": "текст",
+   "name": "Sandstrände"
+  },
+  "fethiye": {
+   "uk": "Фетхіє",
+   "where": "текст"
+  },
+  "familien": {
+   "uk": "сім'ї",
+   "where": "текст"
+  },
+  "kappadokien": {
+   "uk": "Каппадокія",
+   "where": "текст"
+  },
+  "geschichte": {
+   "uk": "історія",
+   "where": "текст"
+  },
+  "badeurlaub": {
+   "uk": "пляжний (купальний) відпочинок",
+   "where": "H3 / текст"
+  },
+  "reiseziele": {
+   "uk": "напрямки подорожей",
+   "where": "H2"
+  },
+  "europa": {
+   "uk": "Європа",
+   "where": "текст"
+  },
+  "herbst": {
+   "uk": "осінь",
+   "where": "текст"
+  },
+  "temperaturen": {
+   "uk": "температури",
+   "where": "текст (таблиця сезонів)"
+  },
+  "pamukkale": {
+   "uk": "Памуккале",
+   "where": "текст"
+  },
+  "landschaften": {
+   "uk": "краєвиди",
+   "where": "текст"
+  },
+  "natur": {
+   "uk": "природа",
+   "where": "текст"
+  },
+  "türkischen ägäis": {
+   "uk": "Турецьке Егейське узбережжя",
+   "where": "H3 / текст",
+   "name": "Türkische Ägäis"
+  },
+  "urlaubsangebote": {
+   "uk": "пропозиції відпочинку",
+   "where": "H2"
+  },
+  "strandurlaub": {
+   "uk": "пляжний відпочинок",
+   "where": "H3"
+  },
+  "preisen": {
+   "uk": "ціни",
+   "where": "текст",
+   "name": "Preise"
+  },
+  "sommer": {
+   "uk": "літо",
+   "where": "текст"
+  },
+  "last minute": {
+   "uk": "гарячі тури",
+   "where": "лише анкор на /last-minute"
+  },
+  "sehenswürdigkeiten": {
+   "uk": "визначні пам'ятки",
+   "where": "H2"
+  },
+  "antiken stätten": {
+   "uk": "античні пам'ятки",
+   "where": "текст",
+   "name": "antike Stätten"
+  },
+  "restaurants": {
+   "uk": "ресторани",
+   "where": "текст"
+  },
+  "september": {
+   "uk": "вересень",
+   "where": "H3"
+  },
+  "winter": {
+   "uk": "зима",
+   "where": "текст"
+  },
+  "nachtleben": {
+   "uk": "нічне життя",
+   "where": "текст"
+  },
+  "klima": {
+   "uk": "клімат",
+   "where": "текст"
+  },
+  "lara": {
+   "uk": "Лара (район Анталії)",
+   "where": "H3 / текст (анкор на /antalya/lara)"
+  },
+  "südküste": {
+   "uk": "південне узбережжя",
+   "where": "текст"
+  },
+  "ruinen": {
+   "uk": "руїни",
+   "where": "текст"
+  },
+  "urlaubsorte": {
+   "uk": "курорти",
+   "where": "H2"
+  },
+  "pauschalreise": {
+   "uk": "пакетний тур",
+   "where": "лише анкор на /pauschalreise"
+  },
+  "ausflugsziele": {
+   "uk": "місця для екскурсій",
+   "where": "H2 / текст"
+  },
+  "all inclusive": {
+   "uk": "все включено",
+   "where": "лише анкор на /all-inclusive"
+  },
+  "resort": {
+   "uk": "курортний готель",
+   "where": "текст"
+  },
+  "wellness": {
+   "uk": "велнес",
+   "where": "текст"
+  },
+  "flug": {
+   "uk": "переліт",
+   "where": "H2 / текст"
+  },
+  "europa und asien": {
+   "uk": "Європа й Азія",
+   "where": "текст"
+  },
+  "moscheen": {
+   "uk": "мечеті",
+   "where": "текст"
+  },
+  "baden": {
+   "uk": "купання",
+   "where": "текст"
+  },
+  "direkt am meer": {
+   "uk": "просто біля моря",
+   "where": "текст"
+  },
+  "wetter": {
+   "uk": "погода",
+   "where": "текст / FAQ"
+  },
+  "frühling": {
+   "uk": "весна",
+   "where": "текст"
+  },
+  "städten": {
+   "uk": "міста",
+   "where": "текст",
+   "name": "Städte"
+  },
+  "april": {
+   "uk": "квітень",
+   "where": "текст"
+  },
+  "orient und okzident": {
+   "uk": "Схід і Захід",
+   "where": "текст"
+  },
+  "taurusgebirge": {
+   "uk": "гори Тавр",
+   "where": "текст"
+  },
+  "antike": {
+   "uk": "античність",
+   "where": "текст"
+  },
+  "küche": {
+   "uk": "кухня",
+   "where": "текст"
+  },
+  "ölüdeniz": {
+   "uk": "Олюденіз",
+   "where": "текст"
+  },
+  "bosporus": {
+   "uk": "Босфор",
+   "where": "текст"
+  },
+  "basar": {
+   "uk": "базар",
+   "where": "текст"
+  },
+  "altstadt": {
+   "uk": "старе місто",
+   "where": "текст"
+  },
+  "ephesos": {
+   "uk": "Ефес",
+   "where": "текст"
+  },
+  "türkei reisen": {
+   "uk": "подорожі до Туреччини",
+   "where": "текст"
+  },
+  "pauschalurlaub": {
+   "uk": "пакетний відпочинок",
+   "where": "лише анкор на /pauschalreise"
+  },
+  "reiseangebote": {
+   "uk": "туристичні пропозиції",
+   "where": "текст"
+  },
+  "türkische lira": {
+   "uk": "турецька ліра",
+   "where": "FAQ"
+  },
+  "urlaubsregionen": {
+   "uk": "курортні регіони",
+   "where": "H2"
+  },
+  "türkische küche": {
+   "uk": "турецька кухня",
+   "where": "текст"
+  },
+  "familienurlaub": {
+   "uk": "сімейний відпочинок",
+   "where": "H3"
+  },
+  "aktivurlauber": {
+   "uk": "любителі активного відпочинку",
+   "where": "текст"
+  },
+  "sightseeing": {
+   "uk": "огляд пам'яток",
+   "where": "текст"
+  },
+  "strandhotels": {
+   "uk": "готелі на пляжі",
+   "where": "текст"
+  },
+  "reisepass": {
+   "uk": "закордонний паспорт",
+   "where": "FAQ"
+  },
+  "bootstouren": {
+   "uk": "морські прогулянки",
+   "where": "текст"
+  },
+  "visum": {
+   "uk": "віза",
+   "where": "FAQ"
+  },
+  "attraktionen": {
+   "uk": "розваги, цікаві місця",
+   "where": "текст"
+  },
+  "städtetrip": {
+   "uk": "міська поїздка",
+   "where": "текст"
+  },
+  "ägäisküste": {
+   "uk": "егейське узбережжя",
+   "where": "текст"
+  },
+  "flugzeit": {
+   "uk": "тривалість перельоту",
+   "where": "FAQ"
+  },
+  "anreise": {
+   "uk": "як дістатися",
+   "where": "текст"
+  },
+  "erholung": {
+   "uk": "відпочинок, відновлення",
+   "where": "текст"
+  },
+  "dalyan": {
+   "uk": "Дальян",
+   "where": "текст"
+  },
+  "entspannung": {
+   "uk": "розслаблення",
+   "where": "текст"
+  },
+  "essen": {
+   "uk": "їжа",
+   "where": "текст"
+  },
+  "august": {
+   "uk": "серпень",
+   "where": "текст (таблиця сезонів)"
+  },
+  "badeorte": {
+   "uk": "курорти для купання",
+   "where": "текст"
+  },
+  "gastfreundschaft": {
+   "uk": "гостинність",
+   "where": "текст"
+  },
+  "entlang der küste": {
+   "uk": "уздовж узбережжя",
+   "where": "текст"
+  },
+  "mittelmeerküste": {
+   "uk": "середземноморське узбережжя",
+   "where": "текст"
+  },
+  "theater": {
+   "uk": "античний театр",
+   "where": "текст"
+  },
+  "sommerhitze": {
+   "uk": "літня спека",
+   "where": "текст (блок сезону)"
+  },
+  "lara beach": {
+   "uk": "пляж Лара",
+   "where": "текст"
+  },
+  "manavgat": {
+   "uk": "Манавгат",
+   "where": "текст"
+  },
+  "juni": {
+   "uk": "червень",
+   "where": "текст (таблиця сезонів)"
+  },
+  "golfplätze": {
+   "uk": "гольф-поля",
+   "where": "текст"
+  },
+  "thermalquellen": {
+   "uk": "термальні джерела",
+   "where": "текст"
+  },
+  "hagia sophia": {
+   "uk": "Свята Софія",
+   "where": "текст"
+  },
+  "mai und oktober": {
+   "uk": "травень і жовтень",
+   "where": "текст"
+  },
+  "aquaparks": {
+   "uk": "аквапарки",
+   "where": "текст"
+  },
+  "bergen": {
+   "uk": "гори",
+   "where": "текст",
+   "name": "Berge"
+  },
+  "landesinneren": {
+   "uk": "внутрішні райони країни",
+   "where": "текст",
+   "name": "Landesinnere"
+  },
+  "flach abfallenden sandstränden": {
+   "uk": "пляжі з пологим входом у море",
+   "where": "текст (H3 Familienurlaub)",
+   "name": "flach abfallende Sandstrände"
+  },
+  "lykischen küste": {
+   "uk": "Лікійське узбережжя",
+   "where": "текст",
+   "name": "Lykische Küste"
+  },
+  "metropole": {
+   "uk": "мегаполіс",
+   "where": "текст"
+  },
+  "aspendos": {
+   "uk": "Аспендос",
+   "where": "текст"
+  },
+  "burg": {
+   "uk": "фортеця",
+   "where": "текст"
+  },
+  "küstenabschnitt": {
+   "uk": "ділянка узбережжя",
+   "where": "текст"
+  },
+  "dalaman": {
+   "uk": "Даламан",
+   "where": "текст"
+  },
+  "apollon-tempel": {
+   "uk": "храм Аполлона",
+   "where": "текст"
+  },
+  "kindern": {
+   "uk": "діти (з дітьми)",
+   "where": "текст",
+   "name": "mit Kindern"
+  },
+  "blaue lagune": {
+   "uk": "Блакитна лагуна (Олюденіз)",
+   "where": "текст"
+  },
+  "naturwunder": {
+   "uk": "диво природи",
+   "where": "текст"
+  },
+  "gassen": {
+   "uk": "вулички",
+   "where": "текст"
+  },
+  "urlauber": {
+   "uk": "відпочивальники",
+   "where": "текст"
+  }
+ },
+ "terms_skip": [
+  "riviera",
+  "beach",
+  "hotel spa",
+  "sonne strand",
+  "ephesus",
+  "aktuelle urlaubsangebote",
+  "urlaubsangeboten für sonnenhungrige",
+  "erstklassigen hotels",
+  "traumstränden",
+  "traumhaften stränden",
+  "kemer beldibi",
+  "golf",
+  "strände kristallklares",
+  "langen sandstränden",
+  "antike ruinen"
+ ],
+ "terms_skip_reasons": {
+  "riviera": "дубль «Türkische Riviera»",
+  "beach": "частина назв пляжів і готелів",
+  "hotel spa": "частина назв готелів",
+  "sonne strand": "уривок переліку",
+  "ephesus": "дубль «Ephesos»",
+  "aktuelle urlaubsangebote": "дубль «Urlaubsangebote»",
+  "urlaubsangeboten für sonnenhungrige": "шаблонна фраза трьох споріднених сайтів",
+  "erstklassigen hotels": "рекламний штамп",
+  "traumstränden": "рекламний штамп",
+  "traumhaften stränden": "рекламний штамп",
+  "kemer beldibi": "назва району з лістингу",
+  "golf": "дубль «Golfplätze»",
+  "strände kristallklares": "уривок фрази",
+  "langen sandstränden": "дубль «Sandstrände»",
+  "antike ruinen": "дубль «Ruinen»"
+ },
+ "links": [
+  {
+   "page": "/tour/turkei/last-minute",
+   "anchors": [
+    "Last-Minute-Angebote Türkei",
+    "Last Minute Türkei"
+   ],
+   "where": "під лістингом, блок «günstig buchen»"
+  },
+  {
+   "page": "/tour/turkei/pauschalreise",
+   "anchors": [
+    "Pauschalreise Türkei",
+    "Pauschalreisen in die Türkei"
+   ],
+   "where": "блок «günstig buchen», блок про переліт і готель"
+  },
+  {
+   "page": "/tour/turkei/all-inclusive",
+   "anchors": [
+    "All Inclusive Urlaub Türkei",
+    "Türkei All Inclusive"
+   ],
+   "where": "блок видів відпочинку, блок «günstig buchen», FAQ про ціну"
+  },
+  {
+   "page": "/tour/turkei/antalya",
+   "anchors": [
+    "Urlaub in Antalya",
+    "Antalya Urlaub"
+   ],
+   "where": "H3 «Antalya & Lara», таблиця регіонів"
+  },
+  {
+   "page": "/tour/turkei/antalya/lara",
+   "anchors": [
+    "Lara Urlaub",
+    "Hotels in Lara"
+   ],
+   "where": "H3 «Antalya & Lara»"
+  },
+  {
+   "page": "/tour/turkei/side",
+   "anchors": [
+    "Urlaub in Side",
+    "Side Urlaub"
+   ],
+   "where": "H3 «Side», таблиця регіонів"
+  },
+  {
+   "page": "/tour/turkei/reisehinweise",
+   "anchors": [
+    "Reisehinweise Türkei",
+    "Einreise & Sicherheit in der Türkei"
+   ],
+   "where": "FAQ, питання 5 (окремого блоку про в'їзд і безпеку на хабі немає)"
+  },
+  {
+   "page": "/tour/turkei/reisezeit",
+   "anchors": [
+    "Beste Reisezeit Türkei",
+    "Türkei im November und Dezember"
+   ],
+   "where": "кінець блоку «Beste Reisezeit», перше питання FAQ"
+  }
+ ],
+ "links_extra": [
+  {
+   "page": "/tour/turkei/alanya",
+   "state": "існує",
+   "anchors": [
+    "Urlaub in Alanya",
+    "Alanya Urlaub"
+   ],
+   "where": "відповідний H3 блоку регіонів (додатково до обов'язкових)"
+  },
+  {
+   "page": "/tour/turkei/kemer",
+   "state": "існує",
+   "anchors": [
+    "Urlaub in Kemer",
+    "Kemer Urlaub"
+   ],
+   "where": "відповідний H3 блоку регіонів (додатково до обов'язкових)"
+  },
+  {
+   "page": "/tour/turkei/bodrum",
+   "state": "існує",
+   "anchors": [
+    "Urlaub in Bodrum",
+    "Bodrum Urlaub"
+   ],
+   "where": "відповідний H3 блоку регіонів (додатково до обов'язкових)"
+  }
+ ],
+ "links_skip": {
+  "/hotels/turkei": "поза переліком обов'язкових посилань хаба з етапу 1; посилання — з блоку готелів і навігації",
+  "/tour/turkei/rundreisen": "поза переліком обов'язкових посилань хаба з етапу 1; інший продукт",
+  "/tour/turkei/ratgeber": "поза переліком обов'язкових посилань хаба з етапу 1",
+  "/tour/turkei/side/pauschalreise": "поза переліком обов'язкових посилань хаба з етапу 1; матриця, посилання — зі сторінки Side",
+  "/tour/turkei/antalya/last-minute": "поза переліком обов'язкових посилань хаба з етапу 1; матриця, посилання — зі сторінки Antalya"
+ },
+ "links_note": "Зараз хаб посилається лише на /tour/turkei/all-inclusive, /tour/turkei/antalya, /tour/turkei/side з восьми обов'язкових сторінок.",
+ "bans": [
+  "Слово «billig» — не більше двох разів на текст; далі «günstig», «preiswert», «zum kleinen Preis».",
+  "Не вписувати довгі ключі дослівно, якщо фраза звучить неприродно («türkei urlaub günstig all inclusive mit flug»): достатньо, щоб слова стояли в одному реченні.",
+  "Не писати про погоду по днях, курс валют і чинні попередження МЗС із конкретними датами — це зміст /reisezeit і /reisehinweise; на хабі лише короткий підсумок і посилання.",
+  "Без тексту, згенерованого шаблонно під кожен регіон: у кожному H3 мають бути факти саме про цей курорт."
+ ],
+ "competitors_better": [
+  "Текст. Медіана 4 413 символів проти приблизно 900 на reisemu.de; у п'яти лідерів 8 400–12 100.",
+  "Блок регіонів (заголовки або добірка посилань на курорти) має 9 з 11 конкурентів, у більшості з текстом; на reisemu.de це лише посилання з цінами.",
+  "Блок про сезон і клімат — 6 з 11; FAQ — 7 з 11. На reisemu.de немає ні того, ні того.",
+  "Title. «Türkei Urlaub» у title мають 7 з 11, слово «günstig» — 8, рік — 3. Title reisemu.de має 88 символів і містить Last-Minute, Pauschalreisen та All-inclusive, а головного ключа в ньому немає.",
+  "Структуровані дані: check24 і holidayplatz мають AggregateRating, три сторінки — FAQPage; на reisemu.de розмітки JSON-LD не знайдено."
+ ],
+ "how_to_beat": [
+  "Таблиця за місяцями з температурою повітря й води — її немає в жодного з конкурентів.",
+  "Порівняльна таблиця регіонів із реальними цінами «ab … €» з власного лістингу (ціни за регіонами на сторінці вже є). Серед конкурентів таку таблицю має лише holidayplatz.",
+  "Окремий блок «günstig buchen» з конкретними порадами: у конкурентів це здебільшого один рекламний абзац, хоча ключ «türkei urlaub günstiger» ранжується саме на хабах.",
+  "FAQ із шістьма питаннями та розміткою FAQPage; відповідь про документи й безпеку веде на власний гайд /tour/turkei/reisehinweise.",
+  "Чітке розведення тем: хаб не конкурує з власними сторінками Last Minute, Pauschalreise і All Inclusive, а посилається на них — у schauinsland, anextour і restplatzboerse ці слова змішані в заголовках хаба.",
+  "Унікальні alt у фото й зміст-навігація (якорі на H2) на початку сторінки, як у schauinsland."
+ ],
+ "meta": {
+  "note": "Title міняти після запуску /tour/turkei/last-minute (етап 1: зараз сторінка має позицію 23 за «türkei last minute»). «günstig» узято в title і description, бо «türkei urlaub günstiger» (3 600) ранжується саме на хабах країни (8 із 9), а слово є в title у 8 з 11 конкурентів.",
+  "A": {
+   "condition": "Впроваджувати зараз (title — після запуску /tour/turkei/last-minute).",
+   "title": {
+    "text": "Türkei Urlaub 2026/2027 günstig buchen | reisemu.de",
+    "why": "Головний ключ на початку, рік (ключі «türkei urlaub 2026/2027», 5 990 запитів) і «günstig buchen» (ключі «…günstiger», «urlaub türkei buchen»). Та сама формула в ТОП-3: sonnenklar («Türkei Urlaub 2026 / 2027 günstig buchen») і holidaycheck («Türkei Urlaub 2026/2027 • Günstig buchen bei …»). Title holidaycheck узято з даних SERP етапу 1, бо сама сторінка не відкрилася (HTTP 400). Символів немає."
+   },
+   "description": {
+    "text": "Türkei Urlaub 2026/2027 günstig buchen ✈ Reisen mit Flug & Hotel ✓ Antalya, Side, Alanya & Bodrum ✓ Beste Reisezeit & Tipps. Jetzt Angebote vergleichen!",
+    "why": "Початок збігається з title і H1; далі пакет «Flug & Hotel», чотири регіони й сезон — те, що є в блоках сторінки. Символи: ✈ один раз біля «Flug», ✓ двічі."
+   },
+   "h1": {
+    "text": "Türkei Urlaub 2026/2027 günstig buchen",
+    "why": "Дослівно основа title: головний ключ, рік і «günstig buchen»."
+   }
+  },
+  "tests": [
+   {
+    "name": "Комплект B",
+    "condition": "Пробувати, якщо через 8–12 тижнів CTR сторінки в GSC нижчий за середній по сайту на тих самих позиціях, або якщо сторінка збирає покази переважно за запитами з «buchen», «mit Flug», «Reise», а не з «günstig».",
+    "title": {
+     "text": "Türkei Urlaub buchen: Reisen mit Flug & Hotel 2026/2027",
+     "why": "Без «günstig»: акцент на бронюванні й пакеті «переліт + готель» (ключі «urlaub türkei buchen», «türkei urlaub mit flug», «türkei reise»). Слово Pauschalreise не використано — воно для /pauschalreise."
+    },
+    "description": {
+     "text": "Urlaub in der Türkei buchen: günstige Angebote mit Flug und Hotel an der Türkischen Riviera & Ägäis. Regionen, Reisezeit und Preise im Überblick.",
+     "why": "Без символів: природна форма «Urlaub in der Türkei buchen», семантичні слова «Türkische Riviera», «Ägäis», «Reisezeit»."
+    },
+    "h1": {
+     "text": "Türkei Urlaub: Reisen mit Flug & Hotel buchen",
+     "why": "Пара до title комплекту B. Без року — не потребує щорічного оновлення."
+    }
+   },
+   {
+    "name": "Комплект C",
+    "condition": "Пробувати, якщо сторінка вийшла в ТОП-10 за «türkei urlaub» або «türkei urlaub günstiger» і треба посилити клікабельність, а лістинг стабільно показує ціни «ab … €». H1 лишається з комплекту A — міняються лише title і description.",
+    "title": {
+     "text": "Türkei Urlaub günstig buchen – Angebote 2026 | reisemu.de",
+     "why": "Ціновий акцент («günstig», «Angebote») для кластера K07; рік лише поточний."
+    },
+    "description": {
+     "text": "Türkei Urlaub günstig buchen ✓ Aktuelle Angebote 2026 mit Flug & Hotel ✓ Antalya, Side, Alanya & Bodrum im Preisvergleich. Jetzt Reise sichern!",
+     "why": "Ціновий акцент, як у title; ✓ двічі, інших символів немає."
+    },
+    "h1": {
+     "text": "Türkei Urlaub 2026/2027 günstig buchen",
+     "why": "Той самий H1, що в комплекті A: узгоджений із title («Türkei Urlaub günstig buchen»)."
+    }
+   }
+  ],
+  "current_notes": {
+   "title": "Довший за 60 символів і містить головні ключі трьох інших сторінок (Last-Minute, Pauschalreisen, All-inclusive), а головного ключа «Türkei Urlaub» у ньому немає.",
+   "description": "Теж про all inclusive і Last-Minute Pauschalreisen; містить кольоровий емодзі.",
+   "h1": "Лише головний ключ, без року й «günstig buchen»."
+  }
+ },
+ "developer": [
+  "Title міняти після запуску /tour/turkei/last-minute: зараз сторінка має позицію 23 за «türkei last minute» (етап 1).",
+  "Лістинг: перейменувати заголовок «Last-Minute-Angebote» на нейтральний «Aktuelle Angebote»; під лістингом поставити посилання «Last-Minute-Angebote Türkei» на /tour/turkei/last-minute (після запуску сторінки).",
+  "Порядок блоків: H1 → 1–2 речення вступу → лістинг → увесь текст; зараз текст стоїть унизу сторінки одним блоком без заголовків H2."
+ ],
+ "subtopics_uk": {
+  "Beliebte Ausflugsziele im Türkei Urlaub": "популярні напрямки й курорти",
+  "Wann ist die beste Reisezeit für einen Türkei Urlaub?": "найкращий час для поїздки",
+  "Türkische Riviera": "Турецька Рив'єра й Егейське узбережжя",
+  "Aktuelle Urlaubsangebote für die Türkei": "актуальні пропозиції",
+  "Familienhotels Türkei": "сімейні готелі й сімейний відпочинок",
+  "FAQ: Häufige Fragen zu Ihrem Türkei Urlaub": "поширені запитання",
+  "Die besten Hotels an der Türkischen Riviera": "найкращі готелі Рив'єри",
+  "Badeurlaub in der Türkei": "пляжний відпочинок",
+  "Erwachsenenhotel Türkei – Adults Only All Inclusive 2026/2027": "готелі лише для дорослих",
+  "Alanya oder Side?": "порівняння курортів",
+  "Klima & beste Reisezeit Türkische Riviera": "клімат і сезон на Рив'єрі",
+  "Aktivitäten und Urlaubsarten für deine Pauschalreise: Türkei erleben": "види відпочинку",
+  "Kemer & Beldibi": "Кемер і Бельдібі",
+  "Bodrum": "Бодрум",
+  "Inspirationen für Ihren nächsten Urlaub aus unserem Reiseblog": "статті блогу",
+  "Istanbul & Umgebung": "Стамбул",
+  "Türkei Urlaub 2026/2027 günstig buchen – Tipps & Angebote": "вигідне бронювання"
+ },
+ "gaps_declined": {}
+}

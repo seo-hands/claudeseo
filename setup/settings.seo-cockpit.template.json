@@ -1,0 +1,15 @@
+{
+ "pluginConfigs": {
+  "seo-cockpit@agricidaniel-claude-seo": {
+   "options": {
+    "spendGuard": true,
+    "auditBand": true,
+    "economy": false,
+    "site": "",
+    "auditsFolder": "{{ROOT}}",
+    "googleAccount": "auto",
+    "python": "{{PYTHON}}"
+   }
+  }
+ }
+}

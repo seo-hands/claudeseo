@@ -1,0 +1,76 @@
+{
+ "business_rules": [],
+ "keyword_overrides": {
+  "pauschalreise türkei lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "reason": "За рішенням власника: окрема сторінка Lara."
+  },
+  "pauschalreise türkei side all inclusive": {
+   "page": "/tour/turkei/side/pauschalreise",
+   "reason": "За вказівкою: матриця Side + Pauschalreise разом з «pauschalreise side türkei»; All inclusive тут лише уточнення."
+  }
+ },
+ "contested_verdicts": {
+  "/tour/turkei/all-inclusive": {
+   "verdict": "окрема",
+   "reason": "sonnenklar.tv (/urlaub vs /all-inclusive) і lidl-reisen.de: різні H1, 590–1045 слів власного тексту, збіг тексту ≈0 → окрема посадкова, не фільтр"
+  },
+  "/tour/turkei/pauschalreise": {
+   "verdict": "окрема",
+   "reason": "sonnenklar.tv і coraltravel.de: різні H1 («Pauschalreise Türkei», «Türkei Urlaub 2026 – Pauschalreisen…»), 379–1875 слів власного тексту, збіг ≈0 → окрема посадкова"
+  },
+  "/tour/turkei/antalya/last-minute": {
+   "verdict": "окрема",
+   "reason": "lidl-reisen.de має обидві сторінки («Urlaub Antalya» і «Last Minute Urlaub Antalya»), ~1000 слів власного тексту кожна, збіг 0; sonnenklar, TUI, ANEX мають окремі Last-Minute-Antalya (200–667 слів). Підтверджено лише частково: пару «хаб + last minute» разом має тільки lidl"
+  },
+  "/hotels/turkei": {
+   "verdict": "окрема",
+   "reason": "tui.com/hotels/tuerkei — окрема сторінка («Türkei Hotel», ~780 слів власного тексту) поруч із хабом /urlaub/tuerkei; holidaycheck недоступний (400), restplatzboerse рендериться JS. Застосовано лише до ключів про готелі"
+  }
+ },
+ "manual_check": {
+  "urlaub türkei buchen": "ТОП розкиданий: готелі, регіони, мало спільних URL із «türkei urlaub»; перевірити вручну"
+ },
+ "page_notes": {
+  "/tour/turkei/all-inclusive": "⚠ КАНІБАЛІЗАЦІЯ: сторінка існує, але показує той самий блок «Last-Minute-Angebote», що й /tour/turkei.",
+  "/tour/turkei/last-minute": "⚠ КАНІБАЛІЗАЦІЯ: /tour/turkei має title «Last-Minute-Angebote» і ранжується за last minute (поз. 23), а ще є загальна /last-minute-reisen.",
+  "/tour/turkei/pauschalreise": "Окремий тип сторінки конкурентів (pauschalreise) + бізнес-правило: усі ключі з «Pauschalreise» (без регіону й без last minute) ведуть сюди, хаб під цей запит не оптимізуємо.",
+  "/tour/turkei/antalya/lara": "Нова сторінка Lara (рішення власника): опис курорту, список готелів з фільтрами 4–5★/All Inclusive, короткий блок «Beste Reisezeit» (без прив'язки до ключів), FAQ. Погодні/картографічні ключі Lara не цільові (відфільтровані: у ТОП погодні сервіси). Окремі готелі (Liberty Lara, Fame Residence…) — на сторінки готелів, див. аркуш «Готелі Lara»."
+ },
+ "known_positions": {
+  "last minute türkei": "23 (Labs, за «türkei last minute»)",
+  "last minute urlaub türkei all inclusive": "23 (Labs)"
+ },
+ "manual_filter": {
+  "günstig in die türkei fliegen": "запит про авіаквитки, не тур",
+  "türkei lara wetter": "інформаційний інтент, у ТОП погодні/картографічні сервіси",
+  "wetter lara türkei 30 tage": "інформаційний інтент, у ТОП погодні/картографічні сервіси",
+  "wetter lara türkei 16 tage": "інформаційний інтент, у ТОП погодні/картографічні сервіси",
+  "türkei lara karte": "інформаційний інтент, у ТОП погодні/картографічні сервіси",
+  "wetter lara türkei 7 tage": "інформаційний інтент, у ТОП погодні/картографічні сервіси",
+  "wetter lara türkei 10-tage": "інформаційний інтент, у ТОП погодні/картографічні сервіси",
+  "wetter lara türkei oktober": "інформаційний інтент, у ТОП погодні/картографічні сервіси",
+  "wetter lara türkei aktuell": "інформаційний інтент, у ТОП погодні/картографічні сервіси"
+ },
+ "page_overrides": {
+  "last minute urlaub antalya lara": "/tour/turkei/antalya/last-minute",
+  "last minute urlaub türkei lara": "/tour/turkei/antalya/last-minute",
+  "last minute urlaub lara": "/tour/turkei/antalya/last-minute"
+ },
+ "region_pages": {
+  "lara": "/tour/turkei/antalya/lara"
+ },
+ "serp_manual_check": {
+  "keyword": "türkei urlaub",
+  "domains": [
+   "schauinsland-reisen",
+   "holidaycheck",
+   "sonnenklar",
+   "anextour",
+   "coraltravel",
+   "aldi-reisen",
+   "restplatzboerse",
+   "check24"
+  ]
+ }
+}

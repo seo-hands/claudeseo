@@ -1,0 +1,3347 @@
+{
+ "clusters": [
+  {
+   "id": "K01a",
+   "key": "urlaub_core",
+   "name": "Türkei Urlaub: бронювання, рік, з перельотом",
+   "members": [
+    "türkei urlaub",
+    "urlaub türkei buchen",
+    "türkei urlaub 2026",
+    "türkei buchen",
+    "türkei urlaub 2027",
+    "türkei strandurlaub",
+    "türkei urlaub mit flug",
+    "kurzurlaub türkei"
+   ],
+   "head": "türkei urlaub",
+   "total": 74960,
+   "intent": "commercial",
+   "page": "/tour/turkei",
+   "top_type": "хаб країни",
+   "top_share": 0.49295774647887325,
+   "top_count": "35/71",
+   "statuses": {
+    "рекомендовано": 4,
+    "перевірити вручну": 1,
+    "спірно (не перевірено)": 3
+   },
+   "split": true,
+   "base": "K01",
+   "label": "K01a · türkei urlaub"
+  },
+  {
+   "id": "K02",
+   "key": "info_warnung",
+   "name": "Türkei: Reisewarnung, aktuelle Lage, Sicherheit",
+   "members": [
+    "reise türkei warnung",
+    "türkei urlaub reisewarnung",
+    "türkei reise aktuell",
+    "reise türkei sicher"
+   ],
+   "head": "reise türkei warnung",
+   "total": 29990,
+   "intent": "informational",
+   "page": "/tour/turkei/reisehinweise",
+   "top_type": "інформаційна",
+   "top_share": 0.8857142857142857,
+   "top_count": "31/35",
+   "statuses": {
+    "рекомендовано": 4
+   },
+   "split": false,
+   "base": "K02",
+   "label": "K02 · reise türkei warnung"
+  },
+  {
+   "id": "K04",
+   "key": "pauschal",
+   "name": "Pauschalreise Türkei",
+   "members": [
+    "pauschalreise türkei",
+    "pauschalreise türkei all inclusive",
+    "pauschalreisen türkei 2026",
+    "pauschalreise günstig türkei",
+    "pauschalreisen türkei all inclusive günstig",
+    "pauschalreise türkei all inclusive 2026",
+    "türkei urlaub pauschalreise"
+   ],
+   "head": "pauschalreise türkei",
+   "total": 13960,
+   "intent": "commercial",
+   "page": "/tour/turkei/pauschalreise",
+   "top_type": "pauschalreise (країна)",
+   "top_share": 0.2698412698412698,
+   "top_count": "17/63",
+   "statuses": {
+    "рекомендовано": 2,
+    "за бізнес-правилом": 5
+   },
+   "split": false,
+   "base": "K04",
+   "label": "K04 · pauschalreise türkei"
+  },
+  {
+   "id": "K03a",
+   "key": "allinclusive",
+   "name": "Türkei All Inclusive",
+   "members": [
+    "all-inclusive urlaub türkei",
+    "all inclusive reise türkei"
+   ],
+   "head": "all-inclusive urlaub türkei",
+   "total": 10110,
+   "intent": "commercial",
+   "page": "/tour/turkei/all-inclusive",
+   "top_type": "all inclusive (регіон)",
+   "top_share": 0.375,
+   "top_count": "6/16",
+   "statuses": {
+    "спірно → підтверджено перевіркою": 1,
+    "рекомендовано": 1
+   },
+   "split": true,
+   "base": "K03",
+   "label": "K03a · all-inclusive urlaub türkei"
+  },
+  {
+   "id": "K03b",
+   "key": "allinclusive",
+   "name": "Türkei All Inclusive",
+   "members": [
+    "türkei urlaub 2026 all inclusive mit flug und hotel",
+    "türkei urlaub all inclusive günstig",
+    "türkei urlaub günstig all inclusive mit flug",
+    "urlaub türkei 2026 all inclusive"
+   ],
+   "head": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "total": 8600,
+   "intent": "commercial",
+   "page": "/tour/turkei",
+   "top_type": "хаб країни",
+   "top_share": 0.3055555555555556,
+   "top_count": "11/36",
+   "statuses": {
+    "спірно (не перевірено)": 4
+   },
+   "split": true,
+   "base": "K03",
+   "label": "K03b · türkei urlaub 2026 all inclusive mit flug und hotel"
+  },
+  {
+   "id": "K05a",
+   "key": "region_side",
+   "name": "Регіон: Side",
+   "members": [
+    "urlaub side türkei",
+    "reise türkei side"
+   ],
+   "head": "urlaub side türkei",
+   "total": 6770,
+   "intent": "commercial",
+   "page": "/tour/turkei/side",
+   "top_type": "готель (регіон)",
+   "top_share": 0.3888888888888889,
+   "top_count": "7/18",
+   "statuses": {
+    "рекомендовано": 2
+   },
+   "split": true,
+   "base": "K05",
+   "label": "K05a · urlaub side türkei"
+  },
+  {
+   "id": "K06",
+   "key": "lastminute",
+   "name": "Last Minute Türkei",
+   "members": [
+    "last minute türkei",
+    "last minute urlaub türkei",
+    "last minute türkei all inclusive",
+    "last minute urlaub türkei all inclusive",
+    "super last minute türkei all inclusive",
+    "türkei last minute angebote",
+    "türkei reise last minute",
+    "pauschalreisen türkei last minute"
+   ],
+   "head": "last minute türkei",
+   "total": 6140,
+   "intent": "commercial",
+   "page": "/tour/turkei/last-minute",
+   "top_type": "last minute (країна)",
+   "top_share": 0.5138888888888888,
+   "top_count": "37/72",
+   "statuses": {
+    "рекомендовано": 8
+   },
+   "split": false,
+   "base": "K06",
+   "label": "K06 · last minute türkei"
+  },
+  {
+   "id": "K07",
+   "key": "urlaub_price",
+   "name": "Türkei Urlaub: günstig / billig / Schnäppchen",
+   "members": [
+    "türkei urlaub günstiger",
+    "türkei urlaub buchen günstig",
+    "türkei reise günstig",
+    "türkei reise billig",
+    "günstig türkei",
+    "billig türkei urlaub",
+    "schnäppchen türkei urlaub"
+   ],
+   "head": "türkei urlaub günstiger",
+   "total": 5200,
+   "intent": "commercial",
+   "page": "/tour/turkei",
+   "top_type": "хаб країни",
+   "top_share": 0.6666666666666666,
+   "top_count": "42/63",
+   "statuses": {
+    "рекомендовано": 6,
+    "спірно (не перевірено)": 1
+   },
+   "split": false,
+   "base": "K07",
+   "label": "K07 · türkei urlaub günstiger"
+  },
+  {
+   "id": "K08",
+   "key": "hotel",
+   "name": "Hotels Türkei",
+   "members": [
+    "hotel türkei"
+   ],
+   "head": "hotel türkei",
+   "total": 4400,
+   "intent": "navigational",
+   "page": "/hotels/turkei",
+   "top_type": "готель",
+   "top_share": 0.5714285714285714,
+   "top_count": "4/7",
+   "statuses": {
+    "рекомендовано": 1
+   },
+   "split": false,
+   "base": "K08",
+   "label": "K08 · hotel türkei"
+  },
+  {
+   "id": "K09",
+   "key": "reise",
+   "name": "Türkei Reise / Reisen: buchen, nach",
+   "members": [
+    "türkei reise",
+    "reise türkei buchen"
+   ],
+   "head": "türkei reise",
+   "total": 2880,
+   "intent": "informational",
+   "page": "/tour/turkei",
+   "top_type": "хаб країни",
+   "top_share": 0.6111111111111112,
+   "top_count": "11/18",
+   "statuses": {
+    "спірно (не перевірено)": 1,
+    "рекомендовано": 1
+   },
+   "split": false,
+   "base": "K09",
+   "label": "K09 · türkei reise"
+  },
+  {
+   "id": "K10a",
+   "key": "urlaub_season",
+   "name": "Türkei Urlaub за місяцями (Mai, September, Oktober, November, Dezember)",
+   "members": [
+    "türkei im oktober urlaub",
+    "september türkei urlaub",
+    "mai urlaub türkei"
+   ],
+   "head": "türkei im oktober urlaub",
+   "total": 1650,
+   "intent": "commercial",
+   "page": "/tour/turkei",
+   "top_type": "хаб країни",
+   "top_share": 0.52,
+   "top_count": "13/25",
+   "statuses": {
+    "рекомендовано": 2,
+    "окрема сторінка не потрібна": 1
+   },
+   "split": true,
+   "base": "K10",
+   "label": "K10a · türkei im oktober urlaub"
+  },
+  {
+   "id": "K11",
+   "key": "info_einreise",
+   "name": "Türkei: Einreise, Personalausweis, Visum",
+   "members": [
+    "reise türkei mit personalausweis",
+    "türkei reise personalausweis",
+    "personalausweis für türkei reise"
+   ],
+   "head": "reise türkei mit personalausweis",
+   "total": 1440,
+   "intent": "informational",
+   "page": "/tour/turkei/reisehinweise",
+   "top_type": "інформаційна",
+   "top_share": 0.8518518518518519,
+   "top_count": "23/27",
+   "statuses": {
+    "рекомендовано": 3
+   },
+   "split": false,
+   "base": "K11",
+   "label": "K11 · reise türkei mit personalausweis"
+  },
+  {
+   "id": "K12",
+   "key": "rundreise_core",
+   "name": "Türkei Rundreise: загальні, ціна, на власний розсуд",
+   "members": [
+    "türkei rundreise",
+    "türkei rundreise 2026",
+    "türkei rundreise 149 euro",
+    "türkei rundreise auf eigene faust"
+   ],
+   "head": "türkei rundreise",
+   "total": 1190,
+   "intent": "commercial",
+   "page": "/tour/turkei/rundreisen",
+   "top_type": "rundreise",
+   "top_share": 0.8529411764705882,
+   "top_count": "29/34",
+   "statuses": {
+    "рекомендовано": 4
+   },
+   "split": false,
+   "base": "K12",
+   "label": "K12 · türkei rundreise"
+  },
+  {
+   "id": "K05b",
+   "key": "region_side",
+   "name": "Регіон: Side",
+   "members": [
+    "pauschalreise side türkei",
+    "pauschalreise türkei side all inclusive"
+   ],
+   "head": "pauschalreise side türkei",
+   "total": 800,
+   "intent": "commercial",
+   "page": "/tour/turkei/side/pauschalreise",
+   "top_type": "pauschalreise (регіон)",
+   "top_share": 0.5625,
+   "top_count": "9/16",
+   "statuses": {
+    "рекомендовано": 1,
+    "за рішенням власника": 1
+   },
+   "split": true,
+   "base": "K05",
+   "label": "K05b · pauschalreise side türkei"
+  },
+  {
+   "id": "K13a",
+   "key": "region_antalya",
+   "name": "Регіон: Antalya",
+   "members": [
+    "türkei antalya last minute",
+    "last minute türkei antalya all inclusive"
+   ],
+   "head": "türkei antalya last minute",
+   "total": 800,
+   "intent": "informational",
+   "page": "/tour/turkei/antalya/last-minute",
+   "top_type": "last minute (регіон)",
+   "top_share": 0.5,
+   "top_count": "9/18",
+   "statuses": {
+    "рекомендовано": 1,
+    "спірно → підтверджено перевіркою": 1
+   },
+   "split": true,
+   "base": "K13",
+   "label": "K13a · türkei antalya last minute"
+  },
+  {
+   "id": "K10b",
+   "key": "urlaub_season",
+   "name": "Türkei Urlaub за місяцями (Mai, September, Oktober, November, Dezember)",
+   "members": [
+    "november türkei urlaub",
+    "dezember türkei urlaub"
+   ],
+   "head": "november türkei urlaub",
+   "total": 600,
+   "intent": "transactional",
+   "page": "/tour/turkei/reisezeit",
+   "top_type": "інформаційна",
+   "top_share": 0.9333333333333333,
+   "top_count": "14/15",
+   "statuses": {
+    "рекомендовано": 2
+   },
+   "split": true,
+   "base": "K10",
+   "label": "K10b · november türkei urlaub"
+  },
+  {
+   "id": "K05c",
+   "key": "region_side",
+   "name": "Регіон: Side",
+   "members": [
+    "türkei urlaub 2026 all inclusive mit flug und hotel side"
+   ],
+   "head": "türkei urlaub 2026 all inclusive mit flug und hotel side",
+   "total": 590,
+   "intent": "commercial",
+   "page": "/tour/turkei",
+   "top_type": "хаб регіону",
+   "top_share": 0.3333333333333333,
+   "top_count": "3/9",
+   "statuses": {
+    "спірно (не перевірено)": 1
+   },
+   "split": true,
+   "base": "K05",
+   "label": "K05c · türkei urlaub 2026 all inclusive mit flug und hotel side"
+  },
+  {
+   "id": "K01b",
+   "key": "urlaub_core",
+   "name": "Türkei Urlaub: бронювання, рік, з перельотом",
+   "members": [
+    "türkei urlaub meer",
+    "ferien türkei"
+   ],
+   "head": "türkei urlaub meer",
+   "total": 310,
+   "intent": "informational",
+   "page": "/tour/turkei/ratgeber",
+   "top_type": "інформаційна",
+   "top_share": 0.7058823529411765,
+   "top_count": "12/17",
+   "statuses": {
+    "рекомендовано": 2
+   },
+   "split": true,
+   "base": "K01",
+   "label": "K01b · türkei urlaub meer"
+  },
+  {
+   "id": "K14",
+   "key": "rundreise_dauer",
+   "name": "Türkei Rundreise за тривалістю (7/10/14 днів, 2 тижні)",
+   "members": [
+    "türkei rundreise 7 tage",
+    "türkei rundreise 14 tage",
+    "türkei rundreise 10 tage",
+    "2 wochen türkei rundreise"
+   ],
+   "head": "türkei rundreise 7 tage",
+   "total": 300,
+   "intent": "informational",
+   "page": "/tour/turkei/rundreisen",
+   "top_type": "rundreise",
+   "top_share": 1.0,
+   "top_count": "36/36",
+   "statuses": {
+    "рекомендовано": 4
+   },
+   "split": false,
+   "base": "K14",
+   "label": "K14 · türkei rundreise 7 tage"
+  },
+  {
+   "id": "K15",
+   "key": "rundreise_baden",
+   "name": "Türkei Rundreise + Badeurlaub",
+   "members": [
+    "rundreise türkei mit badeurlaub",
+    "türkei rundreise kappadokien und baden",
+    "türkei rundreise und baden"
+   ],
+   "head": "rundreise türkei mit badeurlaub",
+   "total": 200,
+   "intent": "commercial",
+   "page": "/tour/turkei/rundreisen",
+   "top_type": "rundreise",
+   "top_share": 0.7777777777777778,
+   "top_count": "21/27",
+   "statuses": {
+    "рекомендовано": 3
+   },
+   "split": false,
+   "base": "K15",
+   "label": "K15 · rundreise türkei mit badeurlaub"
+  },
+  {
+   "id": "K13b",
+   "key": "region_antalya",
+   "name": "Регіон: Antalya",
+   "members": [
+    "pauschalreise türkei lara"
+   ],
+   "head": "pauschalreise türkei lara",
+   "total": 170,
+   "intent": "commercial",
+   "page": "/tour/turkei/antalya/lara",
+   "top_type": "готель (регіон)",
+   "top_share": 0.4444444444444444,
+   "top_count": "4/9",
+   "statuses": {
+    "за рішенням власника": 1
+   },
+   "split": true,
+   "base": "K13",
+   "label": "K13b · pauschalreise türkei lara"
+  },
+  {
+   "id": "K16",
+   "key": "rundreise_region",
+   "name": "Türkei Rundreise: регіони й міста",
+   "members": [
+    "türkei kappadokien rundreise",
+    "türkei rundreise istanbul kappadokien pamukkale",
+    "rundreise schwarzmeerküste türkei",
+    "rundreise türkei mit istanbul"
+   ],
+   "head": "türkei kappadokien rundreise",
+   "total": 170,
+   "intent": "commercial",
+   "page": "/tour/turkei/rundreisen",
+   "top_type": "rundreise",
+   "top_share": 0.8571428571428571,
+   "top_count": "30/35",
+   "statuses": {
+    "рекомендовано": 4
+   },
+   "split": false,
+   "base": "K16",
+   "label": "K16 · türkei kappadokien rundreise"
+  },
+  {
+   "id": "K01c",
+   "key": "urlaub_core",
+   "name": "Türkei Urlaub: бронювання, рік, з перельотом",
+   "members": [
+    "flugreise türkei"
+   ],
+   "head": "flugreise türkei",
+   "total": 140,
+   "intent": "commercial",
+   "page": "/tour/turkei/pauschalreise",
+   "top_type": "pauschalreise (країна)",
+   "top_share": 0.5555555555555556,
+   "top_count": "5/9",
+   "statuses": {
+    "рекомендовано": 1
+   },
+   "split": true,
+   "base": "K01",
+   "label": "K01c · flugreise türkei"
+  },
+  {
+   "id": "L01",
+   "key": "lara_general",
+   "name": "Lara: загальні запити (опис, відпочинок, FAQ)",
+   "members": [
+    "lara türkei",
+    "urlaub türkei lara",
+    "lara urlaub",
+    "lara türkei strand",
+    "urlaub antalya lara",
+    "türkei lara beach",
+    "türkei lara sehenswürdigkeiten",
+    "wo liegt lara in der türkei",
+    "lara urlaub angebote",
+    "urlaub türkei lara günstig",
+    "antalya lara urlaub all inclusive mit flug",
+    "urlaub türkei lara 2026",
+    "urlaub lara beach türkei",
+    "türkei lara urlaub gefährlich",
+    "türkei urlaub lara strand",
+    "urlaub türkei antalya lara",
+    "urlaub türkei lara belek",
+    "urlaub türkei all inclusive lara",
+    "lara beach urlaub",
+    "lara all inclusive urlaub",
+    "billig urlaub in antalya lara",
+    "antalya lara urlaub buchen",
+    "günstig urlaub antalya lara",
+    "günstiger urlaub antalya lara",
+    "urlaub lara strand",
+    "urlaub türkei lara kundu",
+    "lara urlaub buchen",
+    "urlaub buchen türkei antalya lara",
+    "all inclusive urlaub antalya-lara",
+    "günstig urlaub in lara",
+    "türkei urlaub günstig all inclusive lara",
+    "türkei lara urlaub buchen"
+   ],
+   "head": "lara türkei",
+   "total": 6630,
+   "intent": "informational",
+   "page": "/tour/turkei/antalya/lara",
+   "top_type": "хаб регіону",
+   "top_share": 0.9411764705882353,
+   "top_count": "16/17",
+   "statuses": {
+    "за рішенням власника": 32
+   },
+   "split": false,
+   "base": "L01",
+   "label": "L01 · lara türkei"
+  },
+  {
+   "id": "L02",
+   "key": "lara_hotels_list",
+   "name": "Lara: підбірки готелів",
+   "members": [
+    "lara hotels",
+    "türkei hotel lara",
+    "5 sterne hotels türkei lara",
+    "10 besten hotels in lara türkei",
+    "urlaub türkei 5 sterne lara",
+    "türkei urlaub hotel lara",
+    "urlaub türkei all inclusive 5 sterne lara"
+   ],
+   "head": "lara hotels",
+   "total": 3130,
+   "intent": "navigational",
+   "page": "/tour/turkei/antalya/lara",
+   "top_type": "готель (регіон)",
+   "top_share": 0.8125,
+   "top_count": "13/16",
+   "statuses": {
+    "за рішенням власника": 7
+   },
+   "split": false,
+   "base": "L02",
+   "label": "L02 · lara hotels"
+  },
+  {
+   "id": "L03",
+   "key": "lara_matrix",
+   "name": "Lara + тип туру (матриця)",
+   "members": [
+    "last minute urlaub antalya lara",
+    "last minute urlaub türkei lara",
+    "last minute urlaub lara"
+   ],
+   "head": "last minute urlaub antalya lara",
+   "total": 50,
+   "intent": "transactional",
+   "page": "/tour/turkei/antalya/last-minute",
+   "top_type": "н/д (SERP не збирався)",
+   "top_share": 0,
+   "top_count": "—",
+   "statuses": {
+    "за рішенням власника": 3
+   },
+   "split": false,
+   "base": "L03",
+   "label": "L03 · last minute urlaub antalya lara"
+  }
+ ],
+ "cross": [
+  [
+   "K07 · türkei urlaub günstiger",
+   "K09 · türkei reise",
+   8,
+   "türkei urlaub günstiger  ↔  reise türkei buchen",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K01a · türkei urlaub",
+   "K09 · türkei reise",
+   7,
+   "türkei urlaub  ↔  reise türkei buchen",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K01a · türkei urlaub",
+   "K07 · türkei urlaub günstiger",
+   6,
+   "türkei urlaub  ↔  türkei urlaub günstiger",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K01a · türkei urlaub",
+   "K10a · türkei im oktober urlaub",
+   5,
+   "türkei urlaub  ↔  türkei im oktober urlaub",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K01a · türkei urlaub",
+   "K01c · flugreise türkei",
+   5,
+   "türkei urlaub mit flug  ↔  flugreise türkei",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/turkei і /tour/turkei/pauschalreise): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K09 · türkei reise",
+   "K10a · türkei im oktober urlaub",
+   5,
+   "reise türkei buchen  ↔  türkei im oktober urlaub",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K12 · türkei rundreise",
+   "K14 · türkei rundreise 7 tage",
+   5,
+   "türkei rundreise  ↔  türkei rundreise 10 tage",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K04 · pauschalreise türkei",
+   "K03b · türkei urlaub 2026 all inclusive mit flug und hotel",
+   4,
+   "pauschalreisen türkei 2026  ↔  türkei urlaub 2026 all inclusive mit flug und hotel",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/turkei/pauschalreise і /tour/turkei): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K04 · pauschalreise türkei",
+   "K01c · flugreise türkei",
+   4,
+   "pauschalreise türkei all inclusive  ↔  flugreise türkei",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K07 · türkei urlaub günstiger",
+   "K10a · türkei im oktober urlaub",
+   4,
+   "türkei urlaub günstiger  ↔  türkei im oktober urlaub",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K12 · türkei rundreise",
+   "K15 · rundreise türkei mit badeurlaub",
+   4,
+   "türkei rundreise  ↔  rundreise türkei mit badeurlaub",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K14 · türkei rundreise 7 tage",
+   "K15 · rundreise türkei mit badeurlaub",
+   4,
+   "türkei rundreise 7 tage  ↔  rundreise türkei mit badeurlaub",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K01a · türkei urlaub",
+   "K04 · pauschalreise türkei",
+   3,
+   "türkei urlaub  ↔  pauschalreise türkei all inclusive",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/turkei і /tour/turkei/pauschalreise): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K01a · türkei urlaub",
+   "K06 · last minute türkei",
+   3,
+   "türkei urlaub mit flug  ↔  super last minute türkei all inclusive",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/turkei і /tour/turkei/last-minute): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K04 · pauschalreise türkei",
+   "K07 · türkei urlaub günstiger",
+   3,
+   "pauschalreise türkei all inclusive  ↔  türkei urlaub günstiger",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/turkei/pauschalreise і /tour/turkei): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K04 · pauschalreise türkei",
+   "K09 · türkei reise",
+   3,
+   "pauschalreise türkei all inclusive  ↔  reise türkei buchen",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/turkei/pauschalreise і /tour/turkei): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K07 · türkei urlaub günstiger",
+   "K01c · flugreise türkei",
+   3,
+   "türkei urlaub günstiger  ↔  flugreise türkei",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/turkei і /tour/turkei/pauschalreise): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K09 · türkei reise",
+   "K01c · flugreise türkei",
+   3,
+   "reise türkei buchen  ↔  flugreise türkei",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/turkei і /tour/turkei/pauschalreise): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K14 · türkei rundreise 7 tage",
+   "K16 · türkei kappadokien rundreise",
+   3,
+   "türkei rundreise 10 tage  ↔  rundreise schwarzmeerküste türkei",
+   "обидва кластери на одній сторінці"
+  ]
+ ],
+ "decisions": {
+  "türkei urlaub": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 7,
+   "family": "hub",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     7
+    ],
+    [
+     "/tour/turkei/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "reise türkei warnung": {
+   "page": "/tour/turkei/reisehinweise",
+   "cand": "/tour/turkei/reisehinweise",
+   "count": 8,
+   "family": "info",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/reisehinweise",
+     8
+    ],
+    [
+     "/tour/turkei",
+     1
+    ]
+   ]
+  },
+  "all-inclusive urlaub türkei": {
+   "page": "/tour/turkei/all-inclusive",
+   "cand": "/tour/turkei/all-inclusive",
+   "count": 3,
+   "family": "allinclusive",
+   "fam_count": 3,
+   "status": "спірно → підтверджено перевіркою",
+   "note": "sonnenklar.tv (/urlaub vs /all-inclusive) і lidl-reisen.de: різні H1, 590–1045 слів власного тексту, збіг тексту ≈0 → окрема посадкова, не фільтр",
+   "ranked": [
+    [
+     "/tour/turkei",
+     2
+    ],
+    [
+     "/tour/turkei/side/all-inclusive",
+     2
+    ],
+    [
+     "/hotels/turkei",
+     1
+    ]
+   ]
+  },
+  "pauschalreise türkei": {
+   "page": "/tour/turkei/pauschalreise",
+   "cand": "/tour/turkei/pauschalreise",
+   "count": 7,
+   "family": "pauschal",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/pauschalreise",
+     5
+    ],
+    [
+     "/tour/turkei/ratgeber",
+     1
+    ],
+    [
+     "/tour/turkei/fethiye/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "urlaub side türkei": {
+   "page": "/tour/turkei/side",
+   "cand": "/tour/turkei/side",
+   "count": 7,
+   "family": "hub",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/side",
+     7
+    ],
+    [
+     "/tour/turkei/ratgeber",
+     2
+    ]
+   ]
+  },
+  "urlaub türkei buchen": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "перевірити вручну",
+   "note": "ТОП розкиданий: готелі, регіони, мало спільних URL із «türkei urlaub»; перевірити вручну",
+   "ranked": [
+    [
+     "/hotels/turkei",
+     3
+    ],
+    [
+     "/tour/turkei",
+     2
+    ],
+    [
+     "/tour/turkei/pauschalreise",
+     2
+    ]
+   ]
+  },
+  "türkei urlaub 2026": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/hotels/turkei",
+     3
+    ],
+    [
+     "/tour/turkei",
+     1
+    ],
+    [
+     "/tour/turkei/alanya",
+     1
+    ]
+   ]
+  },
+  "türkei urlaub 2026 all inclusive mit flug und hotel": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     4
+    ],
+    [
+     "/tour/turkei/last-minute",
+     2
+    ],
+    [
+     "/tour/turkei/all-inclusive",
+     2
+    ]
+   ]
+  },
+  "hotel türkei": {
+   "page": "/hotels/turkei",
+   "cand": "/hotels/turkei",
+   "count": 5,
+   "family": "hotel",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/hotels/turkei",
+     5
+    ],
+    [
+     "/tour/turkei",
+     1
+    ],
+    [
+     "/tour/turkei/all-inclusive",
+     1
+    ]
+   ]
+  },
+  "türkei urlaub günstiger": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 8,
+   "family": "hub",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     8
+    ],
+    [
+     "/tour/turkei/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "türkei urlaub reisewarnung": {
+   "page": "/tour/turkei/reisehinweise",
+   "cand": "/tour/turkei/reisehinweise",
+   "count": 6,
+   "family": "info",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/reisehinweise",
+     6
+    ]
+   ]
+  },
+  "türkei reise": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     3
+    ],
+    [
+     "/tour/turkei/ratgeber",
+     2
+    ],
+    [
+     "/tour/turkei/pauschalreise",
+     2
+    ]
+   ]
+  },
+  "last minute türkei": {
+   "page": "/tour/turkei/last-minute",
+   "cand": "/tour/turkei/last-minute",
+   "count": 8,
+   "family": "lastminute",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/last-minute",
+     4
+    ],
+    [
+     "/tour/turkei/side/last-minute",
+     2
+    ],
+    [
+     "/hotels/turkei",
+     1
+    ]
+   ]
+  },
+  "türkei urlaub all inclusive günstig": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     3
+    ],
+    [
+     "/tour/turkei/pauschalreise",
+     2
+    ],
+    [
+     "/hotels/turkei",
+     1
+    ]
+   ]
+  },
+  "türkei urlaub günstig all inclusive mit flug": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     3
+    ],
+    [
+     "/hotels/turkei",
+     3
+    ],
+    [
+     "/tour/turkei/side",
+     1
+    ]
+   ]
+  },
+  "pauschalreise türkei all inclusive": {
+   "page": "/tour/turkei/pauschalreise",
+   "cand": "/tour/turkei/all-inclusive",
+   "count": 3,
+   "family": "allinclusive",
+   "fam_count": 3,
+   "status": "за бізнес-правилом",
+   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/turkei/pauschalreise. У ТОП pauschal-сторінок 3/9; за ТОП було б: /tour/turkei (спірно (не перевірено)).",
+   "ranked": [
+    [
+     "/tour/turkei/pauschalreise",
+     3
+    ],
+    [
+     "/tour/turkei",
+     2
+    ],
+    [
+     "/tour/turkei/all-inclusive",
+     2
+    ]
+   ],
+   "serp_page": "/tour/turkei",
+   "serp_status": "спірно (не перевірено)",
+   "business": "pauschalreise"
+  },
+  "last minute urlaub türkei": {
+   "page": "/tour/turkei/last-minute",
+   "cand": "/tour/turkei/last-minute",
+   "count": 7,
+   "family": "lastminute",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/last-minute",
+     6
+    ],
+    [
+     "/tour/turkei",
+     1
+    ],
+    [
+     "/tour/turkei/ratgeber",
+     1
+    ]
+   ]
+  },
+  "türkei im oktober urlaub": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     6
+    ],
+    [
+     "/tour/turkei/reisezeit",
+     1
+    ]
+   ]
+  },
+  "urlaub türkei 2026 all inclusive": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/hotels/turkei",
+     3
+    ],
+    [
+     "/tour/turkei/antalya",
+     2
+    ],
+    [
+     "/tour/turkei",
+     1
+    ]
+   ]
+  },
+  "türkei rundreise": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 8,
+   "family": "rundreise",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     8
+    ]
+   ]
+  },
+  "pauschalreisen türkei 2026": {
+   "page": "/tour/turkei/pauschalreise",
+   "cand": "/tour/turkei/pauschalreise",
+   "count": 4,
+   "family": "pauschal",
+   "fam_count": 4,
+   "status": "за бізнес-правилом",
+   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/turkei/pauschalreise. У ТОП pauschal-сторінок 4/9; за ТОП було б: /tour/turkei/pauschalreise (спірно → підтверджено перевіркою). sonnenklar.tv і coraltravel.de: різні H1 («Pauschalreise Türkei», «Türkei Urlaub 2026 – Pauschalreisen…»), 379–1875 слів власного тексту, збіг ≈0 → окрема посадкова",
+   "ranked": [
+    [
+     "/tour/turkei/pauschalreise",
+     4
+    ],
+    [
+     "/tour/turkei",
+     3
+    ],
+    [
+     "/tour/turkei/last-minute",
+     1
+    ]
+   ],
+   "serp_page": "/tour/turkei/pauschalreise",
+   "serp_status": "спірно → підтверджено перевіркою",
+   "business": "pauschalreise"
+  },
+  "last minute türkei all inclusive": {
+   "page": "/tour/turkei/last-minute",
+   "cand": "/tour/turkei/last-minute",
+   "count": 5,
+   "family": "lastminute",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/last-minute",
+     3
+    ],
+    [
+     "/tour/turkei",
+     2
+    ],
+    [
+     "/tour/turkei/all-inclusive",
+     1
+    ]
+   ]
+  },
+  "pauschalreise günstig türkei": {
+   "page": "/tour/turkei/pauschalreise",
+   "cand": "/tour/turkei",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "за бізнес-правилом",
+   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/turkei/pauschalreise. У ТОП pauschal-сторінок 1/9; за ТОП було б: /tour/turkei (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/turkei",
+     2
+    ],
+    [
+     "/tour/turkei/side",
+     2
+    ],
+    [
+     "/hotels/turkei",
+     1
+    ]
+   ],
+   "serp_page": "/tour/turkei",
+   "serp_status": "рекомендовано",
+   "business": "pauschalreise"
+  },
+  "türkei buchen": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     4
+    ],
+    [
+     "/hotels/turkei",
+     3
+    ],
+    [
+     "/tour/turkei/last-minute",
+     1
+    ]
+   ]
+  },
+  "türkei urlaub 2026 all inclusive mit flug und hotel side": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/side",
+     2
+    ],
+    [
+     "/tour/turkei/side/all-inclusive",
+     2
+    ],
+    [
+     "/tour/turkei/antalya",
+     1
+    ]
+   ]
+  },
+  "türkei urlaub 2027": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     5
+    ],
+    [
+     "/tour/turkei/antalya",
+     1
+    ],
+    [
+     "/tour/turkei/last-minute",
+     1
+    ]
+   ]
+  },
+  "last minute urlaub türkei all inclusive": {
+   "page": "/tour/turkei/last-minute",
+   "cand": "/tour/turkei/last-minute",
+   "count": 7,
+   "family": "lastminute",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/side/last-minute",
+     3
+    ],
+    [
+     "/tour/turkei/antalya/last-minute",
+     3
+    ],
+    [
+     "/tour/turkei",
+     1
+    ]
+   ]
+  },
+  "pauschalreise side türkei": {
+   "page": "/tour/turkei/side/pauschalreise",
+   "cand": "/tour/turkei/side/pauschalreise",
+   "count": 8,
+   "family": "pauschal",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/side/pauschalreise",
+     8
+    ],
+    [
+     "/tour/turkei/side",
+     1
+    ]
+   ]
+  },
+  "reise türkei mit personalausweis": {
+   "page": "/tour/turkei/reisehinweise",
+   "cand": "/tour/turkei/reisehinweise",
+   "count": 8,
+   "family": "info",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/reisehinweise",
+     8
+    ],
+    [
+     "/tour/turkei/rundreisen",
+     1
+    ]
+   ]
+  },
+  "türkei reise personalausweis": {
+   "page": "/tour/turkei/reisehinweise",
+   "cand": "/tour/turkei/reisehinweise",
+   "count": 7,
+   "family": "info",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/reisehinweise",
+     7
+    ],
+    [
+     "/tour/turkei",
+     1
+    ]
+   ]
+  },
+  "personalausweis für türkei reise": {
+   "page": "/tour/turkei/reisehinweise",
+   "cand": "/tour/turkei/reisehinweise",
+   "count": 8,
+   "family": "info",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/reisehinweise",
+     8
+    ]
+   ]
+  },
+  "reise türkei buchen": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 8,
+   "family": "hub",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     8
+    ],
+    [
+     "/tour/turkei/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "pauschalreisen türkei all inclusive günstig": {
+   "page": "/tour/turkei/pauschalreise",
+   "cand": "/tour/turkei",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "за бізнес-правилом",
+   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/turkei/pauschalreise. У ТОП pauschal-сторінок 2/9; за ТОП було б: /tour/turkei (спірно (не перевірено)).",
+   "ranked": [
+    [
+     "/tour/turkei",
+     3
+    ],
+    [
+     "/tour/turkei/pauschalreise",
+     2
+    ],
+    [
+     "/hotels/turkei",
+     1
+    ]
+   ],
+   "serp_page": "/tour/turkei",
+   "serp_status": "спірно (не перевірено)",
+   "business": "pauschalreise"
+  },
+  "türkei strandurlaub": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     6
+    ],
+    [
+     "/tour/turkei/ratgeber",
+     1
+    ],
+    [
+     "/tour/turkei/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "türkei urlaub buchen günstig": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 8,
+   "family": "hub",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     8
+    ],
+    [
+     "/tour/turkei/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "türkei urlaub mit flug": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei/all-inclusive",
+   "count": 3,
+   "family": "allinclusive",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/all-inclusive",
+     3
+    ],
+    [
+     "/tour/turkei",
+     2
+    ],
+    [
+     "/tour/turkei/last-minute",
+     2
+    ]
+   ]
+  },
+  "türkei antalya last minute": {
+   "page": "/tour/turkei/antalya/last-minute",
+   "cand": "/tour/turkei/antalya/last-minute",
+   "count": 6,
+   "family": "lastminute",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/antalya/last-minute",
+     6
+    ],
+    [
+     "/tour/turkei/antalya",
+     2
+    ],
+    [
+     "/tour/turkei/last-minute",
+     1
+    ]
+   ]
+  },
+  "türkei reise günstig": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     5
+    ],
+    [
+     "/tour/turkei/last-minute",
+     4
+    ]
+   ]
+  },
+  "november türkei urlaub": {
+   "page": "/tour/turkei/reisezeit",
+   "cand": "/tour/turkei/reisezeit",
+   "count": 8,
+   "family": "info",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/reisezeit",
+     8
+    ]
+   ]
+  },
+  "september türkei urlaub": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 2,
+   "family": "hub",
+   "fam_count": 2,
+   "status": "окрема сторінка не потрібна",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     2
+    ],
+    [
+     "/tour/turkei/reisezeit",
+     2
+    ],
+    [
+     "/tour/turkei/all-inclusive",
+     2
+    ]
+   ]
+  },
+  "super last minute türkei all inclusive": {
+   "page": "/tour/turkei/last-minute",
+   "cand": "/tour/turkei/last-minute",
+   "count": 8,
+   "family": "lastminute",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/last-minute",
+     7
+    ],
+    [
+     "/tour/turkei",
+     1
+    ],
+    [
+     "/tour/turkei/side/last-minute",
+     1
+    ]
+   ]
+  },
+  "türkei reise aktuell": {
+   "page": "/tour/turkei/reisehinweise",
+   "cand": "/tour/turkei/reisehinweise",
+   "count": 9,
+   "family": "info",
+   "fam_count": 9,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/reisehinweise",
+     9
+    ]
+   ]
+  },
+  "kurzurlaub türkei": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 8,
+   "family": "hub",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     8
+    ]
+   ]
+  },
+  "türkei last minute angebote": {
+   "page": "/tour/turkei/last-minute",
+   "cand": "/tour/turkei/last-minute",
+   "count": 7,
+   "family": "lastminute",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/last-minute",
+     4
+    ],
+    [
+     "/tour/turkei/antalya/last-minute",
+     2
+    ],
+    [
+     "/tour/turkei",
+     1
+    ]
+   ]
+  },
+  "last minute türkei antalya all inclusive": {
+   "page": "/tour/turkei/antalya/last-minute",
+   "cand": "/tour/turkei/antalya/last-minute",
+   "count": 3,
+   "family": "lastminute",
+   "fam_count": 5,
+   "status": "спірно → підтверджено перевіркою",
+   "note": "lidl-reisen.de має обидві сторінки («Urlaub Antalya» і «Last Minute Urlaub Antalya»), ~1000 слів власного тексту кожна, збіг 0; sonnenklar, TUI, ANEX мають окремі Last-Minute-Antalya (200–667 слів). Підтверджено лише частково: пару «хаб + last minute» разом має тільки lidl",
+   "ranked": [
+    [
+     "/tour/turkei/antalya/last-minute",
+     3
+    ],
+    [
+     "/tour/turkei/antalya",
+     2
+    ],
+    [
+     "/tour/turkei/last-minute",
+     2
+    ]
+   ]
+  },
+  "mai urlaub türkei": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     5
+    ],
+    [
+     "/tour/turkei/reisezeit",
+     3
+    ]
+   ]
+  },
+  "all inclusive reise türkei": {
+   "page": "/tour/turkei/all-inclusive",
+   "cand": "/tour/turkei/all-inclusive",
+   "count": 5,
+   "family": "allinclusive",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/side/all-inclusive",
+     2
+    ],
+    [
+     "/tour/turkei",
+     1
+    ],
+    [
+     "/hotels/turkei",
+     1
+    ]
+   ]
+  },
+  "türkei reise last minute": {
+   "page": "/tour/turkei/last-minute",
+   "cand": "/tour/turkei/last-minute",
+   "count": 8,
+   "family": "lastminute",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/last-minute",
+     7
+    ],
+    [
+     "/tour/turkei",
+     1
+    ],
+    [
+     "/tour/turkei/side/last-minute",
+     1
+    ]
+   ]
+  },
+  "türkei reise billig": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 8,
+   "family": "hub",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     8
+    ],
+    [
+     "/tour/turkei/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "günstig türkei": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     4
+    ],
+    [
+     "/hotels/turkei",
+     3
+    ],
+    [
+     "/tour/turkei/schwarzmeer",
+     1
+    ]
+   ]
+  },
+  "dezember türkei urlaub": {
+   "page": "/tour/turkei/reisezeit",
+   "cand": "/tour/turkei/reisezeit",
+   "count": 6,
+   "family": "info",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/reisezeit",
+     6
+    ],
+    [
+     "/hotels/turkei",
+     1
+    ]
+   ]
+  },
+  "pauschalreisen türkei last minute": {
+   "page": "/tour/turkei/last-minute",
+   "cand": "/tour/turkei/last-minute",
+   "count": 7,
+   "family": "lastminute",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/last-minute",
+     5
+    ],
+    [
+     "/tour/turkei",
+     1
+    ],
+    [
+     "/hotels/turkei",
+     1
+    ]
+   ]
+  },
+  "pauschalreise türkei all inclusive 2026": {
+   "page": "/tour/turkei/pauschalreise",
+   "cand": "/tour/turkei/pauschalreise",
+   "count": 3,
+   "family": "pauschal",
+   "fam_count": 3,
+   "status": "за бізнес-правилом",
+   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/turkei/pauschalreise. У ТОП pauschal-сторінок 3/9; за ТОП було б: /tour/turkei/pauschalreise (спірно → підтверджено перевіркою). sonnenklar.tv і coraltravel.de: різні H1 («Pauschalreise Türkei», «Türkei Urlaub 2026 – Pauschalreisen…»), 379–1875 слів власного тексту, збіг ≈0 → окрема посадкова",
+   "ranked": [
+    [
+     "/hotels/turkei",
+     2
+    ],
+    [
+     "/tour/turkei/side",
+     2
+    ],
+    [
+     "/tour/turkei/last-minute",
+     1
+    ]
+   ],
+   "serp_page": "/tour/turkei/pauschalreise",
+   "serp_status": "спірно → підтверджено перевіркою",
+   "business": "pauschalreise"
+  },
+  "pauschalreise türkei side all inclusive": {
+   "page": "/tour/turkei/side/pauschalreise",
+   "cand": "/tour/turkei/side",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "за рішенням власника",
+   "note": "За вказівкою: матриця Side + Pauschalreise разом з «pauschalreise side türkei»; All inclusive тут лише уточнення. За ТОП було б: /tour/turkei/side (спірно (не перевірено)).",
+   "ranked": [
+    [
+     "/tour/turkei/side",
+     4
+    ],
+    [
+     "/tour/turkei/all-inclusive",
+     2
+    ],
+    [
+     "/tour/turkei/side/pauschalreise",
+     1
+    ]
+   ],
+   "serp_page": "/tour/turkei/side",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "reise türkei side": {
+   "page": "/tour/turkei/side",
+   "cand": "/tour/turkei/side",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/side",
+     6
+    ],
+    [
+     "/tour/turkei/ratgeber",
+     1
+    ],
+    [
+     "/tour/turkei/all-inclusive",
+     1
+    ]
+   ]
+  },
+  "reise türkei sicher": {
+   "page": "/tour/turkei/reisehinweise",
+   "cand": "/tour/turkei/reisehinweise",
+   "count": 8,
+   "family": "info",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/reisehinweise",
+     8
+    ],
+    [
+     "/tour/turkei",
+     1
+    ]
+   ]
+  },
+  "billig türkei urlaub": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     5
+    ],
+    [
+     "/tour/turkei/last-minute",
+     2
+    ],
+    [
+     "/tour/turkei/all-inclusive",
+     1
+    ]
+   ]
+  },
+  "türkei urlaub meer": {
+   "page": "/tour/turkei/ratgeber",
+   "cand": "/tour/turkei/ratgeber",
+   "count": 7,
+   "family": "info",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/ratgeber",
+     7
+    ],
+    [
+     "/hotels/turkei",
+     1
+    ]
+   ]
+  },
+  "türkei urlaub pauschalreise": {
+   "page": "/tour/turkei/pauschalreise",
+   "cand": "/tour/turkei/pauschalreise",
+   "count": 5,
+   "family": "pauschal",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/ratgeber",
+     3
+    ],
+    [
+     "/tour/turkei/pauschalreise",
+     2
+    ],
+    [
+     "/hotels/turkei",
+     1
+    ]
+   ]
+  },
+  "pauschalreise türkei lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": "/tour/turkei/antalya",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "за рішенням власника",
+   "note": "За рішенням власника: окрема сторінка Lara. За ТОП було б: /tour/turkei/antalya (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/turkei/antalya",
+     6
+    ]
+   ],
+   "serp_page": "/tour/turkei/antalya",
+   "serp_status": "рекомендовано"
+  },
+  "ferien türkei": {
+   "page": "/tour/turkei/ratgeber",
+   "cand": "/tour/turkei/ratgeber",
+   "count": 5,
+   "family": "info",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/ratgeber",
+     5
+    ],
+    [
+     "/tour/turkei/last-minute",
+     1
+    ]
+   ]
+  },
+  "flugreise türkei": {
+   "page": "/tour/turkei/pauschalreise",
+   "cand": "/tour/turkei/pauschalreise",
+   "count": 5,
+   "family": "pauschal",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/pauschalreise",
+     5
+    ],
+    [
+     "/tour/turkei",
+     3
+    ],
+    [
+     "/tour/turkei/last-minute",
+     1
+    ]
+   ]
+  },
+  "schnäppchen türkei urlaub": {
+   "page": "/tour/turkei",
+   "cand": "/tour/turkei",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei",
+     4
+    ],
+    [
+     "/tour/turkei/last-minute",
+     3
+    ],
+    [
+     "/tour/turkei/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "rundreise türkei mit badeurlaub": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 9,
+   "family": "rundreise",
+   "fam_count": 9,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     9
+    ]
+   ]
+  },
+  "türkei rundreise 7 tage": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 9,
+   "family": "rundreise",
+   "fam_count": 9,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     9
+    ]
+   ]
+  },
+  "türkei rundreise 14 tage": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 9,
+   "family": "rundreise",
+   "fam_count": 9,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     9
+    ]
+   ]
+  },
+  "türkei kappadokien rundreise": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 8,
+   "family": "rundreise",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     8
+    ],
+    [
+     "/tour/turkei/kappadokien",
+     1
+    ]
+   ]
+  },
+  "türkei rundreise 2026": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 9,
+   "family": "rundreise",
+   "fam_count": 9,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     9
+    ]
+   ]
+  },
+  "türkei rundreise 10 tage": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 9,
+   "family": "rundreise",
+   "fam_count": 9,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     9
+    ]
+   ]
+  },
+  "türkei rundreise 149 euro": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 7,
+   "family": "rundreise",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     7
+    ],
+    [
+     "/tour/turkei",
+     1
+    ]
+   ]
+  },
+  "türkei rundreise kappadokien und baden": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 5,
+   "family": "rundreise",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     5
+    ],
+    [
+     "/tour/turkei/istanbul",
+     2
+    ]
+   ]
+  },
+  "türkei rundreise auf eigene faust": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 5,
+   "family": "rundreise",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     5
+    ],
+    [
+     "/tour/turkei/ratgeber",
+     2
+    ],
+    [
+     "/hotels/turkei",
+     1
+    ]
+   ]
+  },
+  "türkei rundreise und baden": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 7,
+   "family": "rundreise",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     7
+    ],
+    [
+     "/tour/turkei/ratgeber",
+     1
+    ]
+   ]
+  },
+  "2 wochen türkei rundreise": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 9,
+   "family": "rundreise",
+   "fam_count": 9,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     9
+    ]
+   ]
+  },
+  "türkei rundreise istanbul kappadokien pamukkale": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 8,
+   "family": "rundreise",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     8
+    ],
+    [
+     "/tour/turkei/istanbul",
+     1
+    ]
+   ]
+  },
+  "rundreise schwarzmeerküste türkei": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 6,
+   "family": "rundreise",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     6
+    ],
+    [
+     "/tour/turkei/ratgeber",
+     2
+    ],
+    [
+     "/tour/turkei/schwarzmeer",
+     1
+    ]
+   ]
+  },
+  "rundreise türkei mit istanbul": {
+   "page": "/tour/turkei/rundreisen",
+   "cand": "/tour/turkei/rundreisen",
+   "count": 8,
+   "family": "rundreise",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/turkei/rundreisen",
+     8
+    ]
+   ]
+  },
+  "liberty lara türkei": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: "
+  },
+  "fame residence lara & spa türkei": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: "
+  },
+  "lara türkei": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "grand park lara türkei": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: "
+  },
+  "türkei lara miracle resort": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: "
+  },
+  "titanic beach lara resort antalya türkei": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: "
+  },
+  "lara hotels": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: список готелів з фільтрами"
+  },
+  "türkei hotel lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: список готелів з фільтрами"
+  },
+  "urlaub türkei lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "hotel royal wings türkei lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: "
+  },
+  "hotel melas lara türkei": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: "
+  },
+  "5 sterne hotels türkei lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: список готелів з фільтрами"
+  },
+  "lara urlaub": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "10 besten hotels in lara türkei": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: список готелів з фільтрами"
+  },
+  "delphin palace türkei lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: "
+  },
+  "lara türkei strand": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "urlaub antalya lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "türkei hotel baia lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: "
+  },
+  "türkei lara beach": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "türkei lara sehenswürdigkeiten": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "wo liegt lara in der türkei": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "lara urlaub angebote": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "urlaub türkei lara günstig": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "antalya lara urlaub all inclusive mit flug": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "türkei urlaub lara delphin imperial": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: "
+  },
+  "urlaub türkei lara 2026": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "last minute urlaub antalya lara": {
+   "page": "/tour/turkei/antalya/last-minute",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Матриця lara + тип туру (рішення власника)"
+  },
+  "urlaub lara beach türkei": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "türkei lara urlaub gefährlich": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "last minute urlaub türkei lara": {
+   "page": "/tour/turkei/antalya/last-minute",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Матриця lara + тип туру (рішення власника)"
+  },
+  "türkei urlaub lara strand": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "urlaub türkei antalya lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "urlaub türkei lara belek": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "urlaub türkei all inclusive lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "lara beach urlaub": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "urlaub türkei 5 sterne lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: список готелів з фільтрами"
+  },
+  "lara all inclusive urlaub": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "billig urlaub in antalya lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "antalya lara urlaub buchen": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "günstig urlaub antalya lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "türkei urlaub hotel lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: список готелів з фільтрами"
+  },
+  "günstiger urlaub antalya lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "urlaub lara strand": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "türkei urlaub lara delphin diva": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: "
+  },
+  "urlaub türkei lara kundu": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "lara urlaub buchen": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "urlaub buchen türkei antalya lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "urlaub türkei all inclusive 5 sterne lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: список готелів з фільтрами"
+  },
+  "all inclusive urlaub antalya-lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "günstig urlaub in lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "türkei urlaub limak lara de luxe": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: "
+  },
+  "türkei urlaub günstig all inclusive lara": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  },
+  "last minute urlaub lara": {
+   "page": "/tour/turkei/antalya/last-minute",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Матриця lara + тип туру (рішення власника)"
+  },
+  "türkei lara urlaub buchen": {
+   "page": "/tour/turkei/antalya/lara",
+   "cand": null,
+   "count": 0,
+   "family": null,
+   "status": "за рішенням власника",
+   "ranked": [],
+   "note": "Сторінка lara: опис, відпочинок, пляж, FAQ"
+  }
+ },
+ "types": {
+  "türkei urlaub": {
+   "хаб країни": 7,
+   "pauschalreise (країна)": 1
+  },
+  "reise türkei warnung": {
+   "інформаційна": 8,
+   "хаб країни": 1
+  },
+  "all-inclusive urlaub türkei": {
+   "all inclusive (регіон)": 2,
+   "all inclusive (країна)": 1,
+   "готель": 1,
+   "pauschalreise (країна)": 1,
+   "хаб країни": 2
+  },
+  "pauschalreise türkei": {
+   "pauschalreise (регіон)": 2,
+   "інше": 1,
+   "pauschalreise (країна)": 5,
+   "інформаційна": 1
+  },
+  "urlaub side türkei": {
+   "хаб регіону": 3,
+   "готель (регіон)": 4,
+   "інформаційна": 2
+  },
+  "urlaub türkei buchen": {
+   "готель": 1,
+   "pauschalreise (країна)": 2,
+   "хаб країни": 2,
+   "хаб регіону": 1,
+   "готель (регіон)": 2,
+   "інше": 1
+  },
+  "türkei urlaub 2026": {
+   "last minute (країна)": 1,
+   "хаб регіону": 2,
+   "готель (регіон)": 3,
+   "хаб країни": 1,
+   "інше": 2
+  },
+  "türkei urlaub 2026 all inclusive mit flug und hotel": {
+   "Frühbucher": 2,
+   "all inclusive (країна)": 2,
+   "хаб країни": 4,
+   "pauschalreise (країна)": 1
+  },
+  "hotel türkei": {
+   "готель": 4,
+   "готель (регіон)": 1,
+   "хаб країни": 1,
+   "all inclusive (країна)": 1
+  },
+  "türkei urlaub günstiger": {
+   "хаб країни": 8,
+   "pauschalreise (країна)": 1
+  },
+  "türkei urlaub reisewarnung": {
+   "інформаційна": 6,
+   "інше": 2
+  },
+  "türkei reise": {
+   "хаб країни": 3,
+   "інформаційна": 2,
+   "pauschalreise (країна)": 2,
+   "хаб регіону": 1,
+   "rundreise": 1
+  },
+  "last minute türkei": {
+   "last minute (країна)": 4,
+   "готель": 1,
+   "last minute (регіон)": 4
+  },
+  "türkei urlaub all inclusive günstig": {
+   "хаб країни": 3,
+   "готель": 1,
+   "pauschalreise (країна)": 2,
+   "last minute (країна)": 1,
+   "rundreise": 1,
+   "all inclusive (країна)": 1
+  },
+  "türkei urlaub günstig all inclusive mit flug": {
+   "готель": 2,
+   "all inclusive (країна)": 1,
+   "готель (регіон)": 1,
+   "last minute (країна)": 1,
+   "хаб країни": 3,
+   "хаб регіону": 1
+  },
+  "pauschalreise türkei all inclusive": {
+   "all inclusive (країна)": 2,
+   "хаб країни": 2,
+   "pauschalreise (країна)": 3,
+   "last minute (країна)": 1,
+   "all inclusive (регіон)": 1
+  },
+  "last minute urlaub türkei": {
+   "last minute (країна)": 6,
+   "інформаційна": 1,
+   "хаб країни": 1,
+   "last minute (регіон)": 1
+  },
+  "türkei im oktober urlaub": {
+   "хаб країни": 6,
+   "інше": 1,
+   "інформаційна": 1
+  },
+  "urlaub türkei 2026 all inclusive": {
+   "all inclusive (регіон)": 1,
+   "готель": 1,
+   "готель (регіон)": 2,
+   "хаб регіону": 3,
+   "хаб країни": 1,
+   "інше": 1
+  },
+  "türkei rundreise": {
+   "rundreise": 8
+  },
+  "pauschalreisen türkei 2026": {
+   "pauschalreise (країна)": 4,
+   "хаб країни": 3,
+   "all inclusive (країна)": 1,
+   "last minute (країна)": 1
+  },
+  "last minute türkei all inclusive": {
+   "хаб країни": 2,
+   "last minute (країна)": 3,
+   "all inclusive (країна)": 1,
+   "last minute (регіон)": 2,
+   "pauschalreise (країна)": 1
+  },
+  "pauschalreise günstig türkei": {
+   "хаб регіону": 4,
+   "pauschalreise (країна)": 1,
+   "all inclusive (країна)": 1,
+   "хаб країни": 2,
+   "готель (регіон)": 1
+  },
+  "türkei buchen": {
+   "хаб країни": 4,
+   "інше": 2,
+   "готель": 3,
+   "last minute (країна)": 1
+  },
+  "türkei urlaub 2026 all inclusive mit flug und hotel side": {
+   "хаб регіону": 3,
+   "last minute (регіон)": 1,
+   "all inclusive (регіон)": 3,
+   "pauschalreise (країна)": 1,
+   "last minute (країна)": 1
+  },
+  "türkei urlaub 2027": {
+   "хаб країни": 5,
+   "хаб регіону": 1,
+   "all inclusive (країна)": 1,
+   "pauschalreise (країна)": 1,
+   "last minute (країна)": 1
+  },
+  "last minute urlaub türkei all inclusive": {
+   "last minute (регіон)": 6,
+   "last minute (країна)": 1,
+   "all inclusive (країна)": 1,
+   "хаб країни": 1
+  },
+  "pauschalreise side türkei": {
+   "pauschalreise (регіон)": 8,
+   "хаб регіону": 1
+  },
+  "reise türkei mit personalausweis": {
+   "інформаційна": 8,
+   "rundreise": 1
+  },
+  "türkei reise personalausweis": {
+   "інше": 1,
+   "хаб країни": 1,
+   "інформаційна": 7
+  },
+  "personalausweis für türkei reise": {
+   "інформаційна": 8,
+   "інше": 1
+  },
+  "reise türkei buchen": {
+   "хаб країни": 8,
+   "pauschalreise (країна)": 1
+  },
+  "pauschalreisen türkei all inclusive günstig": {
+   "pauschalreise (країна)": 2,
+   "хаб країни": 3,
+   "all inclusive (країна)": 1,
+   "all inclusive (регіон)": 1,
+   "готель": 1,
+   "last minute (країна)": 1
+  },
+  "türkei strandurlaub": {
+   "pauschalreise (країна)": 1,
+   "інше": 1,
+   "хаб країни": 6,
+   "інформаційна": 1
+  },
+  "türkei urlaub buchen günstig": {
+   "хаб країни": 8,
+   "pauschalreise (країна)": 1
+  },
+  "türkei urlaub mit flug": {
+   "хаб країни": 2,
+   "all inclusive (країна)": 3,
+   "last minute (країна)": 2,
+   "pauschalreise (країна)": 2
+  },
+  "türkei antalya last minute": {
+   "last minute (регіон)": 6,
+   "хаб регіону": 2,
+   "last minute (країна)": 1
+  },
+  "türkei reise günstig": {
+   "last minute (країна)": 3,
+   "хаб країни": 5,
+   "Frühbucher": 1
+  },
+  "november türkei urlaub": {
+   "інформаційна": 8
+  },
+  "september türkei urlaub": {
+   "all inclusive (країна)": 2,
+   "pauschalreise (країна)": 2,
+   "хаб країни": 2,
+   "last minute (країна)": 1,
+   "інформаційна": 2
+  },
+  "super last minute türkei all inclusive": {
+   "last minute (країна)": 7,
+   "last minute (регіон)": 1,
+   "хаб країни": 1
+  },
+  "türkei reise aktuell": {
+   "інформаційна": 9
+  },
+  "kurzurlaub türkei": {
+   "хаб країни": 8
+  },
+  "türkei last minute angebote": {
+   "last minute (регіон)": 3,
+   "last minute (країна)": 4,
+   "інформаційна": 1,
+   "хаб країни": 1
+  },
+  "last minute türkei antalya all inclusive": {
+   "готель (регіон)": 2,
+   "last minute (країна)": 2,
+   "last minute (регіон)": 3,
+   "all inclusive (регіон)": 1,
+   "хаб регіону": 1
+  },
+  "mai urlaub türkei": {
+   "хаб країни": 5,
+   "інформаційна": 3
+  },
+  "all inclusive reise türkei": {
+   "all inclusive (регіон)": 4,
+   "all inclusive (країна)": 1,
+   "хаб країни": 1,
+   "готель (регіон)": 1,
+   "інформаційна": 1,
+   "last minute (країна)": 1
+  },
+  "türkei reise last minute": {
+   "last minute (країна)": 7,
+   "хаб країни": 1,
+   "last minute (регіон)": 1
+  },
+  "türkei reise billig": {
+   "хаб країни": 8,
+   "pauschalreise (країна)": 1
+  },
+  "günstig türkei": {
+   "хаб регіону": 1,
+   "хаб країни": 4,
+   "all inclusive (країна)": 1,
+   "готель": 3
+  },
+  "dezember türkei urlaub": {
+   "інформаційна": 6,
+   "готель": 1
+  },
+  "pauschalreisen türkei last minute": {
+   "last minute (країна)": 5,
+   "last minute (регіон)": 2,
+   "хаб країни": 1,
+   "готель (регіон)": 1
+  },
+  "pauschalreise türkei all inclusive 2026": {
+   "pauschalreise (регіон)": 3,
+   "хаб регіону": 2,
+   "last minute (країна)": 1,
+   "готель (регіон)": 2,
+   "інше": 1
+  },
+  "pauschalreise türkei side all inclusive": {
+   "all inclusive (країна)": 2,
+   "хаб регіону": 3,
+   "pauschalreise (регіон)": 1,
+   "готель (регіон)": 1
+  },
+  "reise türkei side": {
+   "хаб регіону": 3,
+   "готель (регіон)": 3,
+   "all inclusive (регіон)": 1,
+   "all inclusive (країна)": 1,
+   "інформаційна": 1
+  },
+  "reise türkei sicher": {
+   "інформаційна": 8,
+   "хаб країни": 1
+  },
+  "billig türkei urlaub": {
+   "all inclusive (країна)": 1,
+   "хаб країни": 5,
+   "pauschalreise (країна)": 1,
+   "last minute (країна)": 1,
+   "Frühbucher": 1
+  },
+  "türkei urlaub meer": {
+   "готель": 1,
+   "інформаційна": 7
+  },
+  "türkei urlaub pauschalreise": {
+   "pauschalreise (регіон)": 3,
+   "pauschalreise (країна)": 2,
+   "готель": 1,
+   "інформаційна": 3
+  },
+  "pauschalreise türkei lara": {
+   "інше": 3,
+   "готель (регіон)": 4,
+   "хаб регіону": 2
+  },
+  "ferien türkei": {
+   "last minute (країна)": 1,
+   "інформаційна": 5,
+   "інше": 3
+  },
+  "flugreise türkei": {
+   "pauschalreise (країна)": 5,
+   "last minute (країна)": 1,
+   "хаб країни": 3
+  },
+  "schnäppchen türkei urlaub": {
+   "хаб країни": 4,
+   "last minute (країна)": 2,
+   "Frühbucher": 1,
+   "pauschalreise (країна)": 1,
+   "all inclusive (країна)": 1
+  },
+  "rundreise türkei mit badeurlaub": {
+   "rundreise": 9
+  },
+  "türkei rundreise 7 tage": {
+   "rundreise": 9
+  },
+  "türkei rundreise 14 tage": {
+   "rundreise": 9
+  },
+  "türkei kappadokien rundreise": {
+   "rundreise": 8,
+   "хаб регіону": 1
+  },
+  "türkei rundreise 2026": {
+   "rundreise": 9
+  },
+  "türkei rundreise 10 tage": {
+   "rundreise": 9
+  },
+  "türkei rundreise 149 euro": {
+   "rundreise": 7,
+   "інше": 1,
+   "хаб країни": 1
+  },
+  "türkei rundreise kappadokien und baden": {
+   "rundreise": 5,
+   "хаб регіону": 2,
+   "інше": 2
+  },
+  "türkei rundreise auf eigene faust": {
+   "інформаційна": 2,
+   "rundreise": 5,
+   "готель": 1
+  },
+  "türkei rundreise und baden": {
+   "rundreise": 7,
+   "інше": 1,
+   "інформаційна": 1
+  },
+  "2 wochen türkei rundreise": {
+   "rundreise": 9
+  },
+  "türkei rundreise istanbul kappadokien pamukkale": {
+   "rundreise": 8,
+   "хаб регіону": 1
+  },
+  "rundreise schwarzmeerküste türkei": {
+   "інформаційна": 2,
+   "rundreise": 6,
+   "хаб регіону": 1
+  },
+  "rundreise türkei mit istanbul": {
+   "rundreise": 8
+  },
+  "liberty lara türkei": {
+   "інше": 1,
+   "готель (регіон)": 8
+  },
+  "fame residence lara & spa türkei": {
+   "готель (регіон)": 1,
+   "хаб регіону": 1,
+   "інформаційна": 7
+  },
+  "lara türkei": {
+   "хаб регіону": 7,
+   "інше": 1
+  },
+  "grand park lara türkei": {},
+  "türkei lara miracle resort": {},
+  "titanic beach lara resort antalya türkei": {},
+  "lara hotels": {
+   "хаб регіону": 1,
+   "готель (регіон)": 6,
+   "all inclusive (регіон)": 1,
+   "last minute (регіон)": 1
+  },
+  "türkei hotel lara": {
+   "готель (регіон)": 7
+  },
+  "urlaub türkei lara": {
+   "хаб регіону": 9
+  },
+  "hotel royal wings türkei lara": {},
+  "hotel melas lara türkei": {},
+  "5 sterne hotels türkei lara": {},
+  "lara urlaub": {},
+  "10 besten hotels in lara türkei": {},
+  "delphin palace türkei lara": {},
+  "lara türkei strand": {},
+  "urlaub antalya lara": {},
+  "türkei hotel baia lara": {},
+  "türkei lara beach": {},
+  "türkei lara sehenswürdigkeiten": {},
+  "wo liegt lara in der türkei": {},
+  "lara urlaub angebote": {},
+  "urlaub türkei lara günstig": {},
+  "antalya lara urlaub all inclusive mit flug": {},
+  "türkei urlaub lara delphin imperial": {},
+  "urlaub türkei lara 2026": {},
+  "last minute urlaub antalya lara": {},
+  "urlaub lara beach türkei": {},
+  "türkei lara urlaub gefährlich": {},
+  "last minute urlaub türkei lara": {},
+  "türkei urlaub lara strand": {},
+  "urlaub türkei antalya lara": {},
+  "urlaub türkei lara belek": {},
+  "urlaub türkei all inclusive lara": {},
+  "lara beach urlaub": {},
+  "urlaub türkei 5 sterne lara": {},
+  "lara all inclusive urlaub": {},
+  "billig urlaub in antalya lara": {},
+  "antalya lara urlaub buchen": {},
+  "günstig urlaub antalya lara": {},
+  "türkei urlaub hotel lara": {},
+  "günstiger urlaub antalya lara": {},
+  "urlaub lara strand": {},
+  "türkei urlaub lara delphin diva": {},
+  "urlaub türkei lara kundu": {},
+  "lara urlaub buchen": {},
+  "urlaub buchen türkei antalya lara": {},
+  "urlaub türkei all inclusive 5 sterne lara": {},
+  "all inclusive urlaub antalya-lara": {},
+  "günstig urlaub in lara": {},
+  "türkei urlaub limak lara de luxe": {},
+  "türkei urlaub günstig all inclusive lara": {},
+  "last minute urlaub lara": {},
+  "türkei lara urlaub buchen": {}
+ }
+}

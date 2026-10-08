@@ -1,0 +1,19 @@
+# Модель ембедінгів і резервні архіви — великі, відновлюються окремо
+models/
+_backup/
+
+# Тимчасові та перевірочні файли скілів
+*.locked.*
+*.new.*
+*.check.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Секрети: зберігаються лише в ~\.config\claude-seo\, сюди не кладемо
+*.env
+google-api.json
+*service*account*.json
+*credentials*

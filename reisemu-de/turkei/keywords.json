@@ -1,0 +1,2149 @@
+{
+ "keywords": [
+  {
+   "keyword": "türkei urlaub",
+   "volume": 60500,
+   "cpc": 1.03,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 12,
+   "translation_uk": "відпочинок у Туреччині",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise türkei warnung",
+   "volume": 27100,
+   "cpc": 0.93,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": 8,
+   "translation_uk": "попередження щодо подорожей до Туреччини",
+   "translation_note_uk": "Розмовний порядок слів; йдеться про офіційне попередження (Reisewarnung) і чи безпечно зараз їхати."
+  },
+  {
+   "keyword": "all-inclusive urlaub türkei",
+   "volume": 9900,
+   "cpc": 1.14,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "відпочинок у Туреччині за системою «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise türkei",
+   "volume": 9900,
+   "cpc": 1.69,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "пакетний тур до Туреччини (переліт + готель)",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub side türkei",
+   "volume": 6600,
+   "cpc": 1.13,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "відпочинок у Сіде (Туреччина)",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub türkei buchen",
+   "volume": 6600,
+   "cpc": 1.3,
+   "intent": "transactional",
+   "source": "suggest",
+   "kd": 10,
+   "translation_uk": "забронювати відпочинок у Туреччині",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei urlaub 2026",
+   "volume": 5400,
+   "cpc": 1.01,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "відпочинок у Туреччині 2026",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "volume": 4400,
+   "cpc": 1.24,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 7,
+   "translation_uk": "відпочинок у Туреччині 2026 «все включено», з перельотом і готелем",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "hotel türkei",
+   "volume": 4400,
+   "cpc": 0.83,
+   "intent": "navigational",
+   "source": "competitor",
+   "kd": 3,
+   "translation_uk": "готелі Туреччини",
+   "translation_note_uk": "Однина замість множини — це запит на добірку готелів."
+  },
+  {
+   "keyword": "türkei urlaub günstiger",
+   "volume": 3600,
+   "cpc": 1.1,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 7,
+   "translation_uk": "дешевший відпочинок у Туреччині",
+   "translation_note_uk": "Порівняльний ступінь: шукають вигідніші варіанти, ніж зазвичай."
+  },
+  {
+   "keyword": "türkei urlaub reisewarnung",
+   "volume": 2400,
+   "cpc": 0.66,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "відпочинок у Туреччині: попередження щодо подорожей",
+   "translation_note_uk": "Інформаційний намір: чи діє застереження і чи безпечно їхати."
+  },
+  {
+   "keyword": "türkei reise",
+   "volume": 2400,
+   "cpc": 1.46,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": 17,
+   "translation_uk": "подорож до Туреччини",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "last minute türkei",
+   "volume": 2400,
+   "cpc": 1.67,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "гарячі тури до Туреччини",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei urlaub all inclusive günstig",
+   "volume": 1600,
+   "cpc": 1,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 2,
+   "translation_uk": "недорогий відпочинок у Туреччині «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei urlaub günstig all inclusive mit flug",
+   "volume": 1600,
+   "cpc": 1.13,
+   "intent": "commercial",
+   "source": "competitor",
+   "kd": 3,
+   "translation_uk": "недорогий відпочинок у Туреччині «все включено», з перельотом",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise türkei all inclusive",
+   "volume": 1600,
+   "cpc": 1.68,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "пакетний тур до Туреччини «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "last minute urlaub türkei",
+   "volume": 1300,
+   "cpc": 1.7,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "гарячі тури на відпочинок у Туреччині",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei im oktober urlaub",
+   "volume": 1000,
+   "cpc": 0.85,
+   "intent": "commercial",
+   "source": "competitor",
+   "kd": 8,
+   "translation_uk": "відпочинок у Туреччині в жовтні",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub türkei 2026 all inclusive",
+   "volume": 1000,
+   "cpc": 1.12,
+   "intent": "informational",
+   "source": "competitor",
+   "kd": 7,
+   "translation_uk": "відпочинок у Туреччині 2026 «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei rundreise",
+   "volume": 1000,
+   "cpc": 1.41,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "екскурсійний тур Туреччиною",
+   "translation_note_uk": "Rundreise — тур із маршрутом по кількох містах/регіонах, а не відпочинок в одному готелі."
+  },
+  {
+   "keyword": "pauschalreisen türkei 2026",
+   "volume": 880,
+   "cpc": 1.31,
+   "intent": "informational",
+   "source": "competitor",
+   "kd": 0,
+   "translation_uk": "пакетні тури до Туреччини 2026",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "last minute türkei all inclusive",
+   "volume": 720,
+   "cpc": 1.63,
+   "intent": "commercial",
+   "source": "competitor",
+   "kd": 13,
+   "translation_uk": "гарячі тури до Туреччини «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise günstig türkei",
+   "volume": 720,
+   "cpc": 1.9,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "недорогий пакетний тур до Туреччини",
+   "translation_note_uk": "Порядок слів розмовний."
+  },
+  {
+   "keyword": "türkei buchen",
+   "volume": 590,
+   "cpc": 1.14,
+   "intent": "transactional",
+   "source": "competitor",
+   "kd": 10,
+   "translation_uk": "забронювати поїздку до Туреччини",
+   "translation_note_uk": "Скорочена форма: тур, готель або переліт — не уточнено."
+  },
+  {
+   "keyword": "türkei urlaub 2026 all inclusive mit flug und hotel side",
+   "volume": 590,
+   "cpc": 0.73,
+   "intent": "commercial",
+   "source": "competitor",
+   "kd": 0,
+   "translation_uk": "відпочинок у Сіде 2026 «все включено», з перельотом і готелем",
+   "translation_note_uk": "Назва курорту стоїть в кінці ключа, схоже на допис до довгого запиту."
+  },
+  {
+   "keyword": "türkei urlaub 2027",
+   "volume": 590,
+   "cpc": 0.75,
+   "intent": "informational",
+   "source": "competitor",
+   "kd": 26,
+   "translation_uk": "відпочинок у Туреччині 2027",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "last minute urlaub türkei all inclusive",
+   "volume": 590,
+   "cpc": 1.53,
+   "intent": "transactional",
+   "source": "own_page",
+   "kd": 0,
+   "translation_uk": "гарячі тури до Туреччини «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise side türkei",
+   "volume": 590,
+   "cpc": 1.57,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "пакетний тур до Сіде (Туреччина)",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise türkei mit personalausweis",
+   "volume": 480,
+   "cpc": 1.37,
+   "intent": "transactional",
+   "source": "suggest",
+   "kd": 6,
+   "translation_uk": "поїздка до Туреччини з німецьким ID-посвідченням (Personalausweis)",
+   "translation_note_uk": "Personalausweis — внутрішнє посвідчення особи громадянина Німеччини (ID-картка), питання: чи можна їхати без закордонного паспорта."
+  },
+  {
+   "keyword": "türkei reise personalausweis",
+   "volume": 480,
+   "cpc": 1.37,
+   "intent": "navigational",
+   "source": "suggest",
+   "kd": 6,
+   "translation_uk": "поїздка до Туреччини за ID-карткою (Personalausweis)",
+   "translation_note_uk": "Те саме питання про в'їзд без паспорта."
+  },
+  {
+   "keyword": "personalausweis für türkei reise",
+   "volume": 480,
+   "cpc": 1.37,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "ID-картка (Personalausweis) для поїздки до Туреччини",
+   "translation_note_uk": "Те саме питання про в'їзд без паспорта."
+  },
+  {
+   "keyword": "reise türkei buchen",
+   "volume": 480,
+   "cpc": 1.87,
+   "intent": "transactional",
+   "source": "suggest",
+   "kd": 10,
+   "translation_uk": "забронювати поїздку до Туреччини",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreisen türkei all inclusive günstig",
+   "volume": 480,
+   "cpc": 0.99,
+   "intent": "commercial",
+   "source": "competitor",
+   "kd": 3,
+   "translation_uk": "недорогі пакетні тури до Туреччини «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei strandurlaub",
+   "volume": 480,
+   "cpc": 1.45,
+   "intent": "informational",
+   "source": "competitor",
+   "kd": 1,
+   "translation_uk": "пляжний відпочинок у Туреччині",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei urlaub buchen günstig",
+   "volume": 480,
+   "cpc": 1.47,
+   "intent": "transactional",
+   "source": "competitor",
+   "kd": 10,
+   "translation_uk": "забронювати недорогий відпочинок у Туреччині",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei urlaub mit flug",
+   "volume": 480,
+   "cpc": 0.98,
+   "intent": "commercial",
+   "source": "competitor",
+   "kd": 6,
+   "translation_uk": "відпочинок у Туреччині з перельотом",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei antalya last minute",
+   "volume": 480,
+   "cpc": 1.78,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "гарячі тури в Анталію (Туреччина)",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei reise günstig",
+   "volume": 390,
+   "cpc": 1.42,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "недорога подорож до Туреччини",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "november türkei urlaub",
+   "volume": 390,
+   "cpc": 0.72,
+   "intent": "transactional",
+   "source": "competitor",
+   "kd": 7,
+   "translation_uk": "відпочинок у Туреччині в листопаді",
+   "translation_note_uk": "Часто шукають погоду та чи є сезон."
+  },
+  {
+   "keyword": "september türkei urlaub",
+   "volume": 390,
+   "cpc": 0.86,
+   "intent": "informational",
+   "source": "competitor",
+   "kd": 21,
+   "translation_uk": "відпочинок у Туреччині у вересні",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "super last minute türkei all inclusive",
+   "volume": 390,
+   "cpc": 1.03,
+   "intent": "transactional",
+   "source": "suggest",
+   "kd": 15,
+   "translation_uk": "супергарячі тури до Туреччини «все включено»",
+   "translation_note_uk": "«Super last minute» — виліт у найближчі дні."
+  },
+  {
+   "keyword": "türkei reise aktuell",
+   "volume": 320,
+   "cpc": 1.01,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": 21,
+   "translation_uk": "подорож до Туреччини: актуальна ситуація",
+   "translation_note_uk": "Розмовне «aktuell» — актуальна ситуація, новини, безпека."
+  },
+  {
+   "keyword": "kurzurlaub türkei",
+   "volume": 320,
+   "cpc": 0.75,
+   "intent": "commercial",
+   "source": "competitor",
+   "kd": 0,
+   "translation_uk": "короткий відпочинок у Туреччині (на кілька днів)",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei last minute angebote",
+   "volume": 320,
+   "cpc": 1.5,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 6,
+   "translation_uk": "гарячі пропозиції турів до Туреччини",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "last minute türkei antalya all inclusive",
+   "volume": 320,
+   "cpc": 1.6,
+   "intent": "transactional",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "гарячі тури в Анталію «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "mai urlaub türkei",
+   "volume": 260,
+   "cpc": 0.8,
+   "intent": "informational",
+   "source": "competitor",
+   "kd": 2,
+   "translation_uk": "відпочинок у Туреччині в травні",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "all inclusive reise türkei",
+   "volume": 210,
+   "cpc": 1.4,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "поїздка до Туреччини «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei reise last minute",
+   "volume": 210,
+   "cpc": 1.88,
+   "intent": "transactional",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "гарячі тури до Туреччини",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei reise billig",
+   "volume": 210,
+   "cpc": 1.55,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 10,
+   "translation_uk": "дешева поїздка до Туреччини",
+   "translation_note_uk": "Billig — «дешево» з відтінком «якнайдешевше»."
+  },
+  {
+   "keyword": "günstig türkei",
+   "volume": 210,
+   "cpc": 1.61,
+   "intent": "commercial",
+   "source": "competitor",
+   "kd": 0,
+   "translation_uk": "вигідні тури до Туреччини",
+   "translation_note_uk": "Скорочена розмовна форма без іменника: «тур/відпочинок» не вказано, дослівно «дешево Туреччина»."
+  },
+  {
+   "keyword": "dezember türkei urlaub",
+   "volume": 210,
+   "cpc": 0.62,
+   "intent": "informational",
+   "source": "competitor",
+   "kd": 21,
+   "translation_uk": "відпочинок у Туреччині в грудні",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreisen türkei last minute",
+   "volume": 210,
+   "cpc": 1.87,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "гарячі пакетні тури до Туреччини",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise türkei all inclusive 2026",
+   "volume": 210,
+   "cpc": 1.95,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": 9,
+   "translation_uk": "пакетний тур до Туреччини «все включено» 2026",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise türkei side all inclusive",
+   "volume": 210,
+   "cpc": 0.93,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "пакетний тур до Сіде «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise türkei side",
+   "volume": 170,
+   "cpc": 1.49,
+   "intent": "navigational",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "поїздка до Сіде (Туреччина)",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise türkei sicher",
+   "volume": 170,
+   "cpc": null,
+   "intent": "transactional",
+   "source": "suggest",
+   "kd": 9,
+   "translation_uk": "чи безпечно їхати до Туреччини",
+   "translation_note_uk": "Розмовне «sicher» — питання про безпеку поїздки."
+  },
+  {
+   "keyword": "billig türkei urlaub",
+   "volume": 170,
+   "cpc": 1.97,
+   "intent": "commercial",
+   "source": "competitor",
+   "kd": 7,
+   "translation_uk": "дешевий відпочинок у Туреччині",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei urlaub meer",
+   "volume": 170,
+   "cpc": 0.86,
+   "intent": "informational",
+   "source": "competitor",
+   "kd": 6,
+   "translation_uk": "відпочинок на морі в Туреччині",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei urlaub pauschalreise",
+   "volume": 170,
+   "cpc": 1.34,
+   "intent": "commercial",
+   "source": "competitor",
+   "kd": 0,
+   "translation_uk": "відпочинок у Туреччині за пакетним туром",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise türkei lara",
+   "volume": 170,
+   "cpc": 2.18,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "пакетний тур до Лари (курортний район Анталії)",
+   "translation_note_uk": "Лара — район Анталії з готелями біля моря."
+  },
+  {
+   "keyword": "ferien türkei",
+   "volume": 140,
+   "cpc": 3.17,
+   "intent": "informational",
+   "source": "competitor",
+   "kd": 21,
+   "translation_uk": "канікули або відпустка в Туреччині",
+   "translation_note_uk": "Ferien — шкільні канікули, у розмовній мові також відпустка."
+  },
+  {
+   "keyword": "flugreise türkei",
+   "volume": 140,
+   "cpc": 0.99,
+   "intent": "commercial",
+   "source": "competitor",
+   "kd": 13,
+   "translation_uk": "тур із перельотом до Туреччини",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "schnäppchen türkei urlaub",
+   "volume": 140,
+   "cpc": 0.94,
+   "intent": "commercial",
+   "source": "competitor",
+   "kd": 6,
+   "translation_uk": "відпочинок у Туреччині за акційною ціною",
+   "translation_note_uk": "Schnäppchen — «вдала знахідка», дуже вигідна пропозиція з великою знижкою."
+  },
+  {
+   "keyword": "rundreise türkei mit badeurlaub",
+   "volume": 110,
+   "cpc": 1.06,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "екскурсійний тур Туреччиною з пляжним відпочинком",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei rundreise 7 tage",
+   "volume": 110,
+   "cpc": 1.0,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "екскурсійний тур Туреччиною на 7 днів",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei rundreise 14 tage",
+   "volume": 90,
+   "cpc": 1.11,
+   "intent": "transactional",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "екскурсійний тур Туреччиною на 14 днів",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei kappadokien rundreise",
+   "volume": 90,
+   "cpc": 1.49,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "екскурсійний тур Туреччиною з Каппадокією",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei rundreise 2026",
+   "volume": 90,
+   "cpc": 1.31,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "екскурсійний тур Туреччиною 2026",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei rundreise 10 tage",
+   "volume": 70,
+   "cpc": 1.14,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "екскурсійний тур Туреччиною на 10 днів",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei rundreise 149 euro",
+   "volume": 50,
+   "cpc": 1.13,
+   "intent": "transactional",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "екскурсійний тур Туреччиною від 149 євро",
+   "translation_note_uk": "Ціна з конкретної пропозиції."
+  },
+  {
+   "keyword": "türkei rundreise kappadokien und baden",
+   "volume": 50,
+   "cpc": 1.71,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "екскурсійний тур Туреччиною: Каппадокія та пляжний відпочинок",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei rundreise auf eigene faust",
+   "volume": 50,
+   "cpc": 0.51,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "самостійна подорож Туреччиною за власним маршрутом",
+   "translation_note_uk": "«Auf eigene Faust» — без турфірми та організованої групи."
+  },
+  {
+   "keyword": "türkei rundreise und baden",
+   "volume": 40,
+   "cpc": 1.25,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "екскурсійний тур Туреччиною з пляжним відпочинком",
+   "translation_note_uk": "«Baden» — купання/пляжний відпочинок."
+  },
+  {
+   "keyword": "2 wochen türkei rundreise",
+   "volume": 30,
+   "cpc": 1.44,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": null,
+   "translation_uk": "екскурсійний тур Туреччиною на 2 тижні",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "türkei rundreise istanbul kappadokien pamukkale",
+   "volume": 30,
+   "cpc": 1.48,
+   "intent": "transactional",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "екскурсійний тур: Стамбул, Каппадокія, Памуккале",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "rundreise schwarzmeerküste türkei",
+   "volume": 30,
+   "cpc": 0.92,
+   "intent": "informational",
+   "source": "suggest",
+   "kd": null,
+   "translation_uk": "екскурсійний тур узбережжям Чорного моря (Туреччина)",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "rundreise türkei mit istanbul",
+   "volume": 20,
+   "cpc": 1.09,
+   "intent": "commercial",
+   "source": "suggest",
+   "kd": 0,
+   "translation_uk": "екскурсійний тур Туреччиною зі Стамбулом",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "liberty lara türkei",
+   "volume": 12100,
+   "cpc": 1.18,
+   "intent": "informational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "готель Liberty Lara у Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotel_name"
+  },
+  {
+   "keyword": "fame residence lara & spa türkei",
+   "volume": 8100,
+   "cpc": 1.29,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "готель Fame Residence Lara & Spa у Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotel_name"
+  },
+  {
+   "keyword": "lara türkei",
+   "volume": 4400,
+   "cpc": 1.17,
+   "intent": "informational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "Лара (Туреччина): курорт, відпочинок",
+   "translation_note_uk": "Загальний запит про курорт; у ТОП хаби регіону.",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "grand park lara türkei",
+   "volume": 3600,
+   "cpc": 1.4,
+   "intent": "informational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "готель Grand Park Lara у Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotel_name"
+  },
+  {
+   "keyword": "türkei lara miracle resort",
+   "volume": 2400,
+   "cpc": 1.16,
+   "intent": "informational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "готель Miracle Resort у Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotel_name"
+  },
+  {
+   "keyword": "titanic beach lara resort antalya türkei",
+   "volume": 2400,
+   "cpc": 1.04,
+   "intent": "navigational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "готель Titanic Beach Lara Resort (Лара, Анталія, Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotel_name"
+  },
+  {
+   "keyword": "lara hotels",
+   "volume": 1300,
+   "cpc": 0.85,
+   "intent": "navigational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "готелі в Лара",
+   "translation_note_uk": "",
+   "ext_group": "hotels_list"
+  },
+  {
+   "keyword": "türkei hotel lara",
+   "volume": 1000,
+   "cpc": 0.83,
+   "intent": "navigational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "готелі в Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotels_list"
+  },
+  {
+   "keyword": "urlaub türkei lara",
+   "volume": 720,
+   "cpc": 1,
+   "intent": "commercial",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "відпочинок у Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "hotel royal wings türkei lara",
+   "volume": 720,
+   "cpc": 1.2,
+   "intent": "navigational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "готель Royal Wings у Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotel_name"
+  },
+  {
+   "keyword": "hotel melas lara türkei",
+   "volume": 480,
+   "cpc": 1.1,
+   "intent": "navigational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "готель Melas Lara у Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotel_name"
+  },
+  {
+   "keyword": "5 sterne hotels türkei lara",
+   "volume": 480,
+   "cpc": 0.64,
+   "intent": "commercial",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "5-зіркові готелі в Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotels_list"
+  },
+  {
+   "keyword": "lara urlaub",
+   "volume": 320,
+   "cpc": 1.23,
+   "intent": "commercial",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "відпочинок у Лара",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "10 besten hotels in lara türkei",
+   "volume": 320,
+   "cpc": 0.56,
+   "intent": "commercial",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "10 найкращих готелів у Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotels_list"
+  },
+  {
+   "keyword": "delphin palace türkei lara",
+   "volume": 170,
+   "cpc": 0.96,
+   "intent": "navigational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "готель Delphin Palace у Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotel_name"
+  },
+  {
+   "keyword": "lara türkei strand",
+   "volume": 170,
+   "cpc": 0.83,
+   "intent": "informational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "пляж Лара (Туреччина)",
+   "translation_note_uk": "Інформаційний намір: який там пляж.",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "urlaub antalya lara",
+   "volume": 140,
+   "cpc": 1.24,
+   "intent": "commercial",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "відпочинок в Анталії (Лара)",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "türkei hotel baia lara",
+   "volume": 140,
+   "cpc": 1.34,
+   "intent": "navigational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "готель Baia Lara (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotel_name"
+  },
+  {
+   "keyword": "türkei lara beach",
+   "volume": 140,
+   "cpc": 1.04,
+   "intent": "informational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "пляж Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "türkei lara sehenswürdigkeiten",
+   "volume": 140,
+   "cpc": 0.31,
+   "intent": "informational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "визначні місця Лара (Туреччина)",
+   "translation_note_uk": "Для опису курорту на сторінці.",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "wo liegt lara in der türkei",
+   "volume": 140,
+   "cpc": 1.48,
+   "intent": "informational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "де розташована Лара в Туреччині",
+   "translation_note_uk": "Питання для FAQ.",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "lara urlaub angebote",
+   "volume": 70,
+   "cpc": 1.23,
+   "intent": "commercial",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "пропозиції відпочинку в Лара",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "urlaub türkei lara günstig",
+   "volume": 50,
+   "cpc": 1.23,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "недорогий відпочинок у Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "antalya lara urlaub all inclusive mit flug",
+   "volume": 50,
+   "cpc": 0.93,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "відпочинок в Анталії (Лара) «все включено», з перельотом",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "türkei urlaub lara delphin imperial",
+   "volume": 40,
+   "cpc": 0.86,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": 27,
+   "translation_uk": "відпочинок у готелі Delphin Imperial Lara (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotel_name"
+  },
+  {
+   "keyword": "urlaub türkei lara 2026",
+   "volume": 40,
+   "cpc": 1.01,
+   "intent": "informational",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "відпочинок у Лара (Туреччина) 2026",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "last minute urlaub antalya lara",
+   "volume": 20,
+   "cpc": 2.39,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "гарячі тури в Анталію (Лара)",
+   "translation_note_uk": "",
+   "page_override": "/tour/turkei/antalya/last-minute",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "urlaub lara beach türkei",
+   "volume": 20,
+   "cpc": 1.45,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "відпочинок на пляжі Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "türkei lara urlaub gefährlich",
+   "volume": 20,
+   "cpc": 0.57,
+   "intent": "informational",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "чи безпечно відпочивати в Лара (Туреччина)",
+   "translation_note_uk": "Розмовне «gefährlich» — питання про безпеку; для FAQ.",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "last minute urlaub türkei lara",
+   "volume": 20,
+   "cpc": 1.68,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "гарячі тури в Лара (Туреччина)",
+   "translation_note_uk": "",
+   "page_override": "/tour/turkei/antalya/last-minute",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "türkei urlaub lara strand",
+   "volume": 20,
+   "cpc": 0.84,
+   "intent": "informational",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "відпочинок у Лара: пляж",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "urlaub türkei antalya lara",
+   "volume": 20,
+   "cpc": 1.1,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "відпочинок у Туреччині: Анталія, Лара",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "urlaub türkei lara belek",
+   "volume": 20,
+   "cpc": 0.87,
+   "intent": "informational",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "відпочинок у Туреччині: Лара та Белек",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "urlaub türkei all inclusive lara",
+   "volume": 10,
+   "cpc": 0.48,
+   "intent": "commercial",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "відпочинок у Лара «все включено»",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "lara beach urlaub",
+   "volume": 10,
+   "cpc": 0.56,
+   "intent": "commercial",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "відпочинок на пляжі Лара",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "urlaub türkei 5 sterne lara",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "відпочинок у 5-зіркових готелях Лара",
+   "translation_note_uk": "",
+   "ext_group": "hotels_list"
+  },
+  {
+   "keyword": "lara all inclusive urlaub",
+   "volume": 10,
+   "cpc": 0.65,
+   "intent": "commercial",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "відпочинок у Лара «все включено»",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "billig urlaub in antalya lara",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "дешевий відпочинок в Анталії (Лара)",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "antalya lara urlaub buchen",
+   "volume": 10,
+   "cpc": 1.54,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": 13,
+   "translation_uk": "забронювати відпочинок в Анталії (Лара)",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "günstig urlaub antalya lara",
+   "volume": 10,
+   "cpc": 1.05,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "недорогий відпочинок в Анталії (Лара)",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "türkei urlaub hotel lara",
+   "volume": 10,
+   "cpc": 1.29,
+   "intent": "commercial",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "відпочинок у Лара: готелі",
+   "translation_note_uk": "",
+   "ext_group": "hotels_list"
+  },
+  {
+   "keyword": "günstiger urlaub antalya lara",
+   "volume": 10,
+   "cpc": 1.05,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": 0,
+   "translation_uk": "дешевший відпочинок в Анталії (Лара)",
+   "translation_note_uk": "Порівняльний ступінь: шукають вигідніші варіанти.",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "urlaub lara strand",
+   "volume": 10,
+   "cpc": 0.64,
+   "intent": "informational",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "відпочинок на пляжі в Лара",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "türkei urlaub lara delphin diva",
+   "volume": 10,
+   "cpc": 1.3,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "відпочинок у готелі Delphin Diva (Лара, Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotel_name"
+  },
+  {
+   "keyword": "urlaub türkei lara kundu",
+   "volume": 10,
+   "cpc": 1.33,
+   "intent": "informational",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "відпочинок у Туреччині: Лара та Кунду",
+   "translation_note_uk": "Кунду — сусідній курортний район Анталії.",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "lara urlaub buchen",
+   "volume": 10,
+   "cpc": 1.16,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "забронювати відпочинок у Лара",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "urlaub buchen türkei antalya lara",
+   "volume": 10,
+   "cpc": 1.25,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "забронювати відпочинок у Туреччині (Анталія, Лара)",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "urlaub türkei all inclusive 5 sterne lara",
+   "volume": 10,
+   "cpc": 0.16,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "відпочинок у 5-зіркових готелях Лара «все включено»",
+   "translation_note_uk": "",
+   "ext_group": "hotels_list"
+  },
+  {
+   "keyword": "all inclusive urlaub antalya-lara",
+   "volume": 10,
+   "cpc": 2.36,
+   "intent": "commercial",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "відпочинок в Анталії (Лара) «все включено»",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "günstig urlaub in lara",
+   "volume": 10,
+   "cpc": 0.27,
+   "intent": "commercial",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "недорогий відпочинок у Лара",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "türkei urlaub limak lara de luxe",
+   "volume": 10,
+   "cpc": 0.29,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "відпочинок у готелі Limak Lara De Luxe (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "hotel_name"
+  },
+  {
+   "keyword": "türkei urlaub günstig all inclusive lara",
+   "volume": 10,
+   "cpc": 1.57,
+   "intent": "commercial",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "недорогий відпочинок у Лара «все включено»",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "last minute urlaub lara",
+   "volume": 10,
+   "cpc": 1.08,
+   "intent": "commercial",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "гарячі тури в Лара",
+   "translation_note_uk": "",
+   "page_override": "/tour/turkei/antalya/last-minute",
+   "ext_group": "general"
+  },
+  {
+   "keyword": "türkei lara urlaub buchen",
+   "volume": 10,
+   "cpc": 2.08,
+   "intent": "transactional",
+   "source": "region:lara",
+   "kd": null,
+   "translation_uk": "забронювати відпочинок у Лара (Туреччина)",
+   "translation_note_uk": "",
+   "ext_group": "general"
+  }
+ ],
+ "filtered": [
+  {
+   "keyword": "türkei urlaub",
+   "reason": "дублікат (той самий запит: «türkei urlaub»)"
+  },
+  {
+   "keyword": "türkei urlaub",
+   "reason": "дублікат (той самий запит: «türkei urlaub»)"
+  },
+  {
+   "keyword": "türkei urlaub",
+   "reason": "дублікат (той самий запит: «türkei urlaub»)"
+  },
+  {
+   "keyword": "urlaub türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub»)"
+  },
+  {
+   "keyword": "urlaub türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub»)"
+  },
+  {
+   "keyword": "urlaub türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub»)"
+  },
+  {
+   "keyword": "urlaub türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub»)"
+  },
+  {
+   "keyword": "urlaub türkei all inclusive",
+   "reason": "дублікат (той самий запит: «all-inclusive urlaub türkei»)"
+  },
+  {
+   "keyword": "türkei urlaub all inklusiv",
+   "reason": "дублікат (той самий запит: «all-inclusive urlaub türkei»)"
+  },
+  {
+   "keyword": "all inclusive türkei urlaub",
+   "reason": "дублікат (той самий запит: «all-inclusive urlaub türkei»)"
+  },
+  {
+   "keyword": "türkei urlaub alles inklusive",
+   "reason": "дублікат (той самий запит: «all-inclusive urlaub türkei»)"
+  },
+  {
+   "keyword": "all inklusiv urlaub türkei",
+   "reason": "дублікат (той самий запит: «all-inclusive urlaub türkei»)"
+  },
+  {
+   "keyword": "alles inklusive urlaub türkei",
+   "reason": "дублікат (той самий запит: «all-inclusive urlaub türkei»)"
+  },
+  {
+   "keyword": "all inclusive urlaub türkei",
+   "reason": "дублікат (той самий запит: «all-inclusive urlaub türkei»)"
+  },
+  {
+   "keyword": "urlaub all inclusive türkei",
+   "reason": "дублікат (той самий запит: «all-inclusive urlaub türkei»)"
+  },
+  {
+   "keyword": "türkei urlaub all inclusive",
+   "reason": "дублікат (той самий запит: «all-inclusive urlaub türkei»)"
+  },
+  {
+   "keyword": "lebensmittelvergiftung türkei urlaub",
+   "reason": "нерелевантний"
+  },
+  {
+   "keyword": "türkei side urlaub",
+   "reason": "дублікат (той самий запит: «urlaub side türkei»)"
+  },
+  {
+   "keyword": "urlaub türkei side",
+   "reason": "дублікат (той самий запит: «urlaub side türkei»)"
+  },
+  {
+   "keyword": "side türkei urlaub",
+   "reason": "дублікат (той самий запит: «urlaub side türkei»)"
+  },
+  {
+   "keyword": "türkei urlaub buchen",
+   "reason": "дублікат (той самий запит: «urlaub türkei buchen»)"
+  },
+  {
+   "keyword": "türkei urlaub buchen",
+   "reason": "дублікат (той самий запит: «urlaub türkei buchen»)"
+  },
+  {
+   "keyword": "türkei urlaub buchen",
+   "reason": "дублікат (той самий запит: «urlaub türkei buchen»)"
+  },
+  {
+   "keyword": "türkei urlaub buchen",
+   "reason": "дублікат (той самий запит: «urlaub türkei buchen»)"
+  },
+  {
+   "keyword": "türkei urlaub 2026",
+   "reason": "дублікат (той самий запит: «türkei urlaub 2026»)"
+  },
+  {
+   "keyword": "türkei urlaub 2026 all inclusive mit flug und hotel",
+   "reason": "дублікат (той самий запит: «türkei urlaub 2026 all inclusive mit flug und hotel»)"
+  },
+  {
+   "keyword": "türkei urlaub günstig",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "urlaub in der türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub»)"
+  },
+  {
+   "keyword": "urlaub türkei günstig",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "urlaub günstig türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "türkei hotel",
+   "reason": "дублікат (той самий запит: «hotel türkei»)"
+  },
+  {
+   "keyword": "türkei hotels",
+   "reason": "дублікат (той самий запит: «hotel türkei»)"
+  },
+  {
+   "keyword": "türkei urlaub günstig",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "türkei urlaub günstig",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "türkei urlaub günstig",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "check24 türkei urlaub",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "türkei urlaub check24",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "check24 urlaub türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "urlaub türkei 2026",
+   "reason": "дублікат (той самий запит: «türkei urlaub 2026»)"
+  },
+  {
+   "keyword": "check24 türkei urlaub",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "urlaub türkei 2026",
+   "reason": "дублікат (той самий запит: «türkei urlaub 2026»)"
+  },
+  {
+   "keyword": "türkei tourismus",
+   "reason": "нерелевантний"
+  },
+  {
+   "keyword": "urlaub türkei reisewarnung",
+   "reason": "дублікат (той самий запит: «türkei urlaub reisewarnung»)"
+  },
+  {
+   "keyword": "urlaub in die türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub»)"
+  },
+  {
+   "keyword": "urlaub in türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub»)"
+  },
+  {
+   "keyword": "türkei reise",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "türkei reisen",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "türkei reise",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "türkei reisen",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "türkei reise",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "türkei reisen",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "ab in die urlaub türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ab-in den urlaub türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ab in den urlaub türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ab-in-den-urlaub türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ab in den urlaub türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ab in die urlaub türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ab in den urlaub türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ab in den urlaub türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "türkei pauschalreise",
+   "reason": "дублікат (той самий запит: «pauschalreise türkei»)"
+  },
+  {
+   "keyword": "urlaub türkei günstig all inclusive",
+   "reason": "дублікат (той самий запит: «türkei urlaub all inclusive günstig»)"
+  },
+  {
+   "keyword": "reise in die türkei",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "reise in türkei",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "reisen in die türkei",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "türkei urlaub günstig all inclusive",
+   "reason": "дублікат (той самий запит: «türkei urlaub all inclusive günstig»)"
+  },
+  {
+   "keyword": "reisen in die türkei",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "reisen in die türkei",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "reise türkei",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "hotels in türkei",
+   "reason": "дублікат (той самий запит: «hotel türkei»)"
+  },
+  {
+   "keyword": "reisen türkei",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "reisen türkei",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "reisen türkei",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "türkei last minute urlaub",
+   "reason": "дублікат (той самий запит: «last minute urlaub türkei»)"
+  },
+  {
+   "keyword": "türkei urlaub oktober",
+   "reason": "дублікат (той самий запит: «türkei im oktober urlaub»)"
+  },
+  {
+   "keyword": "türkei urlaub oktober",
+   "reason": "дублікат (той самий запит: «türkei im oktober urlaub»)"
+  },
+  {
+   "keyword": "türkei last minute",
+   "reason": "дублікат (той самий запит: «last minute türkei»)"
+  },
+  {
+   "keyword": "nach türkei reise",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "türkei blaue reise",
+   "reason": "нерелевантний"
+  },
+  {
+   "keyword": "blaue reise türkei",
+   "reason": "нерелевантний"
+  },
+  {
+   "keyword": "reise nach türkei",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "reise nach türkei",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "türkei urlaub 2025 all inclusive mit flug und hotel",
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "urlaub buchen türkei",
+   "reason": "дублікат (той самий запит: «urlaub türkei buchen»)"
+  },
+  {
+   "keyword": "reise nach türkei",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "urlaub buchen türkei",
+   "reason": "дублікат (той самий запит: «urlaub türkei buchen»)"
+  },
+  {
+   "keyword": "reise nach türkei",
+   "reason": "дублікат (той самий запит: «türkei reise»)"
+  },
+  {
+   "keyword": "urlaub buchen türkei",
+   "reason": "дублікат (той самий запит: «urlaub türkei buchen»)"
+  },
+  {
+   "keyword": "last minute türkei urlaub",
+   "reason": "дублікат (той самий запит: «last minute urlaub türkei»)"
+  },
+  {
+   "keyword": "pauschalreise türkei 2026",
+   "reason": "дублікат (той самий запит: «pauschalreisen türkei 2026»)"
+  },
+  {
+   "keyword": "türkei last minute all inclusive",
+   "reason": "дублікат (той самий запит: «last minute türkei all inclusive»)"
+  },
+  {
+   "keyword": "last minute türkei all inklusiv",
+   "reason": "дублікат (той самий запит: «last minute türkei all inclusive»)"
+  },
+  {
+   "keyword": "günstige urlaub türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "günstige urlaub türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "türkei buchen",
+   "reason": "дублікат (той самий запит: «türkei buchen»)"
+  },
+  {
+   "keyword": "günstige urlaub türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "türkei buchen",
+   "reason": "дублікат (той самий запит: «türkei buchen»)"
+  },
+  {
+   "keyword": "türkei urlaub 2027",
+   "reason": "дублікат (той самий запит: «türkei urlaub 2027»)"
+  },
+  {
+   "keyword": "last minute urlaub türkei all inclusive",
+   "reason": "дублікат (той самий запит: «last minute urlaub türkei all inclusive»)"
+  },
+  {
+   "keyword": "reise türkei personalausweis",
+   "reason": "дублікат (той самий запит: «türkei reise personalausweis»)"
+  },
+  {
+   "keyword": "türkei reise mit personalausweis",
+   "reason": "дублікат (той самий запит: «reise türkei mit personalausweis»)"
+  },
+  {
+   "keyword": "personalausweis reise türkei",
+   "reason": "дублікат (той самий запит: «türkei reise personalausweis»)"
+  },
+  {
+   "keyword": "türkei reise buchen",
+   "reason": "дублікат (той самий запит: «reise türkei buchen»)"
+  },
+  {
+   "keyword": "reise buchen türkei",
+   "reason": "дублікат (той самий запит: «reise türkei buchen»)"
+  },
+  {
+   "keyword": "reise türkei buchen",
+   "reason": "дублікат (той самий запит: «reise türkei buchen»)"
+  },
+  {
+   "keyword": "türkei reisen buchen",
+   "reason": "дублікат (той самий запит: «reise türkei buchen»)"
+  },
+  {
+   "keyword": "türkei urlaub günstig buchen",
+   "reason": "дублікат (той самий запит: «türkei urlaub buchen günstig»)"
+  },
+  {
+   "keyword": "reise türkei buchen",
+   "reason": "дублікат (той самий запит: «reise türkei buchen»)"
+  },
+  {
+   "keyword": "türkei reisen buchen",
+   "reason": "дублікат (той самий запит: «reise türkei buchen»)"
+  },
+  {
+   "keyword": "türkei urlaub buchen günstig",
+   "reason": "дублікат (той самий запит: «türkei urlaub buchen günstig»)"
+  },
+  {
+   "keyword": "türkei urlaub günstig buchen",
+   "reason": "дублікат (той самий запит: «türkei urlaub buchen günstig»)"
+  },
+  {
+   "keyword": "lidl türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reise türkei buchen",
+   "reason": "дублікат (той самий запит: «reise türkei buchen»)"
+  },
+  {
+   "keyword": "türkei reisen buchen",
+   "reason": "дублікат (той самий запит: «reise türkei buchen»)"
+  },
+  {
+   "keyword": "türkei strandurlaub",
+   "reason": "дублікат (той самий запит: «türkei strandurlaub»)"
+  },
+  {
+   "keyword": "türkei urlaub buchen günstig",
+   "reason": "дублікат (той самий запит: «türkei urlaub buchen günstig»)"
+  },
+  {
+   "keyword": "türkei urlaub günstig buchen",
+   "reason": "дублікат (той самий запит: «türkei urlaub buchen günstig»)"
+  },
+  {
+   "keyword": "türkei urlaub last minute",
+   "reason": "дублікат (той самий запит: «last minute urlaub türkei»)"
+  },
+  {
+   "keyword": "reise türkei auswärtiges amt",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "lidl türkei reise",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "lidl reise türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "türkei reise auswärtiges amt",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reise günstig türkei",
+   "reason": "дублікат (той самий запит: «türkei reise günstig»)"
+  },
+  {
+   "keyword": "günstige reise türkei",
+   "reason": "дублікат (той самий запит: «türkei reise günstig»)"
+  },
+  {
+   "keyword": "reise türkei günstig",
+   "reason": "дублікат (той самий запит: «türkei reise günstig»)"
+  },
+  {
+   "keyword": "günstige urlaub in türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "günstiger urlaub in der türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "reise türkei günstig",
+   "reason": "дублікат (той самий запит: «türkei reise günstig»)"
+  },
+  {
+   "keyword": "urlaub in der türkei günstig",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "günstige urlaub in türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "günstiger urlaub in der türkei",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "reise türkei günstig",
+   "reason": "дублікат (той самий запит: «türkei reise günstig»)"
+  },
+  {
+   "keyword": "türkei urlaub im november",
+   "reason": "дублікат (той самий запит: «november türkei urlaub»)"
+  },
+  {
+   "keyword": "türkei urlaub november",
+   "reason": "дублікат (той самий запит: «november türkei urlaub»)"
+  },
+  {
+   "keyword": "türkei urlaub september",
+   "reason": "дублікат (той самий запит: «september türkei urlaub»)"
+  },
+  {
+   "keyword": "urlaub in der türkei günstig",
+   "reason": "дублікат (той самий запит: «türkei urlaub günstiger»)"
+  },
+  {
+   "keyword": "urlaub türkei im november",
+   "reason": "дублікат (той самий запит: «november türkei urlaub»)"
+  },
+  {
+   "keyword": "urlaub türkei im september",
+   "reason": "дублікат (той самий запит: «september türkei urlaub»)"
+  },
+  {
+   "keyword": "check24 pauschalreise türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "türkei reise tui",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "tui reise türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "tui türkei reise",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "in der türkei",
+   "reason": "нерелевантний"
+  },
+  {
+   "keyword": "kurzurlaub türkei",
+   "reason": "дублікат (той самий запит: «kurzurlaub türkei»)"
+  },
+  {
+   "keyword": "check24 reise türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "türkei urlaub 2025",
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "urlaub in der türkei 2026",
+   "reason": "дублікат (той самий запит: «türkei urlaub 2026»)"
+  },
+  {
+   "keyword": "urlaub türkei im mai",
+   "reason": "дублікат (той самий запит: «mai urlaub türkei»)"
+  },
+  {
+   "keyword": "last minute angebote türkei",
+   "reason": "дублікат (той самий запит: «türkei last minute angebote»)"
+  },
+  {
+   "keyword": "reise türkei all inclusive",
+   "reason": "дублікат (той самий запит: «all inclusive reise türkei»)"
+  },
+  {
+   "keyword": "billig reise türkei",
+   "reason": "дублікат (той самий запит: «türkei reise billig»)"
+  },
+  {
+   "keyword": "türkei reise all inclusive",
+   "reason": "дублікат (той самий запит: «all inclusive reise türkei»)"
+  },
+  {
+   "keyword": "billig reisen türkei",
+   "reason": "дублікат (той самий запит: «türkei reise billig»)"
+  },
+  {
+   "keyword": "türkei günstig",
+   "reason": "дублікат (той самий запит: «günstig türkei»)"
+  },
+  {
+   "keyword": "urlaub türkei 2025",
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "billig reisen türkei",
+   "reason": "дублікат (той самий запит: «türkei reise billig»)"
+  },
+  {
+   "keyword": "türkei reisen last minute",
+   "reason": "дублікат (той самий запит: «türkei reise last minute»)"
+  },
+  {
+   "keyword": "urlaub türkei last minute",
+   "reason": "дублікат (той самий запит: «last minute urlaub türkei»)"
+  },
+  {
+   "keyword": "türkei reise sicher",
+   "reason": "дублікат (той самий запит: «reise türkei sicher»)"
+  },
+  {
+   "keyword": "günstig pauschalreisen türkei",
+   "reason": "дублікат (той самий запит: «pauschalreise günstig türkei»)"
+  },
+  {
+   "keyword": "urlaub in der türkei buchen",
+   "reason": "дублікат (той самий запит: «urlaub türkei buchen»)"
+  },
+  {
+   "keyword": "urlaub in die türkei buchen",
+   "reason": "дублікат (той самий запит: «urlaub türkei buchen»)"
+  },
+  {
+   "keyword": "urlaub türkei meer",
+   "reason": "дублікат (той самий запит: «türkei urlaub meer»)"
+  },
+  {
+   "keyword": "urlaub türkei pauschalreise",
+   "reason": "дублікат (той самий запит: «türkei urlaub pauschalreise»)"
+  },
+  {
+   "keyword": "urlaub türkei pauschalreise",
+   "reason": "дублікат (той самий запит: «türkei urlaub pauschalreise»)"
+  },
+  {
+   "keyword": "günstige türkei reisen",
+   "reason": "дублікат (той самий запит: «türkei reise günstig»)"
+  },
+  {
+   "keyword": "schnäppchen urlaub türkei",
+   "reason": "дублікат (той самий запит: «schnäppchen türkei urlaub»)"
+  },
+  {
+   "keyword": "pauschalreise in die türkei",
+   "reason": "дублікат (той самий запит: «pauschalreise türkei»)"
+  },
+  {
+   "keyword": "holidaycheck pauschalreise türkei",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "pauschalreise türkei tui",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "berge und meer türkei rundreise",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "rundreise türkei sonnenklar",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "trendtours türkei rundreise",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "aldi reisen türkei rundreise",
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "pauschalreisen türkei lara",
+   "reason": "Lara: дублікат (множина) «pauschalreise türkei lara», який уже в основному списку"
+  },
+  {
+   "keyword": "urlaub lara antalya check24",
+   "reason": "Lara: бренд конкурента (Check24)"
+  },
+  {
+   "keyword": "ab in den urlaub türkei lara",
+   "reason": "Lara: бренд конкурента (ab in den urlaub)"
+  },
+  {
+   "keyword": "urlaub türkei lara 2023",
+   "reason": "Lara: застарілий рік (2023)"
+  },
+  {
+   "keyword": "urlaub türkei lara 2022",
+   "reason": "Lara: застарілий рік (2022)"
+  },
+  {
+   "keyword": "sherwood exclusive lara ab in den-urlaub",
+   "reason": "Lara: бренд конкурента (ab in den urlaub) + назва готелю"
+  },
+  {
+   "keyword": "ab in den urlaub lara",
+   "reason": "Lara: бренд конкурента (ab in den urlaub)"
+  },
+  {
+   "keyword": "ab in den urlaub antalya-lara",
+   "reason": "Lara: бренд конкурента (ab in den urlaub)"
+  },
+  {
+   "keyword": "ramada resort lara ab in den urlaub",
+   "reason": "Lara: бренд конкурента (ab in den urlaub) + назва готелю"
+  },
+  {
+   "keyword": "ab in den urlaub limak lara",
+   "reason": "Lara: бренд конкурента (ab in den urlaub) + назва готелю"
+  },
+  {
+   "keyword": "adalya elite lara ab in den urlaub",
+   "reason": "Lara: бренд конкурента (ab in den urlaub) + назва готелю"
+  },
+  {
+   "keyword": "lara türkei wikipedia",
+   "reason": "Lara: навігаційний запит (Wikipedia)"
+  },
+  {
+   "keyword": "türkei lara wetter",
+   "reason": "інформаційний інтент, у ТОП погодні/картографічні сервіси"
+  },
+  {
+   "keyword": "wetter lara türkei 30 tage",
+   "reason": "інформаційний інтент, у ТОП погодні/картографічні сервіси"
+  },
+  {
+   "keyword": "wetter lara türkei 16 tage",
+   "reason": "інформаційний інтент, у ТОП погодні/картографічні сервіси"
+  },
+  {
+   "keyword": "türkei lara karte",
+   "reason": "інформаційний інтент, у ТОП погодні/картографічні сервіси"
+  },
+  {
+   "keyword": "wetter lara türkei 7 tage",
+   "reason": "інформаційний інтент, у ТОП погодні/картографічні сервіси"
+  },
+  {
+   "keyword": "wetter lara türkei 10-tage",
+   "reason": "інформаційний інтент, у ТОП погодні/картографічні сервіси"
+  },
+  {
+   "keyword": "wetter lara türkei oktober",
+   "reason": "інформаційний інтент, у ТОП погодні/картографічні сервіси"
+  },
+  {
+   "keyword": "wetter lara türkei aktuell",
+   "reason": "інформаційний інтент, у ТОП погодні/картографічні сервіси"
+  },
+  {
+   "keyword": "günstig in die türkei fliegen",
+   "reason": "запит про авіаквитки, не тур"
+  }
+ ]
+}

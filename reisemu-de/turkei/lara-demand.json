@@ -1,0 +1,1837 @@
+{
+ "seeds": [
+  "lara urlaub",
+  "lara türkei"
+ ],
+ "related_seed": "lara urlaub",
+ "cost_usd": 0.0897,
+ "keywords": [
+  {
+   "keyword": "liberty lara türkei",
+   "volume": 12100,
+   "cpc": 1.18,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "türkei lara hotel liberty"
+   ],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "liberty",
+   "extra_tokens": [
+    "liberty"
+   ],
+   "translation_uk": "готель Liberty Lara у Лара (Туреччина)"
+  },
+  {
+   "keyword": "fame residence lara & spa türkei",
+   "volume": 8100,
+   "cpc": 1.29,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "türkei lara fame residence",
+    "fame residence lara antalya türkei",
+    "fame residence lara ab in den urlaub"
+   ],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "fame",
+   "extra_tokens": [
+    "fame",
+    "residence"
+   ],
+   "translation_uk": "готель Fame Residence Lara & Spa у Лара (Туреччина)"
+  },
+  {
+   "keyword": "türkei lara wetter",
+   "volume": 5400,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "lara türkei-wetter",
+    "türkei''lara wetter",
+    "wetter lara türkei",
+    "wetter türkei lara",
+    "türkei-wetter lara",
+    "lara türkei wetter",
+    "wetter in lara türkei",
+    "wetter in der türkei lara"
+   ],
+   "category": "інформаційний (погода/карта)",
+   "hotel_name": false,
+   "entity": "wetter",
+   "extra_tokens": [
+    "wetter"
+   ],
+   "translation_uk": "погода в Лара (Туреччина)"
+  },
+  {
+   "keyword": "lara türkei",
+   "volume": 4400,
+   "cpc": 1.17,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "türkei lara"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": "Лара (Туреччина): курорт, відпочинок"
+  },
+  {
+   "keyword": "grand park lara türkei",
+   "volume": 3600,
+   "cpc": 1.4,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "grand park",
+   "extra_tokens": [
+    "grand",
+    "park"
+   ],
+   "translation_uk": "готель Grand Park Lara у Лара (Туреччина)"
+  },
+  {
+   "keyword": "türkei lara miracle resort",
+   "volume": 2400,
+   "cpc": 1.16,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "türkei miracle resort lara",
+    "türkei urlaub lara hotel miracle resort",
+    "urlaub türkei lara miracle resort"
+   ],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "miracle",
+   "extra_tokens": [
+    "miracle"
+   ],
+   "translation_uk": "готель Miracle Resort у Лара (Туреччина)"
+  },
+  {
+   "keyword": "titanic beach lara resort antalya türkei",
+   "volume": 2400,
+   "cpc": 1.04,
+   "intent": "navigational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "türkei lara titanic",
+    "titanic beach lara türkei",
+    "urlaub türkei lara titanic",
+    "türkei urlaub titanic beach lara"
+   ],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "titanic",
+   "extra_tokens": [
+    "titanic"
+   ],
+   "translation_uk": "готель Titanic Beach Lara Resort (Лара, Анталія, Туреччина)"
+  },
+  {
+   "keyword": "wetter lara türkei 30 tage",
+   "volume": 1600,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [],
+   "category": "інформаційний (погода/карта)",
+   "hotel_name": false,
+   "entity": "wetter",
+   "extra_tokens": [
+    "wetter"
+   ],
+   "translation_uk": "погода в Лара (Туреччина) на 30 днів"
+  },
+  {
+   "keyword": "lara hotels",
+   "volume": 1300,
+   "cpc": 0.85,
+   "intent": "navigational",
+   "kd": 0,
+   "source": "related:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": "готелі в Лара"
+  },
+  {
+   "keyword": "türkei hotel lara",
+   "volume": 1000,
+   "cpc": 0.83,
+   "intent": "navigational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "lara hotel türkei",
+    "hotel lara türkei",
+    "türkei lara hotel",
+    "hotels in lara türkei",
+    "hotel in lara türkei",
+    "lara hotels türkei",
+    "lara türkei hotel",
+    "lara türkei hotels",
+    "türkei lara hotels",
+    "hotels lara türkei"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": "готелі в Лара (Туреччина)"
+  },
+  {
+   "keyword": "wetter lara türkei 16 tage",
+   "volume": 880,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [],
+   "category": "інформаційний (погода/карта)",
+   "hotel_name": false,
+   "entity": "wetter",
+   "extra_tokens": [
+    "wetter"
+   ],
+   "translation_uk": "погода в Лара (Туреччина) на 16 днів"
+  },
+  {
+   "keyword": "urlaub türkei lara",
+   "volume": 720,
+   "cpc": 1,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "türkei urlaub lara",
+    "türkei lara urlaub",
+    "urlaub lara türkei",
+    "lara urlaub türkei",
+    "lara türkei urlaub",
+    "urlaub in der türkei lara",
+    "türkei urlaub in lara",
+    "urlaub in lara türkei",
+    "türkei urlaub lara",
+    "türkei lara urlaub",
+    "urlaub lara türkei",
+    "lara urlaub türkei",
+    "lara türkei urlaub",
+    "urlaub in der türkei lara",
+    "türkei urlaub in lara",
+    "lara türkei urlaub"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": "відпочинок у Лара (Туреччина)"
+  },
+  {
+   "keyword": "türkei lara karte",
+   "volume": 720,
+   "cpc": 1.93,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "türkei karte lara",
+    "lara türkei karte",
+    "karte türkei lara",
+    "lara türkei karte"
+   ],
+   "category": "інформаційний (погода/карта)",
+   "hotel_name": false,
+   "entity": "karte",
+   "extra_tokens": [
+    "karte"
+   ],
+   "translation_uk": "карта Лара (Туреччина)"
+  },
+  {
+   "keyword": "hotel royal wings türkei lara",
+   "volume": 720,
+   "cpc": 1.2,
+   "intent": "navigational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "türkei royal wings hotel lara"
+   ],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "royal wings",
+   "extra_tokens": [
+    "royal",
+    "wings"
+   ],
+   "translation_uk": "готель Royal Wings у Лара (Туреччина)"
+  },
+  {
+   "keyword": "wetter lara türkei 7 tage",
+   "volume": 720,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [],
+   "category": "інформаційний (погода/карта)",
+   "hotel_name": false,
+   "entity": "wetter",
+   "extra_tokens": [
+    "wetter"
+   ],
+   "translation_uk": "погода в Лара (Туреччина) на 7 днів"
+  },
+  {
+   "keyword": "wetter lara türkei 10-tage",
+   "volume": 590,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "wetter lara türkei 10 tage"
+   ],
+   "category": "інформаційний (погода/карта)",
+   "hotel_name": false,
+   "entity": "wetter",
+   "extra_tokens": [
+    "wetter"
+   ],
+   "translation_uk": "погода в Лара (Туреччина) на 10 днів"
+  },
+  {
+   "keyword": "hotel melas lara türkei",
+   "volume": 480,
+   "cpc": 1.1,
+   "intent": "navigational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "melas lara hotel türkei",
+    "lara melas türkei",
+    "urlaub türkei hotel melas lara",
+    "melas lara ab in den urlaub"
+   ],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "melas",
+   "extra_tokens": [
+    "melas"
+   ],
+   "translation_uk": "готель Melas Lara у Лара (Туреччина)"
+  },
+  {
+   "keyword": "5 sterne hotels türkei lara",
+   "volume": 480,
+   "cpc": 0.64,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "5 sterne hotel türkei lara",
+    "lara türkei 5-sterne-hotels",
+    "lara türkei hotels 5-sterne",
+    "hotel türkei lara 5 sterne",
+    "hotels türkei lara 5 sterne",
+    "hotels lara türkei 5-sterne",
+    "5-sterne hotel türkei lara",
+    "hotel lara türkei 5 sterne",
+    "5 sterne-hotel türkei lara",
+    "lara türkei 5-sterne hotels",
+    "lara türkei 5 sterne hotels",
+    "lara türkei hotels 5 sterne",
+    "hotels lara türkei 5 sterne",
+    "5-sterne-hotel türkei lara",
+    "hotel lara türkei 5-sterne",
+    "5-sterne hotels in lara türkei",
+    "hotels in lara türkei 5-sterne",
+    "hotels in lara türkei 5 sterne"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": "5-зіркові готелі в Лара (Туреччина)"
+  },
+  {
+   "keyword": "lara urlaub",
+   "volume": 320,
+   "cpc": 1.23,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "urlaub lara",
+    "urlaub in lara"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": "відпочинок у Лара"
+  },
+  {
+   "keyword": "10 besten hotels in lara türkei",
+   "volume": 320,
+   "cpc": 0.56,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "besten",
+   "extra_tokens": [
+    "besten"
+   ],
+   "translation_uk": "10 найкращих готелів у Лара (Туреччина)"
+  },
+  {
+   "keyword": "delphin palace türkei lara",
+   "volume": 170,
+   "cpc": 0.96,
+   "intent": "navigational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "lara türkei delphin palace",
+    "delphin palace lara türkei",
+    "urlaub lara delphin palace",
+    "türkei urlaub lara delphin"
+   ],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "delphin",
+   "extra_tokens": [
+    "delphin",
+    "palace"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "wetter lara türkei oktober",
+   "volume": 170,
+   "cpc": 0.28,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "türkei lara wetter oktober",
+    "wetter türkei''lara oktober",
+    "wetter türkei lara oktober",
+    "wetter oktober türkei lara",
+    "lara türkei wetter oktober"
+   ],
+   "category": "інформаційний (погода/карта)",
+   "hotel_name": false,
+   "entity": "oktober wetter",
+   "extra_tokens": [
+    "wetter",
+    "oktober"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "pauschalreisen türkei lara",
+   "volume": 170,
+   "cpc": 2.18,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "pauschalreisen lara türkei"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "wetter lara türkei aktuell",
+   "volume": 170,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [],
+   "category": "інформаційний (погода/карта)",
+   "hotel_name": false,
+   "entity": "aktuell wetter",
+   "extra_tokens": [
+    "wetter",
+    "aktuell"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "pauschalreise türkei lara",
+   "volume": 170,
+   "cpc": 2.18,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "pauschalreise lara türkei"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "lara türkei strand",
+   "volume": 170,
+   "cpc": 0.83,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub antalya lara",
+   "volume": 140,
+   "cpc": 1.24,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "antalya lara urlaub",
+    "urlaub lara antalya",
+    "lara antalya urlaub",
+    "urlaub antalya-lara",
+    "urlaub in lara antalya",
+    "urlaub in antalya-lara",
+    "urlaub in antalya lara",
+    "antalya urlaub lara"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "türkei hotel baia lara",
+   "volume": 140,
+   "cpc": 1.34,
+   "intent": "navigational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "baia lara hotel türkei",
+    "türkei urlaub baia lara"
+   ],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "baia",
+   "extra_tokens": [
+    "baia"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "türkei lara beach",
+   "volume": 140,
+   "cpc": 1.04,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "lara beach türkei"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "türkei lara sehenswürdigkeiten",
+   "volume": 140,
+   "cpc": 0.31,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [
+    "lara türkei sehenswürdigkeiten",
+    "lara türkei sehenswürdigkeiten"
+   ],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "sehenswürdigkeiten",
+   "extra_tokens": [
+    "sehenswürdigkeiten"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "wo liegt lara in der türkei",
+   "volume": 140,
+   "cpc": 1.48,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara türkei",
+   "variants": [],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "liegt wo",
+   "extra_tokens": [
+    "wo",
+    "liegt"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "lara urlaub angebote",
+   "volume": 70,
+   "cpc": 1.23,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub türkei lara günstig",
+   "volume": 50,
+   "cpc": 1.23,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "günstig urlaub türkei lara"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "antalya lara urlaub all inclusive mit flug",
+   "volume": 50,
+   "cpc": 0.93,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "türkei urlaub lara delphin imperial",
+   "volume": 40,
+   "cpc": 0.86,
+   "intent": "transactional",
+   "kd": 27,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "delphin imperial lara ab in den urlaub"
+   ],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "delphin imperial",
+   "extra_tokens": [
+    "delphin",
+    "imperial"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub türkei lara 2026",
+   "volume": 40,
+   "cpc": 1.01,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub lara antalya check24",
+   "volume": 30,
+   "cpc": 0.46,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "urlaub lara/ antalya check24",
+    "check24 urlaub türkei antalya lara",
+    "check24 urlaub türkei lara"
+   ],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "check24",
+   "extra_tokens": [
+    "check24"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "last minute urlaub antalya lara",
+   "volume": 20,
+   "cpc": 2.39,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "last minute urlaub antalya-lara"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub lara beach türkei",
+   "volume": 20,
+   "cpc": 1.45,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "türkei urlaub lara beach",
+    "urlaub türkei lara beach"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "türkei lara urlaub gefährlich",
+   "volume": 20,
+   "cpc": 0.57,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "urlaub in lara gefährlich"
+   ],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "gefährlich",
+   "extra_tokens": [
+    "gefährlich"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "last minute urlaub türkei lara",
+   "volume": 20,
+   "cpc": 1.68,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "türkei urlaub lara strand",
+   "volume": 20,
+   "cpc": 0.84,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "urlaub türkei lara strand"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "ab in den urlaub türkei lara",
+   "volume": 20,
+   "cpc": 0.2,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub türkei antalya lara",
+   "volume": 20,
+   "cpc": 1.1,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "türkei antalya lara urlaub",
+    "urlaub türkei lara antalya",
+    "türkei urlaub antalya lara"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub türkei lara belek",
+   "volume": 20,
+   "cpc": 0.87,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "belek",
+   "extra_tokens": [
+    "belek"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub türkei all inclusive lara",
+   "volume": 10,
+   "cpc": 0.48,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "all inclusive urlaub türkei lara"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub türkei lara 2023",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "lara beach urlaub",
+   "volume": 10,
+   "cpc": 0.56,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "urlaub lara beach"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub türkei 5 sterne lara",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "lara all inclusive urlaub",
+   "volume": 10,
+   "cpc": 0.65,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "billig urlaub in antalya lara",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "billig urlaub antalya lara"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub türkei lara 2022",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": 26,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "sherwood exclusive lara ab in den-urlaub",
+   "volume": 10,
+   "cpc": 0.42,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "sherwood exclusive lara ab in den urlaub"
+   ],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "exclusive sherwood",
+   "extra_tokens": [
+    "sherwood",
+    "exclusive"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "antalya lara urlaub buchen",
+   "volume": 10,
+   "cpc": 1.54,
+   "intent": "transactional",
+   "kd": 13,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "urlaub buchen antalya lara",
+    "urlaub buchen in lara antalya"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "ab in den urlaub lara",
+   "volume": 10,
+   "cpc": 0.12,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "günstig urlaub antalya lara",
+   "volume": 10,
+   "cpc": 1.05,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "günstig urlaub antalya-lara",
+    "günstige urlaub antalya lara"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "türkei urlaub hotel lara",
+   "volume": 10,
+   "cpc": 1.29,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "türkei urlaub lara hotel"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "günstiger urlaub antalya lara",
+   "volume": 10,
+   "cpc": 1.05,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "günstiger",
+   "extra_tokens": [
+    "günstiger"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "ab in den urlaub antalya-lara",
+   "volume": 10,
+   "cpc": 0.22,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "ab in den urlaub antalya lara"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub lara strand",
+   "volume": 10,
+   "cpc": 0.64,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "ramada resort lara ab in den urlaub",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "ramada",
+   "extra_tokens": [
+    "ramada"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "türkei urlaub lara delphin diva",
+   "volume": 10,
+   "cpc": 1.3,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "delphin diva",
+   "extra_tokens": [
+    "delphin",
+    "diva"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub türkei lara kundu",
+   "volume": 10,
+   "cpc": 1.33,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "kundu",
+   "extra_tokens": [
+    "kundu"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "lara urlaub buchen",
+   "volume": 10,
+   "cpc": 1.16,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub buchen türkei antalya lara",
+   "volume": 10,
+   "cpc": 1.25,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "urlaub türkei all inclusive 5 sterne lara",
+   "volume": 10,
+   "cpc": 0.16,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "ab in den urlaub limak lara",
+   "volume": 10,
+   "cpc": 0.24,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "limak",
+   "extra_tokens": [
+    "limak"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "all inclusive urlaub antalya-lara",
+   "volume": 10,
+   "cpc": 2.36,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "antalya lara urlaub all inclusive",
+    "all inclusive urlaub antalya lara"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "adalya elite lara ab in den urlaub",
+   "volume": 10,
+   "cpc": 0.6,
+   "intent": "transactional",
+   "kd": 44,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "adalya elite",
+   "extra_tokens": [
+    "adalya",
+    "elite"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "günstig urlaub in lara",
+   "volume": 10,
+   "cpc": 0.27,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [
+    "lara urlaub günstig"
+   ],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "türkei urlaub limak lara de luxe",
+   "volume": 10,
+   "cpc": 0.29,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "de limak luxe",
+   "extra_tokens": [
+    "limak",
+    "de",
+    "luxe"
+   ],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "türkei urlaub günstig all inclusive lara",
+   "volume": 10,
+   "cpc": 1.57,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "last minute urlaub lara",
+   "volume": 10,
+   "cpc": 1.08,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "türkei lara urlaub buchen",
+   "volume": 10,
+   "cpc": 2.08,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:lara urlaub",
+   "variants": [],
+   "category": "загальний",
+   "hotel_name": false,
+   "entity": "",
+   "extra_tokens": [],
+   "translation_uk": ""
+  },
+  {
+   "keyword": "lara türkei wikipedia",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 59,
+   "source": "related:lara türkei",
+   "variants": [],
+   "category": "назва готелю",
+   "hotel_name": true,
+   "entity": "wikipedia",
+   "extra_tokens": [
+    "wikipedia"
+   ],
+   "translation_uk": ""
+  }
+ ],
+ "serp": {
+  "lara türkei": {
+   "check_url": "https://www.google.de/search?q=lara%20t%C3%BCrkei&hl=de&gl=DE&ie=UTF-8&uule=w+CAIQIFISCWu-scIecppHEVvlkY5rXeh1",
+   "datetime": "2026-10-07 21:43:46 +00:00",
+   "results": [
+    {
+     "position": 1,
+     "url": "https://www.holidaycheck.de/di/lara/26a5d8cf-1ba2-39c8-a936-c849cefde654",
+     "domain": "www.holidaycheck.de",
+     "title": "Lara Urlaub 2026/2027 • Günstig buchen bei ...",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 2,
+     "url": "https://www.alltours.de/urlaub/tuerkei/antalya/lara/",
+     "domain": "www.alltours.de",
+     "title": "Urlaub Lara (Antalya) ✈ Günstig in die Türkei mit ...",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 3,
+     "url": "https://www.dertour.de/urlaub/lara",
+     "domain": "www.dertour.de",
+     "title": "Lara Urlaub buchen und das Meer genießen | DERTOUR",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 4,
+     "url": "https://www.lidl-reisen.de/urlaub/tuerkei/tuerkische-riviera/lara",
+     "domain": "www.lidl-reisen.de",
+     "title": "Lara Urlaub günstig buchen bei Lidl-Reisen",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 5,
+     "url": "https://www.neckermann-reisen.de/urlaub/tuerkei/tuerkische-riviera/antalya/lara-beach/",
+     "domain": "www.neckermann-reisen.de",
+     "title": "Lara Beach Urlaub jetzt günstig buchen",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 6,
+     "url": "https://urlaub.check24.de/urlaub/stadt/lara-antalya-ci908",
+     "domain": "urlaub.check24.de",
+     "title": "Lara (Antalya) Urlaub 2026 - jetzt günstig buchen!",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 7,
+     "url": "https://www.its.de/urlaubsziele/europa/tuerkei/lara",
+     "domain": "www.its.de",
+     "title": "Lara Urlaub günstig buchen - ITS",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 8,
+     "url": "https://www.ab-ins-blaue.de/urlaub/tuerkei/reisefuehrer/beliebte-straende/larabeach.html",
+     "domain": "www.ab-ins-blaue.de",
+     "title": "Lara Beach - Strand in der Türkei - Ab ins Blaue",
+     "type": "інше",
+     "region": null
+    }
+   ]
+  },
+  "lara hotels": {
+   "check_url": "https://www.google.de/search?q=lara%20hotels&hl=de&gl=DE&ie=UTF-8&uule=w+CAIQIFISCWu-scIecppHEVvlkY5rXeh1",
+   "datetime": "2026-10-07 21:45:03 +00:00",
+   "results": [
+    {
+     "position": 1,
+     "url": "https://www.booking.com/rooms/city/tr/kucuk-kundu.de.html",
+     "domain": "www.booking.com",
+     "title": "Die 10 besten Zimmer in Lara, Türkei",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 2,
+     "url": "https://www.holidaycheck.de/dh/hotels-lara/26a5d8cf-1ba2-39c8-a936-c849cefde654?availability=1&departuredate=2026-09-28&duration=7&minrecommendation=70&returndate=2026-11-26&rooms=a-a&travelkind=package",
+     "domain": "www.holidaycheck.de",
+     "title": "Die besten Lara Hotels bei HolidayCheck",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 3,
+     "url": "https://www.expedia.de/Eski-Lara-Antalya-Hotel.0-n553248633981724563-0.Reise-Angebote-Filter-Hotels",
+     "domain": "www.expedia.de",
+     "title": "Die 10 Besten Hotels in Eski Lara, Antalya",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 4,
+     "url": "https://www.cozycozy.com/de/hotels-lara-beach",
+     "domain": "www.cozycozy.com",
+     "title": "Hotels in Lara Beach - Cozycozy",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 5,
+     "url": "https://www.trivago.de/de/oar/zeyda-lara-hotel?search=100-42628470",
+     "domain": "www.trivago.de",
+     "title": "Zeyda Lara Hotel",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 6,
+     "url": "https://www.loveholidays.com/at/urlaub/tuerkei/antalya/lara/melas-lara-hotel-all-inclusive/",
+     "domain": "www.loveholidays.com",
+     "title": "Melas Lara Hotel - All Inclusive in Lara, Antalya",
+     "type": "all inclusive (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 7,
+     "url": "https://www.tui.com/hotels/enda-lara-hotel-1367952/hotelinformation/",
+     "domain": "www.tui.com",
+     "title": "Hotel Enda Lara Hotel in Lara günstig buchen bei ...",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 8,
+     "url": "https://www.12-travel.de/lastminute/hotelangebote/T%C3%BCrkei/Antalya%20&%20Belek/Antalya%20-%20Lara%20Beach/",
+     "domain": "www.12-travel.de",
+     "title": "Last Minute Urlaub Antalya - Lara Beach ⭐️bis",
+     "type": "last minute (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 9,
+     "url": "https://www.ab-in-den-urlaub.de/hotel/awen-lara-hotel-1106672",
+     "domain": "www.ab-in-den-urlaub.de",
+     "title": "Awen Lara Hotel buchen • Antalya",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    }
+   ]
+  },
+  "türkei hotel lara": {
+   "check_url": "https://www.google.de/search?q=t%C3%BCrkei%20hotel%20lara&hl=de&gl=DE&ie=UTF-8&uule=w+CAIQIFISCWu-scIecppHEVvlkY5rXeh1",
+   "datetime": "2026-10-07 21:43:54 +00:00",
+   "results": [
+    {
+     "position": 1,
+     "url": "https://hotel.check24.de/hotel/turkey/24011685",
+     "domain": "hotel.check24.de",
+     "title": "Laroxx Hotel Lara, Antalya - Hotel günstig buchen",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 2,
+     "url": "https://www.holidaycheck.de/hi/enda-lara-hotel/5fd4b17c-510a-46a2-8518-e4f8669194ae",
+     "domain": "www.holidaycheck.de",
+     "title": "Enda Lara Hotel (Lara): Alle Infos zum Hotel",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 3,
+     "url": "https://www.cozycozy.com/at/hotels-lara-beach",
+     "domain": "www.cozycozy.com",
+     "title": "Alle Hotels in Lara Beach - Cozycozy",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 4,
+     "url": "https://www.booking.com/hotel/tr/lara-kapris-otel.de.html",
+     "domain": "www.booking.com",
+     "title": "Lara Kapris Hotel, Antalya (aktualisierte Preise für 2026)",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 5,
+     "url": "https://www.loveholidays.com/at/urlaub/tuerkei/antalya/lara/liberty-hotels-lara/",
+     "domain": "www.loveholidays.com",
+     "title": "Liberty Hotels Lara in Lara, Antalya | weloveholidays",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 6,
+     "url": "https://www.5vorflug.de/destinationen/hotel/tuerkei/kundu_antalya/lara_family_club/",
+     "domain": "www.5vorflug.de",
+     "title": "Lara Family Club in Aksu, Türkei",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 7,
+     "url": "https://www.trivago.de/de/oar/lara-diamond-hotel?search=100-1391951",
+     "domain": "www.trivago.de",
+     "title": "Lara Diamond Hotel",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    }
+   ]
+  },
+  "liberty lara türkei": {
+   "check_url": "https://www.google.de/search?q=liberty%20lara%20t%C3%BCrkei&hl=de&gl=DE&ie=UTF-8&uule=w+CAIQIFISCWu-scIecppHEVvlkY5rXeh1",
+   "datetime": "2026-10-07 21:45:29 +00:00",
+   "results": [
+    {
+     "position": 1,
+     "url": "https://pauschalreisen.dertour-reisebuero.de/search/offer?brand=DER&rid=434&dur=7&ibe=package&ddate=2025-01-13&rdate=2025-01-25&srtHot=5&srtReg=15&adult=2&aid=47084",
+     "domain": "pauschalreisen.dertour-reisebuero.de",
+     "title": "Liberty Lara - | DERTOUR Reisebüro - Pauschalreisen",
+     "type": "інше",
+     "region": null
+    },
+    {
+     "position": 2,
+     "url": "https://www.loveholidays.com/at/urlaub/tuerkei/antalya/lara/liberty-hotels-lara/",
+     "domain": "www.loveholidays.com",
+     "title": "Liberty Hotels Lara in Lara, Antalya | weloveholidays",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 3,
+     "url": "https://www.holidaycheck.de/hrd/liberty-lara-weltklasse-hotel-100-weiterempfehlung/73e7666b-b63d-4a3d-aa0d-5d2da94c35ed",
+     "domain": "www.holidaycheck.de",
+     "title": "Liberty Lara - Türkische Riviera Türkei - HolidayCheck",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 4,
+     "url": "https://www.holidaycheck.de/hrd/liberty-lara-familienfreundliches-hotel-mit-hervorragendem-essen-und-service/530ced8e-fe8a-4cfd-ac5e-858a6bb576a1",
+     "domain": "www.holidaycheck.de",
+     "title": "Liberty Lara",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 5,
+     "url": "https://www.holidaycheck.de/hrd/liberty-lara-schoenes-hotel-aber-fuer-uns-das-letzte-mal/1b224fea-e4c1-419f-8b43-808a7748c472",
+     "domain": "www.holidaycheck.de",
+     "title": "\"Schönes Hotel. Aber für uns das letzte Mal\" Liberty Lara ...",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 6,
+     "url": "https://www.holidaycheck.at/hrd/liberty-lara-wir-waren-sehr-zufrieden/b95daba0-3f39-4de0-bf5f-f9cf54b3e493",
+     "domain": "www.holidaycheck.at",
+     "title": "\"Wir waren sehr zufrieden.\" Liberty Lara (Lara)",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 7,
+     "url": "https://www.holidaycheck.de/hrd/liberty-lara-super-urlaub/b611a4ef-ed2f-4401-91aa-c0d08649bf50",
+     "domain": "www.holidaycheck.de",
+     "title": "Liberty Lara - Türkische Riviera Urlaub",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 8,
+     "url": "https://www.holidaycheck.de/hrd/liberty-lara-5-sterne-magen-darm-infekt/497398d3-c3c0-4063-a62c-5d5068ff7036",
+     "domain": "www.holidaycheck.de",
+     "title": "5 Sterne Magen Darm Infekt - Liberty Lara",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 9,
+     "url": "https://www.holidaycheck.de/hrd/liberty-lara-toller-aufenthalt-wir-kommen-gerne-wieder/62a40a5e-7217-4228-9466-d4a4992822a4",
+     "domain": "www.holidaycheck.de",
+     "title": "\"Toller Aufenthalt wir kommen gerne wieder\" Liberty Lara ...",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    }
+   ]
+  },
+  "fame residence lara & spa türkei": {
+   "check_url": "https://www.google.de/search?q=fame%20residence%20lara%20%26%20spa%20t%C3%BCrkei&hl=de&gl=DE&ie=UTF-8&uule=w+CAIQIFISCWu-scIecppHEVvlkY5rXeh1",
+   "datetime": "2026-10-07 21:45:34 +00:00",
+   "results": [
+    {
+     "position": 1,
+     "url": "https://www.holidaycheck.de/hrd/fame-residence-lara-spa-erholsamer-urlaub-mit-tollem-service-und-freundlichem-personal/475565bf-642c-4780-8fa6-fc3c729377e4",
+     "domain": "www.holidaycheck.de",
+     "title": "Fame Residence Lara & Spa",
+     "type": "готель (регіон)",
+     "region": "antalya"
+    },
+    {
+     "position": 2,
+     "url": "https://www.tiefpreis.de/deals/reisen/urlaub/tuerkei/antalya-belek/fame-residence-lara-spa-flug.html",
+     "domain": "www.tiefpreis.de",
+     "title": "Fame Residence Lara & Spa, Türkei, Antalya, Lara",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 3,
+     "url": "https://www.youtube.com/watch?v=vwz8G31riXE",
+     "domain": "www.youtube.com",
+     "title": "Fame Residence Lara & Spa #antalya #türkei #shopping # ...",
+     "type": "інформаційна",
+     "region": null
+    },
+    {
+     "position": 4,
+     "url": "https://www.youtube.com/watch?v=GjGrARpSdnM",
+     "domain": "www.youtube.com",
+     "title": "Fame Residence Lara & Spa Antalya ...",
+     "type": "інформаційна",
+     "region": null
+    },
+    {
+     "position": 5,
+     "url": "https://www.facebook.com/PhilsBikelifeandTravel/videos/au%C3%9Fenanlage-in-der-fame-residence-lara-%EF%B8%8Ft%C3%BCrkei-t%C3%BCrkeiurlaub-antalya-antalya-fame/886043650736551/",
+     "domain": "www.facebook.com",
+     "title": "Außenanlage in der Fame Residence Lara 🇹🇷🇹🇷#türkei🇹 ...",
+     "type": "інформаційна",
+     "region": null
+    },
+    {
+     "position": 6,
+     "url": "https://www.tiktok.com/@troja_17/video/7400774202950700321",
+     "domain": "www.tiktok.com",
+     "title": "Fame Residence Lara & Spa: 5-Sterne Hotel in Antalya Türkei",
+     "type": "інформаційна",
+     "region": null
+    },
+    {
+     "position": 7,
+     "url": "https://www.youtube.com/watch?v=6MdsbUVhxF8",
+     "domain": "www.youtube.com",
+     "title": "Roomtour Fame Residence Lara & Spa (Antalya, Türkei)",
+     "type": "інформаційна",
+     "region": null
+    },
+    {
+     "position": 8,
+     "url": "https://www.youtube.com/watch?v=E1nNTvYakTE",
+     "domain": "www.youtube.com",
+     "title": "Fame Residence Lara & Spa #antalyalara #shopping #antalya ...",
+     "type": "інформаційна",
+     "region": null
+    },
+    {
+     "position": 9,
+     "url": "https://www.instagram.com/reel/DV1BFgrCAT3/",
+     "domain": "www.instagram.com",
+     "title": "LAST-MINUTE LUXUSURLAUB IN ANTALYA  Fame ...",
+     "type": "інформаційна",
+     "region": null
+    }
+   ]
+  },
+  "türkei lara wetter": {
+   "check_url": "https://www.google.de/search?q=t%C3%BCrkei%20lara%20wetter&hl=de&gl=DE&ie=UTF-8&uule=w+CAIQIFISCWu-scIecppHEVvlkY5rXeh1",
+   "datetime": "2026-10-07 21:44:39 +00:00",
+   "results": [
+    {
+     "position": 1,
+     "url": "https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/tuerkei/lara-antalya/TR6545010.html",
+     "domain": "www.wetter.com",
+     "title": "Wetter Lara / Antalya: 16 Tage Trend",
+     "type": "інформаційна",
+     "region": "antalya"
+    },
+    {
+     "position": 2,
+     "url": "https://www.wetter.com/wetter_aktuell/wettervorhersage/7_tagesvorhersage/tuerkei/lara-antalya/TR6545010.html",
+     "domain": "www.wetter.com",
+     "title": "Wetter Lara / Antalya: 7-Tage Prognose",
+     "type": "інформаційна",
+     "region": "antalya"
+    },
+    {
+     "position": 3,
+     "url": "https://www.wetteronline.de/wetter/antalya",
+     "domain": "www.wetteronline.de",
+     "title": "Wetter Antalya - 4 Tage Vorhersage",
+     "type": "інформаційна",
+     "region": "antalya"
+    },
+    {
+     "position": 4,
+     "url": "https://www.wetter.de/wetter/n/8623193654",
+     "domain": "www.wetter.de",
+     "title": "Wetter Lara heute ☀ Vorhersage 14 - 21 Tage",
+     "type": "інформаційна",
+     "region": null
+    },
+    {
+     "position": 5,
+     "url": "https://www.wetter.net/wetter/tuerkei/lara",
+     "domain": "www.wetter.net",
+     "title": "Wetter Lara: 14-Tage-Trend & Regenradar",
+     "type": "інформаційна",
+     "region": "antalya"
+    },
+    {
+     "position": 6,
+     "url": "https://www.meteoblue.com/de/wetter/10-tage/lara-%2F-antalya_t%C3%BCrkei_6545010",
+     "domain": "www.meteoblue.com",
+     "title": "10-Tage-Wetter Lara / Antalya",
+     "type": "інформаційна",
+     "region": "antalya"
+    },
+    {
+     "position": 7,
+     "url": "https://www.daswetter.com/lara-1-520443.html",
+     "domain": "www.daswetter.com",
+     "title": "Wetter Lara (Türkei) 14 Tage - Daswetter.com",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 8,
+     "url": "https://www.worldmeteo.info/de/europa/turkei/lara/wetter-132809/",
+     "domain": "www.worldmeteo.info",
+     "title": "Wetter Lara, Türkei - 14 Tage",
+     "type": "інформаційна",
+     "region": "antalya"
+    },
+    {
+     "position": 9,
+     "url": "https://www.klimatabelle.info/europa/tuerkei/lara",
+     "domain": "www.klimatabelle.info",
+     "title": "Klimatabelle Lara: Klima, Temperatur & Wetter für Lara",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 10,
+     "url": "https://www.holidaycheck.de/dc/wetter-lara/26a5d8cf-1ba2-39c8-a936-c849cefde654",
+     "domain": "www.holidaycheck.de",
+     "title": "Beste Reisezeit Lara: Wetter & Klimatabelle",
+     "type": "інформаційна",
+     "region": "antalya"
+    }
+   ]
+  },
+  "urlaub türkei lara": {
+   "check_url": "https://www.google.de/search?q=urlaub%20t%C3%BCrkei%20lara&hl=de&gl=DE&ie=UTF-8&uule=w+CAIQIFISCWu-scIecppHEVvlkY5rXeh1",
+   "datetime": "2026-10-07 21:44:00 +00:00",
+   "results": [
+    {
+     "position": 1,
+     "url": "https://www.alltours.de/urlaub/tuerkei/antalya/lara/",
+     "domain": "www.alltours.de",
+     "title": "Urlaub Lara (Antalya) ✈ Günstig in die Türkei mit ...",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 2,
+     "url": "https://www.holidaycheck.de/di/lara/26a5d8cf-1ba2-39c8-a936-c849cefde654",
+     "domain": "www.holidaycheck.de",
+     "title": "Lara Urlaub 2026/2027 • Günstig buchen bei ...",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 3,
+     "url": "https://www.dertour.de/urlaub/lara",
+     "domain": "www.dertour.de",
+     "title": "Lara Urlaub buchen und das Meer genießen | DERTOUR",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 4,
+     "url": "https://www.lidl-reisen.de/urlaub/tuerkei/tuerkische-riviera/lara",
+     "domain": "www.lidl-reisen.de",
+     "title": "Lara Urlaub günstig buchen bei Lidl-Reisen",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 5,
+     "url": "https://www.neckermann-reisen.de/urlaub/tuerkei/tuerkische-riviera/antalya/lara-beach/",
+     "domain": "www.neckermann-reisen.de",
+     "title": "Lara Beach Urlaub jetzt günstig buchen",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 6,
+     "url": "https://urlaub.check24.de/urlaub/stadt/lara-antalya-ci908",
+     "domain": "urlaub.check24.de",
+     "title": "Lara (Antalya) Urlaub 2026 - jetzt günstig buchen!",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 7,
+     "url": "https://www.its.de/urlaubsziele/europa/tuerkei/lara",
+     "domain": "www.its.de",
+     "title": "Lara Urlaub günstig buchen - ITS",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 8,
+     "url": "https://www.restplatzboerse.com/urlaub/antalya-lara-beach-oid-6236/",
+     "domain": "www.restplatzboerse.com",
+     "title": "Antalya - Lara Beach Urlaub | Angebote günstig buchen",
+     "type": "хаб регіону",
+     "region": "antalya"
+    },
+    {
+     "position": 9,
+     "url": "https://www.rewe-reisen.de/urlaubsziele/europa/tuerkei/tuerkische-riviera/lara.html",
+     "domain": "www.rewe-reisen.de",
+     "title": "Urlaub Lara günstig buchen - Türkische Riviera",
+     "type": "хаб регіону",
+     "region": "antalya"
+    }
+   ]
+  }
+ }
+}

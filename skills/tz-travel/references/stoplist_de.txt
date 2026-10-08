@@ -1,0 +1,32 @@
+# Стоп-список tz-travel для німецької мови (embed_terms.py, семантичні слова й слова підтем).
+# Один запис на рядок, без урахування регістру; рядки з # — коментарі. Список можна поповнювати:
+# якщо в аркуші «Семантичні слова» з'явилось сміття, допишіть слово сюди й перезапустіть embed_terms.py.
+# Бренди конкурентів сюди писати не треба: вони беруться з stop_brands профілю ринку і з доменів конкурентів.
+
+# --- службові слова ---
+aber alle allem allen aller alles als also am an ander andere anderem anderen anderer anderes auch auf aus bei beim bin bis bist
+da dabei dafür damit dann das dass dazu dein deine deinem deinen deiner dem den denn der des dessen dich die dies diese diesem diesen dieser
+dieses dir doch dort du durch ein eine einem einen einer eines einige er es etwas euch euer eure für gegen gibt hat hatte haben hier hin
+ich ihm ihn ihnen ihr ihre ihrem ihren ihrer im in ins ist ja jede jedem jeden jeder jedes jetzt kann kein keine keinem keinen können könnt
+lässt man mehr mein meine mich mir mit muss nach nicht nichts noch nur ob oder ohne sehr sein seine seinem seinen seiner seit sich sie sind
+so sowie sowohl über um und uns unser unsere unserem unseren unserer unter viel viele vom von vor war waren was weil weiter welche welcher welches
+wenn wer werden wie wieder wir wird wo wurde zu zum zur zwischen ab bzw etc ca inkl pro je per wann warum wieso wohin woher
+gut ganz besonders zudem hierbei dank egal natürlich außerdem ebenfalls bereits immer oft gerne gern rund
+bietet bieten finden findest findet lassen machen macht geht gehen gilt liegt liegen kommen kommt sollte sollten möchte möchten möchtest kannst
+entdecken entdecke erleben genießen buche buchen
+
+# --- навігація, cookie, сервісні тексти ---
+cookie cookies datenschutz impressum agb newsletter anmelden login registrieren passwort hotline service kontakt
+gutschein cashback testsieger mehr anzeigen weitere laden informationen öffnen profilfoto image html banner
+bewertungen kundenbewertungen kundenauszeichnung award siegel www http https de com gmbh
+uhr montag dienstag mittwoch donnerstag freitag samstag sonntag feiertag
+
+# --- загальні слова без змісту для теми ---
+welt auswahl kombination seite bild beispiel wert regel option möglichkeiten möglichkeit zeit jahr jahre tag tage tagen woche wochen stunde stunden
+nähe blick mischung charakter kulisse magie geschmack besucher euro angebot angebote angeboten vergleich empfehlungen tipps
+land landes ziel ziele orte ort stadt städte häuser osten westen süden norden gründe grund fragen frage
+beliebte beliebten beliebtesten schönsten schöne besten beste perfekte perfekten riesige vielfalt region regionen
+aufenthalt buchung reisende entdecken auszeit paradies komfort infrastruktur hinterland sand wasser monate monat
+
+# @single --- шум лише як окремі слова; складені терміни з ними («Türkei reisen», «Urlaubsregionen») лишаються ---
+reise reisen urlaub urlaube
