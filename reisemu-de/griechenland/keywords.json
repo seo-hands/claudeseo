@@ -1,0 +1,4507 @@
+{
+ "keywords": [
+  {
+   "keyword": "griechenland urlaub",
+   "volume": 40500,
+   "cpc": 1.04,
+   "intent": "informational",
+   "kd": 8,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції"
+  },
+  {
+   "keyword": "griechenland pauschalreise",
+   "volume": 8100,
+   "cpc": 1.96,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Греції"
+  },
+  {
+   "keyword": "urlaub griechenland 2026",
+   "volume": 2900,
+   "cpc": 1.31,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції 2026"
+  },
+  {
+   "keyword": "urlaub griechenland insel",
+   "volume": 2900,
+   "cpc": 1.37,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок на грецькому острові"
+  },
+  {
+   "keyword": "griechenland urlaub all inclusive mit flug",
+   "volume": 1900,
+   "cpc": 1.13,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції все включено з перельотом"
+  },
+  {
+   "keyword": "all inclusive griechenland urlaub",
+   "volume": 1600,
+   "cpc": 1.19,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції все включено"
+  },
+  {
+   "keyword": "urlaub griechenland welche insel",
+   "volume": 1600,
+   "cpc": 1.25,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції: який острів обрати",
+   "translation_note_uk": "інформаційний запит-порівняння островів"
+  },
+  {
+   "keyword": "inseln griechenland urlaub",
+   "volume": 1600,
+   "cpc": 1.25,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок на островах Греції"
+  },
+  {
+   "keyword": "griechenland kreta urlaub",
+   "volume": 1300,
+   "cpc": 1.2,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок на Криті (Греція)"
+  },
+  {
+   "keyword": "griechenland kos urlaub",
+   "volume": 1300,
+   "cpc": 1.15,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок на Косі (Греція)"
+  },
+  {
+   "keyword": "griechenland urlaub all inclusive mit flug 2026",
+   "volume": 1300,
+   "cpc": 0.85,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції все включено з перельотом 2026"
+  },
+  {
+   "keyword": "griechenland urlaub günstig",
+   "volume": 1000,
+   "cpc": 1.3,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "недорогий відпочинок у Греції"
+  },
+  {
+   "keyword": "griechenland urlaub mit flug",
+   "volume": 1000,
+   "cpc": 1.15,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції з перельотом",
+   "translation_note_uk": "фактично пакетний тур: переліт + готель"
+  },
+  {
+   "keyword": "griechenland mit kindern urlaub",
+   "volume": 880,
+   "cpc": 0.87,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції з дітьми"
+  },
+  {
+   "keyword": "pauschalreise griechenland 2026",
+   "volume": 880,
+   "cpc": 1.9,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Греції 2026"
+  },
+  {
+   "keyword": "urlaub festland griechenland",
+   "volume": 720,
+   "cpc": 1.19,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у материковій Греції"
+  },
+  {
+   "keyword": "griechenland last minute urlaub",
+   "volume": 720,
+   "cpc": 1.65,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "гарячі тури до Греції"
+  },
+  {
+   "keyword": "oktober urlaub griechenland",
+   "volume": 590,
+   "cpc": 0.95,
+   "intent": "informational",
+   "kd": 21,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції в жовтні"
+  },
+  {
+   "keyword": "urlaub griechenland buchen",
+   "volume": 590,
+   "cpc": 1.44,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок у Греції"
+  },
+  {
+   "keyword": "griechenland reisen",
+   "volume": 590,
+   "cpc": 1.27,
+   "intent": "informational",
+   "kd": 14,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро",
+   "translation_uk": "тури до Греції",
+   "translation_note_uk": "«Reisen» — і «тури», і «подорожувати»; у видачі переважно пропозиції турів"
+  },
+  {
+   "keyword": "festland griechenland",
+   "volume": 590,
+   "cpc": 0.98,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро",
+   "translation_uk": "материкова Греція",
+   "translation_note_uk": "загальний запит без явного туристичного наміру"
+  },
+  {
+   "keyword": "rhodos griechenland urlaub",
+   "volume": 480,
+   "cpc": 1.07,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок на Родосі (Греція)"
+  },
+  {
+   "keyword": "griechenland urlaub im september",
+   "volume": 390,
+   "cpc": 1.27,
+   "intent": "informational",
+   "kd": 19,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції у вересні"
+  },
+  {
+   "keyword": "urlaub in griechenland am meer",
+   "volume": 390,
+   "cpc": 0.87,
+   "intent": "commercial",
+   "kd": 39,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції на морі"
+  },
+  {
+   "keyword": "pauschalreise all inclusive griechenland",
+   "volume": 390,
+   "cpc": 1.62,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Греції все включено"
+  },
+  {
+   "keyword": "urlaub griechenland chalkidiki",
+   "volume": 320,
+   "cpc": 0.88,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок на Халкідіках (Греція)"
+  },
+  {
+   "keyword": "korfu griechenland urlaub",
+   "volume": 320,
+   "cpc": 1.09,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок на Корфу (Греція)"
+  },
+  {
+   "keyword": "urlaub griechenland santorini",
+   "volume": 320,
+   "cpc": 0.85,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок на Санторіні (Греція)"
+  },
+  {
+   "keyword": "urlaub in griechenland am meer all inclusive",
+   "volume": 320,
+   "cpc": 1.35,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції на морі все включено"
+  },
+  {
+   "keyword": "günstige pauschalreise griechenland",
+   "volume": 320,
+   "cpc": 1.93,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "недорогий пакетний тур до Греції"
+  },
+  {
+   "keyword": "griechenland inselhopping pauschalreise",
+   "volume": 320,
+   "cpc": 0.98,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур Грецією з переїздами між островами",
+   "translation_note_uk": "«Inselhopping» — подорож кількома островами поспіль"
+  },
+  {
+   "keyword": "griechenland urlaub günstig all inclusive",
+   "volume": 260,
+   "cpc": 1.25,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "related:griechenland reisen",
+   "label": "ядро",
+   "translation_uk": "недорогий відпочинок у Греції все включено"
+  },
+  {
+   "keyword": "ferien griechenland 2026",
+   "volume": 210,
+   "cpc": 1.17,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро",
+   "translation_uk": "відпустка в Греції 2026",
+   "translation_note_uk": "«Ferien» — канікули/відпустка, частіше швейцарський вжиток"
+  },
+  {
+   "keyword": "griechenland urlaub 2026 all inclusive",
+   "volume": 170,
+   "cpc": 1,
+   "intent": "commercial",
+   "kd": 4,
+   "source": "related:griechenland urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції 2026 все включено"
+  },
+  {
+   "keyword": "griechenland urlaub reisewarnung",
+   "volume": 140,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 11,
+   "source": "related:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції: попередження щодо поїздок",
+   "translation_note_uk": "безпека; сторінка Reisehinweise"
+  },
+  {
+   "keyword": "griechenland urlaub strand",
+   "volume": 140,
+   "cpc": 0.99,
+   "intent": "informational",
+   "kd": 0,
+   "source": "related:griechenland urlaub",
+   "label": "ядро",
+   "translation_uk": "пляжний відпочинок у Греції"
+  },
+  {
+   "keyword": "inselhopping griechenland kykladen pauschalreise",
+   "volume": 140,
+   "cpc": 0.92,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур Кікладами з переїздами між островами"
+  },
+  {
+   "keyword": "griechenland insel pauschalreise",
+   "volume": 140,
+   "cpc": 2.29,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур на грецький острів"
+  },
+  {
+   "keyword": "pauschalreise griechenland inseln",
+   "volume": 140,
+   "cpc": 2.29,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур на острови Греції"
+  },
+  {
+   "keyword": "schöne strände griechenland festland",
+   "volume": 140,
+   "cpc": 1.02,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро",
+   "translation_uk": "гарні пляжі материкової Греції",
+   "translation_note_uk": "інформаційний запит"
+  },
+  {
+   "keyword": "rundreise griechenland festland",
+   "volume": 140,
+   "cpc": 1.14,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро",
+   "translation_uk": "екскурсійний тур материковою Грецією"
+  },
+  {
+   "keyword": "schönsten strände griechenland festland",
+   "volume": 140,
+   "cpc": 1.02,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро",
+   "translation_uk": "найкращі пляжі материкової Греції",
+   "translation_note_uk": "інформаційний запит"
+  },
+  {
+   "keyword": "schönste strände griechenland festland",
+   "volume": 140,
+   "cpc": 1.02,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро",
+   "translation_uk": "найкращі пляжі материкової Греції",
+   "translation_note_uk": "інформаційний запит"
+  },
+  {
+   "keyword": "günstige reise griechenland",
+   "volume": 110,
+   "cpc": 1.61,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро",
+   "translation_uk": "недорогий тур до Греції"
+  },
+  {
+   "keyword": "griechenland urlaub mit flug 2026",
+   "volume": 110,
+   "cpc": 0.84,
+   "intent": "informational",
+   "kd": 0,
+   "source": "related:griechenland reise",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції з перельотом 2026"
+  },
+  {
+   "keyword": "griechenland urlaub 2027 all inclusive",
+   "volume": 110,
+   "cpc": 0.71,
+   "intent": "informational",
+   "kd": 0,
+   "source": "related:griechenland reise",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції 2027 все включено"
+  },
+  {
+   "keyword": "griechenland pauschalreise last minute",
+   "volume": 110,
+   "cpc": 2.2,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "гарячий пакетний тур до Греції"
+  },
+  {
+   "keyword": "günstig urlaub buchen griechenland",
+   "volume": 110,
+   "cpc": 2.17,
+   "intent": "transactional",
+   "kd": 5,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "недорого забронювати відпочинок у Греції"
+  },
+  {
+   "keyword": "griechenland ferien",
+   "volume": 110,
+   "cpc": 1.46,
+   "intent": "informational",
+   "kd": 17,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро",
+   "translation_uk": "відпустка в Греції",
+   "translation_note_uk": "«Ferien» — канікули/відпустка, частіше швейцарський вжиток"
+  },
+  {
+   "keyword": "griechenland festland urlaub am meer",
+   "volume": 110,
+   "cpc": 0.86,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро",
+   "translation_uk": "відпочинок на морі в материковій Греції"
+  },
+  {
+   "keyword": "reise griechenland mit flug",
+   "volume": 90,
+   "cpc": 1.69,
+   "intent": "commercial",
+   "kd": 6,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро",
+   "translation_uk": "тур до Греції з перельотом"
+  },
+  {
+   "keyword": "pauschalreise griechenland kos",
+   "volume": 90,
+   "cpc": 2.03,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур на Кос (Греція)"
+  },
+  {
+   "keyword": "pauschalreise griechenland 2027",
+   "volume": 90,
+   "cpc": 1.14,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Греції 2027"
+  },
+  {
+   "keyword": "griechenland urlaub pauschalreise",
+   "volume": 90,
+   "cpc": 1.68,
+   "intent": "commercial",
+   "kd": 1,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції, пакетний тур"
+  },
+  {
+   "keyword": "griechenland urlaub mit flug und transfer",
+   "volume": 90,
+   "cpc": 1.01,
+   "intent": "transactional",
+   "kd": 6,
+   "source": "related:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції з перельотом і трансфером"
+  },
+  {
+   "keyword": "reise buchen griechenland",
+   "volume": 70,
+   "cpc": 2.19,
+   "intent": "transactional",
+   "kd": 5,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро",
+   "translation_uk": "забронювати тур до Греції"
+  },
+  {
+   "keyword": "reise griechenland all inclusive",
+   "volume": 70,
+   "cpc": 1.49,
+   "intent": "commercial",
+   "kd": 22,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро",
+   "translation_uk": "тур до Греції все включено"
+  },
+  {
+   "keyword": "reise griechenland inseln",
+   "volume": 70,
+   "cpc": 1.3,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро",
+   "translation_uk": "тур на острови Греції"
+  },
+  {
+   "keyword": "spezialist für griechenland reisen",
+   "volume": 70,
+   "cpc": 2.68,
+   "intent": "commercial",
+   "kd": 16,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро",
+   "translation_uk": "туроператор, що спеціалізується на Греції",
+   "translation_note_uk": "пошук профільного туроператора"
+  },
+  {
+   "keyword": "last minute reisen griechenland",
+   "volume": 70,
+   "cpc": 2.03,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро",
+   "translation_uk": "гарячі тури до Греції"
+  },
+  {
+   "keyword": "griechenland reisen 2026",
+   "volume": 70,
+   "cpc": 1.35,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро",
+   "translation_uk": "тури до Греції 2026"
+  },
+  {
+   "keyword": "pauschalreise lefkada griechenland",
+   "volume": 70,
+   "cpc": 1.13,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур на Лефкаду (Греція)"
+  },
+  {
+   "keyword": "pauschalreise griechenland peloponnes",
+   "volume": 70,
+   "cpc": 1.25,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур на Пелопоннес (Греція)"
+  },
+  {
+   "keyword": "pauschalreise griechenland kreta",
+   "volume": 70,
+   "cpc": 1.59,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур на Крит (Греція)"
+  },
+  {
+   "keyword": "pauschalreise griechenland billig",
+   "volume": 70,
+   "cpc": 0.98,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "дешевий пакетний тур до Греції"
+  },
+  {
+   "keyword": "griechenland urlaub halbpension mit flug",
+   "volume": 70,
+   "cpc": 1.02,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "related:griechenland urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Греції з напівпансіоном і перельотом"
+  },
+  {
+   "keyword": "attika griechenland reisen",
+   "volume": 50,
+   "cpc": 0.65,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро",
+   "translation_uk": "тури до Аттики (Греція) / Attika Reisen",
+   "translation_note_uk": "неоднозначно: регіон Аттика або бренд туроператора Attika Reisen"
+  },
+  {
+   "keyword": "pauschalreise griechenland festland",
+   "volume": 50,
+   "cpc": 1.31,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до материкової Греції"
+  },
+  {
+   "keyword": "pauschalreise griechenland all inclusive 2026",
+   "volume": 50,
+   "cpc": 1.48,
+   "intent": "commercial",
+   "kd": 2,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Греції все включено 2026"
+  },
+  {
+   "keyword": "pauschalreise paros griechenland",
+   "volume": 50,
+   "cpc": 0.84,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур на Парос (Греція)"
+  },
+  {
+   "keyword": "pauschalreise chalkidiki griechenland",
+   "volume": 50,
+   "cpc": 1.7,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур на Халкідіки (Греція)"
+  },
+  {
+   "keyword": "fkk-hotel griechenland pauschalreise",
+   "volume": 50,
+   "cpc": 0.78,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Греції, готель для натуристів",
+   "translation_note_uk": "FKK — нудистський відпочинок"
+  },
+  {
+   "keyword": "pauschalreise griechenland mit flug",
+   "volume": 50,
+   "cpc": 1.48,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Греції з перельотом"
+  },
+  {
+   "keyword": "pauschalreise milos griechenland",
+   "volume": 50,
+   "cpc": 0.79,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур на Мілос (Греція)"
+  },
+  {
+   "keyword": "urlaub buchen griechenland all inclusive",
+   "volume": 50,
+   "cpc": 1.07,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок у Греції все включено"
+  },
+  {
+   "keyword": "griechenland festland strände",
+   "volume": 50,
+   "cpc": 0.82,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро",
+   "translation_uk": "пляжі материкової Греції",
+   "translation_note_uk": "інформаційний запит"
+  },
+  {
+   "keyword": "griechenland festland hotel",
+   "volume": 50,
+   "cpc": 1.31,
+   "intent": "navigational",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро",
+   "translation_uk": "готель у материковій Греції"
+  },
+  {
+   "keyword": "griechenland festland strand",
+   "volume": 50,
+   "cpc": 0.82,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро",
+   "translation_uk": "пляж у материковій Греції",
+   "translation_note_uk": "інформаційний запит"
+  },
+  {
+   "keyword": "reiseführer griechenland festland",
+   "volume": 50,
+   "cpc": 0.19,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро",
+   "translation_uk": "путівник материковою Грецією",
+   "translation_note_uk": "переважно пошук книжки-путівника"
+  },
+  {
+   "keyword": "touristensteuer griechenland pauschalreise",
+   "volume": 40,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "туристичний збір у Греції при пакетному турі",
+   "translation_note_uk": "інформаційний запит про кліматичний збір у готелях"
+  },
+  {
+   "keyword": "pauschalreise parga griechenland",
+   "volume": 40,
+   "cpc": 1.09,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Парги (Греція)"
+  },
+  {
+   "keyword": "pauschalreise kavala griechenland",
+   "volume": 40,
+   "cpc": 0.72,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Кавали (Греція)"
+  },
+  {
+   "keyword": "pauschalreise naxos griechenland",
+   "volume": 40,
+   "cpc": 1.51,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур на Наксос (Греція)"
+  },
+  {
+   "keyword": "griechenland urlaub buchen mit flug und hotel all inclusive",
+   "volume": 40,
+   "cpc": 1.5,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок у Греції: переліт і готель, все включено"
+  },
+  {
+   "keyword": "griechenland festland all inclusive",
+   "volume": 40,
+   "cpc": 2.03,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро",
+   "translation_uk": "материкова Греція все включено"
+  },
+  {
+   "keyword": "griechenland festland: all inclusive",
+   "volume": 40,
+   "cpc": 2.03,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро",
+   "translation_uk": "материкова Греція все включено",
+   "translation_note_uk": "варіант написання з двокрапкою"
+  },
+  {
+   "keyword": "urlaub griechenland festland chalkidiki",
+   "volume": 40,
+   "cpc": 0.7,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро",
+   "translation_uk": "відпочинок на Халкідіках (материкова Греція)"
+  },
+  {
+   "keyword": "beste urlaubsorte griechenland festland",
+   "volume": 40,
+   "cpc": 0.97,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро",
+   "translation_uk": "найкращі курорти материкової Греції",
+   "translation_note_uk": "інформаційний запит"
+  },
+  {
+   "keyword": "reise nach griechenland reicht personalausweis",
+   "volume": 30,
+   "cpc": 0.66,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро",
+   "translation_uk": "чи достатньо ID-картки для поїздки до Греції",
+   "translation_note_uk": "в’їзд; сторінка Reisehinweise"
+  },
+  {
+   "keyword": "reisen nach griechenland gefährlich",
+   "volume": 30,
+   "cpc": 0.65,
+   "intent": "informational",
+   "kd": null,
+   "source": "related:griechenland reise",
+   "label": "ядро",
+   "translation_uk": "чи небезпечно їхати до Греції",
+   "translation_note_uk": "безпека; сторінка Reisehinweise"
+  },
+  {
+   "keyword": "ist es gefährlich nach griechenland zu reisen",
+   "volume": 30,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро",
+   "translation_uk": "чи небезпечно подорожувати до Греції",
+   "translation_note_uk": "безпека; сторінка Reisehinweise"
+  },
+  {
+   "keyword": "leitner reisen griechenland",
+   "volume": 30,
+   "cpc": 0.11,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро",
+   "translation_uk": "Leitner Reisen, тури до Греції",
+   "translation_note_uk": "бренд: автобусний туроператор Leitner Reisen"
+  },
+  {
+   "keyword": "vamos reisen griechenland",
+   "volume": 30,
+   "cpc": 0.61,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро",
+   "translation_uk": "Vamos Reisen, тури до Греції",
+   "translation_note_uk": "бренд: туроператор Vamos Eltern-Kind-Reisen"
+  },
+  {
+   "keyword": "kritisch reisen: griechenland",
+   "volume": 30,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро",
+   "translation_uk": "«Kritisch reisen: Griechenland»",
+   "translation_note_uk": "назва телепередачі (WDR), не туристичний запит"
+  },
+  {
+   "keyword": "kritisch reisen griechenland",
+   "volume": 30,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро",
+   "translation_uk": "«Kritisch reisen: Griechenland»",
+   "translation_note_uk": "назва телепередачі (WDR), не туристичний запит"
+  },
+  {
+   "keyword": "hauser reisen griechenland",
+   "volume": 30,
+   "cpc": 0.49,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро",
+   "translation_uk": "Hauser Reisen, тури до Греції",
+   "translation_note_uk": "бренд: туроператор Hauser Exkursionen (трекінг)"
+  },
+  {
+   "keyword": "urlaub in griechenland wo am besten",
+   "volume": 30,
+   "cpc": 0.56,
+   "intent": "informational",
+   "kd": null,
+   "source": "related:griechenland reisen",
+   "label": "ядро",
+   "translation_uk": "де найкраще відпочивати в Греції",
+   "translation_note_uk": "інформаційний запит-порівняння місць"
+  },
+  {
+   "keyword": "pauschalreise thassos griechenland",
+   "volume": 30,
+   "cpc": 0.97,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур на Тасос (Греція)",
+   "translation_note_uk": ""
+  }
+ ],
+ "longtail": [
+  {
+   "keyword": "pauschalreise hydra griechenland",
+   "volume": 30,
+   "cpc": 0.71,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise buchen griechenland",
+   "volume": 30,
+   "cpc": 2.11,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland korfu",
+   "volume": 30,
+   "cpc": 1.2,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "schönste orte griechenland festland",
+   "volume": 30,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland festland chalkidiki",
+   "volume": 30,
+   "cpc": 0.72,
+   "intent": "informational",
+   "kd": 5,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "wandern in griechenland festland",
+   "volume": 30,
+   "cpc": 0.89,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "yoga reise griechenland",
+   "volume": 20,
+   "cpc": 1.57,
+   "intent": "informational",
+   "kd": 47,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise chalkidiki griechenland",
+   "volume": 20,
+   "cpc": 0.94,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach griechenland mit personalausweis",
+   "volume": 20,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "single reise griechenland",
+   "volume": 20,
+   "cpc": 2.02,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "rhomberg reisen: griechenland",
+   "volume": 20,
+   "cpc": 1.68,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "hörmann reisen griechenland",
+   "volume": 20,
+   "cpc": 0.08,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland reisen anbieter",
+   "volume": 20,
+   "cpc": 2.56,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "penny reisen griechenland",
+   "volume": 20,
+   "cpc": 0.46,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "lebenslust reisen griechenland",
+   "volume": 20,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "asi reisen griechenland",
+   "volume": 20,
+   "cpc": 0.93,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland reisen billig",
+   "volume": 20,
+   "cpc": 1.24,
+   "intent": "commercial",
+   "kd": 41,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "kögel reisen griechenland",
+   "volume": 20,
+   "cpc": 1.39,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "dürfen russen nach griechenland reisen",
+   "volume": 20,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 57,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "rhomberg reisen griechenland",
+   "volume": 20,
+   "cpc": 1.68,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reisen nach griechenland angebote",
+   "volume": 20,
+   "cpc": 1.1,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland ab memmingen",
+   "volume": 20,
+   "cpc": 0.95,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "calilo hotel griechenland pauschalreise",
+   "volume": 20,
+   "cpc": 0.87,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland rhodos",
+   "volume": 20,
+   "cpc": 1.87,
+   "intent": "commercial",
+   "kd": 10,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise samos griechenland",
+   "volume": 20,
+   "cpc": 1.26,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise kalamata griechenland",
+   "volume": 20,
+   "cpc": 1.04,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise nach griechenland direktflug",
+   "volume": 20,
+   "cpc": 1.96,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise ikaria griechenland",
+   "volume": 20,
+   "cpc": 0.45,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland september",
+   "volume": 20,
+   "cpc": 1.64,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland zakynthos",
+   "volume": 20,
+   "cpc": 1.7,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland kleines hotel",
+   "volume": 20,
+   "cpc": 1,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland swim-up zimmer",
+   "volume": 20,
+   "cpc": 2.15,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "wann sind in griechenland ferien",
+   "volume": 20,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "sandstrand griechenland festland",
+   "volume": 20,
+   "cpc": 1.99,
+   "intent": "informational",
+   "kd": 20,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "höchster berg griechenland festland",
+   "volume": 20,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "strassenkarte griechenland festland",
+   "volume": 20,
+   "cpc": 0.18,
+   "intent": "navigational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "straßenkarte griechenland festland",
+   "volume": 20,
+   "cpc": 0.18,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "geheimtipp griechenland festland",
+   "volume": 20,
+   "cpc": 0.92,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "geheimtipps griechenland festland",
+   "volume": 20,
+   "cpc": 0.92,
+   "intent": "informational",
+   "kd": 6,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "schönster strand griechenland festland",
+   "volume": 20,
+   "cpc": 2.02,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "strandurlaub griechenland festland",
+   "volume": 20,
+   "cpc": 1.15,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "robinson griechenland festland",
+   "volume": 20,
+   "cpc": 3.01,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "roadtrip griechenland festland",
+   "volume": 20,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "familienhotel griechenland festland",
+   "volume": 20,
+   "cpc": 0.66,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "camping griechenland festland",
+   "volume": 20,
+   "cpc": 0.4,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferienhäuser griechenland festland",
+   "volume": 20,
+   "cpc": 0.87,
+   "intent": "commercial",
+   "kd": 52,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland festland rundreise auto",
+   "volume": 20,
+   "cpc": 0.69,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "familienhotels griechenland festland",
+   "volume": 20,
+   "cpc": 0.66,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub griechenland festland peloponnes",
+   "volume": 20,
+   "cpc": 0.87,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach milos griechenland",
+   "volume": 10,
+   "cpc": 0.51,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "billige reise nach griechenland",
+   "volume": 10,
+   "cpc": 1.09,
+   "intent": "commercial",
+   "kd": 41,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "was brauche ich für eine reise nach griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach griechenland erlaubt",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach griechenland reisepass oder personalausweis",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise griechenland rhodos",
+   "volume": 10,
+   "cpc": 2.21,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise griechenland gültigkeit personalausweis",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise griechenland impfung",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland reise stornieren",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise griechenland mai",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach griechenland adac",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 20,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "der koloß von maroussi eine reise nach griechenland",
+   "volume": 10,
+   "cpc": 0.15,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach griechenland mit auto",
+   "volume": 10,
+   "cpc": 1.42,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "adac reise nach griechenland mit dem auto",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland reise tipps",
+   "volume": 10,
+   "cpc": 0.31,
+   "intent": "informational",
+   "kd": 26,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland reise empfehlungen",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise packliste griechenland",
+   "volume": 10,
+   "cpc": 0.06,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise know how griechenland",
+   "volume": 10,
+   "cpc": 0.18,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise oktober griechenland",
+   "volume": 10,
+   "cpc": 0.79,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise von deutschland nach griechenland",
+   "volume": 10,
+   "cpc": 0.36,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland reise ohne impfung",
+   "volume": 10,
+   "cpc": 2.05,
+   "intent": "informational",
+   "kd": 62,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise griechenland auswärtiges amt",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 93,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise deutschland griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "wohnmobil reise griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise griechenland september",
+   "volume": 10,
+   "cpc": 1.51,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "geführte reise griechenland",
+   "volume": 10,
+   "cpc": 1.05,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach griechenland ausweis",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland reise kreta",
+   "volume": 10,
+   "cpc": 6.99,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland reise und sicherheitshinweise",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise urlaub griechenland",
+   "volume": 10,
+   "cpc": 1.14,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reise nach griechenland reisepass",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland reise mit dem wohnmobil",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "dokumente für griechenland reise",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "kulinarische reise griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "mamma mia reise griechenland",
+   "volume": 10,
+   "cpc": 0.7,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "eine reise nach griechenland",
+   "volume": 10,
+   "cpc": 0.38,
+   "intent": "informational",
+   "kd": 14,
+   "source": "suggestions:griechenland reise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "billig reisen griechenland kreta",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "adac reisen fähren griechenland",
+   "volume": 10,
+   "cpc": 0.92,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "fkk reisen griechenland",
+   "volume": 10,
+   "cpc": 0.45,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "hofer reisen last minute griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "biblische reisen griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "laros reisen griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland reisen münchen",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reisen samos griechenland",
+   "volume": 10,
+   "cpc": 1.04,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "allein reisen griechenland",
+   "volume": 10,
+   "cpc": 1.68,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland reisen bochum",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "fener reisen griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reisen mit dem auto nach griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reisen nach griechenland bestimmungen",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "mit aufenthaltstitel reisen nach griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "billa reisen griechenland kreta",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reisen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise linz griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland ab wien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise wien griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland 5 sterne",
+   "volume": 10,
+   "cpc": 0.95,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "inselhüpfen griechenland kykladen pauschalreise",
+   "volume": 10,
+   "cpc": 0.32,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "tilos griechenland pauschalreise",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland kostenlos stornieren",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland pauschalreise familie",
+   "volume": 10,
+   "cpc": 0.82,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland santorini",
+   "volume": 10,
+   "cpc": 4.63,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland ab graz",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise andros griechenland",
+   "volume": 10,
+   "cpc": 0.44,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland ab linz",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland ab hamburg",
+   "volume": 10,
+   "cpc": 1.78,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise griechenland mit hund",
+   "volume": 10,
+   "cpc": 1.12,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "pauschalreise bungalow griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": 17,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "inselhüpfen griechenland pauschalreise",
+   "volume": 10,
+   "cpc": 0.69,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "label": "ядро"
+  },
+  {
+   "keyword": "santorini griechenland urlaub buchen",
+   "volume": 10,
+   "cpc": 0.85,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub buchen griechenland inseln",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "wann griechenland urlaub buchen",
+   "volume": 10,
+   "cpc": 1.49,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland urlaub billig buchen",
+   "volume": 10,
+   "cpc": 1.9,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "lefkada griechenland urlaub buchen",
+   "volume": 10,
+   "cpc": 1.45,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "milos griechenland urlaub buchen",
+   "volume": 10,
+   "cpc": 0.79,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub buchen griechenland rhodos",
+   "volume": 10,
+   "cpc": 2.44,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland urlaub buchen mit flug",
+   "volume": 10,
+   "cpc": 1.65,
+   "intent": "transactional",
+   "kd": 44,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub buchen griechenland kreta",
+   "volume": 10,
+   "cpc": 0.58,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub buchen griechenland chalkidiki",
+   "volume": 10,
+   "cpc": 3.38,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland kefalonia urlaub buchen",
+   "volume": 10,
+   "cpc": 0.77,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub buchen kos griechenland",
+   "volume": 10,
+   "cpc": 1.53,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub buchen griechenland mykonos",
+   "volume": 10,
+   "cpc": 0.48,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub buchen griechenland korfu",
+   "volume": 10,
+   "cpc": 2.1,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "urlaub buchen 2027 griechenland",
+   "volume": 10,
+   "cpc": 0.97,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland insel urlaub buchen",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland festland urlaub buchen",
+   "volume": 10,
+   "cpc": 0.51,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "wo griechenland urlaub buchen",
+   "volume": 10,
+   "cpc": 0.8,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland urlaub buchen pauschalreise",
+   "volume": 10,
+   "cpc": 1.05,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland urlaub buchen",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland festland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "günstige griechenland ferien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien mit kindern griechenland",
+   "volume": 10,
+   "cpc": 1.71,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "yoga ferien griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "gefährliche ferien griechenland",
+   "volume": 10,
+   "cpc": 0.05,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland ferien santorini",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien thassos griechenland",
+   "volume": 10,
+   "cpc": 0.44,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland welche insel",
+   "volume": 10,
+   "cpc": 2.02,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland september",
+   "volume": 10,
+   "cpc": 7.1,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland zakynthos",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien auf griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 17,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland april",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland herbst",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien am meer griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland ferien spezialist",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien milos griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland adults only",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland familie",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland inseln ferien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "gvc ferien griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland ferien strand",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien chalkidiki griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien lefkada griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland ferien tipps",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien in griechenland all inclusive",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland 2027",
+   "volume": 10,
+   "cpc": 1.16,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland insel",
+   "volume": 10,
+   "cpc": 0.94,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien kefalonia griechenland",
+   "volume": 10,
+   "cpc": 1.64,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland kos",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien samos griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien auf korfu griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "kreta griechenland ferien",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "last minute ferien griechenland",
+   "volume": 10,
+   "cpc": 3.15,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "bungalow ferien griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland ferien schweiz",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland ferien mykonos",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien paros griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland oktober",
+   "volume": 10,
+   "cpc": 0.92,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland ferien buchen",
+   "volume": 10,
+   "cpc": 1.23,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland november",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland mai",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien villa griechenland",
+   "volume": 10,
+   "cpc": 0.74,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien auf kreta griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "ferien griechenland peloponnes",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland ferien",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland festland und peloponnes",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "reisetipps griechenland festland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "schöne orte in griechenland festland",
+   "volume": 10,
+   "cpc": 0.97,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "highlights griechenland festland",
+   "volume": 10,
+   "cpc": 0.17,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "schlangen griechenland festland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "fähre griechenland festland türkei",
+   "volume": 10,
+   "cpc": 0.1,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "campingplätze griechenland festland",
+   "volume": 10,
+   "cpc": 0.86,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland festland",
+   "label": "ядро"
+  },
+  {
+   "keyword": "griechenland festland urlaubsorte",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "related:griechenland festland",
+   "label": "ядро"
+  }
+ ],
+ "adjacent": [
+  {
+   "keyword": "blaue reise griechenland",
+   "volume": 320,
+   "cpc": 0.85,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland reise",
+   "theme": "круїз на гулеті (Blaue Reise)",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "blaue reise griechenland 2026",
+   "volume": 70,
+   "cpc": 1.08,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland reise",
+   "theme": "круїз на гулеті (Blaue Reise)",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "blaue reise griechenland all inclusive mit flug",
+   "volume": 50,
+   "cpc": 0.86,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "theme": "круїз на гулеті (Blaue Reise)",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "blaue reise griechenland kykladen",
+   "volume": 40,
+   "cpc": 1.05,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:griechenland reise",
+   "theme": "Kykladen + круїз на гулеті (Blaue Reise)",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "pauschalreise mit ferienhaus und flug griechenland",
+   "volume": 40,
+   "cpc": 0.57,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland pauschalreise",
+   "theme": "оренда житла (Ferienhaus)",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "blaue reise griechenland mit flug",
+   "volume": 30,
+   "cpc": 0.6,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "theme": "круїз на гулеті (Blaue Reise)",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "blaue reise griechenland motorsegler",
+   "volume": 20,
+   "cpc": 1.03,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "theme": "круїз на гулеті (Blaue Reise)",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "blaue reise griechenland all inclusive",
+   "volume": 20,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:griechenland reise",
+   "theme": "круїз на гулеті (Blaue Reise)",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "ferienhaus griechenland festland",
+   "volume": 20,
+   "cpc": 0.87,
+   "intent": "commercial",
+   "kd": 52,
+   "source": "suggestions:griechenland festland",
+   "theme": "оренда житла (Ferienhaus)",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "blaue reise griechenland rhodos",
+   "volume": 10,
+   "cpc": 1.93,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "theme": "Rhodos + круїз на гулеті (Blaue Reise)",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "mein schiff 6 blaue reise griechenland",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:griechenland reise",
+   "theme": "круїз на гулеті (Blaue Reise)",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "pauschalreise apartment griechenland",
+   "volume": 10,
+   "cpc": 1.24,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:griechenland pauschalreise",
+   "theme": "оренда житла (Ferienhaus)",
+   "label": "суміжне"
+  }
+ ],
+ "filtered": [
+  {
+   "keyword": "urlaub griechenland",
+   "volume": 18100,
+   "reason": "дублікат (той самий запит: «griechenland urlaub»)"
+  },
+  {
+   "keyword": "pauschalreise griechenland",
+   "volume": 8100,
+   "reason": "дублікат (той самий запит: «griechenland pauschalreise»)"
+  },
+  {
+   "keyword": "urlaub in griechenland",
+   "volume": 2900,
+   "reason": "дублікат (той самий запит: «griechenland urlaub»)"
+  },
+  {
+   "keyword": "urlaub griechenland inseln",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «inseln griechenland urlaub»)"
+  },
+  {
+   "keyword": "griechenland urlaub inseln",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «inseln griechenland urlaub»)"
+  },
+  {
+   "keyword": "griechenland insel urlaub",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «urlaub griechenland insel»)"
+  },
+  {
+   "keyword": "griechenland urlaub all inclusive",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «all inclusive griechenland urlaub»)"
+  },
+  {
+   "keyword": "urlaub all inclusive griechenland",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «all inclusive griechenland urlaub»)"
+  },
+  {
+   "keyword": "urlaub all inklusiv griechenland",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «all inclusive griechenland urlaub»)"
+  },
+  {
+   "keyword": "griechenland inseln urlaub",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «inseln griechenland urlaub»)"
+  },
+  {
+   "keyword": "urlaub griechenland all inclusive",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «all inclusive griechenland urlaub»)"
+  },
+  {
+   "keyword": "griechenland urlaub 2026",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «urlaub griechenland 2026»)"
+  },
+  {
+   "keyword": "griechenland all inclusive urlaub",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «all inclusive griechenland urlaub»)"
+  },
+  {
+   "keyword": "insel griechenland urlaub",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «urlaub griechenland insel»)"
+  },
+  {
+   "keyword": "griechenland urlaub welche insel",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «urlaub griechenland welche insel»)"
+  },
+  {
+   "keyword": "all-inclusive urlaub griechenland",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «all inclusive griechenland urlaub»)"
+  },
+  {
+   "keyword": "all inklusiv urlaub griechenland",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «all inclusive griechenland urlaub»)"
+  },
+  {
+   "keyword": "kreta griechenland urlaub",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «griechenland kreta urlaub»)"
+  },
+  {
+   "keyword": "urlaub kreta griechenland",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «griechenland kreta urlaub»)"
+  },
+  {
+   "keyword": "urlaub griechenland kos",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «griechenland kos urlaub»)"
+  },
+  {
+   "keyword": "all inclusive urlaub griechenland",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «all inclusive griechenland urlaub»)"
+  },
+  {
+   "keyword": "urlaub griechenland kreta",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «griechenland kreta urlaub»)"
+  },
+  {
+   "keyword": "urlaub kos griechenland",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «griechenland kos urlaub»)"
+  },
+  {
+   "keyword": "kos griechenland urlaub",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «griechenland kos urlaub»)"
+  },
+  {
+   "keyword": "griechenland urlaub kreta",
+   "volume": 1000,
+   "reason": "дублікат (той самий запит: «griechenland kreta urlaub»)"
+  },
+  {
+   "keyword": "urlaub günstig griechenland",
+   "volume": 1000,
+   "reason": "дублікат (той самий запит: «griechenland urlaub günstig»)"
+  },
+  {
+   "keyword": "urlaub griechenland mit flug",
+   "volume": 1000,
+   "reason": "дублікат (той самий запит: «griechenland urlaub mit flug»)"
+  },
+  {
+   "keyword": "griechenland günstig urlaub",
+   "volume": 1000,
+   "reason": "дублікат (той самий запит: «griechenland urlaub günstig»)"
+  },
+  {
+   "keyword": "urlaub griechenland günstig",
+   "volume": 1000,
+   "reason": "дублікат (той самий запит: «griechenland urlaub günstig»)"
+  },
+  {
+   "keyword": "griechenland urlaub mit kindern",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «griechenland mit kindern urlaub»)"
+  },
+  {
+   "keyword": "urlaub mit kindern griechenland",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «griechenland mit kindern urlaub»)"
+  },
+  {
+   "keyword": "urlaub griechenland festland",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «urlaub festland griechenland»)"
+  },
+  {
+   "keyword": "griechenland festland urlaub",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «urlaub festland griechenland»)"
+  },
+  {
+   "keyword": "festland griechenland urlaub",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «urlaub festland griechenland»)"
+  },
+  {
+   "keyword": "griechenland urlaub festland",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «urlaub festland griechenland»)"
+  },
+  {
+   "keyword": "last minute urlaub griechenland",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «griechenland last minute urlaub»)"
+  },
+  {
+   "keyword": "last minute griechenland urlaub",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «griechenland last minute urlaub»)"
+  },
+  {
+   "keyword": "griechenland urlaub last minute",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «griechenland last minute urlaub»)"
+  },
+  {
+   "keyword": "griechenland im oktober urlaub",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «oktober urlaub griechenland»)"
+  },
+  {
+   "keyword": "urlaub griechenland im oktober",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «oktober urlaub griechenland»)"
+  },
+  {
+   "keyword": "griechenland urlaub im oktober",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «oktober urlaub griechenland»)"
+  },
+  {
+   "keyword": "griechenland urlaub buchen",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «urlaub griechenland buchen»)"
+  },
+  {
+   "keyword": "urlaub buchen griechenland",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «urlaub griechenland buchen»)"
+  },
+  {
+   "keyword": "urlaub oktober griechenland",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «oktober urlaub griechenland»)"
+  },
+  {
+   "keyword": "griechenland oktober urlaub",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «oktober urlaub griechenland»)"
+  },
+  {
+   "keyword": "urlaub griechenland oktober",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «oktober urlaub griechenland»)"
+  },
+  {
+   "keyword": "griechenland urlaub oktober",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «oktober urlaub griechenland»)"
+  },
+  {
+   "keyword": "oktober griechenland urlaub",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «oktober urlaub griechenland»)"
+  },
+  {
+   "keyword": "urlaub im oktober griechenland",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «oktober urlaub griechenland»)"
+  },
+  {
+   "keyword": "griechenland festland",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «festland griechenland»)"
+  },
+  {
+   "keyword": "urlaub rhodos griechenland",
+   "volume": 480,
+   "reason": "дублікат (той самий запит: «rhodos griechenland urlaub»)"
+  },
+  {
+   "keyword": "urlaub griechenland rhodos",
+   "volume": 480,
+   "reason": "дублікат (той самий запит: «rhodos griechenland urlaub»)"
+  },
+  {
+   "keyword": "griechenland rhodos urlaub",
+   "volume": 480,
+   "reason": "дублікат (той самий запит: «rhodos griechenland urlaub»)"
+  },
+  {
+   "keyword": "reise griechenland",
+   "volume": 480,
+   "reason": "дублікат (той самий запит: «griechenland reisen»)"
+  },
+  {
+   "keyword": "reisen griechenland",
+   "volume": 480,
+   "reason": "дублікат (той самий запит: «griechenland reisen»)"
+  },
+  {
+   "keyword": "reise nach griechenland",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «griechenland reisen»)"
+  },
+  {
+   "keyword": "griechenland urlaub check24",
+   "volume": 390,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "urlaub september griechenland",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «griechenland urlaub im september»)"
+  },
+  {
+   "keyword": "september griechenland urlaub",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «griechenland urlaub im september»)"
+  },
+  {
+   "keyword": "september urlaub griechenland",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «griechenland urlaub im september»)"
+  },
+  {
+   "keyword": "urlaub griechenland september",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «griechenland urlaub im september»)"
+  },
+  {
+   "keyword": "urlaub im september griechenland",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «griechenland urlaub im september»)"
+  },
+  {
+   "keyword": "check24 urlaub griechenland",
+   "volume": 390,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "griechenland urlaub september",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «griechenland urlaub im september»)"
+  },
+  {
+   "keyword": "urlaub griechenland check24",
+   "volume": 390,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "september griechenland-urlaub",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «griechenland urlaub im september»)"
+  },
+  {
+   "keyword": "griechenland september urlaub",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «griechenland urlaub im september»)"
+  },
+  {
+   "keyword": "urlaub griechenland im september",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «griechenland urlaub im september»)"
+  },
+  {
+   "keyword": "urlaub in griechenland 2026",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «urlaub griechenland 2026»)"
+  },
+  {
+   "keyword": "griechenland reise",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «griechenland reisen»)"
+  },
+  {
+   "keyword": "nach griechenland reisen",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «griechenland reisen»)"
+  },
+  {
+   "keyword": "pauschalreise griechenland all inclusive",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «pauschalreise all inclusive griechenland»)"
+  },
+  {
+   "keyword": "günstig urlaub in griechenland",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «griechenland urlaub günstig»)"
+  },
+  {
+   "keyword": "urlaub griechenland mit kindern",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «griechenland mit kindern urlaub»)"
+  },
+  {
+   "keyword": "günstiger urlaub in griechenland",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «griechenland urlaub günstig»)"
+  },
+  {
+   "keyword": "griechenland santorini urlaub",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «urlaub griechenland santorini»)"
+  },
+  {
+   "keyword": "urlaub griechenland korfu",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «korfu griechenland urlaub»)"
+  },
+  {
+   "keyword": "urlaub günstig in griechenland",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «griechenland urlaub günstig»)"
+  },
+  {
+   "keyword": "griechenland urlaub all inclusive mit flug 2025",
+   "volume": 320,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "griechenland chalkidiki urlaub",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «urlaub griechenland chalkidiki»)"
+  },
+  {
+   "keyword": "günstige urlaub in griechenland",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «griechenland urlaub günstig»)"
+  },
+  {
+   "keyword": "chalkidiki griechenland urlaub",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «urlaub griechenland chalkidiki»)"
+  },
+  {
+   "keyword": "santorini griechenland urlaub",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «urlaub griechenland santorini»)"
+  },
+  {
+   "keyword": "urlaub in griechenland günstig",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «griechenland urlaub günstig»)"
+  },
+  {
+   "keyword": "griechenland blaue reise",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «blaue reise griechenland»)"
+  },
+  {
+   "keyword": "blaue reisen griechenland",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «blaue reise griechenland»)"
+  },
+  {
+   "keyword": "pauschalreise griechenland günstig",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «günstige pauschalreise griechenland»)"
+  },
+  {
+   "keyword": "pauschalreise günstig griechenland",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «günstige pauschalreise griechenland»)"
+  },
+  {
+   "keyword": "günstig pauschalreise griechenland",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «günstige pauschalreise griechenland»)"
+  },
+  {
+   "keyword": "griechenland pauschalreise günstig",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «günstige pauschalreise griechenland»)"
+  },
+  {
+   "keyword": "inselhopping griechenland pauschalreise",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «griechenland inselhopping pauschalreise»)"
+  },
+  {
+   "keyword": "griechenland pauschalreise 2026",
+   "volume": 260,
+   "reason": "дублікат (той самий запит: «pauschalreise griechenland 2026»)"
+  },
+  {
+   "keyword": "pauschalreise nach griechenland",
+   "volume": 260,
+   "reason": "дублікат (той самий запит: «griechenland pauschalreise»)"
+  },
+  {
+   "keyword": "reisen nach griechenland",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «griechenland reisen»)"
+  },
+  {
+   "keyword": "griechenland pauschalreise all inclusive",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «pauschalreise all inclusive griechenland»)"
+  },
+  {
+   "keyword": "griechenland festland sehenswürdigkeiten",
+   "volume": 170,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "griechenland festland karte",
+   "volume": 170,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "griechenland-festland karte",
+   "volume": 170,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "sehenswürdigkeiten griechenland festland",
+   "volume": 170,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "karte griechenland festland",
+   "volume": 170,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "karte griechenland: festland",
+   "volume": 170,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "lidl reise griechenland",
+   "volume": 140,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "lidl reisen griechenland",
+   "volume": 140,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "lidl-reisen griechenland",
+   "volume": 140,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "griechenland festland rundreise",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «rundreise griechenland festland»)"
+  },
+  {
+   "keyword": "rundreisen griechenland festland",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «rundreise griechenland festland»)"
+  },
+  {
+   "keyword": "günstige griechenland reise",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
+  },
+  {
+   "keyword": "günstige reisen griechenland",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
+  },
+  {
+   "keyword": "griechenland günstig reisen",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
+  },
+  {
+   "keyword": "tui reisen griechenland",
+   "volume": 110,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "günstige griechenland reisen",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
+  },
+  {
+   "keyword": "günstig reisen griechenland",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
+  },
+  {
+   "keyword": "pauschalreise last minute griechenland",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «griechenland pauschalreise last minute»)"
+  },
+  {
+   "keyword": "pauschalreise griechenland last minute",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «griechenland pauschalreise last minute»)"
+  },
+  {
+   "keyword": "last minute pauschalreise griechenland",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «griechenland pauschalreise last minute»)"
+  },
+  {
+   "keyword": "urlaub griechenland günstig buchen",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «günstig urlaub buchen griechenland»)"
+  },
+  {
+   "keyword": "urlaub günstig buchen griechenland",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «günstig urlaub buchen griechenland»)"
+  },
+  {
+   "keyword": "griechenland urlaub günstig buchen",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «günstig urlaub buchen griechenland»)"
+  },
+  {
+   "keyword": "günstig griechenland urlaub buchen",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «günstig urlaub buchen griechenland»)"
+  },
+  {
+   "keyword": "wikinger reisen griechenland",
+   "volume": 90,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "rsd reisen griechenland",
+   "volume": 90,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "griechenland kos pauschalreise",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «pauschalreise griechenland kos»)"
+  },
+  {
+   "keyword": "pauschalreise kos griechenland",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «pauschalreise griechenland kos»)"
+  },
+  {
+   "keyword": "ferien griechenland",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «griechenland ferien»)"
+  },
+  {
+   "keyword": "griechenland festland schönste strände",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «schönste strände griechenland festland»)"
+  },
+  {
+   "keyword": "all inclusive reise griechenland",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise griechenland all inclusive»)"
+  },
+  {
+   "keyword": "griechenland reise buchen",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise buchen griechenland»)"
+  },
+  {
+   "keyword": "reise griechenland buchen",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise buchen griechenland»)"
+  },
+  {
+   "keyword": "griechenland reise all inclusive",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise griechenland all inclusive»)"
+  },
+  {
+   "keyword": "reisen griechenland all inclusive",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise griechenland all inclusive»)"
+  },
+  {
+   "keyword": "frosch reisen griechenland",
+   "volume": 70,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "spezialist griechenland reisen",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «spezialist für griechenland reisen»)"
+  },
+  {
+   "keyword": "griechenland reisen all inclusive",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise griechenland all inclusive»)"
+  },
+  {
+   "keyword": "griechenland inseln reisen",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise griechenland inseln»)"
+  },
+  {
+   "keyword": "reisen griechenland buchen",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise buchen griechenland»)"
+  },
+  {
+   "keyword": "griechenland reisen last minute",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «last minute reisen griechenland»)"
+  },
+  {
+   "keyword": "aldi reisen griechenland",
+   "volume": 70,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "griechenland reisen spezialist",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «spezialist für griechenland reisen»)"
+  },
+  {
+   "keyword": "reisen griechenland inseln",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise griechenland inseln»)"
+  },
+  {
+   "keyword": "reisen buchen griechenland",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise buchen griechenland»)"
+  },
+  {
+   "keyword": "all inclusive reisen griechenland",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise griechenland all inclusive»)"
+  },
+  {
+   "keyword": "tui pauschalreise griechenland",
+   "volume": 70,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "check24 pauschalreise griechenland",
+   "volume": 70,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "urlaub in griechenland buchen",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «urlaub griechenland buchen»)"
+  },
+  {
+   "keyword": "urlaub buchen in griechenland",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «urlaub griechenland buchen»)"
+  },
+  {
+   "keyword": "robinson club griechenland festland",
+   "volume": 70,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "aida reise griechenland",
+   "volume": 50,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reise nach griechenland buchen",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «reise buchen griechenland»)"
+  },
+  {
+   "keyword": "reise buchen nach griechenland",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «reise buchen griechenland»)"
+  },
+  {
+   "keyword": "attika reisen griechenland",
+   "volume": 50,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "tui reisen griechenland all inclusive",
+   "volume": 50,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "aida reisen griechenland",
+   "volume": 50,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "pauschalreise griechenland chalkidiki",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «pauschalreise chalkidiki griechenland»)"
+  },
+  {
+   "keyword": "fkk hotel griechenland pauschalreise",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «fkk-hotel griechenland pauschalreise»)"
+  },
+  {
+   "keyword": "ferien in griechenland 2026",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «ferien griechenland 2026»)"
+  },
+  {
+   "keyword": "urlaub griechenland festland am meer",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «griechenland festland urlaub am meer»)"
+  },
+  {
+   "keyword": "flughäfen in griechenland festland",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «flughäfen griechenland festland»)"
+  },
+  {
+   "keyword": "griechenland festland hotels",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «griechenland festland hotel»)"
+  },
+  {
+   "keyword": "hotels griechenland festland",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «griechenland festland hotel»)"
+  },
+  {
+   "keyword": "pauschalreisen griechenland festland",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «pauschalreise griechenland festland»)"
+  },
+  {
+   "keyword": "hotel griechenland festland",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «griechenland festland hotel»)"
+  },
+  {
+   "keyword": "check24 reise griechenland",
+   "volume": 40,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "last minute reise griechenland",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «last minute reisen griechenland»)"
+  },
+  {
+   "keyword": "urlaub griechenland krieg",
+   "volume": 40,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "höffmann reisen griechenland",
+   "volume": 40,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "check24 reisen griechenland",
+   "volume": 40,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "schauinsland reisen griechenland",
+   "volume": 40,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "schauinsland-reisen griechenland",
+   "volume": 40,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "pauschalreise 2026 griechenland",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «pauschalreise griechenland 2026»)"
+  },
+  {
+   "keyword": "griechenland ferien 2026",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «ferien griechenland 2026»)"
+  },
+  {
+   "keyword": "ferien in griechenland",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «griechenland ferien»)"
+  },
+  {
+   "keyword": "wetter griechenland festland",
+   "volume": 40,
+   "reason": "сміття: погода"
+  },
+  {
+   "keyword": "grecotel griechenland festland",
+   "volume": 40,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "flughäfen griechenland festland karte",
+   "volume": 40,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "sehenswürdigkeiten griechenland festland karte",
+   "volume": 40,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "flughafen griechenland festland karte",
+   "volume": 40,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "all inclusive griechenland festland",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «griechenland festland all inclusive»)"
+  },
+  {
+   "keyword": "berge und meer blaue reise griechenland",
+   "volume": 30,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "günstige reise nach griechenland",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
+  },
+  {
+   "keyword": "reisen nach griechenland aktuell",
+   "volume": 30,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "lidl reisen griechenland kreta",
+   "volume": 30,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "wikinger reisen griechenland 2026",
+   "volume": 30,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "rewe reisen griechenland",
+   "volume": 30,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "günstige reisen nach griechenland",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
+  },
+  {
+   "keyword": "lidl-reisen griechenland kreta",
+   "volume": 30,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "günstig reisen nach griechenland",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
+  },
+  {
+   "keyword": "urlaub griechenland pauschalreise",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «griechenland urlaub pauschalreise»)"
+  },
+  {
+   "keyword": "griechenland last minute pauschalreise",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «griechenland pauschalreise last minute»)"
+  },
+  {
+   "keyword": "lefkada griechenland pauschalreise",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «pauschalreise lefkada griechenland»)"
+  },
+  {
+   "keyword": "milos griechenland pauschalreise",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «pauschalreise milos griechenland»)"
+  },
+  {
+   "keyword": "ferien griechenland 2025",
+   "volume": 30,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "tui blaue reise griechenland",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "aida reise griechenland ab korfu",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reise griechenland günstig",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
+  },
+  {
+   "keyword": "reise nach griechenland günstig",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
+  },
+  {
+   "keyword": "reise in griechenland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «griechenland reisen»)"
+  },
+  {
+   "keyword": "lidl reisen griechenland rhodos",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "höffmann reisen griechenland 2026",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reisen nach griechenland mit personalausweis",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «reise nach griechenland mit personalausweis»)"
+  },
+  {
+   "keyword": "single reisen griechenland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «single reise griechenland»)"
+  },
+  {
+   "keyword": "kann man aktuell nach griechenland reisen",
+   "volume": 20,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "alltours reisen griechenland",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reisen in griechenland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «griechenland reisen»)"
+  },
+  {
+   "keyword": "reisen aktuell griechenland",
+   "volume": 20,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "günstig nach griechenland reisen",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
+  },
+  {
+   "keyword": "reisen chalkidiki griechenland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «reise chalkidiki griechenland»)"
+  },
+  {
+   "keyword": "reisen nach griechenland günstig",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
+  },
+  {
+   "keyword": "lidl reisen griechenland all-inclusive",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "yoga reisen griechenland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «yoga reise griechenland»)"
+  },
+  {
+   "keyword": "lidl-reisen griechenland rhodos",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reisen griechenland günstig",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
+  },
+  {
+   "keyword": "pauschalreise griechenland booking",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "pauschalreise griechenland 2025",
+   "volume": 20,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "all inclusive pauschalreise griechenland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «pauschalreise all inclusive griechenland»)"
+  },
+  {
+   "keyword": "griechenland festland pauschalreise",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «pauschalreise griechenland festland»)"
+  },
+  {
+   "keyword": "pauschalreise griechenland swim up zimmer",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «pauschalreise griechenland swim-up zimmer»)"
+  },
+  {
+   "keyword": "griechenland all inclusive pauschalreise",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «pauschalreise all inclusive griechenland»)"
+  },
+  {
+   "keyword": "urlaub buchen nach griechenland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «urlaub griechenland buchen»)"
+  },
+  {
+   "keyword": "urlaub nach griechenland buchen",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «urlaub griechenland buchen»)"
+  },
+  {
+   "keyword": "klimatabelle griechenland festland",
+   "volume": 20,
+   "reason": "сміття: погода"
+  },
+  {
+   "keyword": "griechenland schönste strände festland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «schönste strände griechenland festland»)"
+  },
+  {
+   "keyword": "tui griechenland festland",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "griechenland festland wetter",
+   "volume": 20,
+   "reason": "сміття: погода"
+  },
+  {
+   "keyword": "festland griechenland karte",
+   "volume": 20,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "griechenland rundreise festland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «rundreise griechenland festland»)"
+  },
+  {
+   "keyword": "griechenland festland schönste orte",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «schönste orte griechenland festland»)"
+  },
+  {
+   "keyword": "griechenland festland flughafen",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «flughafen griechenland festland»)"
+  },
+  {
+   "keyword": "urlaub in griechenland festland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «urlaub festland griechenland»)"
+  },
+  {
+   "keyword": "griechenland festland ferienhaus",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «ferienhaus griechenland festland»)"
+  },
+  {
+   "keyword": "festland griechenland schönste strände",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «schönste strände griechenland festland»)"
+  },
+  {
+   "keyword": "flughafen in griechenland festland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «flughafen griechenland festland»)"
+  },
+  {
+   "keyword": "straßenkarte griechenland-festland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «straßenkarte griechenland festland»)"
+  },
+  {
+   "keyword": "strände griechenland festland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «griechenland festland strände»)"
+  },
+  {
+   "keyword": "griechenland strände festland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «griechenland festland strände»)"
+  },
+  {
+   "keyword": "wandern griechenland festland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «wandern in griechenland festland»)"
+  },
+  {
+   "keyword": "schönste strände griechenland festland karte",
+   "volume": 20,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "griechenland festland sandstrand",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «sandstrand griechenland festland»)"
+  },
+  {
+   "keyword": "strand griechenland festland",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «griechenland festland strand»)"
+  },
+  {
+   "keyword": "blaue reise griechenland 2025",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "tui cruises blaue reise griechenland landausflüge",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reise griechenland last minute",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «last minute reisen griechenland»)"
+  },
+  {
+   "keyword": "blaue reise griechenland 2024",
+   "volume": 10,
+   "reason": "застарілий рік (2024)"
+  },
+  {
+   "keyword": "reise griechenland chalkidiki",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise chalkidiki griechenland»)"
+  },
+  {
+   "keyword": "griechenland reise günstig",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «günstige reise griechenland»)"
+  },
+  {
+   "keyword": "griechenland reise impfung",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise griechenland impfung»)"
+  },
+  {
+   "keyword": "blaue reise griechenland 2021",
+   "volume": 10,
+   "reason": "застарілий рік (2021)"
+  },
+  {
+   "keyword": "blaue reise griechenland 2022",
+   "volume": 10,
+   "reason": "застарілий рік (2022)"
+  },
+  {
+   "keyword": "reise mit auto nach griechenland",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise nach griechenland mit auto»)"
+  },
+  {
+   "keyword": "griechenland reise aktuell",
+   "volume": 10,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "tui reise nach griechenland",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "griechenland reise adac",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise nach griechenland adac»)"
+  },
+  {
+   "keyword": "griechenland reise auswärtiges amt",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise griechenland auswärtiges amt»)"
+  },
+  {
+   "keyword": "motorsegler griechenland blaue reise",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «blaue reise griechenland motorsegler»)"
+  },
+  {
+   "keyword": "reise griechenland kreta",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «griechenland reise kreta»)"
+  },
+  {
+   "keyword": "blaue reise griechenland 2020",
+   "volume": 10,
+   "reason": "застарілий рік (2020)"
+  },
+  {
+   "keyword": "griechenland reise mit flug",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise griechenland mit flug»)"
+  },
+  {
+   "keyword": "reise news griechenland",
+   "volume": 10,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "blaue reise griechenland tui",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reise stornieren griechenland",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «griechenland reise stornieren»)"
+  },
+  {
+   "keyword": "griechenland reise september",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise griechenland september»)"
+  },
+  {
+   "keyword": "reise nach griechenland rhodos",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise griechenland rhodos»)"
+  },
+  {
+   "keyword": "griechenland urlaub sonnenklar tv",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "urlaub griechenland reisewarnung",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «griechenland urlaub reisewarnung»)"
+  },
+  {
+   "keyword": "griechenland höffmann reisen",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "griechenland reisen aktuell",
+   "volume": 10,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "griechenland reisen mai",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise griechenland mai»)"
+  },
+  {
+   "keyword": "aldi reisen griechenland rhodos",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "sarti griechenland frosch reisen",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "sonnenklar tv reisen griechenland",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "aldi reisen griechenland inselhüpfen",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "deutschland griechenland reisen",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «reise deutschland griechenland»)"
+  },
+  {
+   "keyword": "last minute griechenland pauschalreise",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «griechenland pauschalreise last minute»)"
+  },
+  {
+   "keyword": "pauschalreise griechenland 2018",
+   "volume": 10,
+   "reason": "застарілий рік (2018)"
+  },
+  {
+   "keyword": "griechenland pauschalreise september",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «pauschalreise griechenland september»)"
+  },
+  {
+   "keyword": "pauschalreise griechenland 5-sterne",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «pauschalreise griechenland 5 sterne»)"
+  },
+  {
+   "keyword": "paros griechenland pauschalreise",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «pauschalreise paros griechenland»)"
+  },
+  {
+   "keyword": "griechenland zakynthos pauschalreise",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «pauschalreise griechenland zakynthos»)"
+  },
+  {
+   "keyword": "pauschalreise griechenland oktober 2025",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "pauschalreise tilos griechenland",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «tilos griechenland pauschalreise»)"
+  },
+  {
+   "keyword": "pauschalreise griechenland 2025 all inclusive",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "pauschalreise griechenland familie",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «griechenland pauschalreise familie»)"
+  },
+  {
+   "keyword": "griechenland pauschalreise check24",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "urlaub buchen griechenland santorini",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «santorini griechenland urlaub buchen»)"
+  },
+  {
+   "keyword": "griechenland urlaub buchen booking",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "griechenland urlaub buchen holidaycheck",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "griechenland urlaub buchen günstig",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «günstig urlaub buchen griechenland»)"
+  },
+  {
+   "keyword": "urlaub 2023 buchen griechenland",
+   "volume": 10,
+   "reason": "застарілий рік (2023)"
+  },
+  {
+   "keyword": "griechenland urlaub 2025 buchen",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "wann sind ferien in griechenland 2023",
+   "volume": 10,
+   "reason": "застарілий рік (2023)"
+  },
+  {
+   "keyword": "ferien in griechenland mit kindern",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien mit kindern griechenland»)"
+  },
+  {
+   "keyword": "ferien griechenland 2020",
+   "volume": 10,
+   "reason": "застарілий рік (2020)"
+  },
+  {
+   "keyword": "ferien nach griechenland",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «griechenland ferien»)"
+  },
+  {
+   "keyword": "ferien griechenland santorini",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «griechenland ferien santorini»)"
+  },
+  {
+   "keyword": "griechenland ferien 2024",
+   "volume": 10,
+   "reason": "застарілий рік (2024)"
+  },
+  {
+   "keyword": "griechenland ferien 2025",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "ferien griechenland mit kindern",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien mit kindern griechenland»)"
+  },
+  {
+   "keyword": "ferien griechenland 2024",
+   "volume": 10,
+   "reason": "застарілий рік (2024)"
+  },
+  {
+   "keyword": "griechenland ferien mit kindern",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien mit kindern griechenland»)"
+  },
+  {
+   "keyword": "ferien griechenland inseln",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «griechenland inseln ferien»)"
+  },
+  {
+   "keyword": "wann sind ferien in griechenland 2022",
+   "volume": 10,
+   "reason": "застарілий рік (2022)"
+  },
+  {
+   "keyword": "griechenland ferien am meer",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien am meer griechenland»)"
+  },
+  {
+   "keyword": "ferien in griechenland 2024",
+   "volume": 10,
+   "reason": "застарілий рік (2024)"
+  },
+  {
+   "keyword": "wann sind ferien in griechenland",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «wann sind in griechenland ferien»)"
+  },
+  {
+   "keyword": "ferien griechenland sommer 2023",
+   "volume": 10,
+   "reason": "застарілий рік (2023)"
+  },
+  {
+   "keyword": "ferien griechenland tipps",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «griechenland ferien tipps»)"
+  },
+  {
+   "keyword": "ferien griechenland 2023",
+   "volume": 10,
+   "reason": "застарілий рік (2023)"
+  },
+  {
+   "keyword": "ferien griechenland kreta",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «kreta griechenland ferien»)"
+  },
+  {
+   "keyword": "all inclusive ferien griechenland",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien in griechenland all inclusive»)"
+  },
+  {
+   "keyword": "griechenland ferien 2023",
+   "volume": 10,
+   "reason": "застарілий рік (2023)"
+  },
+  {
+   "keyword": "ferien all inclusive griechenland",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien in griechenland all inclusive»)"
+  },
+  {
+   "keyword": "ferien griechenland last minute",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «last minute ferien griechenland»)"
+  },
+  {
+   "keyword": "ferien in griechenland santorini",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «griechenland ferien santorini»)"
+  },
+  {
+   "keyword": "ferien griechenland all inclusive",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien in griechenland all inclusive»)"
+  },
+  {
+   "keyword": "griechenland festland ferien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien griechenland festland»)"
+  },
+  {
+   "keyword": "ferien in griechenland am meer",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien am meer griechenland»)"
+  },
+  {
+   "keyword": "griechenland ferien günstig",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «günstige griechenland ferien»)"
+  },
+  {
+   "keyword": "ferien griechenland günstig",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «günstige griechenland ferien»)"
+  },
+  {
+   "keyword": "ferien in griechenland 2025",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "günstige ferien griechenland",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «günstige griechenland ferien»)"
+  },
+  {
+   "keyword": "griechenland ferien september",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien griechenland september»)"
+  },
+  {
+   "keyword": "ferien kos griechenland",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien griechenland kos»)"
+  },
+  {
+   "keyword": "ferien griechenland buchen",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «griechenland ferien buchen»)"
+  },
+  {
+   "keyword": "griechenland ferien oktober",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien griechenland oktober»)"
+  },
+  {
+   "keyword": "ferien buchen griechenland",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «griechenland ferien buchen»)"
+  },
+  {
+   "keyword": "griechenland ferien all inclusive",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien in griechenland all inclusive»)"
+  },
+  {
+   "keyword": "griechenland sehenswürdigkeiten festland",
+   "volume": 10,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "griechenland sandstrand festland",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «sandstrand griechenland festland»)"
+  },
+  {
+   "keyword": "griechenland landkarte festland",
+   "volume": 10,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "griechenland geheimtipp festland",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «geheimtipp griechenland festland»)"
+  },
+  {
+   "keyword": "klima griechenland festland",
+   "volume": 10,
+   "reason": "сміття: погода"
+  },
+  {
+   "keyword": "sehenswürdigkeiten in griechenland festland",
+   "volume": 10,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "die schönsten strände griechenland festland",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «schönsten strände griechenland festland»)"
+  },
+  {
+   "keyword": "flughäfen griechenland festland",
+   "reason": "рішення власника 2026-10-08: довідковий запит (аеропорти), не туризм"
+  },
+  {
+   "keyword": "flughafen griechenland festland",
+   "reason": "рішення власника 2026-10-08: довідковий запит (аеропорти), не туризм"
+  }
+ ],
+ "meta": {
+  "url": "https://reisemu.de/tour/griechenland",
+  "seeds": [
+   "griechenland urlaub",
+   "griechenland reise",
+   "griechenland reisen",
+   "griechenland pauschalreise",
+   "griechenland urlaub buchen",
+   "griechenland ferien",
+   "griechenland festland"
+  ],
+  "snowball_seeds": [],
+  "collected": "2026-10-08",
+  "cost_usd": 0.3224,
+  "max_keywords": 100
+ }
+}

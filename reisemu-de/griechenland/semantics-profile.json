@@ -1,0 +1,11 @@
+{
+ "scope": {
+  "products": {
+   "blaue_reise": {
+    "match": "blaue reise|blaue reisen|gulet",
+    "name": "круїз на гулеті (Blaue Reise)",
+    "sells": false
+   }
+  }
+ }
+}

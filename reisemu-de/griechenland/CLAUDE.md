@@ -1,0 +1,154 @@
+# reisemu.de · Греція
+
+Напрямок: Греція (Griechenland). Цільовий хаб: https://reisemu.de/tour/griechenland (варіанти /tour/greece, /tour/hellas, /tour/grece, /tour/griechenland-urlaub на сайті не існують: 301 на /tour). Дані сайту (домен, мова, location_code, se_domain, GSC, GA4) — у CLAUDE.md батьківської папки.
+
+## semantics-travel
+- country: Griechenland
+- slug: griechenland
+- page_base: /tour/griechenland
+- scope_terms: griechenland|griechisch|greece
+- hotels_page: /hotels/griechenland
+- main_keyword: griechenland urlaub
+- hub_slugs: griechenland|greece|griechenland-urlaub
+- region: iraklio-kreta = iraklio|heraklion|iraklion
+- region: rethymno-kreta = rethymnon?
+- region: chania = (?<![a-z])chania(?![a-z])
+- region: kreta = kreta|crete
+- region: rhodos = rhodos|rhodes
+- region: korfu = korfu|corfu
+- region: zakynthos = zakynthos|(?<![a-z])zante(?![a-z])
+- region: kefalonia = kefalonia|kephalonia|cephalonia
+- region: ionische-inseln = ionische[n]?[ -]inseln
+- region: santorini = santorin
+- region: mykonos = mykonos
+- region: kykladen = kykladen|cyclades
+- region: kos = (?<![a-z])kos(?![a-z])
+- region: chalkidiki = chalkidiki|halkidiki
+- region: thessaloniki = thessaloniki|saloniki
+- region: pieria = (?<![a-z])pieria(?![a-z])
+- region: parga = (?<![a-z])parga(?![a-z])
+- region: athen = (?<![a-z])athen(?![a-z])
+- region: attika = attika|attica
+- region: peloponnes = peloponnes
+- existing_page: /tour/griechenland
+- existing_page: /tour/griechenland/all-inclusive
+- existing_page: /tour/griechenland/iraklio-kreta
+- existing_page: /tour/griechenland/rethymno-kreta
+- existing_page: /tour/griechenland/chania
+- existing_page: /tour/griechenland/kreta
+- existing_page: /tour/griechenland/rhodos
+- existing_page: /tour/griechenland/korfu
+- existing_page: /tour/griechenland/zakynthos
+- existing_page: /tour/griechenland/kefalonia
+- existing_page: /tour/griechenland/ionische-inseln
+- existing_page: /tour/griechenland/santorini
+- existing_page: /tour/griechenland/mykonos
+- existing_page: /tour/griechenland/kykladen
+- existing_page: /tour/griechenland/kos
+- existing_page: /tour/griechenland/chalkidiki
+- existing_page: /tour/griechenland/thessaloniki
+- existing_page: /tour/griechenland/pieria
+- existing_page: /tour/griechenland/parga
+- existing_page: /tour/griechenland/athen
+- existing_page: /tour/griechenland/attika
+- existing_page: /tour/griechenland/peloponnes
+- existing_page: /hotels/griechenland
+- existing_page: /tour/griechenland/january
+- existing_page: /tour/griechenland/february
+- existing_page: /tour/griechenland/march
+- existing_page: /tour/griechenland/april
+- existing_page: /tour/griechenland/may
+- existing_page: /tour/griechenland/june
+- existing_page: /tour/griechenland/july
+- existing_page: /tour/griechenland/august
+- existing_page: /tour/griechenland/september
+- existing_page: /tour/griechenland/october
+- existing_page: /tour/griechenland/november
+- existing_page: /tour/griechenland/december
+- existing_page: /tour/griechenland-fruehbucher
+- existing_page: /tour/griechenland_gunstig
+- existing_page: /tour/griechenland/from-amsterdam
+- existing_page: /tour/griechenland/from-baden-baden
+- existing_page: /tour/griechenland/from-berlin
+- existing_page: /tour/griechenland/from-bremen
+- existing_page: /tour/griechenland/from-brussel
+- existing_page: /tour/griechenland/from-dortmund
+- existing_page: /tour/griechenland/from-dresden
+- existing_page: /tour/griechenland/from-dusseldorf
+- existing_page: /tour/griechenland/from-eindhoven
+- existing_page: /tour/griechenland/from-erfurt
+- existing_page: /tour/griechenland/from-frankfurt
+- existing_page: /tour/griechenland/from-friedrichshafen
+- existing_page: /tour/griechenland/from-genf
+- existing_page: /tour/griechenland/from-graz
+- existing_page: /tour/griechenland/from-hamburg
+- existing_page: /tour/griechenland/from-hannover
+- existing_page: /tour/griechenland/from-koln
+- existing_page: /tour/griechenland/from-leipzig
+- existing_page: /tour/griechenland/from-linz
+- existing_page: /tour/griechenland/from-luxemburg
+- existing_page: /tour/griechenland/from-munchen
+- existing_page: /tour/griechenland/from-munsterosnabruck
+- existing_page: /tour/griechenland/from-nurnberg
+- existing_page: /tour/griechenland/from-paderbornlippstadt
+- existing_page: /tour/griechenland/from-saarbrucken
+- existing_page: /tour/griechenland/from-salzburg
+- existing_page: /tour/griechenland/from-stuttgart
+- existing_page: /tour/griechenland/from-wien
+- existing_page: /tour/griechenland/from-zurich
+- modifier_page: januar = /tour/griechenland/january
+- modifier_page: februar = /tour/griechenland/february
+- modifier_page: märz|maerz = /tour/griechenland/march
+- modifier_page: april = /tour/griechenland/april
+- modifier_page: (?<![a-zäöü])mai(?![a-zäöü]) = /tour/griechenland/may
+- modifier_page: juni = /tour/griechenland/june
+- modifier_page: juli = /tour/griechenland/july
+- modifier_page: august = /tour/griechenland/august
+- modifier_page: september = /tour/griechenland/september
+- modifier_page: oktober = /tour/griechenland/october
+- modifier_page: november = /tour/griechenland/november
+- modifier_page: dezember = /tour/griechenland/december
+- modifier_page: frühbucher|fruehbucher = /tour/griechenland-fruehbucher
+- modifier_page: günstig|guenstig|billig = /tour/griechenland_gunstig
+- modifier_page: amsterdam = /tour/griechenland/from-amsterdam
+- modifier_page: baden[ -]baden = /tour/griechenland/from-baden-baden
+- modifier_page: berlin = /tour/griechenland/from-berlin
+- modifier_page: bremen = /tour/griechenland/from-bremen
+- modifier_page: brüssel|bruessel = /tour/griechenland/from-brussel
+- modifier_page: dortmund = /tour/griechenland/from-dortmund
+- modifier_page: dresden = /tour/griechenland/from-dresden
+- modifier_page: düsseldorf|duesseldorf = /tour/griechenland/from-dusseldorf
+- modifier_page: eindhoven = /tour/griechenland/from-eindhoven
+- modifier_page: erfurt = /tour/griechenland/from-erfurt
+- modifier_page: frankfurt = /tour/griechenland/from-frankfurt
+- modifier_page: friedrichshafen = /tour/griechenland/from-friedrichshafen
+- modifier_page: genf = /tour/griechenland/from-genf
+- modifier_page: (?<![a-zäöü])graz(?![a-zäöü]) = /tour/griechenland/from-graz
+- modifier_page: hamburg = /tour/griechenland/from-hamburg
+- modifier_page: hannover = /tour/griechenland/from-hannover
+- modifier_page: köln|koeln = /tour/griechenland/from-koln
+- modifier_page: leipzig = /tour/griechenland/from-leipzig
+- modifier_page: (?<![a-zäöü])linz(?![a-zäöü]) = /tour/griechenland/from-linz
+- modifier_page: luxemburg = /tour/griechenland/from-luxemburg
+- modifier_page: münchen|muenchen = /tour/griechenland/from-munchen
+- modifier_page: münster|muenster|osnabrück = /tour/griechenland/from-munsterosnabruck
+- modifier_page: nürnberg|nuernberg = /tour/griechenland/from-nurnberg
+- modifier_page: paderborn = /tour/griechenland/from-paderbornlippstadt
+- modifier_page: saarbrücken|saarbruecken = /tour/griechenland/from-saarbrucken
+- modifier_page: salzburg = /tour/griechenland/from-salzburg
+- modifier_page: stuttgart = /tour/griechenland/from-stuttgart
+- modifier_page: (?<![a-zäöü])wien(?![a-zäöü]) = /tour/griechenland/from-wien
+- modifier_page: zürich|zuerich = /tour/griechenland/from-zurich
+- brand: (?<!\w)(phoenix|phönix|rsd|eti|netto|skr|studiosus|globalis|chamäleon|neon|ecco|wikinger|aida|migros)(?!\w)|ferien touristik
+- brand: frosch ?reisen|h(ö|oe|o)ffmann|attika ?reisen|robinson ?club|grecotel
+- business_rule: name=pauschalreise; match=pauschal; family=pauschal; page={page_base}/pauschalreise; exclude_region=yes; exclude_patterns=last ?minute||all[ -]?inclusive.*pauschal; note=Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschal/Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/griechenland/pauschalreise.
+
+### Журнал
+- existing_page — 2026-10-08; перевірено з браузерним User-Agent (200 = існує), джерела адрес: блок посилань хаба, /countries/griechenland/resort, sitemap (tourdirections, tourresorts, hotelcountriesresorts) і вгадані слаги. Існують: хаб, /all-inclusive, 20 сторінок островів/регіонів/курортів (kreta, iraklio-kreta, rethymno-kreta, chania, rhodos, korfu, zakynthos, kefalonia, ionische-inseln, santorini, mykonos, kykladen, kos, chalkidiki, thessaloniki, pieria, parga, athen, attika, peloponnes; з них у sitemap лише 7, у блоці хаба 5, решта знайдена за вгаданими слагами — можуть бути й інші), 12 місяців, 29 міст вильоту (у sitemap місяців і міст вильоту Греції немає, є в блоці посилань хаба), /tour/griechenland-fruehbucher, /tour/griechenland_gunstig, /hotels/griechenland. Не існують: /tour/griechenland_kinder, _winter, _sommer, _herbst, _fruhling, _familie, _last-minute (301 на /tour), /tour/griechenland_vip (404), /hotels/griechenland/beste (301), /tour/griechenland/last-minute, /pauschalreise, /rundreise, /reisehinweise, /festland, /inseln, /familienurlaub (301 на хаб); регіони без сторінки (301 на хаб): samos, lefkada, thassos, naxos, paros, karpathos, skiathos, lesbos, dodekanes, olympische-riviera, chersonissos, faliraki, lindos, malia, kassandra, sithonia. Сезонів і kinder у modifier_page немає, бо таких сторінок на сайті немає; місяці, міста вильоту, Frühbucher і günstig записано
+- збір — 2026-10-08; Labs по 7 seed (griechenland urlaub, griechenland reise, griechenland reisen, griechenland pauschalreise, griechenland urlaub buchen, griechenland ferien, griechenland festland), $0.32 (оцінка $0.91); keywords.json: ядро 98 (обсяг 81 330), довгий хвіст 187, суміжне 12 (обсяг 640: Blaue Reise, Ferienhaus/Apartment), поза межами збору 0, відфільтровано 334; snowball пропущено; переклади — translations.json. **Ключі конкурентів із ТОП-10 не зібрано**: SERP live/regular DataForSEO віддавав 50000 Internal Server Error (на будь-який ключ, без списання), collect.py на цьому кроці впав; збір завершено через `--replay collect-raw` + окремий запит KD
+- рішення власника — 2026-10-08; semantics-decisions.json: відфільтровано бренди frosch reisen, höffmann reisen, attika reisen, robinson club, grecotel (додано в brand) і довідкові «flughafen / flughäfen griechenland festland» (420 запитів); «blaue reise griechenland» і варіанти (круїз на гулеті, 9 ключів, 570 запитів) — суміжний продукт, лише «Напрямки розширення» (semantics-profile.json: scope.products.blaue_reise, sells=false)
+- **SERP і аналіз ще не зроблено** (ендпоінт live/regular не працював 2026-10-08); оцінка SERP до $0.60 погоджена: fetch_serp.py --yes, потім analyze.py
+
+## tz-travel
+
+### Журнал
