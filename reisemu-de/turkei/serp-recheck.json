@@ -1,0 +1,609 @@
+{
+ "_about": "Ключі Туреччини, у яких збережена відповідь SERP (збір 2026-10-07) має ознаки нетипової версії видачі DataForSEO. Розподіл Туреччини НЕ перераховувався. Перевірити повторним запитом через 7–10 днів (fetch_serp.py після видалення файлів цих ключів із serp-raw-regular).",
+ "created": "2026-10-08",
+ "recheck_after": "2026-10-15 … 2026-10-18",
+ "serp_total": 78,
+ "with_signs": 33,
+ "by_se_results_count_only": 32,
+ "signs": "немає блоку related_searches; ?page= у ТОП-10; se_results_count ≥ 1000",
+ "keywords": [
+  {
+   "keyword": "pauschalreise türkei",
+   "volume": 9900,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 56000"
+   ],
+   "se_results_count": 56000,
+   "task_id": "10071834-2727-0121-0000-7b5ff013d952",
+   "api_datetime": "2026-10-07 18:34:45 +00:00",
+   "top_domains": [
+    "www.tui.com",
+    "de.luxorandaswan.com",
+    "www.urlaubsangebote.de",
+    "www.urlaub-duesseldorf.de",
+    "www.reddit.com"
+   ]
+  },
+  {
+   "keyword": "urlaub side türkei",
+   "volume": 6600,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 106000"
+   ],
+   "se_results_count": 106000,
+   "task_id": "10071834-2727-0121-0000-540545226daa",
+   "api_datetime": "2026-10-07 18:34:48 +00:00",
+   "top_domains": [
+    "www.booking.com",
+    "www.12-travel.de",
+    "www.ab-in-den-urlaub.de",
+    "www.5vorflug.de",
+    "www.booking.com"
+   ]
+  },
+  {
+   "keyword": "urlaub türkei buchen",
+   "volume": 6600,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 92700"
+   ],
+   "se_results_count": 92700,
+   "task_id": "10071834-2727-0121-0000-5856b22630a9",
+   "api_datetime": "2026-10-07 18:34:53 +00:00",
+   "top_domains": [
+    "www.restplatzboerse.com",
+    "www.expedia.de",
+    "www.12-travel.de",
+    "www.ab-in-den-urlaub.de",
+    "online-reisesuche.de"
+   ]
+  },
+  {
+   "keyword": "türkei urlaub 2026",
+   "volume": 5400,
+   "reasons": [
+    "немає блоку related_searches",
+    "?page= у ТОП-10",
+    "se_results_count 106000"
+   ],
+   "se_results_count": 106000,
+   "task_id": "10071834-2727-0121-0000-641ad4f06d4f",
+   "api_datetime": "2026-10-07 18:35:02 +00:00",
+   "top_domains": [
+    "www.loveholidays.com",
+    "www.ab-ins-blaue.de",
+    "www.easyjet.com",
+    "www.12-travel.de",
+    "www.holidaycheck.de"
+   ]
+  },
+  {
+   "keyword": "hotel türkei",
+   "volume": 4400,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 110000"
+   ],
+   "se_results_count": 110000,
+   "task_id": "10071834-2727-0121-0000-1bf078b04a64",
+   "api_datetime": "2026-10-07 18:35:02 +00:00",
+   "top_domains": [
+    "www.holidaycheck.de",
+    "www.booking.com",
+    "www.expedia.de",
+    "www.tripadvisor.de",
+    "www.12-travel.de"
+   ]
+  },
+  {
+   "keyword": "last minute türkei",
+   "volume": 2400,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 101000"
+   ],
+   "se_results_count": 101000,
+   "task_id": "10071835-2727-0121-0000-114546926010",
+   "api_datetime": "2026-10-07 18:35:09 +00:00",
+   "top_domains": [
+    "www.ferienknaller.de",
+    "www.lastminute.de",
+    "www.12-travel.de",
+    "www.reise.de",
+    "www.tripadvisor.de"
+   ]
+  },
+  {
+   "keyword": "türkei urlaub reisewarnung",
+   "volume": 2400,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 9010"
+   ],
+   "se_results_count": 9010,
+   "task_id": "10071834-2727-0121-0000-e6cba3f93278",
+   "api_datetime": "2026-10-07 18:35:00 +00:00",
+   "top_domains": [
+    "www.airliners.de",
+    "www.deutschlandfunk.de",
+    "www.zeit.de",
+    "taz.de",
+    "blog.reiseversicherungen-direkt.de"
+   ]
+  },
+  {
+   "keyword": "türkei urlaub günstig all inclusive mit flug",
+   "volume": 1600,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 66500"
+   ],
+   "se_results_count": 66500,
+   "task_id": "10071835-2727-0121-0000-c075699e82c6",
+   "api_datetime": "2026-10-07 18:35:09 +00:00",
+   "top_domains": [
+    "www.restplatzboerse.com",
+    "urlaub.check24.de",
+    "www.holidaycheck.de",
+    "holidays.eurowings.com",
+    "www.sonnenklar.tv"
+   ]
+  },
+  {
+   "keyword": "urlaub türkei 2026 all inclusive",
+   "volume": 1000,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 84900"
+   ],
+   "se_results_count": 84900,
+   "task_id": "10071835-2727-0121-0000-e178d86b7b82",
+   "api_datetime": "2026-10-07 18:35:21 +00:00",
+   "top_domains": [
+    "www.loveholidays.com",
+    "www.tripadvisor.de",
+    "www.12-travel.de",
+    "online-reisesuche.de",
+    "www.sonnenklar.tv"
+   ]
+  },
+  {
+   "keyword": "pauschalreise günstig türkei",
+   "volume": 720,
+   "reasons": [
+    "немає блоку related_searches",
+    "?page= у ТОП-10",
+    "se_results_count 58300"
+   ],
+   "se_results_count": 58300,
+   "task_id": "10071835-2727-0121-0000-6474c82f8cc2",
+   "api_datetime": "2026-10-07 18:35:27 +00:00",
+   "top_domains": [
+    "www.restplatzboerse.com",
+    "www.lidl-reisen.de",
+    "www.reisen-ist-besonders.de",
+    "www.sonnenklar.tv",
+    "www.ab-in-den-urlaub.de"
+   ]
+  },
+  {
+   "keyword": "last minute urlaub türkei all inclusive",
+   "volume": 590,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 80000"
+   ],
+   "se_results_count": 80000,
+   "task_id": "10071835-2727-0121-0000-c9df52463f89",
+   "api_datetime": "2026-10-07 18:35:30 +00:00",
+   "top_domains": [
+    "holidays.eurowings.com",
+    "www.corendon.de",
+    "weg24.de",
+    "www.12-travel.de",
+    "www.neckermann-reisen.de"
+   ]
+  },
+  {
+   "keyword": "türkei buchen",
+   "volume": 590,
+   "reasons": [
+    "немає блоку related_searches",
+    "?page= у ТОП-10",
+    "se_results_count 102000"
+   ],
+   "se_results_count": 102000,
+   "task_id": "10071835-2727-0121-0000-7a0046715a7d",
+   "api_datetime": "2026-10-07 18:35:25 +00:00",
+   "top_domains": [
+    "www.vtours.com",
+    "holidays.turkishairlines.com",
+    "www.reiselinie.de",
+    "www.ab-in-den-urlaub.de",
+    "app.sonnenklar.tv"
+   ]
+  },
+  {
+   "keyword": "türkei urlaub 2026 all inclusive mit flug und hotel side",
+   "volume": 590,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 10200"
+   ],
+   "se_results_count": 10200,
+   "task_id": "10071835-2727-0121-0000-c37a2e519487",
+   "api_datetime": "2026-10-07 18:35:31 +00:00",
+   "top_domains": [
+    "www.expedia.de",
+    "www.loveholidays.com",
+    "www.easyjet.com",
+    "www.12-travel.de",
+    "www.booking.com"
+   ]
+  },
+  {
+   "keyword": "personalausweis für türkei reise",
+   "volume": 480,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 50200"
+   ],
+   "se_results_count": 50200,
+   "task_id": "10071835-2727-0121-0000-a7166c279e48",
+   "api_datetime": "2026-10-07 18:35:47 +00:00",
+   "top_domains": [
+    "www.reddit.com",
+    "www.instagram.com",
+    "www.holidaycheck.de",
+    "tuerkei-info.hpage.com",
+    "www.instagram.com"
+   ]
+  },
+  {
+   "keyword": "reise türkei mit personalausweis",
+   "volume": 480,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 50000"
+   ],
+   "se_results_count": 50000,
+   "task_id": "10071835-2727-0121-0000-6d594c00d192",
+   "api_datetime": "2026-10-07 18:35:38 +00:00",
+   "top_domains": [
+    "www.lastminuteauskunft.de",
+    "www.facebook.com",
+    "www.holidaycheck.de",
+    "www.instagram.com",
+    "www.juraforum.de"
+   ]
+  },
+  {
+   "keyword": "november türkei urlaub",
+   "volume": 390,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 86000"
+   ],
+   "se_results_count": 86000,
+   "task_id": "10071835-2727-0121-0000-d65aef7e16c2",
+   "api_datetime": "2026-10-07 18:36:12 +00:00",
+   "top_domains": [
+    "www.holidaycheck.de",
+    "www.gutefrage.net",
+    "www.reddit.com",
+    "www.instagram.com",
+    "znaki.fm"
+   ]
+  },
+  {
+   "keyword": "last minute türkei antalya all inclusive",
+   "volume": 320,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 54400"
+   ],
+   "se_results_count": 54400,
+   "task_id": "10071836-2727-0121-0000-924806eefa74",
+   "api_datetime": "2026-10-07 18:36:16 +00:00",
+   "top_domains": [
+    "urlaub.lmx.de",
+    "www.lastminute.de",
+    "www.dertour.de",
+    "www.12-travel.de",
+    "www.voyage-prive.de"
+   ]
+  },
+  {
+   "keyword": "türkei last minute angebote",
+   "volume": 320,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 97400"
+   ],
+   "se_results_count": 97400,
+   "task_id": "10071836-2727-0121-0000-da3649d39e80",
+   "api_datetime": "2026-10-07 18:36:13 +00:00",
+   "top_domains": [
+    "www.12-travel.de",
+    "www.ferienknaller.de",
+    "www.ab-in-den-urlaub.de",
+    "www.reise.de",
+    "www.lidl-reisen.de"
+   ]
+  },
+  {
+   "keyword": "türkei reise aktuell",
+   "volume": 320,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 97200"
+   ],
+   "se_results_count": 97200,
+   "task_id": "10071836-2727-0121-0000-5f91ed8c3df3",
+   "api_datetime": "2026-10-07 18:36:02 +00:00",
+   "top_domains": [
+    "www.swp.de",
+    "www.reddit.com",
+    "www.bundesregierung.de",
+    "www.tiktok.com",
+    "www.faz.net"
+   ]
+  },
+  {
+   "keyword": "all inclusive reise türkei",
+   "volume": 210,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 115000"
+   ],
+   "se_results_count": 115000,
+   "task_id": "10071836-2727-0121-0000-e530b8f74921",
+   "api_datetime": "2026-10-07 18:36:19 +00:00",
+   "top_domains": [
+    "www.booking.com",
+    "www.restplatzboerse.com",
+    "www.expedia.de",
+    "www.booking.com",
+    "www.sonnenklar.tv"
+   ]
+  },
+  {
+   "keyword": "dezember türkei urlaub",
+   "volume": 210,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 87300"
+   ],
+   "se_results_count": 87300,
+   "task_id": "10071836-2727-0121-0000-0c4c07e30966",
+   "api_datetime": "2026-10-07 18:36:24 +00:00",
+   "top_domains": [
+    "www.holidaycheck.de",
+    "www.sonnenklar.tv",
+    "www.gutefrage.net",
+    "www.facebook.com",
+    "www.merkur.de"
+   ]
+  },
+  {
+   "keyword": "günstig türkei",
+   "volume": 210,
+   "reasons": [
+    "немає блоку related_searches",
+    "?page= у ТОП-10",
+    "se_results_count 129000"
+   ],
+   "se_results_count": 129000,
+   "task_id": "10071836-2727-0121-0000-e9b91279239f",
+   "api_datetime": "2026-10-07 18:36:26 +00:00",
+   "top_domains": [
+    "www.restplatzboerse.com",
+    "www.vtours.com",
+    "www.reisen-ist-besonders.de",
+    "www.tui.com",
+    "www.ab-in-den-urlaub.de"
+   ]
+  },
+  {
+   "keyword": "pauschalreise türkei all inclusive 2026",
+   "volume": 210,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 29500"
+   ],
+   "se_results_count": 29500,
+   "task_id": "10071836-2727-0121-0000-1ef05efdb856",
+   "api_datetime": "2026-10-07 18:36:41 +00:00",
+   "top_domains": [
+    "www.urlaubsguru.de",
+    "www.tui.com",
+    "www.sonnenklar.tv",
+    "www.loveholidays.com",
+    "online-reisesuche.de"
+   ]
+  },
+  {
+   "keyword": "pauschalreisen türkei last minute",
+   "volume": 210,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 66400"
+   ],
+   "se_results_count": 66400,
+   "task_id": "10071836-2727-0121-0000-09614d2cbc92",
+   "api_datetime": "2026-10-07 18:36:32 +00:00",
+   "top_domains": [
+    "www.dertour.de",
+    "www.loveholidays.com",
+    "www.lidl-reisen.de",
+    "weg24.de",
+    "www.ab-ins-blaue.de"
+   ]
+  },
+  {
+   "keyword": "pauschalreise türkei lara",
+   "volume": 170,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 3140"
+   ],
+   "se_results_count": 3140,
+   "task_id": "10071836-2727-0121-0000-d6c0670d610a",
+   "api_datetime": "2026-10-07 18:36:50 +00:00",
+   "top_domains": [
+    "urlaub.lmx.de",
+    "www.ltur.com",
+    "www.sonnenklar.tv",
+    "www.holidaycheck.de",
+    "pauschal.neckermann-reisen.de"
+   ]
+  },
+  {
+   "keyword": "reise türkei side",
+   "volume": 170,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 98300"
+   ],
+   "se_results_count": 98300,
+   "task_id": "10071836-2727-0121-0000-6260daf09262",
+   "api_datetime": "2026-10-07 18:36:29 +00:00",
+   "top_domains": [
+    "www.ab-in-den-urlaub.de",
+    "www.12-travel.de",
+    "www.booking.com",
+    "www.corendon.de",
+    "www.mafireisen.de"
+   ]
+  },
+  {
+   "keyword": "türkei urlaub meer",
+   "volume": 170,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 109000"
+   ],
+   "se_results_count": 109000,
+   "task_id": "10071836-2727-0121-0000-67a44c86108a",
+   "api_datetime": "2026-10-07 18:36:43 +00:00",
+   "top_domains": [
+    "www.booking.com",
+    "www.facebook.com",
+    "de.pinterest.com",
+    "www.facebook.com",
+    "www.youtube.com"
+   ]
+  },
+  {
+   "keyword": "türkei urlaub pauschalreise",
+   "volume": 170,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 58100"
+   ],
+   "se_results_count": 58100,
+   "task_id": "10071836-2727-0121-0000-600135b48bff",
+   "api_datetime": "2026-10-07 18:36:53 +00:00",
+   "top_domains": [
+    "holidays.eurowings.com",
+    "www.tui.com",
+    "holidayinsider.net",
+    "www.holidaycheck.de",
+    "www.urlaubsangebote.de"
+   ]
+  },
+  {
+   "keyword": "ferien türkei",
+   "volume": 140,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 82900"
+   ],
+   "se_results_count": 82900,
+   "task_id": "10071836-2727-0121-0000-9032930a171e",
+   "api_datetime": "2026-10-07 18:36:54 +00:00",
+   "top_domains": [
+    "www.voyage-prive.de",
+    "www.holidaycheck.ch",
+    "www.kleinanzeigen.de",
+    "www.airbnb.de",
+    "www.ab-ins-blaue.ch"
+   ]
+  },
+  {
+   "keyword": "türkei rundreise auf eigene faust",
+   "volume": 50,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 2270"
+   ],
+   "se_results_count": 2270,
+   "task_id": "10071837-2727-0121-0000-aaceee051a6b",
+   "api_datetime": "2026-10-07 18:37:14 +00:00",
+   "top_domains": [
+    "www.reisefrage.net",
+    "www.tourradar.de",
+    "www.gebeco.de",
+    "www.selectholidays.de",
+    "www.cewe-community.com"
+   ]
+  },
+  {
+   "keyword": "türkei rundreise kappadokien und baden",
+   "volume": 50,
+   "reasons": [
+    "немає блоку related_searches"
+   ],
+   "se_results_count": 850,
+   "task_id": "10071837-2727-0121-0000-c148db012e24",
+   "api_datetime": "2026-10-07 18:37:13 +00:00",
+   "top_domains": [
+    "www.voyage-prive.de",
+    "windrose.de",
+    "chili-reisen.de",
+    "www.ijo-reisen.de",
+    "www.rundreisen.de"
+   ]
+  },
+  {
+   "keyword": "türkei rundreise und baden",
+   "volume": 40,
+   "reasons": [
+    "немає блоку related_searches",
+    "se_results_count 7550"
+   ],
+   "se_results_count": 7550,
+   "task_id": "10071837-2727-0121-0000-dc0e86fe6f8f",
+   "api_datetime": "2026-10-07 18:37:15 +00:00",
+   "top_domains": [
+    "www.ijo-reisen.de",
+    "www.rundreisen.de",
+    "flammang.lu",
+    "www.hauser.reisen",
+    "mediathek.sonnenklar.tv"
+   ]
+  },
+  {
+   "keyword": "rundreise türkei mit istanbul",
+   "volume": 20,
+   "reasons": [
+    "немає блоку related_searches",
+    "?page= у ТОП-10",
+    "se_results_count 8420"
+   ],
+   "se_results_count": 8420,
+   "task_id": "10071837-2727-0121-0000-098c09a82aa3",
+   "api_datetime": "2026-10-07 18:37:19 +00:00",
+   "top_domains": [
+    "www.tourradar.de",
+    "www.studienreisen.de",
+    "www.turkeytour.net",
+    "www.marco-polo-reisen.com",
+    "www.tourradar.de"
+   ]
+  }
+ ]
+}

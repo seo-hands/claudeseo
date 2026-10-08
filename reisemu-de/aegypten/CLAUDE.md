@@ -1,12 +1,138 @@
 # reisemu.de · Єгипет
 
-Напрямок: Єгипет (Ägypten). Цільовий хаб поки невідомий — коли визначиться, додайте в секцію нижче рядок із ключем page_base. Дані сайту (домен, мова, location_code, se_domain, GSC, GA4) — у CLAUDE.md батьківської папки.
+Напрямок: Єгипет (Ägypten). Цільовий хаб: https://reisemu.de/tour/agypten (адреса /tour/aegypten на сайті не існує: 301 на /tour). Дані сайту (домен, мова, location_code, se_domain, GSC, GA4) — у CLAUDE.md батьківської папки.
 
 ## semantics-travel
 - country: Ägypten
 - slug: aegypten
+- page_base: /tour/agypten
+- scope_terms: ägypten|aegypten|agypten|egypt
+- hotels_page: /hotels/agypten
+- main_keyword: ägypten urlaub
+- hub_slugs: aegypten|agypten|ägypten|egypt|aegypten-urlaub
+- region: makadi-bay = makadi
+- region: sahl-hasheesh = sahl[ -]?hasheesh
+- region: soma-bay = soma[ -]?bay
+- region: el-gouna = el[ -]?gouna
+- region: safaga = safaga
+- region: hurghada = hurghada|hurgada
+- region: marsa-alam = marsa[ -]?alam
+- region: el-quseir = quseir|qusair|kosseir
+- region: sharm-el-sheikh = sharm|scharm
+- region: dahab = (?<![a-z])dahab(?![a-z])
+- region: nuweiba = nuweiba
+- region: taba = (?<![a-z])taba(?![a-z])
+- region: el-alamein = alamein
+- region: kairo = (?<![a-z])(kairo|cairo|gizeh|giza)(?![a-z])
+- region: luxor = (?<![a-z])luxor(?![a-z])
+- existing_page: /tour/agypten
+- existing_page: /tour/agypten/all-inclusive
+- existing_page: /tour/agypten/hurghada
+- existing_page: /tour/agypten/marsa-alam
+- existing_page: /tour/agypten/sharm-el-sheikh
+- existing_page: /tour/agypten/makadi-bay
+- existing_page: /tour/agypten/el-alamein
+- existing_page: /tour/agypten/kairo
+- existing_page: /tour/agypten/sahl-hasheesh
+- existing_page: /tour/agypten/el-quseir
+- existing_page: /tour/agypten/soma-bay
+- existing_page: /tour/agypten/safaga
+- existing_page: /tour/agypten/dahab
+- existing_page: /tour/agypten/nuweiba
+- existing_page: /hotels/agypten
+- existing_page: /tour/agypten/january
+- existing_page: /tour/agypten/february
+- existing_page: /tour/agypten/march
+- existing_page: /tour/agypten/april
+- existing_page: /tour/agypten/may
+- existing_page: /tour/agypten/june
+- existing_page: /tour/agypten/july
+- existing_page: /tour/agypten/august
+- existing_page: /tour/agypten/september
+- existing_page: /tour/agypten/october
+- existing_page: /tour/agypten/november
+- existing_page: /tour/agypten/december
+- existing_page: /tour/agypten_gunstig
+- existing_page: /tour/agypten_winter
+- existing_page: /tour/agypten_sommer
+- existing_page: /tour/agypten_herbst
+- existing_page: /tour/agypten_fruhling
+- existing_page: /tour/agypten_kinder
+- existing_page: /tour/agypten_vip
+- existing_page: /hotels/agypten/beste
+- existing_page: /tour/agypten/from-amsterdam
+- existing_page: /tour/agypten/from-berlin
+- existing_page: /tour/agypten/from-bremen
+- existing_page: /tour/agypten/from-brussel
+- existing_page: /tour/agypten/from-dresden
+- existing_page: /tour/agypten/from-dusseldorf
+- existing_page: /tour/agypten/from-erfurt
+- existing_page: /tour/agypten/from-frankfurt
+- existing_page: /tour/agypten/from-genf
+- existing_page: /tour/agypten/from-hamburg
+- existing_page: /tour/agypten/from-hannover
+- existing_page: /tour/agypten/from-koln
+- existing_page: /tour/agypten/from-leipzig
+- existing_page: /tour/agypten/from-luxemburg
+- existing_page: /tour/agypten/from-munchen
+- existing_page: /tour/agypten/from-nurnberg
+- existing_page: /tour/agypten/from-paderbornlippstadt
+- existing_page: /tour/agypten/from-salzburg
+- existing_page: /tour/agypten/from-stuttgart
+- existing_page: /tour/agypten/from-wien
+- existing_page: /tour/agypten/from-zurich
+- modifier_page: januar = /tour/agypten/january
+- modifier_page: februar = /tour/agypten/february
+- modifier_page: märz|maerz = /tour/agypten/march
+- modifier_page: april = /tour/agypten/april
+- modifier_page: (?<![a-zäöü])mai(?![a-zäöü]) = /tour/agypten/may
+- modifier_page: juni = /tour/agypten/june
+- modifier_page: juli = /tour/agypten/july
+- modifier_page: august = /tour/agypten/august
+- modifier_page: september = /tour/agypten/september
+- modifier_page: oktober = /tour/agypten/october
+- modifier_page: november = /tour/agypten/november
+- modifier_page: dezember = /tour/agypten/december
+- modifier_page: günstig|guenstig|billig|preiswert|schnäppchen = /tour/agypten_gunstig
+- modifier_page: kinder|kindern|familie = /tour/agypten_kinder
+- modifier_page: winter = /tour/agypten_winter
+- modifier_page: sommer = /tour/agypten_sommer
+- modifier_page: herbst = /tour/agypten_herbst
+- modifier_page: frühling|fruehling|frühjahr = /tour/agypten_fruhling
+- modifier_page: amsterdam = /tour/agypten/from-amsterdam
+- modifier_page: berlin = /tour/agypten/from-berlin
+- modifier_page: bremen = /tour/agypten/from-bremen
+- modifier_page: brüssel|bruessel = /tour/agypten/from-brussel
+- modifier_page: dresden = /tour/agypten/from-dresden
+- modifier_page: düsseldorf|duesseldorf = /tour/agypten/from-dusseldorf
+- modifier_page: erfurt = /tour/agypten/from-erfurt
+- modifier_page: frankfurt = /tour/agypten/from-frankfurt
+- modifier_page: genf = /tour/agypten/from-genf
+- modifier_page: hamburg = /tour/agypten/from-hamburg
+- modifier_page: hannover = /tour/agypten/from-hannover
+- modifier_page: köln|koeln = /tour/agypten/from-koln
+- modifier_page: leipzig = /tour/agypten/from-leipzig
+- modifier_page: luxemburg = /tour/agypten/from-luxemburg
+- modifier_page: münchen|muenchen = /tour/agypten/from-munchen
+- modifier_page: nürnberg|nuernberg = /tour/agypten/from-nurnberg
+- modifier_page: paderborn = /tour/agypten/from-paderbornlippstadt
+- modifier_page: salzburg = /tour/agypten/from-salzburg
+- modifier_page: stuttgart = /tour/agypten/from-stuttgart
+- modifier_page: (?<![a-zäöü])wien(?![a-zäöü]) = /tour/agypten/from-wien
+- modifier_page: zürich|zuerich = /tour/agypten/from-zurich
+- brand: (?<!\w)(phoenix|phönix|rsd|eti|netto|skr|studiosus|globalis|chamäleon|neon|ecco|wikinger|aida|migros|kempinski|steigenberger)(?!\w)|ferien touristik
+- business_rule: name=pauschalreise; match=pauschal; family=pauschal; page={page_base}/pauschalreise; exclude_region=yes; exclude_patterns=last ?minute||all[ -]?inclusive.*pauschal; note=Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschal/Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/agypten/pauschalreise.
 
 ### Журнал
+- existing_page — 2026-10-08; перевірено з браузерним User-Agent (200 = існує): існують /tour/agypten, /all-inclusive, 12 регіональних сторінок, /hotels/agypten; не існують (301 на хаб) /tour/agypten/last-minute, /tour/agypten/pauschalreise, регіони el-gouna, taba, luxor
+- збір — 2026-10-08; Labs по 6 seed (ägypten urlaub, ägypten reise, ägypten reisen, ägypten pauschalreise, ägypten urlaub buchen, ägypten ferien), $0.28; пул 506 ключів → keywords.json: ядро 100 (обсяг 200 730), довгий хвіст 74, суміжне 4, відфільтровано 328; snowball пропущено; SERP live/regular зібрано 8 жовтня 2026 (serp-raw-regular, 100 ключів, $0.20); переклади — translations.json
+- existing_page (2) — 2026-10-08; перевірено 49 посилань хаба з браузерним User-Agent, усі 200: 12 місяців, 7 тематичних (agypten_gunstig, _winter, _sommer, _herbst, _fruhling, _kinder, _vip), 21 місто вильоту, /hotels/agypten/beste; місяці, günstig, сезони й міста записано в modifier_page
+- перевірка спірних — 2026-10-08; verify_landings --auto: holidaycheck.de віддає HTTP 400, вердиктів немає; ручну звірку видачі головного ключа ще не зроблено
+- перевірка SERP — 2026-10-08; параметри запиту ті самі, що в Туреччини; повторний збір 100 ключів (serp-raw-regular-run2, $0.20) і контрольний запит головного ключа (serp-recheck, $0.002): у 60 зі 100 ключів два збори не мають спільних URL — API віддає дві версії видачі; у браузері підтверджено «нормальну» (ägypten urlaub, pauschalreise ägypten, ägypten reisewarnung)
+- відбір SERP — 2026-10-08; у serp-raw-regular покладено версію, що пройшла перевірку ознак (serp-selection.json; перший збір — serp-raw-regular-run1): 60 ключів підтверджено, 14 мають дві різні «нормальні» версії, 26 — «SERP не підтверджено» (8 550 запитів, розподілено за типом ключа, статус «спірно»)
+- **повторний SERP для непідтверджених ключів через 7–10 днів** (15–18 жовтня 2026): видалити з serp-raw-regular файли 26 непідтверджених і 14 ключів із різними версіями, запустити fetch_serp.py, потім analyze.py
+- лист у підтримку DataForSEO — dataforseo-support.md (не надіслано)
+- analyze — 2026-10-08; semantics-aegypten.xlsx; ключів 100, кластерів 21, сторінок 17
 
 ## tz-travel
 

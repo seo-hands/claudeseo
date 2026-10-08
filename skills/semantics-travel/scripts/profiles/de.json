@@ -9,21 +9,28 @@
    "schnäppchen"
   ],
   "months": [
+   "januar",
+   "februar",
+   "märz",
+   "april",
+   "\\bmai\\b",
+   "juni",
+   "juli",
+   "august",
    "september",
    "oktober",
    "november",
-   "dezember",
-   "\\bmai\\b"
+   "dezember"
   ]
  },
  "lemma_rules": [
   {
    "key": "info_warnung",
-   "match": "warnung|aktuell|sicher"
+   "match": "warnung|sicher|gefährlich|gefahr|auswärtige[sn]? amt|reisehinweis"
   },
   {
    "key": "info_einreise",
-   "match": "personalausweis|reisepass|visum|einreise"
+   "match": "personalausweis|reisepass|visum|\\bvisa\\b|einreise|impf|\\bzoll"
   },
   {
    "key": "hotel",
@@ -91,7 +98,7 @@
    null
   ],
   "urlaub_season": [
-   "{country} Urlaub за місяцями (Mai, September, Oktober, November, Dezember)",
+   "{country} Urlaub за місяцями",
    null
   ],
   "reise": [
@@ -131,11 +138,11 @@
    null
   ],
   "info_warnung": [
-   "{country}: Reisewarnung, aktuelle Lage, Sicherheit",
+   "{country}: Reisewarnung, Sicherheit, Auswärtiges Amt",
    "informational"
   ],
   "info_einreise": [
-   "{country}: Einreise, Personalausweis, Visum",
+   "{country}: Einreise, Personalausweis, Visum, Impfung",
    "informational"
   ]
  },
@@ -390,7 +397,7 @@
  ],
  "notes": {
   "hub": "Хаб країни «{country}»: у ТОП домінують хаби країни.",
-  "info_hinweise": "Інформаційний інтент; низький пріоритет.",
+  "info_hinweise": "Інформаційна сторінка Reisehinweise: безпека, в'їзд, віза (правило скіла; новини з датою сюди не входять).",
   "info_zeit": "Інформаційний гайд «Beste Reisezeit / у місяць…»: у ТОП для місяців переважають інформаційні сторінки, а не комерційні.",
   "info_ratgeber": "Інформаційний гайд (Strand, Meer, Tipps): у ТОП переважають інформаційні сторінки.",
   "rundreise": "Rundreise — інший продукт (тури з маршрутом).",
@@ -417,7 +424,7 @@
   }
  },
  "scope": {
-  "_about": "Межі теми сторінки «країна + продукт-ядро (відпочинок/тур/пакетний тур) + модифікатори»: ядро / суміжне / сміття. Модифікатори (ціна, buchen, all inclusive, mit flug, рік, сезон, Kinder...) лишаються в ядрі. Суміжне = район/регіон або ІНШИЙ продукт.",
+  "_about": "Межі теми сторінки «країна + продукт-ядро (відпочинок/тур/пакетний тур) + модифікатори»: ядро / суміжне / сміття. Модифікатори (ціна, buchen, all inclusive, mit flug, рік, сезон, Kinder...) лишаються в ядрі. Суміжне = район/регіон або ІНШИЙ продукт. Безпека, в'їзд і віза (Reisewarnung, Sicherheit, Einreise, Visum, Reisepass, Impfung) - НЕ сміття: це ядро, інформаційна сторінка Reisehinweise (розділ skill_rules). У сміття йдуть лише новини, прив'язані до дати чи події (aktuell, news, heute, назви подій).",
   "products": {
    "lastminute": {
     "match": "last ?minute|lastminute|restplätze|restplatz|kurzfristig",
@@ -464,13 +471,22 @@
   },
   "junk": {
    "погода": "wetter|klima\\b|klimatabelle|temperatur|wassertemperatur|webcam|regenzeit",
-   "віза/в'їзд": "visum|\\bvisa\\b|einreise|personalausweis|reisepass|zollbestimmungen|impfung|impfpflicht",
-   "новини/безпека": "reisewarnung|\\bwarnung|nachricht|\\bnews\\b|erdbeben|streik|anschlag|corona|\\bsicher\\b|sicherheit|gefährlich|\\baktuell|krise|inflation",
+   "новини з датою/подією": "\\baktuell|\\bnews\\b|nachricht|\\bheute\\b|\\bderzeit|\\bmomentan|\\bjetzt\\b|\\bgerade\\b|erdbeben|streik|anschlag|corona|covid|\\bkrieg|israel|\\bgaza\\b|\\biran\\b|krise|inflation|unruhen|putsch",
    "карта/довідка": "\\bkarte\\b|landkarte|wikipedia|sehenswürdigkeit|geschichte|einwohner|hauptstadt|währung|zeitverschiebung|vorwahl|flagge",
    "не туризм": "\\bjobs?\\b|stellenangebote|auswandern|immobilien|einbürgerung|staatsangehörigkeit|rezept|übersetzer|übersetzung",
    "форум/відгуки": "forum|reddit|erfahrungsbericht|erfahrungen"
   }
  },
+ "skill_rules": [
+  {
+   "_about": "Постійні правила скіла, що діють як business_rule для кожного напрямку ринку. {info_hinweise} = слаг сторінки з page_slugs.",
+   "name": "reisehinweise",
+   "match": "warnung|sicher|gefährlich|gefahr|auswärtige[sn]? amt|reisehinweis|personalausweis|reisepass|visum|\\bvisa\\b|einreise|impf|\\bzoll",
+   "family": "info",
+   "page": "{page_base}/{info_hinweise}",
+   "note": "Правило скіла: ключі про безпеку, в'їзд і візу належать до інформаційної сторінки Reisehinweise."
+  }
+ ],
  "seed_templates": {
   "_about": "{t} = тема (країна/напрямок мовою ринку). Групи пропонуються користувачу перед збором; підтверджений список іде в collect.py --seeds.",
   "main": [

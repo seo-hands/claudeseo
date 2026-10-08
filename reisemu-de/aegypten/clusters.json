@@ -1,0 +1,3365 @@
+{
+ "clusters": [
+  {
+   "id": "K01",
+   "key": "info_warnung",
+   "name": "Ägypten: Reisewarnung, Sicherheit, Auswärtiges Amt",
+   "members": [
+    "reise ägypten warnung",
+    "ägypten reisewarnung",
+    "ägypten urlaub reisewarnung",
+    "ägypten gefährlich urlaub",
+    "urlaub ägypten sicher",
+    "sicherheit reisen ägypten",
+    "reise ägypten auswärtiges amt",
+    "reise nach ägypten gefährlich",
+    "ist es sicher nach ägypten zu reisen",
+    "reise nach ägypten sicher",
+    "auswärtige amt reisen nach ägypten",
+    "ist ägypten sicher zum reisen",
+    "ägypten reise und sicherheitshinweise",
+    "wie sicher ist eine reise nach ägypten"
+   ],
+   "head": "reise ägypten warnung",
+   "total": 75860,
+   "intent": "informational",
+   "page": "/tour/agypten/reisehinweise",
+   "top_type": "інформаційна",
+   "top_share": 0.8512396694214877,
+   "top_count": "103/121",
+   "statuses": {
+    "рекомендовано": 13,
+    "спірно (SERP не підтверджено)": 1
+   },
+   "split": false,
+   "base": "K01",
+   "label": "K01 · reise ägypten warnung"
+  },
+  {
+   "id": "K02a",
+   "key": "urlaub_core",
+   "name": "Ägypten Urlaub: бронювання, рік, з перельотом",
+   "members": [
+    "ägypten urlaub",
+    "urlaub in aegypten",
+    "ägypten urlaub 2026",
+    "urlaub ägypten buchen",
+    "pyramiden urlaub ägypten",
+    "pyramide ägypten urlaub",
+    "ägypten urlaub was beachten",
+    "ägypten buchen",
+    "ägypten kurzurlaub",
+    "ägypten ferien",
+    "ägypten urlaub mit flug",
+    "ägypten urlaub buchen mit flug und hotel",
+    "ferien ägypten 2026",
+    "wann sind ferien in ägypten 2026"
+   ],
+   "head": "ägypten urlaub",
+   "total": 71780,
+   "intent": "informational",
+   "page": "/tour/agypten",
+   "top_type": "хаб країни",
+   "top_share": 0.2764227642276423,
+   "top_count": "34/123",
+   "statuses": {
+    "рекомендовано": 4,
+    "окрема сторінка не потрібна": 1,
+    "спірно (SERP не підтверджено)": 6,
+    "спірно (не перевірено)": 3
+   },
+   "split": true,
+   "base": "K02",
+   "label": "K02a · ägypten urlaub"
+  },
+  {
+   "id": "K03",
+   "key": "info_einreise",
+   "name": "Ägypten: Einreise, Personalausweis, Visum, Impfung",
+   "members": [
+    "visum ägypten",
+    "ägypten reisepass",
+    "visum für ägypten urlaub",
+    "visa für ägypten urlaub",
+    "reise nach ägypten personalausweis",
+    "reise ägypten impfung",
+    "impfungen reise ägypten",
+    "impfen für ägypten reise",
+    "ägypten reise visum",
+    "reise nach ägypten reisepass",
+    "visum ägypten pauschalreise"
+   ],
+   "head": "visum ägypten",
+   "total": 22170,
+   "intent": "informational",
+   "page": "/tour/agypten/reisehinweise",
+   "top_type": "інформаційна",
+   "top_share": 0.7216494845360825,
+   "top_count": "70/97",
+   "statuses": {
+    "рекомендовано": 6,
+    "спірно (SERP не підтверджено)": 4,
+    "за бізнес-правилом": 1
+   },
+   "split": false,
+   "base": "K03",
+   "label": "K03 · visum ägypten"
+  },
+  {
+   "id": "K04",
+   "key": "pauschal",
+   "name": "Pauschalreise Ägypten",
+   "members": [
+    "pauschalreise ägypten",
+    "ägypten pauschalreise all inclusive",
+    "pauschalreise ägypten 2026",
+    "ägypten pauschalreise all inclusive direktflug",
+    "pauschal ägypten",
+    "pauschalreise ägypten günstig",
+    "ägypten urlaub pauschalreise",
+    "ägypten pauschalreise direktflug",
+    "pauschalreise ägypten pyramiden",
+    "pauschalreise ägypten märz 2026"
+   ],
+   "head": "pauschalreise ägypten",
+   "total": 8070,
+   "intent": "commercial",
+   "page": "/tour/agypten/pauschalreise",
+   "top_type": "pauschalreise (країна)",
+   "top_share": 0.37209302325581395,
+   "top_count": "32/86",
+   "statuses": {
+    "рекомендовано": 3,
+    "за бізнес-правилом": 6,
+    "спірно (SERP не підтверджено)": 1
+   },
+   "split": false,
+   "base": "K04",
+   "label": "K04 · pauschalreise ägypten"
+  },
+  {
+   "id": "K05a",
+   "key": "allinclusive",
+   "name": "Ägypten All Inclusive",
+   "members": [
+    "urlaub ägypten all inclusive",
+    "ägypten urlaub günstig all inclusive direktflug",
+    "urlaub buchen ägypten all inclusive"
+   ],
+   "head": "urlaub ägypten all inclusive",
+   "total": 5190,
+   "intent": "commercial",
+   "page": "/tour/agypten/all-inclusive",
+   "top_type": "all inclusive (країна)",
+   "top_share": 0.48,
+   "top_count": "12/25",
+   "statuses": {
+    "рекомендовано": 2,
+    "спірно (SERP не підтверджено)": 1
+   },
+   "split": true,
+   "base": "K05",
+   "label": "K05a · urlaub ägypten all inclusive"
+  },
+  {
+   "id": "K06a",
+   "key": "reise",
+   "name": "Ägypten Reise / Reisen: buchen, nach",
+   "members": [
+    "reise nach ägypten",
+    "reise ägypten tipps",
+    "schwanger nach ägypten reisen",
+    "kann man als frau alleine nach ägypten reisen",
+    "ägypten reise stornieren"
+   ],
+   "head": "reise nach ägypten",
+   "total": 3860,
+   "intent": "informational",
+   "page": "/tour/agypten/ratgeber",
+   "top_type": "інформаційна",
+   "top_share": 0.7111111111111111,
+   "top_count": "32/45",
+   "statuses": {
+    "рекомендовано": 5
+   },
+   "split": true,
+   "base": "K06",
+   "label": "K06a · reise nach ägypten"
+  },
+  {
+   "id": "K07",
+   "key": "region_hurghada",
+   "name": "Регіон: Hurghada",
+   "members": [
+    "urlaub hurghada ägypten",
+    "urlaub ägypten hurghada all inclusive",
+    "ägypten hurghada pauschalreise",
+    "reise ägypten hurghada",
+    "pauschalreise ägypten hurghada all inclusive",
+    "ägypten hurghada urlaub buchen",
+    "urlaub buchen ägypten hurghada all inclusive"
+   ],
+   "head": "urlaub hurghada ägypten",
+   "total": 2940,
+   "intent": "commercial",
+   "page": "/tour/agypten/hurghada",
+   "top_type": "готель (регіон)",
+   "top_share": 0.30158730158730157,
+   "top_count": "19/63",
+   "statuses": {
+    "спірно (не перевірено)": 4,
+    "спірно (SERP не підтверджено)": 3
+   },
+   "split": false,
+   "base": "K07",
+   "label": "K07 · urlaub hurghada ägypten"
+  },
+  {
+   "id": "K05b",
+   "key": "allinclusive",
+   "name": "Ägypten All Inclusive",
+   "members": [
+    "ägypten urlaub all inclusive mit flug und hotel",
+    "ägypten urlaub 2026 all inclusive mit flug und hotel",
+    "urlaub ägypten 2026 all inclusive",
+    "ägypten reise all inclusive"
+   ],
+   "head": "ägypten urlaub all inclusive mit flug und hotel",
+   "total": 2580,
+   "intent": "commercial",
+   "page": "/tour/agypten",
+   "top_type": "хаб країни",
+   "top_share": 0.375,
+   "top_count": "12/32",
+   "statuses": {
+    "спірно (не перевірено)": 4
+   },
+   "split": true,
+   "base": "K05",
+   "label": "K05b · ägypten urlaub all inclusive mit flug und hotel"
+  },
+  {
+   "id": "K09",
+   "key": "urlaub_price",
+   "name": "Ägypten Urlaub: günstig / billig / Schnäppchen",
+   "members": [
+    "günstiger urlaub ägypten",
+    "günstig ägypten urlaub buchen",
+    "reise ägypten günstig",
+    "billig reisen nach ägypten",
+    "billiger reisen nach ägypten",
+    "billige reisen nach ägypten"
+   ],
+   "head": "günstiger urlaub ägypten",
+   "total": 1290,
+   "intent": "commercial",
+   "page": "/tour/agypten_gunstig",
+   "top_type": "хаб країни",
+   "top_share": 0.3888888888888889,
+   "top_count": "21/54",
+   "statuses": {
+    "спірно (SERP не підтверджено)": 3,
+    "наявна посадкова (модифікатор)": 3
+   },
+   "split": false,
+   "base": "K09",
+   "label": "K09 · günstiger urlaub ägypten"
+  },
+  {
+   "id": "K10",
+   "key": "region_marsa-alam",
+   "name": "Регіон: Marsa-Alam",
+   "members": [
+    "marsa alam ägypten urlaub",
+    "ägypten urlaub: marsa alam",
+    "pauschalreise ägypten marsa alam"
+   ],
+   "head": "marsa alam ägypten urlaub",
+   "total": 1220,
+   "intent": "informational",
+   "page": "/tour/agypten/marsa-alam",
+   "top_type": "хаб регіону",
+   "top_share": 0.48148148148148145,
+   "top_count": "13/27",
+   "statuses": {
+    "рекомендовано": 2,
+    "спірно (не перевірено)": 1
+   },
+   "split": false,
+   "base": "K10",
+   "label": "K10 · marsa alam ägypten urlaub"
+  },
+  {
+   "id": "K02b",
+   "key": "urlaub_core",
+   "name": "Ägypten Urlaub: бронювання, рік, з перельотом",
+   "members": [
+    "urlaub mit kindern ägypten",
+    "ägypten mit kindern",
+    "familienurlaub ägypten",
+    "ägypten mit kleinkindern"
+   ],
+   "head": "urlaub mit kindern ägypten",
+   "total": 1190,
+   "intent": "informational",
+   "page": "/tour/agypten_kinder",
+   "top_type": "хаб країни",
+   "top_share": 0.40540540540540543,
+   "top_count": "15/37",
+   "statuses": {
+    "наявна посадкова (модифікатор)": 4
+   },
+   "split": true,
+   "base": "K02",
+   "label": "K02b · urlaub mit kindern ägypten"
+  },
+  {
+   "id": "K08a",
+   "key": "urlaub_season",
+   "name": "Ägypten Urlaub за місяцями",
+   "members": [
+    "dezember ägypten urlaub"
+   ],
+   "head": "dezember ägypten urlaub",
+   "total": 1000,
+   "intent": "informational",
+   "page": "/tour/agypten/december",
+   "top_type": "хаб країни",
+   "top_share": 0.5555555555555556,
+   "top_count": "5/9",
+   "statuses": {
+    "наявна посадкова (модифікатор)": 1
+   },
+   "split": true,
+   "base": "K08",
+   "label": "K08a · dezember ägypten urlaub"
+  },
+  {
+   "id": "K11",
+   "key": "lastminute",
+   "name": "Last Minute Ägypten",
+   "members": [
+    "urlaub last minute ägypten",
+    "last minute pauschalreise ägypten",
+    "ägypten reise last minute"
+   ],
+   "head": "urlaub last minute ägypten",
+   "total": 890,
+   "intent": "commercial",
+   "page": "/tour/agypten/last-minute",
+   "top_type": "last minute (країна)",
+   "top_share": 0.6666666666666666,
+   "top_count": "18/27",
+   "statuses": {
+    "рекомендовано": 3
+   },
+   "split": false,
+   "base": "K11",
+   "label": "K11 · urlaub last minute ägypten"
+  },
+  {
+   "id": "K06b",
+   "key": "reise",
+   "name": "Ägypten Reise / Reisen: buchen, nach",
+   "members": [
+    "ägypten reise buchen",
+    "ägypten reise pyramiden",
+    "ägypten reise 2026",
+    "reise nach ägypten was beachten",
+    "ägypten neues museum reise",
+    "was kostet eine reise nach ägypten",
+    "ägypten reise spezialist"
+   ],
+   "head": "ägypten reise buchen",
+   "total": 860,
+   "intent": "informational",
+   "page": "/tour/agypten",
+   "top_type": "інформаційна",
+   "top_share": 0.2222222222222222,
+   "top_count": "14/63",
+   "statuses": {
+    "спірно (SERP не підтверджено)": 4,
+    "рекомендовано": 2,
+    "спірно (не перевірено)": 1
+   },
+   "split": true,
+   "base": "K06",
+   "label": "K06b · ägypten reise buchen"
+  },
+  {
+   "id": "K08b",
+   "key": "urlaub_season",
+   "name": "Ägypten Urlaub за місяцями",
+   "members": [
+    "november urlaub ägypten"
+   ],
+   "head": "november urlaub ägypten",
+   "total": 720,
+   "intent": "informational",
+   "page": "/tour/agypten/november",
+   "top_type": "інформаційна",
+   "top_share": 0.625,
+   "top_count": "5/8",
+   "statuses": {
+    "спірно (SERP не підтверджено)": 1
+   },
+   "split": true,
+   "base": "K08",
+   "label": "K08b · november urlaub ägypten"
+  },
+  {
+   "id": "K08c",
+   "key": "urlaub_season",
+   "name": "Ägypten Urlaub за місяцями",
+   "members": [
+    "ägypten urlaub im oktober"
+   ],
+   "head": "ägypten urlaub im oktober",
+   "total": 590,
+   "intent": "commercial",
+   "page": "/tour/agypten/october",
+   "top_type": "хаб країни",
+   "top_share": 0.7,
+   "top_count": "7/10",
+   "statuses": {
+    "наявна посадкова (модифікатор)": 1
+   },
+   "split": true,
+   "base": "K08",
+   "label": "K08c · ägypten urlaub im oktober"
+  },
+  {
+   "id": "K12",
+   "key": "region_el-gouna",
+   "name": "Регіон: El-Gouna",
+   "members": [
+    "ägypten urlaub el gouna",
+    "pauschalreise el gouna ägypten"
+   ],
+   "head": "ägypten urlaub el gouna",
+   "total": 330,
+   "intent": "informational",
+   "page": "/tour/agypten/el-gouna",
+   "top_type": "готель (регіон)",
+   "top_share": 0.4444444444444444,
+   "top_count": "8/18",
+   "statuses": {
+    "спірно (SERP не підтверджено)": 2
+   },
+   "split": false,
+   "base": "K12",
+   "label": "K12 · ägypten urlaub el gouna"
+  },
+  {
+   "id": "K13",
+   "key": "region_makadi-bay",
+   "name": "Регіон: Makadi-Bay",
+   "members": [
+    "pauschalreise ägypten makadi bay"
+   ],
+   "head": "pauschalreise ägypten makadi bay",
+   "total": 70,
+   "intent": "transactional",
+   "page": "/tour/agypten/makadi-bay",
+   "top_type": "хаб регіону",
+   "top_share": 0.6666666666666666,
+   "top_count": "6/9",
+   "statuses": {
+    "рекомендовано": 1
+   },
+   "split": false,
+   "base": "K13",
+   "label": "K13 · pauschalreise ägypten makadi bay"
+  },
+  {
+   "id": "K06c",
+   "key": "reise",
+   "name": "Ägypten Reise / Reisen: buchen, nach",
+   "members": [
+    "ägypten reise mit kindern"
+   ],
+   "head": "ägypten reise mit kindern",
+   "total": 40,
+   "intent": "informational",
+   "page": "/tour/agypten_kinder",
+   "top_type": "rundreise",
+   "top_share": 0.4444444444444444,
+   "top_count": "4/9",
+   "statuses": {
+    "наявна посадкова (модифікатор)": 1
+   },
+   "split": true,
+   "base": "K06",
+   "label": "K06c · ägypten reise mit kindern"
+  },
+  {
+   "id": "K14",
+   "key": "region_luxor",
+   "name": "Регіон: Luxor",
+   "members": [
+    "pauschalreise luxor ägypten"
+   ],
+   "head": "pauschalreise luxor ägypten",
+   "total": 40,
+   "intent": "commercial",
+   "page": "/tour/agypten/luxor",
+   "top_type": "хаб регіону",
+   "top_share": 0.5555555555555556,
+   "top_count": "5/9",
+   "statuses": {
+    "рекомендовано": 1
+   },
+   "split": false,
+   "base": "K14",
+   "label": "K14 · pauschalreise luxor ägypten"
+  },
+  {
+   "id": "K15",
+   "key": "region_sharm-el-sheikh",
+   "name": "Регіон: Sharm-El-Sheikh",
+   "members": [
+    "pauschalreise ägypten sharm el sheikh"
+   ],
+   "head": "pauschalreise ägypten sharm el sheikh",
+   "total": 40,
+   "intent": "commercial",
+   "page": "/tour/agypten/sharm-el-sheikh/pauschalreise",
+   "top_type": "pauschalreise (регіон)",
+   "top_share": 0.7777777777777778,
+   "top_count": "7/9",
+   "statuses": {
+    "рекомендовано": 1
+   },
+   "split": false,
+   "base": "K15",
+   "label": "K15 · pauschalreise ägypten sharm el sheikh"
+  }
+ ],
+ "cross": [
+  [
+   "K05a · urlaub ägypten all inclusive",
+   "K05b · ägypten urlaub all inclusive mit flug und hotel",
+   8,
+   "urlaub buchen ägypten all inclusive  ↔  ägypten reise all inclusive",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten/all-inclusive і /tour/agypten): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K02a · ägypten urlaub",
+   "K06b · ägypten reise buchen",
+   7,
+   "ägypten urlaub 2026  ↔  ägypten reise 2026",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K04 · pauschalreise ägypten",
+   "K05a · urlaub ägypten all inclusive",
+   7,
+   "ägypten pauschalreise all inclusive direktflug  ↔  urlaub buchen ägypten all inclusive",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten/pauschalreise і /tour/agypten/all-inclusive): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K04 · pauschalreise ägypten",
+   "K05b · ägypten urlaub all inclusive mit flug und hotel",
+   7,
+   "ägypten pauschalreise all inclusive direktflug  ↔  ägypten reise all inclusive",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten/pauschalreise і /tour/agypten): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K02b · urlaub mit kindern ägypten",
+   "K06c · ägypten reise mit kindern",
+   7,
+   "ägypten mit kindern  ↔  ägypten reise mit kindern",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K02a · ägypten urlaub",
+   "K05b · ägypten urlaub all inclusive mit flug und hotel",
+   5,
+   "ägypten urlaub 2026  ↔  ägypten urlaub 2026 all inclusive mit flug und hotel",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K01 · reise ägypten warnung",
+   "K03 · visum ägypten",
+   4,
+   "reise ägypten warnung  ↔  ägypten reise visum",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K02a · ägypten urlaub",
+   "K04 · pauschalreise ägypten",
+   4,
+   "ägypten urlaub mit flug  ↔  ägypten urlaub pauschalreise",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten і /tour/agypten/pauschalreise): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K02a · ägypten urlaub",
+   "K05a · urlaub ägypten all inclusive",
+   4,
+   "urlaub in aegypten  ↔  urlaub buchen ägypten all inclusive",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten і /tour/agypten/all-inclusive): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K02a · ägypten urlaub",
+   "K09 · günstiger urlaub ägypten",
+   4,
+   "ägypten urlaub mit flug  ↔  günstig ägypten urlaub buchen",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten і /tour/agypten_gunstig): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K02a · ägypten urlaub",
+   "K08a · dezember ägypten urlaub",
+   4,
+   "ägypten urlaub  ↔  dezember ägypten urlaub",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten і /tour/agypten/december): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K04 · pauschalreise ägypten",
+   "K09 · günstiger urlaub ägypten",
+   4,
+   "pauschalreise ägypten  ↔  günstig ägypten urlaub buchen",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten/pauschalreise і /tour/agypten_gunstig): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K05b · ägypten urlaub all inclusive mit flug und hotel",
+   "K06b · ägypten reise buchen",
+   4,
+   "ägypten urlaub 2026 all inclusive mit flug und hotel  ↔  ägypten reise 2026",
+   "обидва кластери на одній сторінці"
+  ],
+  [
+   "K09 · günstiger urlaub ägypten",
+   "K08c · ägypten urlaub im oktober",
+   4,
+   "günstig ägypten urlaub buchen  ↔  ägypten urlaub im oktober",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten_gunstig і /tour/agypten/october): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K08a · dezember ägypten urlaub",
+   "K08c · ägypten urlaub im oktober",
+   4,
+   "dezember ägypten urlaub  ↔  ägypten urlaub im oktober",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten/december і /tour/agypten/october): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K06b · ägypten reise buchen",
+   "K08c · ägypten urlaub im oktober",
+   4,
+   "ägypten reise 2026  ↔  ägypten urlaub im oktober",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten і /tour/agypten/october): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K01 · reise ägypten warnung",
+   "K06a · reise nach ägypten",
+   3,
+   "reise ägypten warnung  ↔  ägypten reise stornieren",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten/reisehinweise і /tour/agypten/ratgeber): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K02a · ägypten urlaub",
+   "K08c · ägypten urlaub im oktober",
+   3,
+   "ägypten urlaub  ↔  ägypten urlaub im oktober",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten і /tour/agypten/october): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K05b · ägypten urlaub all inclusive mit flug und hotel",
+   "K08a · dezember ägypten urlaub",
+   3,
+   "ägypten urlaub 2026 all inclusive mit flug und hotel  ↔  dezember ägypten urlaub",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten і /tour/agypten/december): ризик канібалізації, розвести інтент"
+  ],
+  [
+   "K08a · dezember ägypten urlaub",
+   "K06b · ägypten reise buchen",
+   3,
+   "dezember ägypten urlaub  ↔  ägypten reise 2026",
+   "ПЕРЕТИН ВИДАЧІ: ≥3 спільних URL, а сторінки різні (/tour/agypten/december і /tour/agypten): ризик канібалізації, розвести інтент"
+  ]
+ ],
+ "decisions": {
+  "ägypten urlaub": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 7,
+   "family": "hub",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten",
+     7
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "reise ägypten warnung": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 8,
+   "family": "info",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     8
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "ägypten reisewarnung": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 7,
+   "family": "info",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     7
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "visum ägypten": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 8,
+   "family": "info",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     8
+    ]
+   ]
+  },
+  "pauschalreise ägypten": {
+   "page": "/tour/agypten/pauschalreise",
+   "cand": "/tour/agypten/pauschalreise",
+   "count": 7,
+   "family": "pauschal",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/pauschalreise",
+     7
+    ],
+    [
+     "/tour/agypten",
+     2
+    ]
+   ]
+  },
+  "urlaub in aegypten": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 2,
+   "family": "hub",
+   "fam_count": 2,
+   "status": "окрема сторінка не потрібна",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten",
+     2
+    ],
+    [
+     "/tour/agypten/last-minute",
+     2
+    ],
+    [
+     "/tour/agypten/all-inclusive",
+     2
+    ]
+   ]
+  },
+  "ägypten urlaub reisewarnung": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 6,
+   "family": "info",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     6
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "urlaub ägypten all inclusive": {
+   "page": "/tour/agypten/all-inclusive",
+   "cand": "/tour/agypten/all-inclusive",
+   "count": 5,
+   "family": "allinclusive",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/all-inclusive",
+     5
+    ],
+    [
+     "/tour/agypten",
+     1
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "reise nach ägypten": {
+   "page": "/tour/agypten/ratgeber",
+   "cand": "/tour/agypten/ratgeber",
+   "count": 5,
+   "family": "info",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/ratgeber",
+     5
+    ],
+    [
+     "/tour/agypten",
+     2
+    ],
+    [
+     "/tour/agypten/rundreisen",
+     1
+    ]
+   ]
+  },
+  "ägypten urlaub 2026": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten",
+     5
+    ],
+    [
+     "/tour/agypten/last-minute",
+     3
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     1
+    ]
+   ]
+  },
+  "ägypten reisepass": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 7,
+   "family": "info",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     7
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "urlaub hurghada ägypten": {
+   "page": "/tour/agypten/hurghada",
+   "cand": "/tour/agypten/hurghada",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/hurghada",
+     4
+    ],
+    [
+     "/tour/agypten/safaga",
+     2
+    ],
+    [
+     "/hotels/agypten",
+     1
+    ]
+   ]
+  },
+  "urlaub ägypten buchen": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 2,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten",
+     2
+    ],
+    [
+     "/tour/agypten/last-minute",
+     2
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     2
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "окрема сторінка не потрібна"
+  },
+  "ägypten gefährlich urlaub": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 8,
+   "family": "info",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     8
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "dezember ägypten urlaub": {
+   "page": "/tour/agypten/december",
+   "cand": "/tour/agypten",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "наявна посадкова (модифікатор)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/agypten (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/agypten",
+     5
+    ],
+    [
+     "/tour/agypten/reisezeit",
+     1
+    ],
+    [
+     "/tour/agypten/rundreisen",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "рекомендовано"
+  },
+  "ägypten urlaub all inclusive mit flug und hotel": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten/all-inclusive",
+   "count": 3,
+   "family": "allinclusive",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten",
+     2
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     2
+    ],
+    [
+     "/tour/agypten/hurghada/all-inclusive",
+     2
+    ]
+   ]
+  },
+  "günstiger urlaub ägypten": {
+   "page": "/tour/agypten_gunstig",
+   "cand": "/tour/agypten",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 2,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/agypten (окрема сторінка не потрібна). SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten",
+     2
+    ],
+    [
+     "/tour/agypten/ratgeber",
+     2
+    ],
+    [
+     "/hotels/agypten",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "окрема сторінка не потрібна"
+  },
+  "ägypten urlaub 2026 all inclusive mit flug und hotel": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten",
+     4
+    ],
+    [
+     "/tour/agypten/last-minute",
+     2
+    ],
+    [
+     "/tour/agypten/all-inclusive",
+     1
+    ]
+   ]
+  },
+  "marsa alam ägypten urlaub": {
+   "page": "/tour/agypten/marsa-alam",
+   "cand": "/tour/agypten/marsa-alam",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/marsa-alam",
+     6
+    ],
+    [
+     "/tour/agypten/hurghada",
+     1
+    ],
+    [
+     "/tour/agypten/marsa-alam/last-minute",
+     1
+    ]
+   ]
+  },
+  "november urlaub ägypten": {
+   "page": "/tour/agypten/november",
+   "cand": "/tour/agypten/reisezeit",
+   "count": 0,
+   "family": "info",
+   "fam_count": 5,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/agypten (рекомендовано). SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/reisezeit",
+     5
+    ],
+    [
+     "/hotels/agypten",
+     2
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "рекомендовано"
+  },
+  "ägypten urlaub günstig all inclusive direktflug": {
+   "page": "/tour/agypten/all-inclusive",
+   "cand": "/tour/agypten/ratgeber",
+   "count": 0,
+   "family": "info",
+   "fam_count": 5,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/ratgeber",
+     5
+    ],
+    [
+     "/tour/agypten/all-inclusive",
+     3
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten/ratgeber",
+   "serp_status": "рекомендовано"
+  },
+  "ägypten pauschalreise all inclusive": {
+   "page": "/tour/agypten/pauschalreise",
+   "cand": "/tour/agypten/all-inclusive",
+   "count": 5,
+   "family": "allinclusive",
+   "fam_count": 5,
+   "status": "за бізнес-правилом",
+   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschal/Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/agypten/pauschalreise. У ТОП pauschal-сторінок 1/7; за ТОП було б: /tour/agypten/all-inclusive (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/agypten/all-inclusive",
+     4
+    ],
+    [
+     "/tour/agypten",
+     1
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten/all-inclusive",
+   "serp_status": "рекомендовано",
+   "business": "pauschalreise"
+  },
+  "pauschalreise ägypten 2026": {
+   "page": "/tour/agypten/pauschalreise",
+   "cand": "/tour/agypten",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "за бізнес-правилом",
+   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschal/Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/agypten/pauschalreise. У ТОП pauschal-сторінок 2/9; за ТОП було б: /tour/agypten (спірно (не перевірено)).",
+   "ranked": [
+    [
+     "/tour/agypten",
+     3
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     2
+    ],
+    [
+     "/hotels/agypten",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "спірно (не перевірено)",
+   "business": "pauschalreise"
+  },
+  "visum für ägypten urlaub": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 8,
+   "family": "info",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     8
+    ]
+   ]
+  },
+  "urlaub mit kindern ägypten": {
+   "page": "/tour/agypten_kinder",
+   "cand": "/tour/agypten",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "наявна посадкова (модифікатор)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/agypten (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/agypten",
+     5
+    ],
+    [
+     "/tour/agypten/ratgeber",
+     1
+    ],
+    [
+     "/tour/agypten/rundreisen",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "рекомендовано"
+  },
+  "pyramiden urlaub ägypten": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/kairo",
+     4
+    ],
+    [
+     "/tour/agypten/rundreisen",
+     3
+    ],
+    [
+     "/tour/agypten/ratgeber",
+     1
+    ]
+   ]
+  },
+  "ägypten urlaub im oktober": {
+   "page": "/tour/agypten/october",
+   "cand": "/tour/agypten",
+   "count": 7,
+   "family": "hub",
+   "fam_count": 7,
+   "status": "наявна посадкова (модифікатор)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/agypten (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/agypten",
+     7
+    ],
+    [
+     "/tour/agypten/reisezeit",
+     2
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "рекомендовано"
+  },
+  "urlaub last minute ägypten": {
+   "page": "/tour/agypten/last-minute",
+   "cand": "/tour/agypten/last-minute",
+   "count": 6,
+   "family": "lastminute",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/last-minute",
+     6
+    ],
+    [
+     "/tour/agypten",
+     3
+    ]
+   ]
+  },
+  "visa für ägypten urlaub": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 0,
+   "family": "info",
+   "fam_count": 5,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     5
+    ],
+    [
+     "/tour/agypten",
+     1
+    ],
+    [
+     "/tour/agypten/hurghada",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten/reisehinweise",
+   "serp_status": "рекомендовано"
+  },
+  "urlaub ägypten sicher": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 7,
+   "family": "info",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     7
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "urlaub ägypten 2026 all inclusive": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 4,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten",
+     4
+    ],
+    [
+     "/tour/agypten/all-inclusive",
+     2
+    ],
+    [
+     "/hotels/agypten",
+     1
+    ]
+   ]
+  },
+  "pyramide ägypten urlaub": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/hurghada",
+     2
+    ],
+    [
+     "/tour/agypten/ratgeber",
+     2
+    ],
+    [
+     "/tour/agypten/kairo",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "sicherheit reisen ägypten": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 8,
+   "family": "info",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     8
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "ägypten pauschalreise all inclusive direktflug": {
+   "page": "/tour/agypten/pauschalreise",
+   "cand": "/tour/agypten/all-inclusive",
+   "count": 4,
+   "family": "allinclusive",
+   "fam_count": 4,
+   "status": "за бізнес-правилом",
+   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschal/Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/agypten/pauschalreise. У ТОП pauschal-сторінок 1/7; за ТОП було б: /tour/agypten (спірно (не перевірено)).",
+   "ranked": [
+    [
+     "/tour/agypten/all-inclusive",
+     4
+    ],
+    [
+     "/tour/agypten",
+     2
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "спірно (не перевірено)",
+   "business": "pauschalreise"
+  },
+  "ägypten urlaub was beachten": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten/ratgeber",
+   "count": 0,
+   "family": "info",
+   "fam_count": 7,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/ratgeber",
+     7
+    ]
+   ],
+   "serp_page": "/tour/agypten/ratgeber",
+   "serp_status": "рекомендовано"
+  },
+  "ägypten urlaub: marsa alam": {
+   "page": "/tour/agypten/marsa-alam",
+   "cand": "/tour/agypten/marsa-alam",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/marsa-alam",
+     6
+    ],
+    [
+     "/tour/agypten/marsa-alam/pauschalreise",
+     2
+    ],
+    [
+     "/tour/agypten/marsa-alam/all-inclusive",
+     1
+    ]
+   ]
+  },
+  "urlaub ägypten hurghada all inclusive": {
+   "page": "/tour/agypten/hurghada",
+   "cand": "/tour/agypten/hurghada",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/hurghada",
+     3
+    ],
+    [
+     "/tour/agypten/ratgeber",
+     2
+    ],
+    [
+     "/tour/agypten/hurghada/all-inclusive",
+     2
+    ]
+   ]
+  },
+  "ägypten hurghada pauschalreise": {
+   "page": "/tour/agypten/hurghada",
+   "cand": "/tour/agypten/hurghada",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/hurghada",
+     5
+    ],
+    [
+     "/hotels/agypten",
+     1
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten/hurghada",
+   "serp_status": "рекомендовано"
+  },
+  "ägypten mit kindern": {
+   "page": "/tour/agypten_kinder",
+   "cand": "/tour/agypten",
+   "count": 2,
+   "family": "hub",
+   "fam_count": 2,
+   "status": "наявна посадкова (модифікатор)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/agypten (окрема сторінка не потрібна).",
+   "ranked": [
+    [
+     "/tour/agypten",
+     2
+    ],
+    [
+     "/tour/agypten/ratgeber",
+     2
+    ],
+    [
+     "/tour/agypten/rundreisen",
+     2
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "окрема сторінка не потрібна"
+  },
+  "ägypten buchen": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten",
+     2
+    ],
+    [
+     "/hotels/agypten",
+     2
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "ägypten urlaub el gouna": {
+   "page": "/tour/agypten/el-gouna",
+   "cand": "/tour/agypten/el-gouna",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 9,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/el-gouna",
+     9
+    ]
+   ],
+   "serp_page": "/tour/agypten/el-gouna",
+   "serp_status": "рекомендовано"
+  },
+  "ägypten reise buchen": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten/last-minute",
+   "count": 0,
+   "family": "lastminute",
+   "fam_count": 2,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/hotels/agypten",
+     2
+    ],
+    [
+     "/tour/agypten/safaga",
+     1
+    ],
+    [
+     "/tour/agypten/rundreisen",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "окрема сторінка не потрібна"
+  },
+  "reise ägypten auswärtiges amt": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 9,
+   "family": "info",
+   "fam_count": 9,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     9
+    ]
+   ]
+  },
+  "ägypten reise pyramiden": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/kairo",
+     4
+    ],
+    [
+     "/tour/agypten/ratgeber",
+     2
+    ],
+    [
+     "/tour/agypten/rundreisen",
+     2
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "reise nach ägypten gefährlich": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 8,
+   "family": "info",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     8
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "ist es sicher nach ägypten zu reisen": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 0,
+   "family": "info",
+   "fam_count": 5,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     5
+    ]
+   ],
+   "serp_page": "/tour/agypten/reisehinweise",
+   "serp_status": "рекомендовано"
+  },
+  "last minute pauschalreise ägypten": {
+   "page": "/tour/agypten/last-minute",
+   "cand": "/tour/agypten/last-minute",
+   "count": 6,
+   "family": "lastminute",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/last-minute",
+     6
+    ],
+    [
+     "/tour/agypten",
+     3
+    ]
+   ]
+  },
+  "pauschal ägypten": {
+   "page": "/tour/agypten/pauschalreise",
+   "cand": "/tour/agypten/pauschalreise",
+   "count": 8,
+   "family": "pauschal",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/pauschalreise",
+     8
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "ägypten reise 2026": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten",
+     5
+    ],
+    [
+     "/tour/agypten/last-minute",
+     3
+    ],
+    [
+     "/tour/agypten/rundreisen",
+     1
+    ]
+   ]
+  },
+  "pauschalreise ägypten günstig": {
+   "page": "/tour/agypten/pauschalreise",
+   "cand": "/tour/agypten",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschal/Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/agypten/pauschalreise. У ТОП pauschal-сторінок 1/9; за ТОП було б: /tour/agypten/pauschalreise (спірно (не перевірено)). SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/sharm-el-sheikh",
+     2
+    ],
+    [
+     "/tour/agypten/kairo",
+     1
+    ],
+    [
+     "/tour/agypten/hurghada",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten/pauschalreise",
+   "serp_status": "спірно (не перевірено)",
+   "business": "pauschalreise"
+  },
+  "ägypten urlaub pauschalreise": {
+   "page": "/tour/agypten/pauschalreise",
+   "cand": "/tour/agypten/pauschalreise",
+   "count": 7,
+   "family": "pauschal",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/pauschalreise",
+     7
+    ],
+    [
+     "/tour/agypten",
+     2
+    ]
+   ]
+  },
+  "günstig ägypten urlaub buchen": {
+   "page": "/tour/agypten_gunstig",
+   "cand": "/tour/agypten",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "наявна посадкова (модифікатор)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/agypten (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/agypten",
+     5
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     2
+    ],
+    [
+     "/tour/agypten/last-minute",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "рекомендовано"
+  },
+  "familienurlaub ägypten": {
+   "page": "/tour/agypten_kinder",
+   "cand": "/tour/agypten",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "наявна посадкова (модифікатор)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/agypten (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/agypten",
+     6
+    ],
+    [
+     "/tour/agypten/rundreisen",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "рекомендовано"
+  },
+  "ägypten kurzurlaub": {
+   "page": "/tour/agypten",
+   "cand": "/hotels/agypten",
+   "count": 0,
+   "family": "hotel",
+   "fam_count": 5,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/hotels/agypten",
+     5
+    ],
+    [
+     "/tour/agypten/el-quseir",
+     1
+    ]
+   ],
+   "serp_page": "/hotels/agypten",
+   "serp_status": "рекомендовано"
+  },
+  "reise nach ägypten sicher": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 7,
+   "family": "info",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     7
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "auswärtige amt reisen nach ägypten": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 9,
+   "family": "info",
+   "fam_count": 9,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     9
+    ]
+   ]
+  },
+  "ägypten ferien": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten",
+     5
+    ],
+    [
+     "/hotels/agypten",
+     1
+    ],
+    [
+     "/tour/agypten/ratgeber",
+     1
+    ]
+   ]
+  },
+  "ägypten urlaub mit flug": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten",
+     5
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     2
+    ],
+    [
+     "/tour/agypten/last-minute",
+     1
+    ]
+   ]
+  },
+  "reise ägypten tipps": {
+   "page": "/tour/agypten/ratgeber",
+   "cand": "/tour/agypten/ratgeber",
+   "count": 6,
+   "family": "info",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/ratgeber",
+     6
+    ],
+    [
+     "/tour/agypten",
+     2
+    ]
+   ]
+  },
+  "reise ägypten hurghada": {
+   "page": "/tour/agypten/hurghada",
+   "cand": "/tour/agypten/hurghada",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 4,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/hurghada",
+     4
+    ],
+    [
+     "/tour/agypten/ratgeber",
+     1
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten/hurghada",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "ägypten reise all inclusive": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten/all-inclusive",
+   "count": 4,
+   "family": "allinclusive",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/all-inclusive",
+     4
+    ],
+    [
+     "/tour/agypten",
+     2
+    ],
+    [
+     "/tour/agypten/ratgeber",
+     1
+    ]
+   ]
+  },
+  "pauschalreise ägypten marsa alam": {
+   "page": "/tour/agypten/marsa-alam",
+   "cand": "/tour/agypten/marsa-alam",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/marsa-alam",
+     3
+    ],
+    [
+     "/tour/agypten/marsa-alam/last-minute",
+     2
+    ],
+    [
+     "/tour/agypten/ratgeber",
+     1
+    ]
+   ]
+  },
+  "pauschalreise ägypten hurghada all inclusive": {
+   "page": "/tour/agypten/hurghada",
+   "cand": "/tour/agypten/hurghada/all-inclusive",
+   "count": 3,
+   "family": "allinclusive",
+   "fam_count": 4,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/hurghada/all-inclusive",
+     3
+    ],
+    [
+     "/tour/agypten/hurghada",
+     2
+    ],
+    [
+     "/tour/agypten/hurghada/pauschalreise",
+     2
+    ]
+   ]
+  },
+  "ägypten mit kleinkindern": {
+   "page": "/tour/agypten_kinder",
+   "cand": "/tour/agypten/ratgeber",
+   "count": 6,
+   "family": "info",
+   "fam_count": 6,
+   "status": "наявна посадкова (модифікатор)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/agypten/ratgeber (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/agypten/ratgeber",
+     6
+    ],
+    [
+     "/tour/agypten",
+     2
+    ]
+   ],
+   "serp_page": "/tour/agypten/ratgeber",
+   "serp_status": "рекомендовано"
+  },
+  "reise nach ägypten personalausweis": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 6,
+   "family": "info",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     6
+    ]
+   ]
+  },
+  "reise ägypten günstig": {
+   "page": "/tour/agypten_gunstig",
+   "cand": "/tour/agypten",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/agypten (спірно (не перевірено)). SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/safaga/last-minute",
+     2
+    ],
+    [
+     "/tour/agypten",
+     1
+    ],
+    [
+     "/hotels/agypten",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "reise ägypten impfung": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 0,
+   "family": "info",
+   "fam_count": 6,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     6
+    ]
+   ],
+   "serp_page": "/tour/agypten/reisehinweise",
+   "serp_status": "рекомендовано"
+  },
+  "impfungen reise ägypten": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "за бізнес-правилом",
+   "note": "Правило скіла: ключі про безпеку, в'їзд і візу належать до інформаційної сторінки Reisehinweise. У ТОП info-сторінок 3/9; за ТОП було б: /tour/agypten (спірно (не перевірено)).",
+   "ranked": [
+    [
+     "/tour/agypten",
+     3
+    ],
+    [
+     "/tour/agypten/reisehinweise",
+     3
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "спірно (не перевірено)",
+   "business": "reisehinweise"
+  },
+  "impfen für ägypten reise": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 0,
+   "family": "info",
+   "fam_count": 4,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "Правило скіла: ключі про безпеку, в'їзд і візу належать до інформаційної сторінки Reisehinweise. У ТОП info-сторінок 4/9; за ТОП було б: /tour/agypten/reisehinweise (спірно (не перевірено)). SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     4
+    ]
+   ],
+   "serp_page": "/tour/agypten/reisehinweise",
+   "serp_status": "спірно (не перевірено)",
+   "business": "reisehinweise"
+  },
+  "ägypten reise last minute": {
+   "page": "/tour/agypten/last-minute",
+   "cand": "/tour/agypten/last-minute",
+   "count": 6,
+   "family": "lastminute",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/last-minute",
+     6
+    ],
+    [
+     "/tour/agypten",
+     3
+    ]
+   ]
+  },
+  "reise nach ägypten was beachten": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten/ratgeber",
+   "count": 0,
+   "family": "info",
+   "fam_count": 6,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/ratgeber",
+     6
+    ]
+   ],
+   "serp_page": "/tour/agypten/ratgeber",
+   "serp_status": "рекомендовано"
+  },
+  "schwanger nach ägypten reisen": {
+   "page": "/tour/agypten/ratgeber",
+   "cand": "/tour/agypten/ratgeber",
+   "count": 6,
+   "family": "info",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/ratgeber",
+     6
+    ]
+   ]
+  },
+  "pauschalreise ägypten makadi bay": {
+   "page": "/tour/agypten/makadi-bay",
+   "cand": "/tour/agypten/makadi-bay",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/makadi-bay",
+     6
+    ],
+    [
+     "/tour/agypten/makadi-bay/pauschalreise",
+     3
+    ]
+   ]
+  },
+  "pauschalreise el gouna ägypten": {
+   "page": "/tour/agypten/el-gouna",
+   "cand": "/tour/agypten",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/pauschalreise",
+     3
+    ],
+    [
+     "/tour/agypten/el-gouna",
+     2
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "ägypten hurghada urlaub buchen": {
+   "page": "/tour/agypten/hurghada",
+   "cand": "/tour/agypten/hurghada",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/hurghada",
+     3
+    ],
+    [
+     "/tour/agypten/safaga",
+     2
+    ],
+    [
+     "/tour/agypten/hurghada/all-inclusive",
+     2
+    ]
+   ]
+  },
+  "ägypten urlaub buchen mit flug und hotel": {
+   "page": "/tour/agypten",
+   "cand": "/hotels/agypten",
+   "count": 0,
+   "family": "hotel",
+   "fam_count": 4,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/hotels/agypten",
+     4
+    ],
+    [
+     "/tour/agypten",
+     1
+    ],
+    [
+     "/tour/agypten/marsa-alam",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "urlaub buchen ägypten all inclusive": {
+   "page": "/tour/agypten/all-inclusive",
+   "cand": "/tour/agypten/all-inclusive",
+   "count": 5,
+   "family": "allinclusive",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/all-inclusive",
+     4
+    ],
+    [
+     "/tour/agypten",
+     2
+    ],
+    [
+     "/tour/agypten/last-minute",
+     1
+    ]
+   ]
+  },
+  "ferien ägypten 2026": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten",
+     2
+    ],
+    [
+     "/tour/agypten/ratgeber",
+     2
+    ],
+    [
+     "/tour/agypten/marsa-alam",
+     1
+    ]
+   ]
+  },
+  "ägypten neues museum reise": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 7,
+   "family": "hub",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/kairo",
+     7
+    ],
+    [
+     "/tour/agypten/ratgeber",
+     1
+    ],
+    [
+     "/tour/agypten/rundreisen",
+     1
+    ]
+   ]
+  },
+  "ägypten reise visum": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 7,
+   "family": "info",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     7
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "billig reisen nach ägypten": {
+   "page": "/tour/agypten_gunstig",
+   "cand": "/tour/agypten",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "наявна посадкова (модифікатор)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/agypten (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/agypten",
+     6
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     2
+    ],
+    [
+     "/tour/agypten/last-minute",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "рекомендовано"
+  },
+  "billiger reisen nach ägypten": {
+   "page": "/tour/agypten_gunstig",
+   "cand": "/tour/agypten",
+   "count": 6,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "наявна посадкова (модифікатор)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/agypten (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/agypten",
+     6
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     3
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "рекомендовано"
+  },
+  "billige reisen nach ägypten": {
+   "page": "/tour/agypten_gunstig",
+   "cand": "/tour/agypten",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 6,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/agypten (рекомендовано). SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/hurghada",
+     3
+    ],
+    [
+     "/tour/agypten",
+     1
+    ],
+    [
+     "/tour/agypten/luxor",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "рекомендовано"
+  },
+  "ist ägypten sicher zum reisen": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 6,
+   "family": "info",
+   "fam_count": 6,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     6
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "kann man als frau alleine nach ägypten reisen": {
+   "page": "/tour/agypten/ratgeber",
+   "cand": "/tour/agypten/ratgeber",
+   "count": 7,
+   "family": "info",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/ratgeber",
+     7
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "ägypten pauschalreise direktflug": {
+   "page": "/tour/agypten/pauschalreise",
+   "cand": "/tour/agypten",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "за бізнес-правилом",
+   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschal/Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/agypten/pauschalreise. У ТОП pauschal-сторінок 3/9; за ТОП було б: /tour/agypten (спірно (не перевірено)).",
+   "ranked": [
+    [
+     "/tour/agypten",
+     3
+    ],
+    [
+     "/tour/agypten/last-minute",
+     2
+    ],
+    [
+     "/tour/agypten/pauschalreise",
+     2
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "спірно (не перевірено)",
+   "business": "pauschalreise"
+  },
+  "was kostet eine reise nach ägypten": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten/ratgeber",
+   "count": 0,
+   "family": "info",
+   "fam_count": 5,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/ratgeber",
+     5
+    ],
+    [
+     "/tour/agypten",
+     1
+    ],
+    [
+     "/hotels/agypten",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten/ratgeber",
+   "serp_status": "рекомендовано"
+  },
+  "ägypten reise und sicherheitshinweise": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 8,
+   "family": "info",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     8
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "ägypten reise spezialist": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten/rundreisen",
+   "count": 3,
+   "family": "rundreise",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/rundreisen",
+     3
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "reise nach ägypten reisepass": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 7,
+   "family": "info",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     7
+    ],
+    [
+     "/tour/agypten",
+     1
+    ]
+   ]
+  },
+  "ägypten reise mit kindern": {
+   "page": "/tour/agypten_kinder",
+   "cand": "/tour/agypten/rundreisen",
+   "count": 4,
+   "family": "rundreise",
+   "fam_count": 4,
+   "status": "наявна посадкова (модифікатор)",
+   "note": "На сайті є посадкова під цей модифікатор. За ТОП було б: /tour/agypten (спірно (не перевірено)).",
+   "ranked": [
+    [
+     "/tour/agypten/rundreisen",
+     4
+    ],
+    [
+     "/tour/agypten",
+     2
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "спірно (не перевірено)"
+  },
+  "visum ägypten pauschalreise": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 0,
+   "family": "info",
+   "fam_count": 9,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "Правило скіла: ключі про безпеку, в'їзд і візу належать до інформаційної сторінки Reisehinweise. У ТОП info-сторінок 9/9; за ТОП було б: /tour/agypten/pauschalreise (за бізнес-правилом). Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschal/Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/agypten/pauschalreise. У ТОП pauschal-сторінок 0/9; за ТОП було б: /tour/agypten/reisehinweise (рекомендовано). SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     9
+    ]
+   ],
+   "serp_page": "/tour/agypten/pauschalreise",
+   "serp_status": "за бізнес-правилом",
+   "business": "reisehinweise"
+  },
+  "pauschalreise ägypten pyramiden": {
+   "page": "/tour/agypten/pauschalreise",
+   "cand": "/tour/agypten",
+   "count": 7,
+   "family": "hub",
+   "fam_count": 7,
+   "status": "за бізнес-правилом",
+   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschal/Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/agypten/pauschalreise. У ТОП pauschal-сторінок 1/9; за ТОП було б: /tour/agypten (рекомендовано).",
+   "ranked": [
+    [
+     "/tour/agypten/kairo",
+     5
+    ],
+    [
+     "/tour/agypten",
+     1
+    ],
+    [
+     "/tour/agypten/hurghada",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "рекомендовано",
+   "business": "pauschalreise"
+  },
+  "pauschalreise luxor ägypten": {
+   "page": "/tour/agypten/luxor",
+   "cand": "/tour/agypten/luxor",
+   "count": 5,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/luxor",
+     5
+    ],
+    [
+     "/tour/agypten/luxor/pauschalreise",
+     4
+    ]
+   ]
+  },
+  "pauschalreise ägypten sharm el sheikh": {
+   "page": "/tour/agypten/sharm-el-sheikh/pauschalreise",
+   "cand": "/tour/agypten/sharm-el-sheikh/pauschalreise",
+   "count": 7,
+   "family": "pauschal",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/sharm-el-sheikh/pauschalreise",
+     7
+    ],
+    [
+     "/tour/agypten/sharm-el-sheikh",
+     1
+    ],
+    [
+     "/tour/agypten/sharm-el-sheikh/all-inclusive",
+     1
+    ]
+   ]
+  },
+  "pauschalreise ägypten märz 2026": {
+   "page": "/tour/agypten/pauschalreise",
+   "cand": "/tour/agypten/pauschalreise",
+   "count": 3,
+   "family": "pauschal",
+   "fam_count": 3,
+   "status": "за бізнес-правилом",
+   "note": "Хаб не оптимізуємо під Pauschalreise: ключі з «Pauschal/Pauschalreise/Pauschalreisen» без регіону й без іншого головного типу туру ведуть на /tour/agypten/pauschalreise. У ТОП pauschal-сторінок 3/9; за ТОП було б: /tour/agypten (спірно (не перевірено)).",
+   "ranked": [
+    [
+     "/tour/agypten/pauschalreise",
+     3
+    ],
+    [
+     "/tour/agypten",
+     2
+    ],
+    [
+     "/hotels/agypten",
+     2
+    ]
+   ],
+   "serp_page": "/tour/agypten",
+   "serp_status": "спірно (не перевірено)",
+   "business": "pauschalreise"
+  },
+  "urlaub buchen ägypten hurghada all inclusive": {
+   "page": "/tour/agypten/hurghada",
+   "cand": "/tour/agypten/hurghada",
+   "count": 0,
+   "family": "hub",
+   "fam_count": 5,
+   "status": "спірно (SERP не підтверджено)",
+   "note": "SERP не підтверджено: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів.",
+   "ranked": [
+    [
+     "/tour/agypten/hurghada",
+     5
+    ],
+    [
+     "/hotels/agypten",
+     3
+    ],
+    [
+     "/tour/agypten/hurghada/all-inclusive",
+     1
+    ]
+   ],
+   "serp_page": "/tour/agypten/hurghada",
+   "serp_status": "рекомендовано"
+  },
+  "wann sind ferien in ägypten 2026": {
+   "page": "/tour/agypten",
+   "cand": "/tour/agypten",
+   "count": 3,
+   "family": "hub",
+   "fam_count": 3,
+   "status": "спірно (не перевірено)",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten",
+     3
+    ],
+    [
+     "/hotels/agypten",
+     1
+    ]
+   ]
+  },
+  "ägypten reise stornieren": {
+   "page": "/tour/agypten/ratgeber",
+   "cand": "/tour/agypten/ratgeber",
+   "count": 8,
+   "family": "info",
+   "fam_count": 8,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/ratgeber",
+     8
+    ]
+   ]
+  },
+  "wie sicher ist eine reise nach ägypten": {
+   "page": "/tour/agypten/reisehinweise",
+   "cand": "/tour/agypten/reisehinweise",
+   "count": 7,
+   "family": "info",
+   "fam_count": 7,
+   "status": "рекомендовано",
+   "note": "",
+   "ranked": [
+    [
+     "/tour/agypten/reisehinweise",
+     7
+    ]
+   ]
+  }
+ },
+ "types": {
+  "ägypten urlaub": {
+   "pauschalreise (країна)": 1,
+   "хаб країни": 7
+  },
+  "reise ägypten warnung": {
+   "інформаційна": 8,
+   "хаб країни": 1
+  },
+  "ägypten reisewarnung": {
+   "інформаційна": 7,
+   "хаб країни": 1
+  },
+  "visum ägypten": {
+   "інформаційна": 8,
+   "інше": 1
+  },
+  "pauschalreise ägypten": {
+   "хаб країни": 2,
+   "pauschalreise (країна)": 7
+  },
+  "urlaub in aegypten": {
+   "all inclusive (країна)": 2,
+   "last minute (країна)": 1,
+   "інформаційна": 1,
+   "pauschalreise (країна)": 1,
+   "хаб країни": 2,
+   "Frühbucher": 1
+  },
+  "ägypten urlaub reisewarnung": {
+   "інформаційна": 6,
+   "інше": 1,
+   "хаб країни": 1
+  },
+  "urlaub ägypten all inclusive": {
+   "all inclusive (країна)": 5,
+   "pauschalreise (країна)": 1,
+   "хаб країни": 1
+  },
+  "reise nach ägypten": {
+   "інформаційна": 5,
+   "rundreise": 1,
+   "інше": 1,
+   "хаб країни": 2
+  },
+  "ägypten urlaub 2026": {
+   "хаб країни": 5,
+   "Frühbucher": 3,
+   "pauschalreise (країна)": 1
+  },
+  "ägypten reisepass": {
+   "інформаційна": 7,
+   "хаб країни": 1,
+   "інше": 1
+  },
+  "urlaub hurghada ägypten": {
+   "хаб регіону": 5,
+   "rundreise": 1,
+   "готель (регіон)": 2,
+   "last minute (регіон)": 1
+  },
+  "urlaub ägypten buchen": {
+   "хаб країни": 2,
+   "all inclusive (країна)": 1,
+   "готель": 1,
+   "Frühbucher": 1,
+   "last minute (країна)": 1,
+   "інше": 1,
+   "pauschalreise (країна)": 2
+  },
+  "ägypten gefährlich urlaub": {
+   "інформаційна": 8,
+   "хаб країни": 1
+  },
+  "dezember ägypten urlaub": {
+   "інформаційна": 1,
+   "хаб країни": 5,
+   "інше": 2,
+   "rundreise": 1
+  },
+  "ägypten urlaub all inclusive mit flug und hotel": {
+   "pauschalreise (країна)": 2,
+   "all inclusive (регіон)": 3,
+   "хаб країни": 2
+  },
+  "günstiger urlaub ägypten": {
+   "готель (регіон)": 1,
+   "last minute (регіон)": 1,
+   "pauschalreise (країна)": 1,
+   "хаб країни": 2,
+   "інше": 2,
+   "інформаційна": 2
+  },
+  "ägypten urlaub 2026 all inclusive mit flug und hotel": {
+   "хаб країни": 4,
+   "Frühbucher": 1,
+   "last minute (країна)": 1,
+   "all inclusive (країна)": 1
+  },
+  "marsa alam ägypten urlaub": {
+   "хаб регіону": 6,
+   "готель (регіон)": 1,
+   "pauschalreise (регіон)": 1,
+   "last minute (регіон)": 1
+  },
+  "november urlaub ägypten": {
+   "інформаційна": 5,
+   "готель (регіон)": 1,
+   "інше": 1,
+   "готель": 1
+  },
+  "ägypten urlaub günstig all inclusive direktflug": {
+   "all inclusive (країна)": 3,
+   "інформаційна": 5,
+   "хаб країни": 1
+  },
+  "ägypten pauschalreise all inclusive": {
+   "хаб країни": 1,
+   "all inclusive (країна)": 4,
+   "pauschalreise (країна)": 1,
+   "all inclusive (регіон)": 1
+  },
+  "pauschalreise ägypten 2026": {
+   "хаб країни": 3,
+   "інформаційна": 1,
+   "готель": 1,
+   "pauschalreise (країна)": 2,
+   "last minute (країна)": 1,
+   "хаб регіону": 1
+  },
+  "visum für ägypten urlaub": {
+   "інформаційна": 8,
+   "інше": 1
+  },
+  "urlaub mit kindern ägypten": {
+   "інше": 3,
+   "хаб країни": 5,
+   "інформаційна": 1,
+   "rundreise": 1
+  },
+  "pyramiden urlaub ägypten": {
+   "інформаційна": 1,
+   "rundreise": 3,
+   "хаб регіону": 4,
+   "інше": 1
+  },
+  "ägypten urlaub im oktober": {
+   "хаб країни": 7,
+   "інформаційна": 2,
+   "інше": 1
+  },
+  "urlaub last minute ägypten": {
+   "хаб країни": 3,
+   "last minute (країна)": 6
+  },
+  "visa für ägypten urlaub": {
+   "інше": 2,
+   "хаб країни": 1,
+   "інформаційна": 5,
+   "хаб регіону": 1
+  },
+  "urlaub ägypten sicher": {
+   "інформаційна": 7,
+   "інше": 1,
+   "хаб країни": 1
+  },
+  "urlaub ägypten 2026 all inclusive": {
+   "хаб країни": 4,
+   "last minute (країна)": 1,
+   "all inclusive (країна)": 2,
+   "готель": 1,
+   "all inclusive (регіон)": 1
+  },
+  "pyramide ägypten urlaub": {
+   "rundreise": 1,
+   "хаб регіону": 3,
+   "інше": 1,
+   "інформаційна": 2,
+   "all inclusive (регіон)": 1
+  },
+  "sicherheit reisen ägypten": {
+   "інформаційна": 8,
+   "хаб країни": 1
+  },
+  "ägypten pauschalreise all inclusive direktflug": {
+   "all inclusive (країна)": 4,
+   "хаб країни": 2,
+   "pauschalreise (країна)": 1
+  },
+  "ägypten urlaub was beachten": {
+   "інформаційна": 7,
+   "інше": 2
+  },
+  "ägypten urlaub: marsa alam": {
+   "готель (регіон)": 1,
+   "pauschalreise (регіон)": 2,
+   "хаб регіону": 5,
+   "all inclusive (регіон)": 1
+  },
+  "urlaub ägypten hurghada all inclusive": {
+   "хаб країни": 1,
+   "готель (регіон)": 3,
+   "інформаційна": 2,
+   "хаб регіону": 1,
+   "all inclusive (регіон)": 2
+  },
+  "ägypten hurghada pauschalreise": {
+   "готель (регіон)": 5,
+   "pauschalreise (регіон)": 2,
+   "pauschalreise (країна)": 1,
+   "хаб регіону": 1
+  },
+  "ägypten mit kindern": {
+   "rundreise": 2,
+   "хаб країни": 2,
+   "інше": 3,
+   "інформаційна": 2
+  },
+  "ägypten buchen": {
+   "інше": 3,
+   "готель (регіон)": 1,
+   "готель": 1,
+   "хаб країни": 2,
+   "pauschalreise (країна)": 1,
+   "хаб регіону": 1
+  },
+  "ägypten urlaub el gouna": {
+   "готель (регіон)": 6,
+   "хаб регіону": 3
+  },
+  "ägypten reise buchen": {
+   "rundreise": 1,
+   "готель (регіон)": 1,
+   "last minute (регіон)": 1,
+   "pauschalreise (регіон)": 1,
+   "хаб регіону": 1,
+   "готель": 1,
+   "last minute (країна)": 1,
+   "інше": 2
+  },
+  "reise ägypten auswärtiges amt": {
+   "інформаційна": 9
+  },
+  "ägypten reise pyramiden": {
+   "хаб регіону": 4,
+   "інше": 1,
+   "rundreise": 2,
+   "інформаційна": 2
+  },
+  "reise nach ägypten gefährlich": {
+   "інформаційна": 8,
+   "хаб країни": 1
+  },
+  "ist es sicher nach ägypten zu reisen": {
+   "інформаційна": 5,
+   "інше": 3
+  },
+  "last minute pauschalreise ägypten": {
+   "хаб країни": 3,
+   "last minute (країна)": 6
+  },
+  "pauschal ägypten": {
+   "хаб країни": 1,
+   "pauschalreise (країна)": 8
+  },
+  "ägypten reise 2026": {
+   "хаб країни": 5,
+   "rundreise": 1,
+   "Frühbucher": 3
+  },
+  "pauschalreise ägypten günstig": {
+   "last minute (регіон)": 1,
+   "last minute (країна)": 1,
+   "інше": 2,
+   "хаб регіону": 4,
+   "pauschalreise (регіон)": 1
+  },
+  "ägypten urlaub pauschalreise": {
+   "хаб країни": 2,
+   "pauschalreise (країна)": 7
+  },
+  "günstig ägypten urlaub buchen": {
+   "хаб країни": 5,
+   "pauschalreise (країна)": 2,
+   "last minute (країна)": 1,
+   "all inclusive (країна)": 1
+  },
+  "familienurlaub ägypten": {
+   "хаб країни": 6,
+   "інше": 2,
+   "rundreise": 1
+  },
+  "ägypten kurzurlaub": {
+   "готель (регіон)": 4,
+   "готель": 1,
+   "інше": 3,
+   "хаб регіону": 1
+  },
+  "reise nach ägypten sicher": {
+   "інформаційна": 7,
+   "хаб країни": 1,
+   "інше": 1
+  },
+  "auswärtige amt reisen nach ägypten": {
+   "інформаційна": 9
+  },
+  "ägypten ferien": {
+   "pauschalreise (країна)": 1,
+   "хаб країни": 5,
+   "готель": 1,
+   "інше": 1,
+   "інформаційна": 1
+  },
+  "ägypten urlaub mit flug": {
+   "хаб країни": 5,
+   "all inclusive (країна)": 1,
+   "pauschalreise (країна)": 2,
+   "last minute (країна)": 1
+  },
+  "reise ägypten tipps": {
+   "хаб країни": 2,
+   "інформаційна": 6,
+   "інше": 1
+  },
+  "reise ägypten hurghada": {
+   "last minute (регіон)": 1,
+   "хаб регіону": 3,
+   "pauschalreise (країна)": 1,
+   "інше": 2,
+   "інформаційна": 1,
+   "готель (регіон)": 1
+  },
+  "ägypten reise all inclusive": {
+   "all inclusive (країна)": 4,
+   "хаб країни": 2,
+   "pauschalreise (країна)": 1,
+   "інформаційна": 1,
+   "last minute (країна)": 1
+  },
+  "pauschalreise ägypten marsa alam": {
+   "хаб регіону": 2,
+   "last minute (регіон)": 2,
+   "інформаційна": 1,
+   "pauschalreise (країна)": 1,
+   "last minute (країна)": 1,
+   "pauschalreise (регіон)": 1,
+   "готель (регіон)": 1
+  },
+  "pauschalreise ägypten hurghada all inclusive": {
+   "all inclusive (регіон)": 4,
+   "last minute (регіон)": 1,
+   "готель (регіон)": 1,
+   "pauschalreise (регіон)": 2,
+   "хаб регіону": 1
+  },
+  "ägypten mit kleinkindern": {
+   "хаб країни": 2,
+   "інформаційна": 6,
+   "інше": 1
+  },
+  "reise nach ägypten personalausweis": {
+   "інформаційна": 6,
+   "інше": 1
+  },
+  "reise ägypten günstig": {
+   "інше": 3,
+   "last minute (регіон)": 2,
+   "хаб регіону": 2,
+   "готель (регіон)": 1,
+   "хаб країни": 1
+  },
+  "reise ägypten impfung": {
+   "інше": 3,
+   "інформаційна": 6
+  },
+  "impfungen reise ägypten": {
+   "інше": 3,
+   "інформаційна": 3,
+   "хаб країни": 3
+  },
+  "impfen für ägypten reise": {
+   "інформаційна": 4,
+   "інше": 5
+  },
+  "ägypten reise last minute": {
+   "хаб країни": 3,
+   "last minute (країна)": 6
+  },
+  "reise nach ägypten was beachten": {
+   "інформаційна": 6,
+   "інше": 3
+  },
+  "schwanger nach ägypten reisen": {
+   "інформаційна": 6,
+   "інше": 3
+  },
+  "pauschalreise ägypten makadi bay": {
+   "хаб регіону": 6,
+   "pauschalreise (регіон)": 3
+  },
+  "pauschalreise el gouna ägypten": {
+   "інше": 3,
+   "готель (регіон)": 2,
+   "pauschalreise (країна)": 3,
+   "хаб країни": 1
+  },
+  "ägypten hurghada urlaub buchen": {
+   "all inclusive (регіон)": 3,
+   "хаб регіону": 4,
+   "pauschalreise (регіон)": 1,
+   "готель (регіон)": 1
+  },
+  "ägypten urlaub buchen mit flug und hotel": {
+   "хаб регіону": 1,
+   "готель (регіон)": 3,
+   "хаб країни": 1,
+   "готель": 1,
+   "інше": 2,
+   "pauschalreise (країна)": 1
+  },
+  "urlaub buchen ägypten all inclusive": {
+   "хаб країни": 2,
+   "all inclusive (країна)": 4,
+   "pauschalreise (країна)": 1,
+   "last minute (країна)": 1,
+   "all inclusive (регіон)": 1
+  },
+  "ferien ägypten 2026": {
+   "інше": 4,
+   "хаб країни": 2,
+   "інформаційна": 2,
+   "хаб регіону": 1
+  },
+  "ägypten neues museum reise": {
+   "хаб регіону": 7,
+   "інформаційна": 1,
+   "rundreise": 1
+  },
+  "ägypten reise visum": {
+   "інформаційна": 7,
+   "інше": 1,
+   "хаб країни": 1
+  },
+  "billig reisen nach ägypten": {
+   "хаб країни": 6,
+   "pauschalreise (країна)": 2,
+   "last minute (країна)": 1
+  },
+  "billiger reisen nach ägypten": {
+   "хаб країни": 6,
+   "pauschalreise (країна)": 3
+  },
+  "billige reisen nach ägypten": {
+   "хаб країни": 1,
+   "хаб регіону": 5,
+   "інше": 3
+  },
+  "ist ägypten sicher zum reisen": {
+   "інше": 1,
+   "інформаційна": 6,
+   "хаб країни": 1
+  },
+  "kann man als frau alleine nach ägypten reisen": {
+   "інформаційна": 7,
+   "хаб країни": 1,
+   "інше": 1
+  },
+  "ägypten pauschalreise direktflug": {
+   "last minute (країна)": 2,
+   "pauschalreise (країна)": 2,
+   "хаб країни": 3,
+   "pauschalreise (регіон)": 1,
+   "all inclusive (країна)": 1
+  },
+  "was kostet eine reise nach ägypten": {
+   "хаб країни": 1,
+   "хаб регіону": 1,
+   "інформаційна": 5,
+   "готель": 1,
+   "інше": 1
+  },
+  "ägypten reise und sicherheitshinweise": {
+   "інформаційна": 8,
+   "хаб країни": 1
+  },
+  "ägypten reise spezialist": {
+   "інше": 5,
+   "хаб країни": 1,
+   "rundreise": 3
+  },
+  "reise nach ägypten reisepass": {
+   "інформаційна": 7,
+   "інше": 1,
+   "хаб країни": 1
+  },
+  "ägypten reise mit kindern": {
+   "rundreise": 4,
+   "інше": 3,
+   "хаб країни": 2
+  },
+  "visum ägypten pauschalreise": {
+   "інформаційна": 9
+  },
+  "pauschalreise ägypten pyramiden": {
+   "хаб країни": 1,
+   "хаб регіону": 6,
+   "pauschalreise (країна)": 1,
+   "rundreise": 1
+  },
+  "pauschalreise luxor ägypten": {
+   "pauschalreise (регіон)": 4,
+   "хаб регіону": 5
+  },
+  "pauschalreise ägypten sharm el sheikh": {
+   "pauschalreise (регіон)": 7,
+   "хаб регіону": 1,
+   "all inclusive (регіон)": 1
+  },
+  "pauschalreise ägypten märz 2026": {
+   "pauschalreise (країна)": 3,
+   "rundreise": 2,
+   "готель": 2,
+   "хаб країни": 2
+  },
+  "urlaub buchen ägypten hurghada all inclusive": {
+   "готель (регіон)": 6,
+   "хаб регіону": 2,
+   "all inclusive (регіон)": 1
+  },
+  "wann sind ferien in ägypten 2026": {
+   "інше": 5,
+   "хаб країни": 3,
+   "готель": 1
+  },
+  "ägypten reise stornieren": {
+   "інформаційна": 8,
+   "інше": 1
+  },
+  "wie sicher ist eine reise nach ägypten": {
+   "інформаційна": 7,
+   "інше": 1
+  }
+ }
+}

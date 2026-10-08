@@ -1,0 +1,9 @@
+check_url головного ключа «ägypten urlaub»: https://www.google.de/search?q=%C3%A4gypten%20urlaub&hl=de&gl=DE&ie=UTF-8&uule=w+CAIQIFISCWu-scIecppHEVvlkY5rXeh1 (API datetime 2026-10-08 11:43:31 +00:00)
+1. www.sonnenklar.tv
+2. www.holidaycheck.de
+3. www.lidl-reisen.de
+4. www.schauinsland-reisen.de
+5. www.lmx.de
+6. www.ab-ins-blaue.de
+7. coraltravel.de
+8. www.loveholidays.com

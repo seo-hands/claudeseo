@@ -12,11 +12,13 @@ Three separate runs, each with its own confirmation (nothing is requested withou
 Steps of run 1 (known prices only): Labs ranked_keywords of the page; Labs keyword_suggestions + related_keywords per seed;
 SERP (live/regular) of the first seed -> competitor pages -> Labs ranked_keywords of N of them; Labs bulk_keyword_difficulty.
 
-Topic boundaries (scope.py + profile "scope"): every keyword is labelled
-  core (page topic + modifiers) -> clustered and distributed; limited to max_keywords (default 100) by volume;
+Collection boundary (scope.py; `scope_terms` of the direction's CLAUDE.md is mandatory): every keyword is labelled
+  core (contains a word of scope_terms: topic + modifiers, its regions and tour types) -> clustered and distributed; limited to max_keywords (default 100) by volume;
         core keywords of volume 10-50 that did not fit the limit -> keywords.json["longtail"] -> sheet «Довгий хвіст» (for the copywriter, no clustering)
-  adjacent (another region/district or another product: hot tours, hotels, flights, excursions...) -> keywords.json["adjacent"] -> sheet «Напрямки розширення»
-        (NOT discarded; the limit does not apply)
+  adjacent -> keywords.json["adjacent"] -> ONLY the sheet «Напрямки розширення» (NOT discarded; the limit does not apply):
+        «поза межами збору» = no word of scope_terms (a resort without the country, another country...);
+        «суміжне» = a word of scope_terms + a product the site does not sell (flights, cruises...)
+  Seeds must contain a word of scope_terms too: --propose-seeds offers only such seeds, --seeds without one stops the run.
   junk (weather, visa, news, maps, competitor brands, irrelevant, stale years, volume < 10, duplicates) -> keywords.json["filtered"] with the reason -> «Відфільтровані»
 Raw responses -> collect-raw/, the unfiltered candidate pool -> collect-pool.json (needed by --snowball and re-filtering).
 """
@@ -59,6 +61,8 @@ def propose_seeds(S, a):
     topics = dict(t.split("=", 1) for t in (a.topics or []))
     langs = [S.language] + [x for x in re.split(r"[|,; ]+", S.get("semantic_languages", "")) if x and x != S.language]
     out = {}
+    scope_rx = SC.scope_regex(S)
+    regions = list(C.load_rules(S, a.workdir)[0].REGIONS)
     print("ПРОПОЗИЦІЯ SEED (без запитів до API; відредагуйте й підтвердьте список):\n")
     for lang in langs:
         try:
@@ -71,14 +75,27 @@ def propose_seeds(S, a):
             print(f"[{lang}] вкажіть назву теми цією мовою: --topics {lang}=<назва>\n")
             continue
         tpl = P.get("seed_templates", {})
+        main_word = (tpl.get("main") or ["{t}"])[0].replace("{t}", "").strip()
         print(f"== мова {lang}, тема «{t}» ==")
         out[lang] = {}
-        for grp, title in (("main", "головний запит"), ("product_synonyms", "синоніми продукту"), ("word_order", "варіанти порядку слів"),
-                           ("adjacent_optional", "суміжне (необов'язково, лише якщо потрібна й ця семантика)")):
+        print(f"межа збору (scope_terms): {' | '.join(S.scope_terms)}")
+        dropped = []
+        for grp, title in (("main", "головний запит"), ("product_synonyms", "синоніми продукту"), ("word_order", "варіанти порядку слів")):
             lst = [x.replace("{t}", t.lower()) for x in tpl.get(grp, [])]
-            out[lang][grp] = lst
+            dropped += [x for x in lst if not scope_rx.search(x)]
+            out[lang][grp] = lst = [x for x in lst if scope_rx.search(x)]
             print(f"{title}:")
             for x in lst:
+                print(f"   - {x}    [слово теми: {scope_rx.search(x).group(0)}]")
+        if dropped:
+            print("відкинуто (немає слова зі scope_terms):", ", ".join(dropped))
+        # adjacent seeds (other products, resorts) are only listed: not collected, no cost estimate
+        adj = [x.replace("{t}", t.lower()) for x in tpl.get("adjacent_optional", [])]
+        adj += [f"{t.lower()} {main_word} {r.replace('-', ' ')}" for r in regions]
+        out[lang]["not_collected"] = adj
+        if adj:
+            print("НЕ ЗБИРАЄТЬСЯ, якщо не попросите (суміжне: інші продукти й курорти; в оцінку вартості не входить):")
+            for x in adj:
                 print("   -", x)
         print()
     json.dump(out, open(os.path.join(a.workdir, "seed-proposal.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
@@ -89,35 +106,36 @@ def propose_seeds(S, a):
 def process(cands, S, R, SCP, competitor_domains, seeds, max_keywords):
     year = datetime.date.today().year
     site_dom = C.reg_domain(re.sub(r"^https?://", "", S.site))
+    # brand tokens from the TOP domains; generic words of the topic are never brands ("urlaub-kassel.de" must not filter "ägypten urlaub")
+    generic = set(getattr(R, "GENERIC_TOKENS", ())) | {w for s in seeds for w in re.findall(r"\w{4,}", s.lower())}
+
+    def brandish(t):
+        return len(t) >= 4 and t not in generic and not SCP.in_scope(t) and not any(t.startswith(g) for g in generic if len(g) >= 5)
+
     brand_tokens = set()
     for d in competitor_domains + [site_dom]:
         label = d.split(".")[0]
-        if len(label) >= 4:
-            brand_tokens.add(label)
-            brand_tokens.update(x for x in label.split("-") if len(x) >= 4)
+        brand_tokens.update(x for x in [label] + label.split("-") if brandish(x))
     stop = [r"(?<!\w)(?:" + "|".join(getattr(R, "STOP_BRANDS", [])) + r")(?!\w)"] if getattr(R, "STOP_BRANDS", None) else []   # whole-word stop brands of the market profile
     all_brands = S.brands + stop
     brand_rx = re.compile("|".join(all_brands + [re.escape(t) for t in sorted(brand_tokens)]), re.I) if (all_brands or brand_tokens) else None
     prod_rx = re.compile("|".join(S.exclude_products), re.I) if S.exclude_products else None
-    topic = {S.country.lower()} | set(S.hub_slugs.split("|")) | set(S.regions) | {w for s in seeds for w in re.findall(r"\w{4,}", s.lower())}
     core, adjacent, filtered, seen = {}, {}, [], {}
     for c in sorted(cands, key=lambda x: -x["volume"]):
         k, kl = c["keyword"], c["keyword"].lower()
-        reason, lab, theme = None, SC.CORE, ""
+        reason, lab, theme, why = None, SC.CORE, "", ""
         if c["volume"] < 10:
             reason = "частотність < 10"
         elif brand_rx and brand_rx.search(kl):
             reason = "бренд конкурента / навігаційний"
         elif prod_rx and prod_rx.search(kl):
             reason = "запит про інший продукт, який сайт не продає"
-        elif not any(t in kl for t in topic):
-            reason = "нерелевантний (немає теми сторінки)"
         else:
             ys = [int(y) for y in re.findall(r"\b(20\d\d)\b", kl)]
             if ys and max(ys) < year:
                 reason = f"застарілий рік ({max(ys)})"
         if not reason:
-            lab, theme, why = SCP.label(k)
+            lab, theme, why = SCP.label(k)       # the collection boundary (scope_terms) is applied here
             if lab == SC.JUNK:
                 reason = why
         if not reason:
@@ -129,7 +147,7 @@ def process(cands, S, R, SCP, competitor_domains, seeds, max_keywords):
         if reason:
             filtered.append({"keyword": k, "volume": c["volume"], "reason": reason})
         elif lab == SC.ADJ:
-            adjacent[k] = dict(c, theme=theme, label="суміжне")
+            adjacent[k] = dict(c, theme=theme, label=SC.OUT_MARK if why == SC.OUT_REASON else SC.ADJ_MARK)
         else:
             core[k] = dict(c, label="ядро")
     ranked = sorted(core.values(), key=lambda x: -x["volume"])
@@ -184,6 +202,10 @@ def main():
         sys.exit("Немає підтвердженого списку seed. Спершу: collect.py --propose-seeds (без API), покажіть список користувачу, після підтвердження передайте --seeds.")
     R, _ = C.load_rules(S, a.workdir)
     SCP = SC.Scope(C.load_profile(S, a.workdir), R, S)
+    bad = [s for s in (a.seeds or []) if not SCP.in_scope(s)]
+    if bad:
+        sys.exit(f"Seed поза межами збору (немає слова зі scope_terms: {' | '.join(S.scope_terms)}): {', '.join(bad)}. "
+                 "Приберіть їх або зберіть цю тему окремо, у власній папці зі своїм scope_terms.")
     raw_dir = os.path.join(a.workdir, "collect-raw")
     pool_fn = os.path.join(a.workdir, "collect-pool.json")
     kw_fn = os.path.join(a.workdir, "keywords.json")
@@ -329,6 +351,8 @@ def main():
         out["keywords"] = keep + [k for k in ext if k["keyword"] not in {x["keyword"] for x in keep}]
         meta["cost_usd"] = round(old.get("meta", {}).get("cost_usd", 0) + guard.spent, 4)
     json.dump(out, open(kw_fn, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    n_out = [x for x in adjacent if x["label"] == SC.OUT_MARK]
+    print(f"межа збору (scope_terms: {' | '.join(S.scope_terms)}): поза межами {len(n_out)} ключів (обсяг {sum(x['volume'] for x in n_out)}) -> лише «Напрямки розширення»")
     print(f"ядро {len(keep)} (довгий хвіст {len(longtail)}), суміжне {len(adjacent)} (обсяг {sum(x['volume'] for x in adjacent)}), "
           f"відфільтровано {len(filtered)}; витрати {guard}")
     if not a.snowball:

@@ -1,0 +1,3561 @@
+{
+ "keywords": [
+  {
+   "keyword": "ägypten urlaub",
+   "volume": 60500,
+   "cpc": 1.2,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise ägypten warnung",
+   "volume": 40500,
+   "cpc": 2.35,
+   "intent": "informational",
+   "kd": 23,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "попередження щодо подорожей до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten reisewarnung",
+   "volume": 27100,
+   "cpc": 1.35,
+   "intent": "informational",
+   "kd": 21,
+   "source": "related:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "попередження щодо подорожей до Єгипту",
+   "translation_note_uk": "Reisewarnung — офіційне попередження МЗС Німеччини"
+  },
+  {
+   "keyword": "visum ägypten",
+   "volume": 18100,
+   "cpc": 1.9,
+   "intent": "informational",
+   "kd": 6,
+   "source": "related:ägypten reisen",
+   "label": "ядро",
+   "translation_uk": "віза до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise ägypten",
+   "volume": 5400,
+   "cpc": 1.81,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub in aegypten",
+   "volume": 4400,
+   "cpc": 1.1699999570846558,
+   "intent": "informational",
+   "kd": 0,
+   "own_position": 39,
+   "source": "ranked",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті",
+   "translation_note_uk": "написання без умлаута (ae замість ä)"
+  },
+  {
+   "keyword": "ägypten urlaub reisewarnung",
+   "volume": 4400,
+   "cpc": 1.07,
+   "intent": "informational",
+   "kd": 8,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті: попередження щодо подорожей",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub ägypten all inclusive",
+   "volume": 4400,
+   "cpc": 1.38,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise nach ägypten",
+   "volume": 3600,
+   "cpc": 1.42,
+   "intent": "informational",
+   "kd": 6,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten urlaub 2026",
+   "volume": 2400,
+   "cpc": 1.29,
+   "intent": "informational",
+   "kd": 1,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті 2026",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten reisepass",
+   "volume": 2400,
+   "cpc": 0.02,
+   "intent": "informational",
+   "kd": 10,
+   "source": "related:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "закордонний паспорт для Єгипту",
+   "translation_note_uk": "про документи для в'їзду"
+  },
+  {
+   "keyword": "urlaub hurghada ägypten",
+   "volume": 1900,
+   "cpc": 1.27,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Хургаді, Єгипет",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub ägypten buchen",
+   "volume": 1900,
+   "cpc": 1.65,
+   "intent": "transactional",
+   "kd": 5,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок в Єгипті",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten gefährlich urlaub",
+   "volume": 1600,
+   "cpc": 1.07,
+   "intent": "informational",
+   "kd": 7,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "чи небезпечно відпочивати в Єгипті",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "dezember ägypten urlaub",
+   "volume": 1000,
+   "cpc": 0.95,
+   "intent": "informational",
+   "kd": 8,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті у грудні",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten urlaub all inclusive mit flug und hotel",
+   "volume": 1000,
+   "cpc": 1.53,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті «все включено» з перельотом і готелем",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "günstiger urlaub ägypten",
+   "volume": 880,
+   "cpc": 1.66,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "недорогий відпочинок в Єгипті",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten urlaub 2026 all inclusive mit flug und hotel",
+   "volume": 880,
+   "cpc": 1.69,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті 2026 «все включено» з перельотом і готелем",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "marsa alam ägypten urlaub",
+   "volume": 720,
+   "cpc": 1.38,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Марса-Аламі, Єгипет",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "november urlaub ägypten",
+   "volume": 720,
+   "cpc": 1.08,
+   "intent": "informational",
+   "kd": 13,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті в листопаді",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten urlaub günstig all inclusive direktflug",
+   "volume": 720,
+   "cpc": 1.26,
+   "intent": "commercial",
+   "kd": 3,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "недорогий відпочинок в Єгипті «все включено» з прямим рейсом",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten pauschalreise all inclusive",
+   "volume": 720,
+   "cpc": 2.42,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise ägypten 2026",
+   "volume": 720,
+   "cpc": 1.8,
+   "intent": "informational",
+   "kd": 3,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту 2026",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "visum für ägypten urlaub",
+   "volume": 590,
+   "cpc": 2.09,
+   "intent": "informational",
+   "kd": 23,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "віза для відпочинку в Єгипті",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub mit kindern ägypten",
+   "volume": 590,
+   "cpc": 1.11,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок з дітьми в Єгипті",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pyramiden urlaub ägypten",
+   "volume": 590,
+   "cpc": 1.1,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті з пірамідами",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten urlaub im oktober",
+   "volume": 590,
+   "cpc": 1.13,
+   "intent": "commercial",
+   "kd": 4,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті в жовтні",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub last minute ägypten",
+   "volume": 590,
+   "cpc": 1.76,
+   "intent": "commercial",
+   "kd": 8,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "гарячі тури до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "visa für ägypten urlaub",
+   "volume": 590,
+   "cpc": 2.09,
+   "intent": "informational",
+   "kd": 21,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "віза для відпочинку в Єгипті",
+   "translation_note_uk": "Visa — розмовний варіант замість Visum"
+  },
+  {
+   "keyword": "urlaub ägypten sicher",
+   "volume": 590,
+   "cpc": 1.6,
+   "intent": "commercial",
+   "kd": 6,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "чи безпечний відпочинок в Єгипті",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub ägypten 2026 all inclusive",
+   "volume": 590,
+   "cpc": 1.31,
+   "intent": "commercial",
+   "kd": 10,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті 2026 «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pyramide ägypten urlaub",
+   "volume": 590,
+   "cpc": 1.1,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті з пірамідами",
+   "translation_note_uk": "однина «Pyramide»"
+  },
+  {
+   "keyword": "sicherheit reisen ägypten",
+   "volume": 590,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten reisen",
+   "label": "ядро",
+   "translation_uk": "безпека подорожей до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten pauschalreise all inclusive direktflug",
+   "volume": 590,
+   "cpc": 2,
+   "intent": "commercial",
+   "kd": 1,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту «все включено» з прямим рейсом",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten urlaub was beachten",
+   "volume": 480,
+   "cpc": 0.54,
+   "intent": "informational",
+   "kd": 4,
+   "source": "related:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті: що варто знати",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten urlaub: marsa alam",
+   "volume": 390,
+   "cpc": 1.09,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "related:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті: Марса-Алам",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub ägypten hurghada all inclusive",
+   "volume": 390,
+   "cpc": 1.46,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "related:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "відпочинок у Хургаді, Єгипет, «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten hurghada pauschalreise",
+   "volume": 320,
+   "cpc": 1.72,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Хургади, Єгипет",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten mit kindern",
+   "volume": 320,
+   "cpc": 1.3600000143051147,
+   "intent": "informational",
+   "kd": 0,
+   "own_position": 66,
+   "source": "competitor:expedia.de",
+   "label": "ядро",
+   "translation_uk": "Єгипет з дітьми",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten buchen",
+   "volume": 320,
+   "cpc": 1.7200000286102295,
+   "intent": "transactional",
+   "kd": 0,
+   "own_position": 18,
+   "source": "competitor:urlaub-kassel.de",
+   "label": "ядро",
+   "translation_uk": "забронювати тур до Єгипту",
+   "translation_note_uk": "продукт не названо; за змістом — бронювання поїздки"
+  },
+  {
+   "keyword": "ägypten urlaub el gouna",
+   "volume": 260,
+   "cpc": 1.17,
+   "intent": "informational",
+   "kd": 0,
+   "source": "related:ägypten urlaub",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Ель-Гуні, Єгипет",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten reise buchen",
+   "volume": 260,
+   "cpc": 2.5,
+   "intent": "transactional",
+   "kd": 3,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "забронювати подорож до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise ägypten auswärtiges amt",
+   "volume": 260,
+   "cpc": 0.43,
+   "intent": "informational",
+   "kd": 62,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Єгипту: рекомендації МЗС Німеччини",
+   "translation_note_uk": "Auswärtiges Amt — МЗС Німеччини"
+  },
+  {
+   "keyword": "ägypten reise pyramiden",
+   "volume": 210,
+   "cpc": 2.13,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Єгипту з пірамідами",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise nach ägypten gefährlich",
+   "volume": 210,
+   "cpc": 1.64,
+   "intent": "informational",
+   "kd": 12,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "чи небезпечна подорож до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ist es sicher nach ägypten zu reisen",
+   "volume": 210,
+   "cpc": 12.39,
+   "intent": "informational",
+   "kd": 9,
+   "source": "suggestions:ägypten reisen",
+   "label": "ядро",
+   "translation_uk": "чи безпечно їхати до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "last minute pauschalreise ägypten",
+   "volume": 210,
+   "cpc": 2.49,
+   "intent": "transactional",
+   "kd": 7,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "гарячі пакетні тури до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschal ägypten",
+   "volume": 170,
+   "cpc": 1.7200000286102295,
+   "intent": "informational",
+   "kd": 0,
+   "own_position": 97,
+   "source": "ranked",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту",
+   "translation_note_uk": "скорочення від Pauschalreise"
+  },
+  {
+   "keyword": "ägypten reise 2026",
+   "volume": 170,
+   "cpc": 2.67,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Єгипту 2026",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise ägypten günstig",
+   "volume": 170,
+   "cpc": 2.25,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "недорогий пакетний тур до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten urlaub pauschalreise",
+   "volume": 170,
+   "cpc": 1.73,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті: пакетний тур",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "günstig ägypten urlaub buchen",
+   "volume": 170,
+   "cpc": 2.37,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "недорого забронювати відпочинок в Єгипті",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "familienurlaub ägypten",
+   "volume": 170,
+   "cpc": 1.9800000190734863,
+   "intent": "commercial",
+   "kd": 0,
+   "own_position": 50,
+   "source": "competitor:expedia.de",
+   "label": "ядро",
+   "translation_uk": "сімейний відпочинок в Єгипті",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten kurzurlaub",
+   "volume": 140,
+   "cpc": 0.9300000071525574,
+   "intent": "commercial",
+   "kd": 13,
+   "own_position": 84,
+   "source": "ranked",
+   "label": "ядро",
+   "translation_uk": "короткий відпочинок в Єгипті",
+   "translation_note_uk": "Kurzurlaub — поїздка на кілька днів"
+  },
+  {
+   "keyword": "reise nach ägypten sicher",
+   "volume": 140,
+   "cpc": 2.38,
+   "intent": "commercial",
+   "kd": 9,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "чи безпечна подорож до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "auswärtige amt reisen nach ägypten",
+   "volume": 140,
+   "cpc": 2.37,
+   "intent": "transactional",
+   "kd": 62,
+   "source": "suggestions:ägypten reisen",
+   "label": "ядро",
+   "translation_uk": "МЗС Німеччини про подорожі до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten ferien",
+   "volume": 140,
+   "cpc": 1.12,
+   "intent": "informational",
+   "kd": 31,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті",
+   "translation_note_uk": "Ferien — переважно швейцарський/австрійський варіант «Urlaub»; також шкільні канікули"
+  },
+  {
+   "keyword": "ägypten urlaub mit flug",
+   "volume": 140,
+   "cpc": 1.190000057220459,
+   "intent": "commercial",
+   "kd": 12,
+   "own_position": 63,
+   "source": "competitor:urlaub-kassel.de",
+   "label": "ядро",
+   "translation_uk": "відпочинок в Єгипті з перельотом",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise ägypten tipps",
+   "volume": 110,
+   "cpc": 0.79,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "поради для подорожі до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise ägypten hurghada",
+   "volume": 110,
+   "cpc": 1.22,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Хургади, Єгипет",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten reise all inclusive",
+   "volume": 110,
+   "cpc": 1.55,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Єгипту «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise ägypten marsa alam",
+   "volume": 110,
+   "cpc": 1.67,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Марса-Алама, Єгипет",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise ägypten hurghada all inclusive",
+   "volume": 110,
+   "cpc": 1.96,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Хургади, Єгипет, «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten mit kleinkindern",
+   "volume": 110,
+   "cpc": 1.9900000095367432,
+   "intent": "informational",
+   "kd": 0,
+   "own_position": 44,
+   "source": "competitor:expedia.de",
+   "label": "ядро",
+   "translation_uk": "Єгипет з маленькими дітьми",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise nach ägypten personalausweis",
+   "volume": 90,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Єгипту за внутрішнім посвідченням особи",
+   "translation_note_uk": "Personalausweis — німецька ID-картка"
+  },
+  {
+   "keyword": "reise ägypten günstig",
+   "volume": 90,
+   "cpc": 1.71,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "недорога подорож до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise ägypten impfung",
+   "volume": 90,
+   "cpc": 0.04,
+   "intent": "informational",
+   "kd": 9,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "щеплення для подорожі до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "impfungen reise ägypten",
+   "volume": 90,
+   "cpc": 0.04,
+   "intent": "informational",
+   "kd": 3,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "щеплення для подорожі до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "impfen für ägypten reise",
+   "volume": 90,
+   "cpc": 0.04,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "які щеплення робити перед подорожжю до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten reise last minute",
+   "volume": 90,
+   "cpc": 2.15,
+   "intent": "commercial",
+   "kd": 8,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "гарячі тури до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise nach ägypten was beachten",
+   "volume": 90,
+   "cpc": 0.76,
+   "intent": "informational",
+   "kd": 16,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Єгипту: що варто знати",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "schwanger nach ägypten reisen",
+   "volume": 70,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten reisen",
+   "label": "ядро",
+   "translation_uk": "подорож до Єгипту під час вагітності",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise ägypten makadi bay",
+   "volume": 70,
+   "cpc": 2.02,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Макаді-Бей, Єгипет",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise el gouna ägypten",
+   "volume": 70,
+   "cpc": 1.84,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Ель-Гуни, Єгипет",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten hurghada urlaub buchen",
+   "volume": 70,
+   "cpc": 1.55,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок у Хургаді, Єгипет",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten urlaub buchen mit flug und hotel",
+   "volume": 70,
+   "cpc": 1.41,
+   "intent": "transactional",
+   "kd": 3,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок в Єгипті з перельотом і готелем",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub buchen ägypten all inclusive",
+   "volume": 70,
+   "cpc": 1.31,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок в Єгипті «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ferien ägypten 2026",
+   "volume": 70,
+   "cpc": 1.22,
+   "intent": "informational",
+   "kd": 30,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті 2026",
+   "translation_note_uk": "неоднозначно: відпочинок 2026 або дати єгипетських канікул"
+  },
+  {
+   "keyword": "ägypten neues museum reise",
+   "volume": 50,
+   "cpc": 1.13,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Єгипту: новий музей",
+   "translation_note_uk": "ідеться про Великий Єгипетський музей у Гізі"
+  },
+  {
+   "keyword": "ägypten reise visum",
+   "volume": 50,
+   "cpc": 1.52,
+   "intent": "informational",
+   "kd": 25,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "віза для подорожі до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "billig reisen nach ägypten",
+   "volume": 50,
+   "cpc": 2,
+   "intent": "commercial",
+   "kd": 5,
+   "source": "suggestions:ägypten reisen",
+   "label": "ядро",
+   "translation_uk": "дешеві тури до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "billiger reisen nach ägypten",
+   "volume": 50,
+   "cpc": 2,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten reisen",
+   "label": "ядро",
+   "translation_uk": "дешевші тури до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "billige reisen nach ägypten",
+   "volume": 50,
+   "cpc": 2,
+   "intent": "commercial",
+   "kd": 3,
+   "source": "suggestions:ägypten reisen",
+   "label": "ядро",
+   "translation_uk": "дешеві тури до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ist ägypten sicher zum reisen",
+   "volume": 50,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 9,
+   "source": "suggestions:ägypten reisen",
+   "label": "ядро",
+   "translation_uk": "чи безпечний Єгипет для подорожей",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "kann man als frau alleine nach ägypten reisen",
+   "volume": 50,
+   "cpc": 2.91,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten reisen",
+   "label": "ядро",
+   "translation_uk": "чи можна жінці самій їхати до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten pauschalreise direktflug",
+   "volume": 50,
+   "cpc": 2.49,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту з прямим рейсом",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "was kostet eine reise nach ägypten",
+   "volume": 40,
+   "cpc": 0.63,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "скільки коштує подорож до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten reise und sicherheitshinweise",
+   "volume": 40,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 33,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "Єгипет: рекомендації щодо подорожей і безпеки",
+   "translation_note_uk": "офіційна назва сторінки МЗС Німеччини"
+  },
+  {
+   "keyword": "ägypten reise spezialist",
+   "volume": 40,
+   "cpc": 3.97,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "туроператор-спеціаліст з Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "reise nach ägypten reisepass",
+   "volume": 40,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "закордонний паспорт для подорожі до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "ägypten reise mit kindern",
+   "volume": 40,
+   "cpc": 1.56,
+   "intent": "informational",
+   "kd": 0,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Єгипту з дітьми",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "visum ägypten pauschalreise",
+   "volume": 40,
+   "cpc": 0.02,
+   "intent": "informational",
+   "kd": 25,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "віза до Єгипту для пакетного туру",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise ägypten pyramiden",
+   "volume": 40,
+   "cpc": 0.99,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту з пірамідами",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise luxor ägypten",
+   "volume": 40,
+   "cpc": 1.09,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Луксора, Єгипет",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise ägypten sharm el sheikh",
+   "volume": 40,
+   "cpc": 1.55,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Шарм-ель-Шейха, Єгипет",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "pauschalreise ägypten märz 2026",
+   "volume": 40,
+   "cpc": 1.12,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту на березень 2026",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "urlaub buchen ägypten hurghada all inclusive",
+   "volume": 40,
+   "cpc": 1.68,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок у Хургаді, Єгипет, «все включено»",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "wann sind ferien in ägypten 2026",
+   "volume": 40,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "коли канікули в Єгипті у 2026 році",
+   "translation_note_uk": "про дати єгипетських шкільних канікул, не про туристичний продукт"
+  },
+  {
+   "keyword": "ägypten reise stornieren",
+   "volume": 30,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": 51,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "скасувати подорож до Єгипту",
+   "translation_note_uk": ""
+  },
+  {
+   "keyword": "wie sicher ist eine reise nach ägypten",
+   "volume": 30,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "наскільки безпечна подорож до Єгипту",
+   "translation_note_uk": ""
+  }
+ ],
+ "longtail": [
+  {
+   "keyword": "ägypten museum reise",
+   "volume": 30,
+   "cpc": 1.69,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Єгипту: музей"
+  },
+  {
+   "keyword": "reise esim ägypten",
+   "volume": 30,
+   "cpc": 3.15,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "eSIM для подорожі до Єгипту"
+  },
+  {
+   "keyword": "reise know-how ägypten",
+   "volume": 30,
+   "cpc": 0.2,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "путівник Reise Know-How по Єгипту",
+   "translation_note_uk": "Reise Know-How — видавництво путівників"
+  },
+  {
+   "keyword": "pauschalreise ägypten november",
+   "volume": 30,
+   "cpc": 1.17,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту в листопаді"
+  },
+  {
+   "keyword": "reise ägypten marsa alam",
+   "volume": 20,
+   "cpc": 1.69,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Марса-Алама, Єгипет"
+  },
+  {
+   "keyword": "ägypten reise info",
+   "volume": 20,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "інформація для подорожі до Єгипту"
+  },
+  {
+   "keyword": "ägypten reise kairo",
+   "volume": 20,
+   "cpc": 0.88,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Каїра, Єгипет"
+  },
+  {
+   "keyword": "ägypten reise november",
+   "volume": 20,
+   "cpc": 1.53,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Єгипту в листопаді"
+  },
+  {
+   "keyword": "weiße wüste ägypten reise",
+   "volume": 20,
+   "cpc": 0.98,
+   "intent": "informational",
+   "kd": 19,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Білої пустелі, Єгипет"
+  },
+  {
+   "keyword": "reise el gouna ägypten",
+   "volume": 20,
+   "cpc": 0.83,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Ель-Гуни, Єгипет"
+  },
+  {
+   "keyword": "ägypten reise kairo und marsa alam",
+   "volume": 20,
+   "cpc": 3.14,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "подорож до Єгипту: Каїр і Марса-Алам"
+  },
+  {
+   "keyword": "ägypten reise planen",
+   "volume": 20,
+   "cpc": 4.41,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten reise",
+   "label": "ядро",
+   "translation_uk": "спланувати подорож до Єгипту"
+  },
+  {
+   "keyword": "lastminute pauschalreise ägypten",
+   "volume": 20,
+   "cpc": 3.14,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "гарячі пакетні тури до Єгипту",
+   "translation_note_uk": "написання разом: lastminute"
+  },
+  {
+   "keyword": "pauschalreise ägypten swim-up-zimmer",
+   "volume": 20,
+   "cpc": 2.54,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту з номером swim-up",
+   "translation_note_uk": "номер з прямим виходом у басейн"
+  },
+  {
+   "keyword": "pauschalreise ägypten april 2026",
+   "volume": 20,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту на квітень 2026"
+  },
+  {
+   "keyword": "pauschalreise ägypten oktober 2026",
+   "volume": 20,
+   "cpc": 2.04,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту на жовтень 2026"
+  },
+  {
+   "keyword": "pauschalreise ägypten marsa alam direktflug",
+   "volume": 20,
+   "cpc": 3.09,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Марса-Алама, Єгипет, з прямим рейсом"
+  },
+  {
+   "keyword": "pauschalreise alexandria ägypten",
+   "volume": 20,
+   "cpc": 0.71,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Александрії, Єгипет"
+  },
+  {
+   "keyword": "pauschalreise ägypten hurghada direktflug",
+   "volume": 20,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Хургади, Єгипет, з прямим рейсом"
+  },
+  {
+   "keyword": "pauschalreise ägypten kairo",
+   "volume": 20,
+   "cpc": 1.14,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Каїра, Єгипет"
+  },
+  {
+   "keyword": "pauschalreise ägypten mit privatpool",
+   "volume": 20,
+   "cpc": 1.45,
+   "intent": "transactional",
+   "kd": 0,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту з приватним басейном"
+  },
+  {
+   "keyword": "pauschalreise ägypten soma bay",
+   "volume": 20,
+   "cpc": 1.35,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Сома-Бей, Єгипет"
+  },
+  {
+   "keyword": "pauschalreise ägypten februar 2026",
+   "volume": 20,
+   "cpc": 0.76,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту на лютий 2026"
+  },
+  {
+   "keyword": "pauschalreise ägypten buchen",
+   "volume": 20,
+   "cpc": 3.15,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "забронювати пакетний тур до Єгипту"
+  },
+  {
+   "keyword": "pauschalreise ägypten oktober",
+   "volume": 20,
+   "cpc": 1.65,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту в жовтні"
+  },
+  {
+   "keyword": "ägypten silvester pauschalreise",
+   "volume": 20,
+   "cpc": 1.83,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту на Новий рік",
+   "translation_note_uk": "Silvester — новорічна ніч"
+  },
+  {
+   "keyword": "tauchkurs ägypten pauschalreise",
+   "volume": 20,
+   "cpc": 1.27,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту з курсом дайвінгу"
+  },
+  {
+   "keyword": "ägypten urlaub billig buchen",
+   "volume": 20,
+   "cpc": 1.14,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "дешево забронювати відпочинок в Єгипті"
+  },
+  {
+   "keyword": "wann am besten ägypten urlaub buchen",
+   "volume": 20,
+   "cpc": 2.68,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "коли найкраще бронювати відпочинок в Єгипті"
+  },
+  {
+   "keyword": "wann sind in ägypten ferien",
+   "volume": 20,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "коли в Єгипті канікули",
+   "translation_note_uk": "про дати єгипетських шкільних канікул"
+  },
+  {
+   "keyword": "ägypten ferien buchen",
+   "volume": 20,
+   "cpc": 1.18,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "забронювати канікули в Єгипті"
+  },
+  {
+   "keyword": "wien ägypten pauschalreise",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту з Відня"
+  },
+  {
+   "keyword": "ägypten pauschalreise märz",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту в березні"
+  },
+  {
+   "keyword": "pauschalreise ägypten dezember",
+   "volume": 10,
+   "cpc": 1.63,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту в грудні"
+  },
+  {
+   "keyword": "billig pauschalreise ägypten",
+   "volume": 10,
+   "cpc": 3.09,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "дешевий пакетний тур до Єгипту"
+  },
+  {
+   "keyword": "tauchen ägypten pauschalreise",
+   "volume": 10,
+   "cpc": 4.32,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту з дайвінгом"
+  },
+  {
+   "keyword": "pauschalreise ägypten dana beach",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту: готель Dana Beach",
+   "translation_note_uk": "назва готелю в Хургаді"
+  },
+  {
+   "keyword": "pauschalreise ägypten rundreise",
+   "volume": 10,
+   "cpc": 1.63,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний екскурсійний тур Єгиптом"
+  },
+  {
+   "keyword": "pauschalreise ägypten 5 sterne",
+   "volume": 10,
+   "cpc": 1.22,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту, готель 5 зірок"
+  },
+  {
+   "keyword": "pauschalreise ägypten fort arabesque",
+   "volume": 10,
+   "cpc": 8.66,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту: готель Fort Arabesque",
+   "translation_note_uk": "назва готелю в Макаді-Бей"
+  },
+  {
+   "keyword": "pauschalreise ägypten erwachsenenhotel",
+   "volume": 10,
+   "cpc": 0.36,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту: готель лише для дорослих"
+  },
+  {
+   "keyword": "einreisebestimmungen ägypten pauschalreise",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "правила в'їзду до Єгипту для пакетного туру"
+  },
+  {
+   "keyword": "pauschalreise ägypten stornieren",
+   "volume": 10,
+   "cpc": 2.27,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "скасувати пакетний тур до Єгипту"
+  },
+  {
+   "keyword": "stuttgart ägypten pauschalreise",
+   "volume": 10,
+   "cpc": 0.3,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "label": "ядро",
+   "translation_uk": "пакетний тур до Єгипту зі Штутгарта"
+  },
+  {
+   "keyword": "wann ägypten urlaub buchen",
+   "volume": 10,
+   "cpc": 1.32,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "коли бронювати відпочинок в Єгипті"
+  },
+  {
+   "keyword": "ägypten urlaub buchen mit flug",
+   "volume": 10,
+   "cpc": 1.29,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок в Єгипті з перельотом"
+  },
+  {
+   "keyword": "ägypten makadi bay urlaub buchen",
+   "volume": 10,
+   "cpc": 1.84,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок у Макаді-Бей, Єгипет"
+  },
+  {
+   "keyword": "ägypten marsa alam urlaub buchen",
+   "volume": 10,
+   "cpc": 0.99,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок у Марса-Аламі, Єгипет"
+  },
+  {
+   "keyword": "ägypten urlaub buchen mit direktflug",
+   "volume": 10,
+   "cpc": null,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок в Єгипті з прямим рейсом"
+  },
+  {
+   "keyword": "urlaub buchen ägypten sharm el sheikh",
+   "volume": 10,
+   "cpc": 1.41,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок у Шарм-ель-Шейху, Єгипет"
+  },
+  {
+   "keyword": "urlaub buchen ägypten last minute",
+   "volume": 10,
+   "cpc": 2.66,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "забронювати гарячий тур до Єгипту"
+  },
+  {
+   "keyword": "urlaub ägypten buchen 2026",
+   "volume": 10,
+   "cpc": 1.92,
+   "intent": "transactional",
+   "kd": null,
+   "source": "suggestions:ägypten urlaub buchen",
+   "label": "ядро",
+   "translation_uk": "забронювати відпочинок в Єгипті на 2026 рік"
+  },
+  {
+   "keyword": "ferien el gouna ägypten",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Ель-Гуні, Єгипет"
+  },
+  {
+   "keyword": "ägypten ferien hurghada",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Хургаді, Єгипет"
+  },
+  {
+   "keyword": "ferien ägypten dezember",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті у грудні"
+  },
+  {
+   "keyword": "ferien ägypten empfehlung",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": 59,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті: рекомендації"
+  },
+  {
+   "keyword": "ferien ägypten all inclusive",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті «все включено»"
+  },
+  {
+   "keyword": "ägypten ferien november",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті в листопаді"
+  },
+  {
+   "keyword": "ägypten ferien schweiz",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті зі Швейцарії"
+  },
+  {
+   "keyword": "ägypten ferien sharm el sheikh",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Шарм-ель-Шейху, Єгипет"
+  },
+  {
+   "keyword": "günstig ferien buchen ägypten",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "недорого забронювати канікули в Єгипті"
+  },
+  {
+   "keyword": "ägypten ferien günstig",
+   "volume": 10,
+   "cpc": 0.54,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "недорогі канікули в Єгипті"
+  },
+  {
+   "keyword": "ägypten ferien reisewarnung",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті: попередження щодо подорожей"
+  },
+  {
+   "keyword": "ferien ägypten 2027",
+   "volume": 10,
+   "cpc": 0.63,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті 2027"
+  },
+  {
+   "keyword": "ägypten ferien gefährlich",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "чи небезпечні канікули в Єгипті"
+  },
+  {
+   "keyword": "ägypten ferien april",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті у квітні"
+  },
+  {
+   "keyword": "ägypten ferien sicher",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "чи безпечні канікули в Єгипті"
+  },
+  {
+   "keyword": "ägypten ferien februar",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті в лютому"
+  },
+  {
+   "keyword": "ägypten ferien mit kindern",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті з дітьми"
+  },
+  {
+   "keyword": "ägypten ferien oktober",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті в жовтні"
+  },
+  {
+   "keyword": "ägypten ferien eda",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті: рекомендації EDA",
+   "translation_note_uk": "EDA — МЗС Швейцарії"
+  },
+  {
+   "keyword": "ferien ägypten marsa alam",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Марса-Аламі, Єгипет"
+  },
+  {
+   "keyword": "ferien ägypten märz",
+   "volume": 10,
+   "cpc": null,
+   "intent": "informational",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "канікули в Єгипті в березні"
+  },
+  {
+   "keyword": "last minute ferien ägypten",
+   "volume": 10,
+   "cpc": null,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten ferien",
+   "label": "ядро",
+   "translation_uk": "гарячі тури до Єгипту на канікули"
+  }
+ ],
+ "adjacent": [
+  {
+   "keyword": "ägypten reise nilkreuzfahrt",
+   "volume": 90,
+   "cpc": 2.29,
+   "intent": "commercial",
+   "kd": 0,
+   "source": "suggestions:ägypten reise",
+   "theme": "круїзи",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "pauschalreise ägypten mit nilkreuzfahrt",
+   "volume": 40,
+   "cpc": 1.38,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "theme": "круїзи",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "pauschalreise ägypten nilkreuzfahrt und baden",
+   "volume": 30,
+   "cpc": 1.05,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten pauschalreise",
+   "theme": "круїзи",
+   "label": "суміжне"
+  },
+  {
+   "keyword": "ägypten reise pyramiden und nilkreuzfahrt",
+   "volume": 20,
+   "cpc": 4.28,
+   "intent": "commercial",
+   "kd": null,
+   "source": "suggestions:ägypten reise",
+   "theme": "круїзи",
+   "label": "суміжне"
+  }
+ ],
+ "filtered": [
+  {
+   "keyword": "reisen ägypten warnung",
+   "volume": 40500,
+   "reason": "дублікат (той самий запит: «reise ägypten warnung»)"
+  },
+  {
+   "keyword": "urlaub ägypten",
+   "volume": 14800,
+   "reason": "дублікат (той самий запит: «ägypten urlaub»)"
+  },
+  {
+   "keyword": "ägypten-urlaub reisewarnung",
+   "volume": 4400,
+   "reason": "дублікат (той самий запит: «ägypten urlaub reisewarnung»)"
+  },
+  {
+   "keyword": "urlaub ägypten reisewarnung",
+   "volume": 4400,
+   "reason": "дублікат (той самий запит: «ägypten urlaub reisewarnung»)"
+  },
+  {
+   "keyword": "all inclusive urlaub ägypten",
+   "volume": 4400,
+   "reason": "дублікат (той самий запит: «urlaub ägypten all inclusive»)"
+  },
+  {
+   "keyword": "urlaub in ägypten",
+   "volume": 4400,
+   "reason": "дублікат (той самий запит: «ägypten urlaub»)"
+  },
+  {
+   "keyword": "ägypten urlaub all inclusive",
+   "volume": 4400,
+   "reason": "дублікат (той самий запит: «urlaub ägypten all inclusive»)"
+  },
+  {
+   "keyword": "urlaub all inclusive ägypten",
+   "volume": 4400,
+   "reason": "дублікат (той самий запит: «urlaub ägypten all inclusive»)"
+  },
+  {
+   "keyword": "ägypten all-inclusive-urlaub",
+   "volume": 4400,
+   "reason": "дублікат (той самий запит: «urlaub ägypten all inclusive»)"
+  },
+  {
+   "keyword": "ägypten all inclusive urlaub",
+   "volume": 4400,
+   "reason": "дублікат (той самий запит: «urlaub ägypten all inclusive»)"
+  },
+  {
+   "keyword": "ägypten all inklusiv urlaub",
+   "volume": 4400,
+   "reason": "дублікат (той самий запит: «urlaub ägypten all inclusive»)"
+  },
+  {
+   "keyword": "reisen nach ägypten",
+   "volume": 3600,
+   "reason": "дублікат (той самий запит: «reise nach ägypten»)"
+  },
+  {
+   "keyword": "ägypten reise",
+   "volume": 2900,
+   "reason": "дублікат (той самий запит: «reise nach ägypten»)"
+  },
+  {
+   "keyword": "ägypten reisen",
+   "volume": 2900,
+   "reason": "дублікат (той самий запит: «reise nach ägypten»)"
+  },
+  {
+   "keyword": "urlaub ägypten 2026",
+   "volume": 2400,
+   "reason": "дублікат (той самий запит: «ägypten urlaub 2026»)"
+  },
+  {
+   "keyword": "ägypten pauschalreise",
+   "volume": 2400,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten»)"
+  },
+  {
+   "keyword": "urlaub buchen ägypten",
+   "volume": 1900,
+   "reason": "дублікат (той самий запит: «urlaub ägypten buchen»)"
+  },
+  {
+   "keyword": "ägypten urlaub buchen",
+   "volume": 1900,
+   "reason": "дублікат (той самий запит: «urlaub ägypten buchen»)"
+  },
+  {
+   "keyword": "urlaub ägypten hurghada",
+   "volume": 1900,
+   "reason": "дублікат (той самий запит: «urlaub hurghada ägypten»)"
+  },
+  {
+   "keyword": "hurghada ägypten urlaub",
+   "volume": 1900,
+   "reason": "дублікат (той самий запит: «urlaub hurghada ägypten»)"
+  },
+  {
+   "keyword": "ägypten hurghada urlaub",
+   "volume": 1900,
+   "reason": "дублікат (той самий запит: «urlaub hurghada ägypten»)"
+  },
+  {
+   "keyword": "ägypten urlaub gefährlich",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «ägypten gefährlich urlaub»)"
+  },
+  {
+   "keyword": "urlaub ägypten gefährlich",
+   "volume": 1600,
+   "reason": "дублікат (той самий запит: «ägypten gefährlich urlaub»)"
+  },
+  {
+   "keyword": "tui ägypten reisewarnung",
+   "volume": 1600,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reise ägypten",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «reise nach ägypten»)"
+  },
+  {
+   "keyword": "reisen ägypten",
+   "volume": 1300,
+   "reason": "дублікат (той самий запит: «reise nach ägypten»)"
+  },
+  {
+   "keyword": "urlaub ägypten aktuell",
+   "volume": 1000,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "ägypten dezember urlaub",
+   "volume": 1000,
+   "reason": "дублікат (той самий запит: «dezember ägypten urlaub»)"
+  },
+  {
+   "keyword": "ägypten urlaub aktuell",
+   "volume": 1000,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "ägypten urlaub hurghada",
+   "volume": 1000,
+   "reason": "дублікат (той самий запит: «urlaub hurghada ägypten»)"
+  },
+  {
+   "keyword": "urlaub ägypten dezember",
+   "volume": 1000,
+   "reason": "дублікат (той самий запит: «dezember ägypten urlaub»)"
+  },
+  {
+   "keyword": "dezember urlaub ägypten",
+   "volume": 1000,
+   "reason": "дублікат (той самий запит: «dezember ägypten urlaub»)"
+  },
+  {
+   "keyword": "urlaub ägypten im dezember",
+   "volume": 1000,
+   "reason": "дублікат (той самий запит: «dezember ägypten urlaub»)"
+  },
+  {
+   "keyword": "ägypten urlaub im dezember",
+   "volume": 1000,
+   "reason": "дублікат (той самий запит: «dezember ägypten urlaub»)"
+  },
+  {
+   "keyword": "urlaub dezember ägypten",
+   "volume": 1000,
+   "reason": "дублікат (той самий запит: «dezember ägypten urlaub»)"
+  },
+  {
+   "keyword": "ägypten urlaub dezember",
+   "volume": 1000,
+   "reason": "дублікат (той самий запит: «dezember ägypten urlaub»)"
+  },
+  {
+   "keyword": "ägypten reisewarnung karte",
+   "volume": 1000,
+   "reason": "сміття: карта/довідка"
+  },
+  {
+   "keyword": "check24 urlaub ägypten",
+   "volume": 880,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "günstige urlaub ägypten",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «günstiger urlaub ägypten»)"
+  },
+  {
+   "keyword": "ägypten günstiger urlaub",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «günstiger urlaub ägypten»)"
+  },
+  {
+   "keyword": "urlaub günstig ägypten",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «günstiger urlaub ägypten»)"
+  },
+  {
+   "keyword": "urlaub ägypten günstig",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «günstiger urlaub ägypten»)"
+  },
+  {
+   "keyword": "ägypten urlaub günstig",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «günstiger urlaub ägypten»)"
+  },
+  {
+   "keyword": "check24 ägypten urlaub",
+   "volume": 880,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten urlaub check24",
+   "volume": 880,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "günstig urlaub ägypten",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «günstiger urlaub ägypten»)"
+  },
+  {
+   "keyword": "ägypten günstig urlaub",
+   "volume": 880,
+   "reason": "дублікат (той самий запит: «günstiger urlaub ägypten»)"
+  },
+  {
+   "keyword": "ägypten urlaub november",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «november urlaub ägypten»)"
+  },
+  {
+   "keyword": "ab-in den urlaub ägypten",
+   "volume": 720,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "urlaub november ägypten",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «november urlaub ägypten»)"
+  },
+  {
+   "keyword": "ab in den urlaub ägypten",
+   "volume": 720,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "november ägypten urlaub",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «november urlaub ägypten»)"
+  },
+  {
+   "keyword": "ägypten marsa alam urlaub",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «marsa alam ägypten urlaub»)"
+  },
+  {
+   "keyword": "urlaub ägypten marsa alam",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «marsa alam ägypten urlaub»)"
+  },
+  {
+   "keyword": "urlaub ägypten november",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «november urlaub ägypten»)"
+  },
+  {
+   "keyword": "ägypten urlaub im november",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «november urlaub ägypten»)"
+  },
+  {
+   "keyword": "ägypten november urlaub",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «november urlaub ägypten»)"
+  },
+  {
+   "keyword": "urlaub ägypten im november",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «november urlaub ägypten»)"
+  },
+  {
+   "keyword": "lidl reise ägypten",
+   "volume": 720,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reise nach ägypten aktuell",
+   "volume": 720,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "lidl-reisen ägypten",
+   "volume": 720,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "lidl reisen ägypten",
+   "volume": 720,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reisen nach ägypten aktuell",
+   "volume": 720,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "pauschalreise ägypten all inclusive",
+   "volume": 720,
+   "reason": "дублікат (той самий запит: «ägypten pauschalreise all inclusive»)"
+  },
+  {
+   "keyword": "ägypten urlaub mit kindern",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «urlaub mit kindern ägypten»)"
+  },
+  {
+   "keyword": "urlaub ägypten tui",
+   "volume": 590,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "visum für ägypten-urlaub",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «visum für ägypten urlaub»)"
+  },
+  {
+   "keyword": "visum urlaub ägypten",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «visum für ägypten urlaub»)"
+  },
+  {
+   "keyword": "ägypten visum urlaub",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «visum für ägypten urlaub»)"
+  },
+  {
+   "keyword": "ägypten urlaub pyramiden",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «pyramiden urlaub ägypten»)"
+  },
+  {
+   "keyword": "urlaub ägypten visum",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «visum für ägypten urlaub»)"
+  },
+  {
+   "keyword": "tui ägypten urlaub",
+   "volume": 590,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten pyramiden urlaub",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «pyramiden urlaub ägypten»)"
+  },
+  {
+   "keyword": "last minute urlaub ägypten",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «urlaub last minute ägypten»)"
+  },
+  {
+   "keyword": "urlaub ägypten pyramiden",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «pyramiden urlaub ägypten»)"
+  },
+  {
+   "keyword": "tui urlaub ägypten",
+   "volume": 590,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "urlaub pyramiden ägypten",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «pyramiden urlaub ägypten»)"
+  },
+  {
+   "keyword": "ägypten oktober urlaub",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «ägypten urlaub im oktober»)"
+  },
+  {
+   "keyword": "visum ägypten-urlaub",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «visum für ägypten urlaub»)"
+  },
+  {
+   "keyword": "urlaub ägypten oktober",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «ägypten urlaub im oktober»)"
+  },
+  {
+   "keyword": "pyramiden ägypten urlaub",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «pyramiden urlaub ägypten»)"
+  },
+  {
+   "keyword": "ägypten urlaub visum",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «visum für ägypten urlaub»)"
+  },
+  {
+   "keyword": "ägypten urlaub oktober",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «ägypten urlaub im oktober»)"
+  },
+  {
+   "keyword": "urlaub oktober ägypten",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «ägypten urlaub im oktober»)"
+  },
+  {
+   "keyword": "ägypten urlaub visa",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «visa für ägypten urlaub»)"
+  },
+  {
+   "keyword": "oktober ägypten urlaub",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «ägypten urlaub im oktober»)"
+  },
+  {
+   "keyword": "ägypten last minute urlaub",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «urlaub last minute ägypten»)"
+  },
+  {
+   "keyword": "visum ägypten urlaub",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «visum für ägypten urlaub»)"
+  },
+  {
+   "keyword": "ägypten urlaub tui",
+   "volume": 590,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten urlaub sicher",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «urlaub ägypten sicher»)"
+  },
+  {
+   "keyword": "oktober urlaub ägypten",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «ägypten urlaub im oktober»)"
+  },
+  {
+   "keyword": "urlaub ägypten im oktober",
+   "volume": 590,
+   "reason": "дублікат (той самий запит: «ägypten urlaub im oktober»)"
+  },
+  {
+   "keyword": "ägypten phönix reisen",
+   "volume": 390,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "phoenix reisen ägypten",
+   "volume": 390,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten urlaub 2026 all inclusive",
+   "volume": 390,
+   "reason": "дублікат (той самий запит: «urlaub ägypten 2026 all inclusive»)"
+  },
+  {
+   "keyword": "rsd reisen ägypten",
+   "volume": 320,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "pauschalreise nach ägypten",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten»)"
+  },
+  {
+   "keyword": "pauschalreise ägypten hurghada",
+   "volume": 320,
+   "reason": "дублікат (той самий запит: «ägypten hurghada pauschalreise»)"
+  },
+  {
+   "keyword": "reise ägypten buchen",
+   "volume": 260,
+   "reason": "дублікат (той самий запит: «ägypten reise buchen»)"
+  },
+  {
+   "keyword": "reise buchen ägypten",
+   "volume": 260,
+   "reason": "дублікат (той самий запит: «ägypten reise buchen»)"
+  },
+  {
+   "keyword": "ägypten reise auswärtiges amt",
+   "volume": 260,
+   "reason": "дублікат (той самий запит: «reise ägypten auswärtiges amt»)"
+  },
+  {
+   "keyword": "eti reisen ägypten",
+   "volume": 260,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "aldi reisen ägypten nilkreuzfahrt und baden",
+   "volume": 260,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "auswärtiges amt ägypten reisen",
+   "volume": 260,
+   "reason": "дублікат (той самий запит: «reise ägypten auswärtiges amt»)"
+  },
+  {
+   "keyword": "ägypten reisen buchen",
+   "volume": 260,
+   "reason": "дублікат (той самий запит: «ägypten reise buchen»)"
+  },
+  {
+   "keyword": "aldi reisen ägypten",
+   "volume": 260,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten reisen auswärtiges amt",
+   "volume": 260,
+   "reason": "дублікат (той самий запит: «reise ägypten auswärtiges amt»)"
+  },
+  {
+   "keyword": "eti ägypten reisen",
+   "volume": 260,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten reise tui",
+   "volume": 210,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten pyramiden reise",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «ägypten reise pyramiden»)"
+  },
+  {
+   "keyword": "reise ägypten pyramiden",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «ägypten reise pyramiden»)"
+  },
+  {
+   "keyword": "pyramiden ägypten reise",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «ägypten reise pyramiden»)"
+  },
+  {
+   "keyword": "pyramiden reise ägypten",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «ägypten reise pyramiden»)"
+  },
+  {
+   "keyword": "ägypten reisen tui",
+   "volume": 210,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reisen ägypten pyramiden",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «ägypten reise pyramiden»)"
+  },
+  {
+   "keyword": "lidl-reisen ägypten nilkreuzfahrt und baden",
+   "volume": 210,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reisen nach ägypten gefährlich",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «reise nach ägypten gefährlich»)"
+  },
+  {
+   "keyword": "rsd reisen ägypten erfahrungen",
+   "volume": 210,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "tui reisen ägypten",
+   "volume": 210,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "lidl reisen ägypten nilkreuzfahrt und baden",
+   "volume": 210,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "rsd-reisen ägypten 249 euro",
+   "volume": 210,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "rsd reisen ägypten 249 euro",
+   "volume": 210,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten reisen pyramiden",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «ägypten reise pyramiden»)"
+  },
+  {
+   "keyword": "pauschalreise ägypten last minute",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «last minute pauschalreise ägypten»)"
+  },
+  {
+   "keyword": "ägypten pauschalreise last minute",
+   "volume": 210,
+   "reason": "дублікат (той самий запит: «last minute pauschalreise ägypten»)"
+  },
+  {
+   "keyword": "reise ägypten aktuell",
+   "volume": 170,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "schauinsland-reisen ägypten",
+   "volume": 170,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "eti reisen ägypten hurghada",
+   "volume": 170,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten schauinsland reisen",
+   "volume": 170,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "phoenix reisen ägypten reisewarnung",
+   "volume": 170,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "schauinsland reisen ägypten",
+   "volume": 170,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "urlaub ägypten pauschalreise",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «ägypten urlaub pauschalreise»)"
+  },
+  {
+   "keyword": "ägypten pauschalreise günstig",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten günstig»)"
+  },
+  {
+   "keyword": "urlaub ägypten günstig buchen",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «günstig ägypten urlaub buchen»)"
+  },
+  {
+   "keyword": "günstig urlaub buchen ägypten",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «günstig ägypten urlaub buchen»)"
+  },
+  {
+   "keyword": "ägypten urlaub günstig buchen",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «günstig ägypten urlaub buchen»)"
+  },
+  {
+   "keyword": "urlaub günstig buchen ägypten",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «günstig ägypten urlaub buchen»)"
+  },
+  {
+   "keyword": "ägypten urlaub buchen günstig",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «günstig ägypten urlaub buchen»)"
+  },
+  {
+   "keyword": "ägypten günstige pauschalreisen",
+   "volume": 170,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten günstig»)"
+  },
+  {
+   "keyword": "ägypten reise aktuell",
+   "volume": 140,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "reise in ägypten",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «reise nach ägypten»)"
+  },
+  {
+   "keyword": "ägypten reise sicher",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «reise nach ägypten sicher»)"
+  },
+  {
+   "keyword": "reise buchen nach ägypten",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «ägypten reise buchen»)"
+  },
+  {
+   "keyword": "reise nach ägypten buchen",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «ägypten reise buchen»)"
+  },
+  {
+   "keyword": "phoenix reisen ägypten nilkreuzfahrt",
+   "volume": 140,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "sicher reisen ägypten",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «reise nach ägypten sicher»)"
+  },
+  {
+   "keyword": "ägypten reisen sicher",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «reise nach ägypten sicher»)"
+  },
+  {
+   "keyword": "reisen in ägypten",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «reise nach ägypten»)"
+  },
+  {
+   "keyword": "reisen nach ägypten sicher",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «reise nach ägypten sicher»)"
+  },
+  {
+   "keyword": "ägypten reisen aktuell",
+   "volume": 140,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "check24 pauschalreise ägypten",
+   "volume": 140,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ferien ägypten",
+   "volume": 140,
+   "reason": "дублікат (той самий запит: «ägypten ferien»)"
+  },
+  {
+   "keyword": "reise nach ägypten warnung",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «reise ägypten warnung»)"
+  },
+  {
+   "keyword": "all inclusive reise ägypten",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «ägypten reise all inclusive»)"
+  },
+  {
+   "keyword": "ägypten hurghada reisen",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «reise ägypten hurghada»)"
+  },
+  {
+   "keyword": "reisen nach ägypten aktuelle lage",
+   "volume": 110,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "reisen nach ägypten warnung",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «reise ägypten warnung»)"
+  },
+  {
+   "keyword": "all inclusive reisen ägypten",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «ägypten reise all inclusive»)"
+  },
+  {
+   "keyword": "ägypten reisen all inclusive",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «ägypten reise all inclusive»)"
+  },
+  {
+   "keyword": "rsd reisen ägypten 2026",
+   "volume": 110,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "check24 reisen ägypten",
+   "volume": 110,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "günstige pauschalreise ägypten",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten günstig»)"
+  },
+  {
+   "keyword": "urlaub in ägypten mit kindern",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «urlaub mit kindern ägypten»)"
+  },
+  {
+   "keyword": "urlaub mit kindern in ägypten",
+   "volume": 110,
+   "reason": "дублікат (той самий запит: «urlaub mit kindern ägypten»)"
+  },
+  {
+   "keyword": "reise ägypten gefährlich",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «reise nach ägypten gefährlich»)"
+  },
+  {
+   "keyword": "impfungen ägypten reise",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «impfungen reise ägypten»)"
+  },
+  {
+   "keyword": "ägypten reise mit nilkreuzfahrt",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «ägypten reise nilkreuzfahrt»)"
+  },
+  {
+   "keyword": "ägypten reise günstig",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «reise ägypten günstig»)"
+  },
+  {
+   "keyword": "ägypten reise gefährlich",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «reise nach ägypten gefährlich»)"
+  },
+  {
+   "keyword": "ägypten reise impfungen",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «impfungen reise ägypten»)"
+  },
+  {
+   "keyword": "günstige reise nach ägypten",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «reise ägypten günstig»)"
+  },
+  {
+   "keyword": "reise nach ägypten mit personalausweis",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «reise nach ägypten personalausweis»)"
+  },
+  {
+   "keyword": "günstige reisen nach ägypten",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «reise ägypten günstig»)"
+  },
+  {
+   "keyword": "last minute reisen ägypten",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «ägypten reise last minute»)"
+  },
+  {
+   "keyword": "lidl-reisen ägypten nilkreuzfahrt",
+   "volume": 90,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "netto reisen ägypten",
+   "volume": 90,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "netto-reisen ägypten",
+   "volume": 90,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten reisen last minute",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «ägypten reise last minute»)"
+  },
+  {
+   "keyword": "ägypten reisen impfungen",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «impfungen reise ägypten»)"
+  },
+  {
+   "keyword": "skr reisen ägypten",
+   "volume": 90,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "günstig reisen nach ägypten",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «reise ägypten günstig»)"
+  },
+  {
+   "keyword": "ägypten reisen günstig",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «reise ägypten günstig»)"
+  },
+  {
+   "keyword": "reisen nach ägypten was beachten",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «reise nach ägypten was beachten»)"
+  },
+  {
+   "keyword": "nach ägypten reisen",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «reise nach ägypten»)"
+  },
+  {
+   "keyword": "ägypten last minute reisen",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «ägypten reise last minute»)"
+  },
+  {
+   "keyword": "ägypten günstig reisen",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «reise ägypten günstig»)"
+  },
+  {
+   "keyword": "ägypten reisen gefährlich",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «reise nach ägypten gefährlich»)"
+  },
+  {
+   "keyword": "ägypten reisen nilkreuzfahrt",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «ägypten reise nilkreuzfahrt»)"
+  },
+  {
+   "keyword": "lidl reisen ägypten nilkreuzfahrt",
+   "volume": 90,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "studiosus reisen ägypten",
+   "volume": 90,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reisen nach ägypten mit personalausweis",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «reise nach ägypten personalausweis»)"
+  },
+  {
+   "keyword": "kann man derzeit nach ägypten reisen",
+   "volume": 90,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "reisen nach ägypten personalausweis",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «reise nach ägypten personalausweis»)"
+  },
+  {
+   "keyword": "pauschalreise ägypten 2025",
+   "volume": 90,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "urlaub in ägypten buchen",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «urlaub ägypten buchen»)"
+  },
+  {
+   "keyword": "urlaub buchen in ägypten",
+   "volume": 90,
+   "reason": "дублікат (той самий запит: «urlaub ägypten buchen»)"
+  },
+  {
+   "keyword": "günstige ägypten reise",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise ägypten günstig»)"
+  },
+  {
+   "keyword": "reise nach ägypten auswärtiges amt",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise ägypten auswärtiges amt»)"
+  },
+  {
+   "keyword": "lidl-reisen ägypten hurghada",
+   "volume": 70,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "globalis reisen ägypten",
+   "volume": 70,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "chamäleon-reisen ägypten",
+   "volume": 70,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "günstige ägypten reisen",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise ägypten günstig»)"
+  },
+  {
+   "keyword": "reisen nach ägypten auswärtiges amt",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «reise ägypten auswärtiges amt»)"
+  },
+  {
+   "keyword": "neon reisen ägypten",
+   "volume": 70,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reisen ägypten 2026",
+   "volume": 70,
+   "reason": "дублікат (той самий запит: «ägypten reise 2026»)"
+  },
+  {
+   "keyword": "ecco reisen ägypten",
+   "volume": 70,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "lidl reisen ägypten hurghada",
+   "volume": 70,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "chamäleon reisen ägypten",
+   "volume": 70,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "tui pauschalreise ägypten",
+   "volume": 70,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten reise personalausweis",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «reise nach ägypten personalausweis»)"
+  },
+  {
+   "keyword": "ägypten reise mit pyramiden",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «ägypten reise pyramiden»)"
+  },
+  {
+   "keyword": "reise ägypten personalausweis",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «reise nach ägypten personalausweis»)"
+  },
+  {
+   "keyword": "günstige reise ägypten",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «reise ägypten günstig»)"
+  },
+  {
+   "keyword": "reise ägypten sicherheit",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «sicherheit reisen ägypten»)"
+  },
+  {
+   "keyword": "ägypten reisen visum",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «ägypten reise visum»)"
+  },
+  {
+   "keyword": "günstig reisen ägypten",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «reise ägypten günstig»)"
+  },
+  {
+   "keyword": "netto-reisen ägypten nilkreuzfahrt und baden",
+   "volume": 50,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "wikinger reisen ägypten",
+   "volume": 50,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten reisen personalausweis",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «reise nach ägypten personalausweis»)"
+  },
+  {
+   "keyword": "schauinsland reisen ägypten warnung",
+   "volume": 50,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "aktuelle reisen nach ägypten",
+   "volume": 50,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "phoenix reisen ägypten erfahrungen",
+   "volume": 50,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "jetzt nach ägypten reisen",
+   "volume": 50,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "sonnenklar reisen ägypten",
+   "volume": 50,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "rewe reisen ägypten",
+   "volume": 50,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "aktuell reisen nach ägypten",
+   "volume": 50,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "billig nach ägypten reisen",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «billig reisen nach ägypten»)"
+  },
+  {
+   "keyword": "netto reisen ägypten nilkreuzfahrt und baden",
+   "volume": 50,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "günstige reisen ägypten",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «reise ägypten günstig»)"
+  },
+  {
+   "keyword": "ägypten direktflug pauschalreise",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «ägypten pauschalreise direktflug»)"
+  },
+  {
+   "keyword": "pauschalreise ägypten mit direktflug",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «ägypten pauschalreise direktflug»)"
+  },
+  {
+   "keyword": "ägypten all inclusive pauschalreise",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «ägypten pauschalreise all inclusive»)"
+  },
+  {
+   "keyword": "pauschalreise ägypten direktflug",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «ägypten pauschalreise direktflug»)"
+  },
+  {
+   "keyword": "pauschalreisen ägypten direktflug",
+   "volume": 50,
+   "reason": "дублікат (той самий запит: «ägypten pauschalreise direktflug»)"
+  },
+  {
+   "keyword": "reise nach ägypten hurghada",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «reise ägypten hurghada»)"
+  },
+  {
+   "keyword": "tui reise nach ägypten",
+   "volume": 40,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reise ägypten sicher",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «reise nach ägypten sicher»)"
+  },
+  {
+   "keyword": "reise und sicherheitshinweise ägypten",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «ägypten reise und sicherheitshinweise»)"
+  },
+  {
+   "keyword": "pauschalreise ägypten el gouna",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «pauschalreise el gouna ägypten»)"
+  },
+  {
+   "keyword": "pauschalreise ägypten visum",
+   "volume": 40,
+   "reason": "дублікат (той самий запит: «visum ägypten pauschalreise»)"
+  },
+  {
+   "keyword": "holidaycheck pauschalreise ägypten",
+   "volume": 40,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reise nach ägypten visum",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «ägypten reise visum»)"
+  },
+  {
+   "keyword": "ägypten reise reisepass",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «reise nach ägypten reisepass»)"
+  },
+  {
+   "keyword": "last minute reise ägypten",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «ägypten reise last minute»)"
+  },
+  {
+   "keyword": "reise nach ägypten mit kindern",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «ägypten reise mit kindern»)"
+  },
+  {
+   "keyword": "reise ägypten reisepass",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «reise nach ägypten reisepass»)"
+  },
+  {
+   "keyword": "ägypten reise billig",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «billig reisen nach ägypten»)"
+  },
+  {
+   "keyword": "ägypten reise mit personalausweis",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «reise nach ägypten personalausweis»)"
+  },
+  {
+   "keyword": "reise ägypten nilkreuzfahrt",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «ägypten reise nilkreuzfahrt»)"
+  },
+  {
+   "keyword": "reise ägypten aktuelle lage",
+   "volume": 30,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "reise nach ägypten aktuell gefährlich",
+   "volume": 30,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "günstige pauschalreise nach ägypten",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten günstig»)"
+  },
+  {
+   "keyword": "tui ägypten pauschalreise",
+   "volume": 30,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten pauschalreise 2026",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten 2026»)"
+  },
+  {
+   "keyword": "pauschalreise ägypten dezember 2025",
+   "volume": 30,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "ferien in ägypten",
+   "volume": 30,
+   "reason": "дублікат (той самий запит: «ägypten ferien»)"
+  },
+  {
+   "keyword": "ägypten reise stornieren wegen krieg in israel",
+   "volume": 20,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "aida reise ägypten",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reise ägypten was beachten",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «reise nach ägypten was beachten»)"
+  },
+  {
+   "keyword": "lidl ägypten reise",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten reise was beachten",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «reise nach ägypten was beachten»)"
+  },
+  {
+   "keyword": "reise nach ägypten pyramiden",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «ägypten reise pyramiden»)"
+  },
+  {
+   "keyword": "ägypten reise hurghada",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «reise ägypten hurghada»)"
+  },
+  {
+   "keyword": "reise nach ägypten impfungen",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «impfungen reise ägypten»)"
+  },
+  {
+   "keyword": "impfungen für ägypten reise",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «impfungen reise ägypten»)"
+  },
+  {
+   "keyword": "rsd reise ägypten erfahrungen",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "reise nach ägypten gefährlich wegen israel",
+   "volume": 20,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "ägypten reise tipps",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «reise ägypten tipps»)"
+  },
+  {
+   "keyword": "pauschalreise last minute ägypten",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «last minute pauschalreise ägypten»)"
+  },
+  {
+   "keyword": "el gouna ägypten pauschalreise",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «pauschalreise el gouna ägypten»)"
+  },
+  {
+   "keyword": "pauschalreise ägypten check24",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten marsa alam pauschalreise",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten marsa alam»)"
+  },
+  {
+   "keyword": "pauschalreise nach ägypten günstig",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten günstig»)"
+  },
+  {
+   "keyword": "check24 ägypten pauschalreise",
+   "volume": 20,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "pauschalreise ägypten swim up zimmer",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten swim-up-zimmer»)"
+  },
+  {
+   "keyword": "pauschalreise ägypten swim-up zimmer",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten swim-up-zimmer»)"
+  },
+  {
+   "keyword": "urlaub nach ägypten buchen",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «urlaub ägypten buchen»)"
+  },
+  {
+   "keyword": "urlaub buchen nach ägypten",
+   "volume": 20,
+   "reason": "дублікат (той самий запит: «urlaub ägypten buchen»)"
+  },
+  {
+   "keyword": "pauschalreise ägypten april 2023",
+   "volume": 10,
+   "reason": "застарілий рік (2023)"
+  },
+  {
+   "keyword": "pauschalreise nach ägypten mit direktflug",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ägypten pauschalreise direktflug»)"
+  },
+  {
+   "keyword": "pauschalreise ägypten silvester",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ägypten silvester pauschalreise»)"
+  },
+  {
+   "keyword": "ägypten pauschalreise oktober",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten oktober»)"
+  },
+  {
+   "keyword": "ägypten pauschalreise dezember",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten dezember»)"
+  },
+  {
+   "keyword": "pauschalreise mit direktflug nach ägypten",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ägypten pauschalreise direktflug»)"
+  },
+  {
+   "keyword": "visum pauschalreise ägypten",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «visum ägypten pauschalreise»)"
+  },
+  {
+   "keyword": "pauschalreise ägypten april 2025",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "pauschalreise ägypten oktober 2022",
+   "volume": 10,
+   "reason": "застарілий рік (2022)"
+  },
+  {
+   "keyword": "ägypten pauschalreise 2025",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "ägypten pauschalreise november",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten november»)"
+  },
+  {
+   "keyword": "steigenberger ägypten pauschalreise",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "direktflug ägypten pauschalreise",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ägypten pauschalreise direktflug»)"
+  },
+  {
+   "keyword": "ägypten pauschalreise 2022",
+   "volume": 10,
+   "reason": "застарілий рік (2022)"
+  },
+  {
+   "keyword": "ägypten pyramiden pauschalreise",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten pyramiden»)"
+  },
+  {
+   "keyword": "kempinski ägypten pauschalreise",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "pauschalreise tauchen ägypten",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «tauchen ägypten pauschalreise»)"
+  },
+  {
+   "keyword": "ägypten pauschalreise hurghada",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ägypten hurghada pauschalreise»)"
+  },
+  {
+   "keyword": "pauschalreise ägypten 2023",
+   "volume": 10,
+   "reason": "застарілий рік (2023)"
+  },
+  {
+   "keyword": "kempinski hotel ägypten pauschalreise",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten pauschalreise pyramiden",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «pauschalreise ägypten pyramiden»)"
+  },
+  {
+   "keyword": "ägypten pauschalreise check24",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten pauschalreise visum",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «visum ägypten pauschalreise»)"
+  },
+  {
+   "keyword": "günstig urlaub buchen nach ägypten",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «günstig ägypten urlaub buchen»)"
+  },
+  {
+   "keyword": "ägypten urlaub buchen holidaycheck",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ägypten günstig urlaub buchen",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «günstig ägypten urlaub buchen»)"
+  },
+  {
+   "keyword": "urlaub ägypten buchen check24",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "urlaub buchen ägypten marsa alam",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ägypten marsa alam urlaub buchen»)"
+  },
+  {
+   "keyword": "ferien touristik ägypten",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ferien in ägypten 2023",
+   "volume": 10,
+   "reason": "застарілий рік (2023)"
+  },
+  {
+   "keyword": "ferien ägypten aktuelle lage",
+   "volume": 10,
+   "reason": "сміття: новини з датою/подією"
+  },
+  {
+   "keyword": "ägypten ferien 2026",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien ägypten 2026»)"
+  },
+  {
+   "keyword": "ferien touristik erfahrungen ägypten",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ferien in ägypten 2022",
+   "volume": 10,
+   "reason": "застарілий рік (2022)"
+  },
+  {
+   "keyword": "wann sind ferien in ägypten 2024",
+   "volume": 10,
+   "reason": "застарілий рік (2024)"
+  },
+  {
+   "keyword": "ferien ägypten hurghada",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ägypten ferien hurghada»)"
+  },
+  {
+   "keyword": "all inclusive ferien ägypten",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien ägypten all inclusive»)"
+  },
+  {
+   "keyword": "ferien in ägypten gefährlich",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ägypten ferien gefährlich»)"
+  },
+  {
+   "keyword": "ägypten hurghada ferien",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ägypten ferien hurghada»)"
+  },
+  {
+   "keyword": "migros ferien ägypten",
+   "volume": 10,
+   "reason": "бренд конкурента / навігаційний"
+  },
+  {
+   "keyword": "ferien nach ägypten",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ägypten ferien»)"
+  },
+  {
+   "keyword": "ägypten ferien all inclusive",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien ägypten all inclusive»)"
+  },
+  {
+   "keyword": "ägypten ferien 2025",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "ferien ägypten el gouna",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien el gouna ägypten»)"
+  },
+  {
+   "keyword": "ägypten ferien dezember",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien ägypten dezember»)"
+  },
+  {
+   "keyword": "ferien ägypten 2025",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "ägypten ferien marsa alam",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «ferien ägypten marsa alam»)"
+  },
+  {
+   "keyword": "wann sind ferien in ägypten",
+   "volume": 10,
+   "reason": "дублікат (той самий запит: «wann sind in ägypten ferien»)"
+  },
+  {
+   "keyword": "wann sind ferien in ägypten 2025",
+   "volume": 10,
+   "reason": "застарілий рік (2025)"
+  },
+  {
+   "keyword": "ägypten ferien wetter",
+   "volume": 10,
+   "reason": "сміття: погода"
+  }
+ ],
+ "meta": {
+  "url": "https://reisemu.de/tour/agypten",
+  "seeds": [
+   "ägypten urlaub",
+   "ägypten reise",
+   "ägypten reisen",
+   "ägypten pauschalreise",
+   "ägypten urlaub buchen",
+   "ägypten ferien"
+  ],
+  "snowball_seeds": [],
+  "collected": "2026-10-08",
+  "cost_usd": 0.2764,
+  "max_keywords": 100
+ }
+}

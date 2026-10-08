@@ -50,7 +50,9 @@ def load_data(workdir, serp_dir):
         res = d["response"]["tasks"][0]["result"][0]
         rows = [{"position": it["rank_group"], "url": it["url"], "domain": it["domain"], "title": it.get("title") or "", "snippet": it.get("description") or ""}
                 for it in res["items"] if it["type"] == "organic"]
-        serp[d["keyword"]] = {"results": rows, "request": d["request"], "fetched_at": d["fetched_at"], "api_datetime": res.get("datetime"), "check_url": res.get("check_url")}
+        q = d.get("quality") or {}
+        serp[d["keyword"]] = {"results": rows, "request": d["request"], "fetched_at": d["fetched_at"], "api_datetime": res.get("datetime"), "check_url": res.get("check_url"),
+                              "unconfirmed": q.get("confirmed") is False, "quality_note": q.get("note", "")}
     missing = [k for k in K if k not in serp]
     if missing:
         sys.exit(f"Немає сирого SERP для {len(missing)} ключів (запустіть fetch_serp.py): {missing[:5]}")
@@ -80,6 +82,15 @@ def serp_cluster(order, S, hard=None, soft=None):
 def run(workdir, S, args):
     R, rules_path = C.load_rules(S, workdir)
     kwj, DEC, K, serp = load_data(workdir, args.serp_dir)
+    # collection boundary: a keyword without a word of scope_terms is never clustered or distributed
+    # (keywords added on purpose by add_region.py, source "region:...", are not touched)
+    import scope as SC
+    scope_rx = SC.scope_regex(S)
+    outside = [k for k in K if not scope_rx.search(k.lower())]
+    for k in outside:
+        kwj.setdefault("adjacent", []).append({"keyword": k, "volume": K.pop(k)["volume"], "theme": "", "label": SC.OUT_MARK})
+    if outside:
+        print(f"поза межами збору (немає слова зі scope_terms): {len(outside)} ключів прибрано з кластерів і розподілу -> «Напрямки розширення»: {outside[:8]}")
     out = args.out_dir or workdir
     os.makedirs(out, exist_ok=True)
     BASE, PB = S.site, S.page_base.rstrip("/")
@@ -94,6 +105,15 @@ def run(workdir, S, args):
     NOTES = dict(R.GENERIC_NOTES)
     NOTES.update(DEC["page_notes"])
     RULES = list(S.business_rules) + [r for r in DEC["business_rules"]]
+    PROF = C.load_profile(S, workdir)
+    for r in PROF.get("skill_rules", []):      # permanent rules of the skill (safety / entry / visa -> Reisehinweise); applied last, so they win
+        pg = r["page"].replace("{page_base}", PB)
+        for a, b in R.SLUG.items():
+            pg = pg.replace("{" + a + "}", b)
+        RULES.append(dict(r, page=pg, exclude_patterns=[], exceptions=[]))
+    MOD_PAGES = [(re.compile(rx, re.I), pg) for rx, pg in S.modifier_pages]
+    for _, pg in MOD_PAGES:
+        NOTES.setdefault(pg, "Наявна посадкова сайту під модифікатор ключа (місяць, ціна, місто вильоту).")
     LABS_POS = DEC["known_positions"]
 
     order = sorted(K, key=lambda k: -K[k]["volume"])
@@ -170,6 +190,29 @@ def run(workdir, S, args):
         return dict(page=page, cand=cand, count=count, family=f, fam_count=c, status=status, note=note, ranked=ranked)
 
     dec = {k: decide(kw_pages[k], R.detect_region(k.lower()), R.topic_for(k), R.keyword_family(k)) for k in order}
+
+    # «SERP не підтверджено»: no answer of the API passed the quality check (fetch_serp.py), so the TOP of the keyword is not evidence.
+    # The page is chosen by the type of the keyword itself (tour type / region / information), the status is always «спірно».
+    UNCONF = [k for k in order if serp[k].get("unconfirmed")]
+
+    def page_by_keyword_type(k):
+        kl, fam, lk = k.lower(), R.keyword_family(k), R.lemma_key(k)
+        reg = R.detect_region(kl)
+        if lk.startswith(PROF["topic"]["info_prefix"]):
+            return f"{PB}/{R.SLUG['info_hinweise']}"
+        if reg:
+            return f"{PB}/{reg}"            # a matrix page region x tour type needs a confirmed TOP
+        if fam in R.FAM_COUNTRY_PAGE:
+            return R.FAM_COUNTRY_PAGE[fam]
+        if fam == "hotel":
+            return R.hotels_page
+        return R.ROOT_PAGE_FOR.get(fam, PB)
+
+    for k in UNCONF:
+        d = dec[k]
+        d["serp_page"], d["serp_status"] = d["page"], d["status"]
+        d["page"], d["count"] = page_by_keyword_type(k), 0
+        d["note"] = f"{C.SERP_UNCONFIRMED}: сторінку визначено за типом ключа, а не за ТОП; повторити SERP через 7–10 днів."
     for k, why in MANUAL.items():
         if k in dec:
             dec[k]["status"], dec[k]["note"] = "перевірити вручну", why
@@ -191,6 +234,26 @@ def run(workdir, S, args):
                     d["note"] = (f"{rule.get('note', '')} У ТОП {rule['family']}-сторінок {pc}/{kw_n[k]}; за ТОП було б: {d['page']} ({d['status']})."
                                  + (f" {d['note']}" if d.get("note") else ""))
                     d["page"], d["status"], d["business"] = rule["page"], "за бізнес-правилом", rule.get("name", "")
+
+    # existing landing pages of the site for a modifier (month, price, departure city): a keyword that would go to the hub
+    # (or to the season / advice guide) and names the modifier goes to that page; regions, tour types and owner decisions are not touched
+    mod_from = {PB, f"{PB}/{R.SLUG['info_zeit']}", f"{PB}/{R.SLUG['info_ratgeber']}"}
+    for k in order:
+        d = dec[k]
+        if d["page"] not in mod_from or k in KEYWORD_OVERRIDES or d.get("business") or R.detect_region(k.lower()):
+            continue
+        for rx, pg in MOD_PAGES:
+            if rx.search(k.lower()):
+                d["serp_page"], d["serp_status"] = d["page"], d["status"]
+                d["note"] = f"На сайті є посадкова під цей модифікатор. За ТОП було б: {d['page']} ({d['status']})." + (f" {d['note']}" if d.get("note") else "")
+                d["page"], d["status"] = pg, "наявна посадкова (модифікатор)"
+                break
+
+    for k in UNCONF:
+        if k not in KEYWORD_OVERRIDES:
+            dec[k]["status"] = f"спірно ({C.SERP_UNCONFIRMED})"
+    if UNCONF:
+        print(f"{C.SERP_UNCONFIRMED}: {len(UNCONF)} ключів, обсяг {sum(K[k]['volume'] for k in UNCONF)} -> розподілено за типом ключа, статус «спірно»")
 
     groups = collections.OrderedDict()
     for k in order:
@@ -381,7 +444,6 @@ def run(workdir, S, args):
         rowsh.append(["РАЗОМ", sum(K[k]["volume"] for k in hn), "", "", "", ""])
         sheet(wsh, ["ключ", "обсяг", "переклад (укр.)", "тип ТОП", "рекомендація", "примітка"], rowsh, [48, 10, 56, 44, 52, 40])
     # ---- topic boundaries: adjacent directions + long tail (scope.py, profile "scope") ----
-    import scope as SC
     SCP = SC.Scope(C.load_profile(S, workdir), R, S)
     SCP.districts = list(DEC["region_pages"])      # districts with own page (e.g. Lara) are separate directions from their parent region
     adj_items = []
@@ -390,20 +452,22 @@ def run(workdir, S, args):
         if k in seen_adj or ext_group(x) == "hotel_name":      # ext keywords are also in K; hotel names have their own sheet
             continue
         seen_adj.add(k)
-        lab, theme, _ = SCP.label(k)
-        if lab == SC.ADJ:
-            adj_items.append({"keyword": k, "volume": x["volume"], "_theme": theme, "_now": dec[k]["page"] if k in dec else (x.get("page_override") or DEC["region_pages"].get(ext_region(x)) or f"{PB}/{ext_region(x)}")})
+        theme = SCP.theme_of(k.lower())      # keywords in work that name a region / another product: where they are now
+        if theme:
+            adj_items.append({"keyword": k, "volume": x["volume"], "_theme": theme, "_mark": "у зборі", "_now": dec[k]["page"] if k in dec else (x.get("page_override") or DEC["region_pages"].get(ext_region(x)) or f"{PB}/{ext_region(x)}")})
     for x in kwj.get("adjacent", []):
-        adj_items.append({"keyword": x["keyword"], "volume": x["volume"], "_theme": x["theme"], "_now": "— (не в списку сторінки)"})
+        out_of_scope = not scope_rx.search(x["keyword"].lower())
+        adj_items.append({"keyword": x["keyword"], "volume": x["volume"], "_theme": (SCP.theme_of(x["keyword"].lower()) or "інше (без слова теми)") if out_of_scope else x["theme"],
+                          "_mark": SC.OUT_MARK if out_of_scope else SC.ADJ_MARK, "_now": "— (не в кластерах і не в розподілі)"})
     ws_adj = wb.create_sheet("Напрямки розширення")
     adj_rows = []
     for r in SCP.themes(adj_items):
         nows = collections.Counter(i["_now"] for i in r["items"])
-        adj_rows.append([r["theme"], r["n"], r["volume"], r["examples"], SC.recommend(r, SCP.products, EXISTING, set(DEC["region_pages"]), PB),
+        adj_rows.append([r["theme"], r["mark"], r["n"], r["volume"], r["examples"], SC.recommend(r, SCP.products, EXISTING, set(DEC["region_pages"]), PB),
                          "; ".join(f"{pg} ({n})" for pg, n in nows.most_common(3))])
-    adj_rows.append(["РАЗОМ", sum(r[1] for r in adj_rows), sum(r[2] for r in adj_rows), "", "", ""])
-    sheet(ws_adj, ["тема (напрямок)", "к-ть ключів", "сумарний обсяг", "приклади ключів (обсяг)", "рекомендація", "де ключі зараз"], adj_rows, [34, 12, 15, 90, 60, 50])
-    print(f"Напрямки розширення: {len(adj_rows) - 1} тем, {adj_rows[-1][1]} ключів, обсяг {adj_rows[-1][2]}")
+    adj_rows.append(["РАЗОМ", "", sum(r[2] for r in adj_rows), sum(r[3] for r in adj_rows), "", "", ""])
+    sheet(ws_adj, ["тема (напрямок)", "позначка", "к-ть ключів", "сумарний обсяг (частотність)", "приклади ключів (обсяг)", "рекомендація", "де ключі зараз"], adj_rows, [34, 20, 12, 15, 90, 60, 50])
+    print(f"Напрямки розширення: {len(adj_rows) - 1} тем, {adj_rows[-1][2]} ключів, обсяг {adj_rows[-1][3]}")
     if kwj.get("longtail"):
         ws_lt = wb.create_sheet("Довгий хвіст")
         sheet(ws_lt, ["ключ", "обсяг", "переклад (укр.)", "інтент", "примітка"],
@@ -461,11 +525,12 @@ def run(workdir, S, args):
         print("УВАГА: xlsx відкритий в Excel, збережено як", target, "— закрийте Excel і запустіть ще раз.")
 
     # ---- cluster-map.html ----
-    COL = ["#4E79A7", "#F28E2B", "#E15759", "#76B7B2", "#59A14F", "#EDC948", "#B07AA1", "#FF9DA7"]
+    COL = ["#4E79A7", "#F28E2B", "#E15759", "#76B7B2", "#59A14F", "#EDC948", "#9C755F", "#B07AA1", "#FF9DA7", "#BAB0AC"]
     SL = R.SLUG
     fam = [("Ця сторінка: " + PB, lambda p: p == PB), ("Pauschalreise", lambda p: p.endswith("/" + SL["pauschal"])), ("Last minute", lambda p: p.endswith("/" + SL["lastminute"])),
            ("Rundreisen", lambda p: p.endswith("/" + SL["rundreise"])), ("Інформаційні", lambda p: p.rsplit("/", 1)[-1] in R.INFO_SLUGS),
-           ("All inclusive", lambda p: p.endswith("/" + SL["allinclusive"])), ("Регіони й матриці", lambda p: p.startswith(PB + "/")), ("Готелі", lambda p: p == R.hotels_page)]
+           ("All inclusive", lambda p: p.endswith("/" + SL["allinclusive"])), ("Посадкові під модифікатори", lambda p: p in {pg for _, pg in MOD_PAGES}),
+           ("Регіони й матриці", lambda p: p.startswith(PB + "/")), ("Готелі", lambda p: p == R.hotels_page), ("Інші сторінки", lambda p: True)]
     cl = [{"name": n, "color": COL[i], "posts": []} for i, (n, _) in enumerate(fam)]
     for c in H:
         g = next(i for i, (_, f) in enumerate(fam) if f(c["page"]))

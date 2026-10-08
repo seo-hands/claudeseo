@@ -44,12 +44,14 @@ CONFIG_TEMPLATE = """# CLAUDE.md папки САЙТУ (напр. E:\\Work\\clau
 - country: Spanien                          # країна/тема мовою сайту
 - slug: spanien                             # для імен файлів: semantics-<slug>.xlsx
 - page_base: /reisen/spanien                # цільовий хаб напрямку на сайті
+- scope_terms: spanien|spain|espana         # ОБОВ'ЯЗКОВО: межа збору - слова теми з варіантами написання; ключ без жодного з них у збір не йде
 - hotels_page: /hotels/spanien              # (необов'язково) хаб готелів
 - main_keyword: spanien urlaub              # (необов'язково) головний ключ для звірки видачі
 - hub_slugs: spanien|espana                 # як країна пишеться в URL конкурентів
 - region: mallorca = (?<![a-z])(mallorca|palma)(?![a-z])    # регіони: назва = regex по URL (можна кілька рядків)
 - lemma_regions: mallorca|teneriffa         # (необов'язково) регіони, що утворюють власні лемні кластери
 - existing_page: /reisen/spanien            # сторінки, що вже існують на сайті (кілька рядків)
+- modifier_page: november = /reisen/spanien/november    # (необов'язково) наявна посадкова сайту під модифікатор ключа (місяць, ціна, місто вильоту): regex по ключу = сторінка
 - exclude_product: flug|flüge               # (необов'язково) запити про інший продукт, який сайт не продає
 - business_rule: name=pauschalreise; match=pauschalreisen?; family=pauschal; page={page_base}/pauschalreise; exclude_region=yes; exclude_patterns=last ?minute||all[ -]?inclusive.*pauschal; note=Хаб не оптимізуємо під Pauschalreise
 
@@ -77,7 +79,7 @@ PROJECTS_ROOT = os.environ.get("CLAUDE_SEO_PROJECTS_ROOT", "E:/Work/claudeseo") 
 SITE_HEADING = r"(?:дані сайту|site data|site)\s*$"
 DIRECTION_HEADING = r"semantics-(?:travel|pages)\b"
 JOURNAL_HEADING = "Журнал"
-LIST_KEYS = ("existing_pages", "brands", "exclude_products", "business_rules")
+LIST_KEYS = ("existing_pages", "brands", "exclude_products", "business_rules", "modifier_pages")
 
 
 def _section(lines, heading_rx):
@@ -100,7 +102,7 @@ def _section(lines, heading_rx):
 
 
 def _parse_body(body):
-    d = {"regions": collections.OrderedDict(), "existing_pages": [], "brands": [], "exclude_products": [], "business_rules": []}
+    d = {"regions": collections.OrderedDict(), "existing_pages": [], "brands": [], "exclude_products": [], "business_rules": [], "modifier_pages": []}
     for l in body:
         if re.match(r"^#{1,6}\s*" + JOURNAL_HEADING, l.strip(), re.I):
             break                      # the journal of the section is not settings
@@ -114,6 +116,9 @@ def _parse_body(body):
             d["regions"][name.strip()] = rx.strip()
         elif k == "existing_page":
             d["existing_pages"].append(v)
+        elif k == "modifier_page":      # existing landing page of the site for a keyword modifier: <regex over the keyword> = <page>
+            rx, page = v.rsplit("=", 1)
+            d["modifier_pages"].append([rx.strip(), page.strip()])
         elif k == "brand":
             d["brands"].append(v)
         elif k == "exclude_product":
@@ -174,7 +179,7 @@ def load_settings(workdir=".", claude_md=None):
     if direction is None and not sites:
         raise ConfigMissing(f"у {path} немає секції «## semantics-travel», а в цій папці та батьківських (до {PROJECTS_ROOT}) немає секції «## Дані сайту»")
     notes = []
-    d = {"regions": collections.OrderedDict(), "existing_pages": [], "brands": [], "exclude_products": [], "business_rules": []}
+    d = {"regions": collections.OrderedDict(), "existing_pages": [], "brands": [], "exclude_products": [], "business_rules": [], "modifier_pages": []}
     if sites:
         d.update({k: v for k, v in sites[0][1].items() if k not in LIST_KEYS + ("regions",)})
         d["regions"].update(sites[0][1]["regions"])
@@ -196,6 +201,17 @@ def load_settings(workdir=".", claude_md=None):
         where = (" (дані сайту: " + sites[0][0] + ")") if sites else ""
         raise ConfigMissing("не вистачає налаштувань: " + ", ".join(missing) + where + ". Ключі сайту (site, language, location_code, se_domain) — у секції «## Дані сайту», "
                             "ключі напрямку (country, slug, page_base) — у секції «## semantics-travel» CLAUDE.md поточної папки")
+    # collection boundary: mandatory in the DIRECTION section (never inherited from the site data)
+    terms = [t.strip() for t in (direction or {}).get("scope_terms", "").split("|") if t.strip()]
+    if not terms:
+        raise ConfigMissing(f"не задано межу збору: у секції «## semantics-travel» файла {path} немає ключа scope_terms. Додайте рядок "
+                            "«- scope_terms: <слово теми>|<варіант написання>|...» (напр. «- scope_terms: türkei|tuerkei|turkei|turkey»): "
+                            "ключ без жодного з цих слів не йде ні в кластери, ні в розподіл по сторінках")
+    try:
+        re.compile("|".join(terms))
+    except re.error as e:
+        raise ConfigMissing(f"scope_terms у {path}: некоректний вираз ({e})")
+    d["scope_terms"] = terms
     d["location_code"] = int(d["location_code"])
     d["thr_ok"] = int(d.get("thr_ok", 5))
     d["thr_disputed"] = int(d.get("thr_disputed", 3))
@@ -314,6 +330,27 @@ def print_estimate(rows):
 
 
 # ---------- small text/url helpers ----------
+SERP_COUNT_MAX = 1000        # a genuine google.de answer reports ~100-200 results; the degraded variant reports thousands
+SERP_UNCONFIRMED = "SERP не підтверджено"
+
+
+def serp_quality(resp):
+    """Is a live/regular answer the genuine first page?  DataForSEO returns, for identical parameters, either the real TOP-10 or a
+    degraded variant (deep pages with ?page=, forums, old articles; checked in a browser on 2026-10-08).  Signs of the degraded variant:
+    no related_searches block, a ?page= URL among the organic results, se_results_count in the thousands."""
+    res = resp["tasks"][0]["result"][0]
+    organic = [it for it in (res.get("items") or []) if it["type"] == "organic"]
+    reasons = []
+    if "related_searches" not in (res.get("item_types") or []):
+        reasons.append("немає блоку related_searches")
+    if any(re.search(r"[?&]page=\d", it["url"]) for it in organic):
+        reasons.append("?page= у ТОП-10")
+    cnt = res.get("se_results_count") or 0
+    if cnt >= SERP_COUNT_MAX:
+        reasons.append(f"se_results_count {cnt}")
+    return {"confirmed": not reasons, "reasons": reasons, "se_results_count": cnt, "task_id": resp["tasks"][0].get("id"), "datetime": res.get("datetime")}
+
+
 def slug_file(kw):
     a = unicodedata.normalize("NFKD", kw).encode("ascii", "ignore").decode()
     a = re.sub(r"[^a-z0-9]+", "-", a.lower()).strip("-")[:50]
@@ -452,7 +489,8 @@ if __name__ == "__main__":      # read-only: show where the settings of a folder
     for k in ("site", "market", "language", "location_code", "se_domain", "profile", "country", "slug", "page_base", "hotels_page", "main_keyword"):
         if S.get(k) not in (None, ""):
             print(f"  {k}: {S[k]}")
-    print(f"  регіонів: {len(S['regions'])}, наявних сторінок: {len(S['existing_pages'])}, бізнес-правил: {len(S['business_rules'])}")
+    print("  scope_terms (межа збору):", " | ".join(S["scope_terms"]))
+    print(f"  регіонів: {len(S['regions'])}, наявних сторінок: {len(S['existing_pages'])}, бізнес-правил: {len(S['business_rules'])}, посадкових під модифікатори: {len(S['modifier_pages'])}")
     for sec in ("semantics-travel", "tz-travel"):
         j = journal_read(a.workdir, sec)
         print(f"журнал {sec}: " + (f"{len(j)} записів" if j else "порожній"))

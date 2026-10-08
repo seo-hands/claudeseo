@@ -6,6 +6,7 @@
 - country: Türkei
 - slug: turkei
 - page_base: /tour/turkei
+- scope_terms: türkei|tuerkei|turkei|turkey
 - hotels_page: /hotels/turkei
 - main_keyword: türkei urlaub
 - hub_slugs: tuerkei|turkei|türkei|tuerkei-co4|ferienreisen-tuerkei|tr_tuerkei|tuerkei-urlaub

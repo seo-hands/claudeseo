@@ -1,0 +1,702 @@
+{
+ "ägypten urlaub": {
+  "volume": 60500,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у recheck",
+  "source_run": "recheck",
+  "confirmed": true
+ },
+ "reise ägypten warnung": {
+  "volume": 40500,
+  "group": "нормальна в обох зборах, збігається",
+  "note": "дві нормальні версії, спільних URL 8",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ägypten reisewarnung": {
+  "volume": 27100,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "visum ägypten": {
+  "volume": 18100,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "pauschalreise ägypten": {
+  "volume": 5400,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "urlaub in aegypten": {
+  "volume": 4400,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ägypten urlaub reisewarnung": {
+  "volume": 4400,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "urlaub ägypten all inclusive": {
+  "volume": 4400,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "reise nach ägypten": {
+  "volume": 3600,
+  "group": "нормальна в обох, але версії різні",
+  "note": "обидві версії пройшли перевірку ознак, але спільних URL 2; взято run2 (типовіші домени)",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ägypten urlaub 2026": {
+  "volume": 2400,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "ägypten reisepass": {
+  "volume": 2400,
+  "group": "нормальна в обох, але версії різні",
+  "note": "обидві версії пройшли перевірку ознак, але спільних URL 0; взято run2 (типовіші домени)",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "urlaub hurghada ägypten": {
+  "volume": 1900,
+  "group": "нормальна в обох зборах, збігається",
+  "note": "дві нормальні версії, спільних URL 8",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "urlaub ägypten buchen": {
+  "volume": 1900,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "ägypten gefährlich urlaub": {
+  "volume": 1600,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "dezember ägypten urlaub": {
+  "volume": 1000,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ägypten urlaub all inclusive mit flug und hotel": {
+  "volume": 1000,
+  "group": "нормальна в обох зборах, збігається",
+  "note": "дві нормальні версії, спільних URL 5",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "günstiger urlaub ägypten": {
+  "volume": 880,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "ägypten urlaub 2026 all inclusive mit flug und hotel": {
+  "volume": 880,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "marsa alam ägypten urlaub": {
+  "volume": 720,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "november urlaub ägypten": {
+  "volume": 720,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "ägypten urlaub günstig all inclusive direktflug": {
+  "volume": 720,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "ägypten pauschalreise all inclusive": {
+  "volume": 720,
+  "group": "нормальна в обох, але версії різні",
+  "note": "обидві версії пройшли перевірку ознак, але спільних URL 0; взято run1 (типовіші домени)",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "pauschalreise ägypten 2026": {
+  "volume": 720,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "visum für ägypten urlaub": {
+  "volume": 590,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "urlaub mit kindern ägypten": {
+  "volume": 590,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "pyramiden urlaub ägypten": {
+  "volume": 590,
+  "group": "нормальна в обох зборах, збігається",
+  "note": "дві нормальні версії, спільних URL 8",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ägypten urlaub im oktober": {
+  "volume": 590,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "urlaub last minute ägypten": {
+  "volume": 590,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "visa für ägypten urlaub": {
+  "volume": 590,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "urlaub ägypten sicher": {
+  "volume": 590,
+  "group": "нормальна в обох, але версії різні",
+  "note": "обидві версії пройшли перевірку ознак, але спільних URL 0; взято run1 (типовіші домени)",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "urlaub ägypten 2026 all inclusive": {
+  "volume": 590,
+  "group": "нормальна в обох зборах, збігається",
+  "note": "дві нормальні версії, спільних URL 9",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "pyramide ägypten urlaub": {
+  "volume": 590,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "sicherheit reisen ägypten": {
+  "volume": 590,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "ägypten pauschalreise all inclusive direktflug": {
+  "volume": 590,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ägypten urlaub was beachten": {
+  "volume": 480,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "ägypten urlaub: marsa alam": {
+  "volume": 390,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "urlaub ägypten hurghada all inclusive": {
+  "volume": 390,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "ägypten hurghada pauschalreise": {
+  "volume": 320,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "ägypten mit kindern": {
+  "volume": 320,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ägypten buchen": {
+  "volume": 320,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "ägypten urlaub el gouna": {
+  "volume": 260,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "ägypten reise buchen": {
+  "volume": 260,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "reise ägypten auswärtiges amt": {
+  "volume": 260,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "ägypten reise pyramiden": {
+  "volume": 210,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "reise nach ägypten gefährlich": {
+  "volume": 210,
+  "group": "нормальна в обох, але версії різні",
+  "note": "обидві версії пройшли перевірку ознак, але спільних URL 0; взято run1 (типовіші домени)",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "ist es sicher nach ägypten zu reisen": {
+  "volume": 210,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "last minute pauschalreise ägypten": {
+  "volume": 210,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "pauschal ägypten": {
+  "volume": 170,
+  "group": "нормальна в обох, але версії різні",
+  "note": "обидві версії пройшли перевірку ознак, але спільних URL 0; взято run2 (типовіші домени)",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ägypten reise 2026": {
+  "volume": 170,
+  "group": "нормальна в обох, але версії різні",
+  "note": "обидві версії пройшли перевірку ознак, але спільних URL 0; взято run1 (типовіші домени)",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "pauschalreise ägypten günstig": {
+  "volume": 170,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "ägypten urlaub pauschalreise": {
+  "volume": 170,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "günstig ägypten urlaub buchen": {
+  "volume": 170,
+  "group": "нормальна в обох, але версії різні",
+  "note": "обидві версії пройшли перевірку ознак, але спільних URL 0; взято run2 (типовіші домени)",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "familienurlaub ägypten": {
+  "volume": 170,
+  "group": "нормальна в обох зборах, збігається",
+  "note": "дві нормальні версії, спільних URL 9",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ägypten kurzurlaub": {
+  "volume": 140,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "reise nach ägypten sicher": {
+  "volume": 140,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "auswärtige amt reisen nach ägypten": {
+  "volume": 140,
+  "group": "нормальна в обох, але версії різні",
+  "note": "обидві версії пройшли перевірку ознак, але спільних URL 0; взято run1 (типовіші домени)",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "ägypten ferien": {
+  "volume": 140,
+  "group": "нормальна в обох, але версії різні",
+  "note": "обидві версії пройшли перевірку ознак, але спільних URL 0; взято run2 (типовіші домени)",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ägypten urlaub mit flug": {
+  "volume": 140,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "reise ägypten tipps": {
+  "volume": 110,
+  "group": "нормальна в обох, але версії різні",
+  "note": "обидві версії пройшли перевірку ознак, але спільних URL 0; взято run1 (типовіші домени)",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "reise ägypten hurghada": {
+  "volume": 110,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "ägypten reise all inclusive": {
+  "volume": 110,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "pauschalreise ägypten marsa alam": {
+  "volume": 110,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "pauschalreise ägypten hurghada all inclusive": {
+  "volume": 110,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ägypten mit kleinkindern": {
+  "volume": 110,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "reise nach ägypten personalausweis": {
+  "volume": 90,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "reise ägypten günstig": {
+  "volume": 90,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "reise ägypten impfung": {
+  "volume": 90,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "impfungen reise ägypten": {
+  "volume": 90,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "impfen für ägypten reise": {
+  "volume": 90,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "ägypten reise last minute": {
+  "volume": 90,
+  "group": "нормальна в обох, але версії різні",
+  "note": "обидві версії пройшли перевірку ознак, але спільних URL 0; взято run1 (типовіші домени)",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "reise nach ägypten was beachten": {
+  "volume": 90,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "schwanger nach ägypten reisen": {
+  "volume": 70,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "pauschalreise ägypten makadi bay": {
+  "volume": 70,
+  "group": "нормальна в обох, але версії різні",
+  "note": "обидві версії пройшли перевірку ознак, але спільних URL 0; взято run1 (типовіші домени)",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "pauschalreise el gouna ägypten": {
+  "volume": 70,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "ägypten hurghada urlaub buchen": {
+  "volume": 70,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "ägypten urlaub buchen mit flug und hotel": {
+  "volume": 70,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "urlaub buchen ägypten all inclusive": {
+  "volume": 70,
+  "group": "нормальна в обох зборах, збігається",
+  "note": "дві нормальні версії, спільних URL 9",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ferien ägypten 2026": {
+  "volume": 70,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ägypten neues museum reise": {
+  "volume": 50,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "ägypten reise visum": {
+  "volume": 50,
+  "group": "нормальна в обох, але версії різні",
+  "note": "обидві версії пройшли перевірку ознак, але спільних URL 0; взято run2 (типовіші домени)",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "billig reisen nach ägypten": {
+  "volume": 50,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "billiger reisen nach ägypten": {
+  "volume": 50,
+  "group": "нормальна в обох зборах, збігається",
+  "note": "дві нормальні версії, спільних URL 9",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "billige reisen nach ägypten": {
+  "volume": 50,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "ist ägypten sicher zum reisen": {
+  "volume": 50,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "kann man als frau alleine nach ägypten reisen": {
+  "volume": 50,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "ägypten pauschalreise direktflug": {
+  "volume": 50,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "was kostet eine reise nach ägypten": {
+  "volume": 40,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "ägypten reise und sicherheitshinweise": {
+  "volume": 40,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ägypten reise spezialist": {
+  "volume": 40,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "reise nach ägypten reisepass": {
+  "volume": 40,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "ägypten reise mit kindern": {
+  "volume": 40,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "visum ägypten pauschalreise": {
+  "volume": 40,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "pauschalreise ägypten pyramiden": {
+  "volume": 40,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "pauschalreise luxor ägypten": {
+  "volume": 40,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "pauschalreise ägypten sharm el sheikh": {
+  "volume": 40,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "pauschalreise ägypten märz 2026": {
+  "volume": 40,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "urlaub buchen ägypten hurghada all inclusive": {
+  "volume": 40,
+  "group": "не підтверджено",
+  "note": "в обох зборах лише нетипова версія",
+  "source_run": "run2",
+  "confirmed": false
+ },
+ "wann sind ferien in ägypten 2026": {
+  "volume": 40,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run1",
+  "source_run": "run1",
+  "confirmed": true
+ },
+ "ägypten reise stornieren": {
+  "volume": 30,
+  "group": "нормальна в обох зборах, збігається",
+  "note": "дві нормальні версії, спільних URL 9",
+  "source_run": "run2",
+  "confirmed": true
+ },
+ "wie sicher ist eine reise nach ägypten": {
+  "volume": 30,
+  "group": "одна нормальна версія",
+  "note": "нормальна версія лише у run2",
+  "source_run": "run2",
+  "confirmed": true
+ }
+}

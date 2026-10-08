@@ -1,0 +1,25 @@
+{
+ "business_rules": [],
+ "keyword_overrides": {},
+ "contested_verdicts": {},
+ "manual_check": {},
+ "page_notes": {},
+ "known_positions": {},
+ "manual_filter": {},
+ "page_overrides": {},
+ "region_pages": {},
+ "serp_manual_check": {
+  "keyword": "ägypten urlaub",
+  "domains": [
+   "sonnenklar",
+   "holidaycheck",
+   "lidl-reisen",
+   "schauinsland",
+   "lmx",
+   "coraltravel",
+   "ab-ins-blaue",
+   "loveholidays",
+   "neckermann"
+  ]
+ }
+}
