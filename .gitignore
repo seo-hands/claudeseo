@@ -18,3 +18,6 @@ __pycache__/
 google-api.json
 *service*account*.json
 *credentials*
+
+# Кеш перевірок донорів (сирі відповіді API) — не комітимо
+backlinks/cache/
