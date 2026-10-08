@@ -122,7 +122,7 @@ def main():
     for d, m in D.items():
         F = [tuple(f) for f in m["flags"]]
         if d in C:
-            F += rules.stage2_flags(C[d], pages.get(d))
+            F = rules.resolve_ext(F, pages.get(d)) + rules.stage2_flags(C[d], pages.get(d))
             if (pages.get(d) or {}).get("home", {}).get("status") == 403 and "unverified_403" not in {c for c, _ in F}:
                 F.append(("unverified_403", "сайт віддає 403: вихідні посилання не перевірено, максимум «умовно»"))
         flags[d] = F

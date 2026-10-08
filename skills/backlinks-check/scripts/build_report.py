@@ -280,7 +280,8 @@ def main():
 
     wa = wb.create_sheet("Аномалії")
     wa.append(["домен", "аномалія", "дані", "висновок"])
-    AUTO = {"spam": "spam score понад поріг", "few_dofollow": "мало dofollow-донорів", "ext_outlier": "вихідних посилань непропорційно багато", "dofollow_trend": "dofollow-донори падають швидше за медіану",
+    AUTO = {"spam": "spam score понад поріг", "few_dofollow": "мало dofollow-донорів", "ext_outlier": "вихідних посилань непропорційно багато",
+            "ext_outlier_signal": "багато вихідних на сторінку (сигнал, статті не розібрано)", "ext_template": "багато вихідних на сторінку, але це шаблон", "dofollow_trend": "dofollow-донори падають швидше за медіану",
             "traffic_trend": "трафік падає швидше за медіану", "donor_spike": "стрибок dofollow-донорів", "casino_keyword": "казино-запит у топі трафіку", "casino_home": "казино на головній",
             "casino_home_sitewide": "наскрізні посилання на казино", "toxic_pr": "PR токсичної ніші", "risky_share": "висока частка ризикових ніш", "casino_serp": "PR казино у видачі",
             "serp_undetermined": "SERP повернув сторонні сайти", "unverified_403": "сайт віддає 403"}

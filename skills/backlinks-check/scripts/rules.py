@@ -14,16 +14,20 @@ CASINO_KW_SHARE = 0.05     # a casino-brand keyword gives at least 5 % of the to
 LINK_PENALTY = 1.5         # an existing link to the acceptor multiplies the price per 1K when sorting
 STRONGER = 1.1             # "noticeably stronger" for the 2-of-3 rule
 
+NEAR_ZERO_SHARE = 0.25     # market traffic below 25 % of the market threshold = almost none (Ukraine 2 500, Kazakhstan 750)
+BODY_LINKS_TEMPLATE = 2    # up to 2 external links in the article body: the outgoing links are the template, not the content
+
 HARD_WEAK = {"near_zero"}
 EXCLUDE = {"casino_serp", "casino_home_sitewide"}
-INFO = {"links_to_acceptor", "unverified_403", "serp_undetermined"}   # shown, but not counted as a minus
+# shown, but not counted as a minus
+INFO = {"links_to_acceptor", "unverified_403", "serp_undetermined", "ext_outlier_signal", "ext_template"}
 
 
 def stage1_flags(m, market, ext_median):
     F = []
     etv, thr = m["market_etv"], market["min_traffic"]
-    if etv < thr / 10:
-        F.append(("near_zero", f"трафіку ринку майже немає: {etv} візитів/міс (орієнтир {thr})"))
+    if etv < thr * NEAR_ZERO_SHARE:
+        F.append(("near_zero", f"трафіку ринку майже немає: {etv} візитів/міс (менше {int(NEAR_ZERO_SHARE * 100)}% орієнтира {thr})"))
     elif etv < thr:
         F.append(("low_traffic", f"малий трафік ринку: {etv} візитів/міс (орієнтир {thr})"))
     if (m.get("spam") or 0) > SPAM_MINUS:
@@ -33,12 +37,30 @@ def stage1_flags(m, market, ext_median):
     if m.get("casino_pr", 0) >= CASINO_SERP_EXCLUDE:
         F.append(("casino_serp", f"{m['casino_pr']} з 10 результатів за «казино OR ставки» — PR казино"))
     if m.get("ext_per_page") and ext_median and m["ext_per_page"] > EXT_OUTLIER * ext_median:
-        F.append(("ext_outlier", f"{m['ext_per_page']} вихідних на сторінку при медіані списку {ext_median}"))
+        F.append(("ext_outlier_signal", f"{m['ext_per_page']} вихідних на сторінку при медіані списку {ext_median} — сигнал до розбору статей, не мінус"))
     if m.get("links_to_acceptor"):
         F.append(("links_to_acceptor", "вже посилається на акцептор"))
     if any(v["state"] == "невизначено" for v in m["serp"].values()):
         F.append(("serp_undetermined", "частина SERP-запитів повернула сторонні сайти: «невизначено», не «чисто»"))
     return F
+
+
+def resolve_ext(flags, pages):
+    """After the articles are parsed the stage-1 signal becomes either a minus or 'the outgoing links are the template'."""
+    out = []
+    for code, text in flags:
+        if code != "ext_outlier_signal":
+            out.append((code, text))
+            continue
+        arts = [a for a in (pages or {}).get("articles") or [] if a.get("status") == 200]
+        base = text.split(" — ")[0]
+        if not arts:
+            out.append((code, text))
+        elif max(a["body_n"] for a in arts) <= BODY_LINKS_TEMPLATE:
+            out.append(("ext_template", f"{base}, але в тілі розібраних статей не більше {BODY_LINKS_TEMPLATE} зовнішніх посилань: вихідні — шаблон"))
+        else:
+            out.append(("ext_outlier", f"{base}; у тілі розібраних статей до {max(a['body_n'] for a in arts)} зовнішніх посилань"))
+    return out
 
 
 def stage2_flags(c, pages):
@@ -97,12 +119,14 @@ def price_key(m, is_tld):
 
 
 def priority(doms, verdicts, excluded, candidates, market, n):
-    """Order: verdict -> market TLD first -> price per 1K (market traffic for TLD domains, total traffic for the rest).
-    Returns (ordered domains, {domain: recommendation}). Only stage-2 candidates can be recommended."""
+    """Order: verdict -> market TLD first (only for "сильний" and "середній") -> price per 1K (market traffic for TLD
+    domains, total traffic for the rest).  Among "слабкий" only the price decides: a weak market-TLD domain has no
+    advantage.  Returns (ordered domains, {domain: recommendation}). Only stage-2 candidates can be recommended."""
     def key(d):
         m = doms[d]
         tld = bl.is_market_tld(d, market)
-        return (1 if d in excluded else 0, 0 if d in candidates else 1, bl.VERDICTS.index(verdicts[d]), 0 if tld else 1, price_key(m, tld), d)
+        tld_first = 0 if (tld or verdicts[d] == "слабкий") else 1
+        return (1 if d in excluded else 0, 0 if d in candidates else 1, bl.VERDICTS.index(verdicts[d]), tld_first, price_key(m, tld), d)
     order = sorted(doms, key=key)
     tld_c = [d for d in order if d in candidates and d not in excluded and bl.is_market_tld(d, market)]
     weakest = doms[tld_c[-1]] if tld_c else None
